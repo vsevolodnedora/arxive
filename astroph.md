@@ -232,6 +232,128 @@ subject: BNS, EOS
 %% 3 [101–150]
 
 link: https://arxiv.org/abs/2002.06913
+authors: Yuta Tarumi, Naoki Yoshida, Shigeki Inoue
+title: R-process enrichment in ultrafaint dwarf galaxies
+topic: We assume that r-process elements are produced by neutron-star mergers (NSMs), and examine multiple models with different natal kick velocities and explosion energies. To this end, we perform cosmological simulations of galaxy formation to follow mixing of the dispersed r-process elements driven by star formation and the associated stellar feedback in progenitors of UFDs
+subject: Nucleo, r-process, cosmology, chemical evolution model
+
+link: https://arxiv.org/abs/2002.04853
+authors: Z. Kostrzewa-Rutkowska, P. G. Jonker, S. T. Hodgkin, D. Eappachen, D. L. Harrison, S. E. Koposov, G. Rixon, L. Wyrzykowski, A. Yoldas, E. Breedt, A. Delgado, M. van Leeuwen, T. Wevers, P. W. Burgess, F. De Angeli, D. W. Evans, P. J. Osborne, M. Riello
+title: Electromagnetic counterparts to gravitational wave events from Gaia
+topic: We develop an extension to current used algorithms to find transients and test its capabilities in discovering candidate transients on a sample of events from the observation periods O1 and O2 of LIGO and Virgo
+subject: GW, observations, GAIA
+
+link: https://arxiv.org/abs/2002.03863
+authors: David Radice, Sebastiano Bernuzzi, Albino Perego
+title: The Dynamics of Binary Neutron Star Mergers and of GW170817
+topic: We discuss the physical processes governing the inspiral, merger, and postmerger evolution, and we highlight the connections between these processes, the dynamics, and the multimessenger observables. Finally, we discuss open questions and issues in the field and the need to address them through a combination of better theoretical models and new observations.
+subject: BNS, GW170817, summary, overview
+
+link: https://arxiv.org/abs/2002.03507
+title: Fast radio bursts from activities of neutron stars newborn in BNS mergers: offset, birth rate and observational properties
+authors: F. Y. Wang, Y. Y. Wang, Yuan-Pei Yang, Y. W. Yu, Z. Y. Zuo, Z. G. Dai
+topic: Therefore, the NSs powering FRBs may be formed in BNS mergers. In this paper, we study the BNS merger rates, merger times, and predict their most likely merger locations for different types of host galaxies using population synthesis method. We find that the BNS merger channel is consistent with the recently reported offsets of FRB 180924 and FRB 190523.
+subject: BNS, FRB, origin of FRB -- BNS
+
+link: https://arxiv.org/abs/2002.01950
+title: Observational constraints on the optical and near-infrared emission from the neutron star-black hole binary merger S190814bv
+authors: K. Ackley, L. Amati, C. Barbieri, F. E. Bauer, S. Benetti, M. G. Bernardini, et al
+topic: In this paper, we describe the combined observational campaign of these groups. Altogether, our observations allow us to exclude a KN with large ejecta mass M>0.1Msun to a high (>90%) confidence, and we place meaningful limits on a larger portion of the ejecta mass parameter space.
+subject: NSBH, KN, observations, S190814bv
+
+link: https://arxiv.org/abs/2002.01662
+title: Constraint on the ejecta mass for a black hole-neutron star merger event candidate S190814bv
+authors: Kyohei Kawaguchi, Masaru Shibata, Masaomi Tanaka
+topic: We derive the upper limit to the ejecta mass of S190814bv, a black hole-neutron star merger candidate, through the radiative transfer simulations for kilonovae with the realistic ejecta density profile as well as the detailed opacity and heating rate models. 
+subject: KN, radiation transport, S190814bv
+
+link: https://arxiv.org/abs/2002.00956
+title: Updated Parameter Estimates for GW190425 Using Astrophysical Arguments and Implications for the Electromagnetic Counterpart
+authors: Ryan J. Foley, David A. Coulter, Charles D. Kilpatrick, Anthony L. Piro, Enrico Ramirez-Ruiz, Josiah Schwab
+topic: We make several astrophysically motivated assumptions to further constrain the parameters of GW190425. We find that almost all reported observations used to search for an electromagnetic counterpart for GW190425 were too shallow to detect the expected counterpart.
+subject: Observations, GW190425, mass-estimates
+
+link: https://arxiv.org/abs/2002.00687
+title: A toy model for the electromagnetic output of neutron star merger prompt collapse to a black hole: magnetised neutron star collisions
+authors: Antonios Nathanail
+topic: systematic study of magnetised neutron star head on collisions. We investigate the resulting magnetic field geometries as the two neutron stars merge. Realtion to FRB.
+subject: NS collision, MHD, FRB
+
+link: https://arxiv.org/abs/2002.00335
+title: Fast Radio Bursts from Interacting Binary Neutron Star Systems
+authors: Bing Zhang
+topic:  We discuss a hypothesis of producing abundant repeating FRBs in BNS systems
+subject: BNS, MHD, FRB, 
+
+link: https://arxiv.org/abs/2002.00299
+title: Inclination Dependence of Kilonova Light Curves from Globally Aspherical Geometries
+authors: Siva Darbha, Daniel Kasen
+topic: We use Monte Carlo radiative transfer calculations to study the light curves of kilonovae with globally axisymmetric geometries
+subject: KN, radiative transfer
+
+%% 4  
+
+link: https://arxiv.org/abs/2001.10668
+title: The impact of isomers on a kilonova associated with neutron star mergers
+authors: Shin-ichiro Fujimoto, Masa-aki Hashimoto
+topic: We investigate the significance of isomers on a kilonova associated with neutron star mergers (NSMs) for the first time. We calculate the evolution of abundances and energy generation rates (\epsilon'nuc) of ejecta from NSMs, taking into account \beta- decay through isomers. 
+subject: Nucleo, heating rates, isotopes, KN, GW170817
+
+link: https://arxiv.org/abs/2001.09153
+title: Magnetohydrodynamic Simulations of Binary Neutron Star Mergers in General Relativity: Effects of Magnetic Field Orientation on Jet Launching
+authors: Milton Ruiz, Antonios Tsokaros, Stuart L. Shapiro
+topic: we present fully 3D, general relativistic, magnetohydrodynamic simulations of spinning NSNSs initially on quasicircular orbits that merge and undergo delayed collapse to a black hole (BH). Our results show that an incipient jet emerges only when the seed B-field has a sufficiently large-scale poloidal component aligned to L.
+subject: BNS, MHD, GRMHD, new model, jet
+
+link: https://arxiv.org/abs/2001.07882
+title: Is GW190425 consistent with being a neutron star−black hole merger?
+authors: Ming-Zhe Han, Shao-Peng Tang, Yi-Ming Hu, Yin-Jie Li, Jin-Liang Jiang, Zhi-Ping Jin, Yi-Zhong Fan, Da-Ming Wei
+topic: In this work we analyze the gravitational-wave data within the neutron star−black hole merger scenario
+subject: NSBH, GW190425
+
+link: https://arxiv.org/abs/2001.06492
+title: On the origin of GW190425
+authors: Isobel M Romero-Shaw, Nicholas Farrow, Simon Stevenson, Eric Thrane, Xing-Jiang Zhu
+topic: We hypothesize that GW190425 formed via unstable "case BB" mass transfer, acording to which the progenitor of GW190425 was a binary consisting of a neutron star and a ∼4−5M⊙ helium star, which underwent a common-envelope process.
+subject: Stellar Physics, GW190425 origin
+
+link: https://arxiv.org/abs/2001.05436
+title: Limits on the Electromagnetic Counterpart to S190814bv
+authors: Alan M. Watson, Nathaniel R. Butler, William H. Lee, Rosa L. Becerr, et al
+topic: We derive limits on any electromagnetic counterpart to the compact binary merger S190814bv, whose parameters are consistent with the merger of a black hole and a neutron star from Observations
+subject: NSBH, observations, KN
+
+link: https://arxiv.org/abs/2001.05355
+title: Constraining the nuclear equation of state via gravitational-wave radiation of short gamma-ray burst remnants
+authors: Lin Lan, Hou-Jun Lü, Jared Rice, En-Wei Liang
+topic: In this paper, we assume that the rotational energy is lost mainly via gravitational wave (GW) radiation instead of magnetic dipole (MD) radiation, and present further constraints on the NS nuclear equation of state (EoS) via mass quadrupole deformation and r-mode fluid oscillations of the magnetar.
+subject: GRB, observations, modes
+
+link: https://arxiv.org/abs/2001.04474
+title: On the possibility of GW190425 being a black hole--neutron star binary merger
+authors: Koutarou Kyutoku, Sho Fujibayashi, Kota Hayashi, Kyohei Kawaguchi, Kenta Kiuchi, Masaru Shibata, Masaomi Tanaka
+topic: We argue that the kilonova/macronova associated with the gravitational-wave event GW190425 could have been bright enough to be detected if it was caused by the merger of a low-mass black hole and a neutron star, based on estimates on ejecta masses and lifetimes.
+subject: NSBH, KN, ejecta, GW190425
+
+link: https://arxiv.org/abs/2001.04467
+title: Mass ejection from disks surrounding a low-mass black hole: Viscous neutrino-radiation hydrodynamics simulation in full general relativity
+authors: Sho Fujibayashi, Masaru Shibata, Shinya Wanajo, Kenta Kiuchi, Koutarou Kyutoku, Yuichiro Sekiguchi
+topic: We reconfirm the following results found by previous studies of other groups: 15-30% of the disk mass is ejected from the system with the average velocity of ∼5-10% of the speed of light for the plausible profile of the disk as merger remnants
+subject: HD, viscous, neutrino, new model, BH and disk, ejecta, secular ejecta
+
+%% 5 
+
+link: https://arxiv.org/abs/2001.03620
+
+
+
+
+ 
+
+
+
+
+
 
 
 
