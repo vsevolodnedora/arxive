@@ -344,6 +344,136 @@ subject: HD, viscous, neutrino, new model, BH and disk, ejecta, secular ejecta
 %% 5 
 
 link: https://arxiv.org/abs/2001.03620
+title: Gravitational-wave detection and parameter estimation for accreting black-hole binaries and their electromagnetic counterpart
+authors: Andrea Caputo, Laura Sberna, Alexandre Toubiana, Stanislav Babak, Enrico Barausse, Sylvain Marsat, Paolo Pani
+topic: study the impact of gas accretion on the orbital evolution of black-hole binaries initially at large separation, implication for LISA
+subject: BBH, GW, LISA
+
+link: https://arxiv.org/abs/2001.03571
+title: Numerical relativity simulation of GW150914 in Einstein dilaton Gauss-Bonnet gravity
+authors: Maria Okounkova
+topic: We evolve a binary black hole system in order-reduced EDGB gravity, with parameters consistent with GW150914
+subject: GW, tests of gravity, GW150914
+
+link: https://arxiv.org/abs/2001.01747
+title: Inferring the neutron star equation of state simultaneously with the population of merging neutron stars
+authors: Daniel Wysocki, Richard O'Shaughnessy, Leslie Wade, Jacob Lange
+topic: Using a concrete example, we show how biased mass distribution inferences can significantly impact the recovered equation of state, even in the small-N limit.
+subject: GW, statistics, EOS
+
+link: https://arxiv.org/abs/2001.00950
+title: Ready, set, launch: time interval between BNS merger and short GRB jet formation
+authors: Paz Beniamini, Rodolfo Barniol Duran, Maria Petropoulou, Dimitrios Giannios
+topic: we revisit the breakout conditions of sGRB jets, We find that the time interval between the binary merger and the launching of a typical sGRB jet is <=0.1~s, the usually adopted assumption of static ejecta is inconsistent with observations
+subject: BNS, GRB, observations, time delay
+
+link: https://arxiv.org/abs/1912.12218
+title: Thunder and Lightning: Using Neutron-Star Mergers as Simultaneous Standard Candles and Sirens to Measure Cosmological Parameters
+authors: Zoheyr Doctor
+topic:  In this work, I detail the statistical framework for performing joint standard candle-standard siren measurements using gravitational waves, electromagnetic follow-up data, and simulations of electromagnetic counterparts
+subject: Conmology, BNS, KN
+
+link: https://arxiv.org/abs/1912.11031
+title: Constraining the dense matter equation of state with joint analysis of NICER and LIGO/Virgo measurements
+authors: G. Raaijmakers, S. K. Greif, T. E. Riley, T. Hinderer, K. Hebeler, A. Schwenk, A. L. Watts, S. Nissanke, S. Guillot, J. M. Lattimer, R. M. Ludlam
+topic: Raaijmakers et al. (2019) explored the implications of this measurement for the dense matter equation of state (EOS) using two parameterizations of the high-density EOS: a piecewise-polytropic model, and a model based on the speed of sound in neutron stars. In this work we obtain further constraints on the EOS following this approach, using GW.
+subject: GW, EOS, BNS, GW170817
+
+link: https://arxiv.org/abs/1912.09436
+title: Detectability of Electromagnetic counterparts from Neutron Star mergers: prompt emission vs afterglow
+authors: S Mohan, M Saleem, L Resmi
+topic: We compare the detectability of prompt and afterglow emission from off-axis jets, assuming standard detector thresholds. We find that for top-hat jets, afterglow is a more potential counterpart than the prompt emission even with unfavorable afterglow parameters. For structured jets with a Gaussian profile, prompt emission is more promising than the afterglows at extreme viewing angles.
+subject: GRB, BNS, EM, detectability
+
+link: https://arxiv.org/abs/1912.08698
+title: Short gamma-ray bursts within 200 Mpc
+authors: S. Dichiara, E. Troja, B. O'Connor, F. E. Marshall, P. Beniamini, J. K. Cannizzo, A. Y. Lien, T. Sakamoto
+topic: We present a systematic search for short-duration gamma-ray bursts (GRBs) in the local Universe, we derive that the all-sky rate of detectable short GRBs 
+subject: GRB, observations, KN, survay
+
+%% 6 
+
+link: https://arxiv.org/abs/1912.08218
+title: Formation and Evolution of Compact Object Binaries in AGN Disks
+authors: Hiromichi Tagawa, Zoltan Haiman, Bence Kocsis
+topic: we have performed one-dimensional N-body simulations combined with a semi-analytical model which includes the formation, disruption, and evolution of binaries self-consistently. gas capture cormation channel, 
+subject: formation, AGN, statistics
+
+link: https://arxiv.org/abs/1912.06369
+title: What constraints on the neutron star maximum mass can one pose from GW170817 observations?
+authors: Shunke Ai, He Gao, Bing Zhang
+topic: GW inferred constrains of mass, lambda, Mtov
+subject: GW, Mtov, GW170817
+
+link: https://arxiv.org/abs/1912.05659
+title: The electromagnetic counterparts of compact binary mergers
+authors: Ehud Nakar
+topic: I summarize, first, the theory of EM emission from compact binary mergers, highlighting the unique information that the combined GW-EM detection provides. I then describe the entire set of GW and EM observations of GW170817, and summarize the range of insights that it offers
+subject: KN, EM, summary, Nucleo, book
+
+link: https://arxiv.org/abs/1912.04906
+title: Counting on Short Gamma-Ray Bursts: Gravitational-Wave Constraints of Jet Geometry
+authors: Amanda Farah, Reed Essick, Zoheyr Doctor, Maya Fishbach, Daniel E. Holz
+topic: We present two methods to measure the effective angular width, \thetaB, of short gamma-ray burst (sGRB) jets using gravitational wave and gamma-ray data, assuming all sGRBs have the same angular dependence for their luminosities
+subject: GRB, statistics, cosmology
+
+link: https://arxiv.org/abs/1912.04794
+title: Spritz: a new fully general-relativistic magnetohydrodynamic code
+authors: Federico Cipolletta, Jay Vijay Kalinani, Bruno Giacomazzo, Riccardo Ciolfi
+topic: presentation and tests of a new code
+subject: GRMHD, new code, new models, 
+
+link: https://arxiv.org/abs/1912.04289
+title: Electromagnetic signals from the decay of free neutrons in the first hours of neutron star mergers
+authors: Ore Gottlieb, Abraham Loeb
+topic: We present 3D RHD simulations of jets that propagate in a multi-layer ejecta from the merger and calculate semi-analytically the resulting light curves, the synchrotron emission, 
+subject: RHD, HD, precursor, EM
+
+link: https://arxiv.org/abs/1912.03894
+title: Filling the Mass Gap: How Kilonova Observations can Unveil the Nature of the Compact Object Merging with the Neutron Star
+authors: Claudio Barbieri, Om Sharan Salafia, Monica Colpi, Giancarlo Ghirlanda, Albino Perego, Alberto Colombo
+topic: Here we show that the nature of the companion to the neutron star can be inferred from the properties of the kilonova emission once we know the chirp mass, which is the best constrained parameter inferred from the gravitational signal in low-latency searches
+subject: NSBH, KN, inferring parameters
+
+link: https://arxiv.org/abs/1912.03466
+title: The Possible Electromagnetic Counterparts of the First High-Probability NSBH Merger LIGO/Virgo S190814bv
+authors: Hao Wei, Minzi Feng
+topic: owever, no electromagnetic counterpart has been found in the extensive follow-up observing campaign. In the present work, we propose a novel explanation to this null result, why no GW was found
+subject: NSBH, dectability, observations
+
+link: https://arxiv.org/abs/1912.02415
+title: Modelling Double Neutron Stars: Radio and Gravitational Waves
+authors: Debatri Chattopadhyay, Simon Stevenson, Jarrod R. Hurley, Luca J. Rossi, Chris Flynn
+topic: We have implemented prescriptions for modelling pulsars in the rapid binary population synthesis code COMPAS, We perform a detailed analysis of the double neutron star (DNS) population, accounting for radio survey selection effects. We find a best-fit model that is in broad agreement with the observed Galactic DNS population
+subject: BNS, pulsars, population synthesis
+
+link: https://arxiv.org/abs/1912.00399
+title: Constraining the long-lived magnetar remnants in short gamma-ray bursts from late-time radio observations
+authors: Liang-Duan Liu, He Gao, Bing Zhang
+topic: We perform a more detailed calculation on the brightness of radio emission from the interaction between the merger ejecta and circumburst medium in the magnetar scenario, invoking several important physical processes such as generic hydrodynamics, relativistic effects, and the deep Newtonian phase.
+subject: Radio, BNS, followup, GRB, GW170817, model radio
+
+%% 7
+
+link: https://arxiv.org/abs/1911.04190
+title: Comparing Short Gamma-Ray Burst Jet Structure Models
+authors: Fergus Hayes, Ik Siong Heng, John Veitch, Daniel Williams
+topic: We present an analysis that considers gravitational wave triggered binary neutron star events both with and without short gamma-ray burst counterparts assuming that events without a counterpart were observed off-axis. We perform model comparison between a Gaussian and power-law apparent jet structure on simulated data to demonstrate that the correct model can be distinguished with a log Bayes factor of >5 after less than 100 events.
+subject: GRB, model selection, observations, iferring jet structure
+
+%% 8
+
+link: https://arxiv.org/abs/1911.03302
+
+
+
+
+
+
+
+
+
+
 
 
 
