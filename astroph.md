@@ -464,6 +464,100 @@ subject: GRB, model selection, observations, iferring jet structure
 %% 8
 
 link: https://arxiv.org/abs/1911.03302
+title: Probing high-density binary neutron star mergers with afterglow counterparts
+authors: Raphaël Duque, Paz Beniamini, Frédéric Daigne, Robert Mochkovitch
+topic: If exists mergers in denser ISM -- We describe a method to directly probe this hypothetical population of high-density mergers through multi-messenger observations of binary neutron star merger afterglows. We discuss the method's limitations and applicability.
+subject: GRB, ISM, detectability, observations, MM
+
+link: https://arxiv.org/abs/1911.01773
+title: r-Process and Kilonovae
+authors: Shinya Wanajo
+topic: This article summarizes a recent work by the author (Wanajo 2018) with the additional calculations of kilonova light curves by using a numerical code in Hotokezaka and Nakar (2019)
+subject: KN, summary, r-process, Nucleo
+
+link: https://arxiv.org/abs/1911.00035
+title: The Impact of Nuclear Physics Uncertainties on Galactic Chemical Evolution Predictions
+authors: Benoit Côté, Pavel Denissenkov, Falk Herwig, Chris L. Fryer, et al
+topic: In this proceedings, we highlight the impact of nuclear physics uncertainties on galactic chemical evolution predictions. We demonstrate that nuclear physics and galactic evolution uncertainties both have a significant impact on interpreting the origin of neutron-capture elements in our Solar System.
+subject: r-process, experiments, proceedings, review
+
+link: https://arxiv.org/abs/1910.13893
+title: On the Deconfinement Phase Transition in Neutron-Star Mergers
+authors: Elias R. Most, L. Jens Papenfort, Veronica Dexheimer, Matthias Hanauske, Horst Stöcker, Luciano Rezzolla
+topic: We study in detail the nuclear aspects of a neutron-star merger in which deconfinement to quark matter takes place. Probing EOS, where the deconfinment takes place, what are the conditions, and what is the ejecta in BNS merger
+subject: EOS, quarks, BNS model
+
+link: https://arxiv.org/abs/1910.13662
+title: Constraining properties of neutron star merger outflows with radio observations
+authors: Dougal Dobie, David L. Kaplan, Kenta Hotokezaka, Tara Murphy, Adam Deller, Gregg Hallinan, Samaya Nissanke
+topic: In this paper we discuss and quantify the prospects for the use of radio VLBI observations and observations of scintillation-induced variability to measure the source size and proper motion of merger afterglows, and thereby infer properties of the merger including inclination angle, opening angle and energetics (limited to the very closest events) 
+subject: radio, afterglow, prediction
+
+link: https://arxiv.org/abs/1910.13647
+title: An ASKAP search for a radio counterpart to the first high-significance neutron star-black hole merger LIGO/Virgo S190814bv
+authors: Dougal Dobie, Adam Stewart, Tara Murphy, Emil Lenc, Ziteng Wang, David L. Kaplan, Igor Andreoni, Julie Banfield, Ian Brown, Alessandra Corsi, et al
+topic: observations, search for radio afterglow, -- none found
+subject: radio, NSBH, followup
+
+link: https://arxiv.org/abs/1910.13619
+title: Line Expansion Opacity in Relativistically Expanding Media
+authors: Li-Xin Li
+topic: In this paper we derive the formulae for evaluating the line expansion opacity and its Rosseland mean in an expanding medium in the framework of special relativity, which can be considered as a generalization of the previous work in the Newtonian approximation, for NR and for Radiative trasport
+subject: KN, opacity, line expansion opacity
+
+link: https://arxiv.org/abs/1910.13409
+title: GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger
+authors: Igor Andreoni, Daniel A. Goldstein, Mansi M. Kasliwal, Peter E. Nugent, Rongpu Zhou, Jeffrey A. Newman, Mattia Bulla, Francois Foucart, Kenta Hotokezaka, Ehud Nakar, Samaya Nissanke, Geert Raaijmakers, Joshua S. Bloom, Kishalay De, Jacob E. Jencson, Charlotte Ward, Tomás Ahumada, Shreya Anand, et al
+topic: obsrvations of S190814bv, nothing found, only constraints
+subject: NSBH, S190814bv
+
+link: https://arxiv.org/abs/1910.13277
+title: Upscattered Cocoon Emission in Short Gamma-ray Bursts as High-energy Gamma-ray Counterparts to Gravitational Waves
+authors: Shigeo S. Kimura, Kohta Murase, Kunihito Ioka, Shota Kisaka, Ke Fang, Peter Mészáros
+topic: We investigate prolonged engine activities of short gamma-ray bursts (SGRBs), such as extended and/or plateau emissions, as high-energy gamma-ray counterparts. We numerically calculate high-energy gamma-ray spectra in such a system using a one-zone and steady-state approximation.
+subject: GRB, models, estimation
+
+link: https://arxiv.org/abs/1910.12730
+title: Multi-messenger Extended Emission from the compact remnant in GW170817
+authors: Maurice H.P.M. van Putten, Massimo Della Valle, Amir Levinson
+topic: The associated multi-messenger output in ultra-relativistic outflows and sub-relativistic mass-ejecta is consistent with observational constraints from the GRB-afterglow emission of GRB170817A and accompanying kilonova.
+subject: MM, GW170817, GW
+
+link: https://arxiv.org/abs/1910.10740
+title: On the Rate of Neutron Star Binary Mergers from Globular Clusters
+authors: Claire S. Ye, Wen-fai Fong, Kyle Kremer, Carl L. Rodriguez, Sourav Chatterjee, Giacomo Fragione, Frederic A. Rasio
+topic: We calculate the merger rates of NS-NS and NS-BH binaries from globular clusters (GCs) using realistic GC simulations with the \texttt{CMC} cluster catalog. We find that over the complete lifetime of most GCs, stellar BHs dominate the cluster cores and prevent the mass segregation of NSs, thereby reducing the dynamical interaction rates of NSs so that at most a few NS binary mergers are ever produced
+subjet: clusters, BNS, BBH, cosmology, projenitors
+
+link: https://arxiv.org/abs/1910.10510
+title: Identification of strontium in the merger of two neutron stars
+authors: Darach Watson (1, 2), Camilla J. Hansen (3), Jonatan Selsing (1, 2), Andreas Koch (4), Daniele B. Malesani (1, 2, 5), Anja C. Andersen (1), Johan P. U. Fynbo (1, 2), Almudena Arcones (6, 7), Andreas Bauswein
+topic: Here we report the identification of the neutron-capture element strontium in a re-analysis of these spectra. The detection of a neutron-capture element associated with the collision of two extreme-density stars establishes the origin of r-process elements in neutron star mergers, and demonstrates that neutron stars contain neutron-rich matter.
+subject: r-process, observations, spectra
+
+%% 9
+
+link: https://arxiv.org/abs/1910.08971
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
