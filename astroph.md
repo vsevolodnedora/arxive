@@ -538,8 +538,385 @@ subject: r-process, observations, spectra
 %% 9
 
 link: https://arxiv.org/abs/1910.08971
+title: Reanalysis of the binary neutron star merger GW170817 using numerical-relativity calibrated waveform models
+authors: Tatsuya Narikawa, Nami Uchikata, Kyohei Kawaguchi, Kenta Kiuchi, Koutarou Kyutoku, Masaru Shibata, Hideyuki Tagoshi
+topic: We reanalyze gravitational waves from a binary-neutron-star merger GW170817 using a numerical-relativity (NR) calibrated waveform model, the TF2+_KyotoTidal model. got new constraints on Lambda of GW170817
+subject: GW, GW170817, Lambda, NR
 
+link: https://arxiv.org/abs/1910.08431
+title: Monte-Carlo simulations of relativistic radiation mediated shocks: II. photon starved regime
+authors: Hirotaka Ito, Amir Levinson, Shigehiro Nagataki
+topic: We present results of self-consistent Monte-Carlo simulations of photon-starved RMS, that yield the shock structure and emission for a broad range of shock velocities. Our simulations confirm that in relativistic RMS the immediate downstream temperature is regulated by exponential pair creation. We also confirm that in relativistic shocks the opacity is completely dominated by newly created pairs, which has important implications for the breakout physics.
+subject: GRB, radiative transport, shocks, HD, model, BNS
+revelation: monte-carlo models can be used for much more than kilonova!
 
+link: https://arxiv.org/abs/1910.04036
+title: Numerical-relativity simulations of long-lived remnants of binary neutron star mergers
+authors: Roberto De Pietri, Alessandra Feo, José A. Font, Frank Löffler, Michele Pasquali, Nikolaos Stergioulas
+topic: We analyze the properties of the gravitational wave signal emitted after the merger of a binary neutron star system when the remnant survives for more than a 80 ms (and up to 140ms). piecewise polytropic equations, ideal fluid thermal component, 
+subject: BNS, GRHD, models, NR, GW
+revelation: our competitiors! 
+
+link: https://arxiv.org/abs/1910.03598
+title: Forward Modeling of Double Neutron Stars: Insights from Highly-Offset Short Gamma-Ray Bursts
+authors: Michael Zevin, Luke Zoltan Kelley, Anya Nugent, Wen-fai Fong, Christopher P. L. Berry, Vicky Kalogera
+topic: We perform a detailed analysis of two well-localized, highly-offset short gamma-ray bursts --- GRB070809 and GRB090515 --- investigating the prior kinematic evolution of their progenitors from compact object formation until merger. we construct semi-analytic galactic models. 
+subject: GRB, population synthesis, observations, model
+
+link: https://arxiv.org/abs/1910.02769
+title: Conditions for jet break-out in NS mergers
+authors: Maxim Lyutikov 
+topic: We consider conditions for jet break-out through ejecta following mergers of neutron stars and provide simple relations for the break out conditions. Conditionns depend on energy of the Jet and ejecta
+subject: GRB, analytrical model, breakout, BNS, remnant
+revelation: can be used to see ifour models produce jet
+
+link: https://arxiv.org/abs/1910.01617
+title: Kilonovae
+authors: Brian D. Metzger
+topic: Here I review the history and physics of kilonovae, leading to the current paradigm of day-timescale emission at optical wavelengths from lanthanide-free components of the ejecta, followed by week-long emission with a spectral peak in the near-infrared (NIR)
+subject: KN, review, analytic, summary, theory
+
+link: https://arxiv.org/abs/1909.12889
+title: Sandblasting the r-Process: Spallation of Ejecta from Neutron Star Mergers
+authors: Xilu Wang, Brian D. Fields, Matthew Mumpower, Trevor Sprouse, Rebecca Surman, Nicole Vassh
+topic: We find that spallation may create observable perturbations to NSM isotopic abundances, particularly around the low-mass edges of the r-process peaks where neighboring nuclei have very different abundances. The extent to which spallation modifies the final NSM isotopic yields depends on: the ejected abundances, which are determined by the NSM astrophysical conditions and the properties of nuclei far from stability, the ejecta velocity distribution and propagation in interstellar matter, and the spallation cross-sections. Observed solar and stellar r-process yields could thus constrain the velocity distribution of ejected neutron star matter, assuming NSMs are the dominant r-process source
+subject: nucleo, r-process, BNS, spallation
+
+%% 10
+
+link: https://arxiv.org/abs/1909.12600
+title: Continuous gravitational waves from neutron stars: current status and prospects
+authors: Magdalena Sieniawska, Michał Bejger
+topic: The astrophysical motivation for continuous gravitational waves searches, current LIGO and Virgo strategies of data analysis and prospects are reviewed in this work.
+subject: GW, LISA, prospects
+
+link: https://arxiv.org/abs/1909.11682
+title: A Deep Targeted Search for Fast Radio Bursts from the Sites of Low-Redshift Short Gamma-Ray Bursts
+authors: D. R. Madison, D. Agarwal, K. Aggarwal, O. Young, H. T. Cromartie et al
+topic: We did not discover any FRBs, but would have detected any with peak flux densities in excess of 87 mJy at the Green Bank Telescope or 21 mJy at Arecibo with a signal-to-noise ratio of at least 10.
+subject: FRB, GRB, observations, search
+
+link: https://arxiv.org/abs/1909.10961
+title: FRB 171019: An event of binary neutron star merger?
+authors: Jinchen Jiang, Weiyang Wang, Rui Luo, Shuang Du, Xuelei Chen, Kejia Lee, Renxin Xu
+topic: A model of binary neutron star merger is proposed for FRB 171019, in which the first bright burst occurred during the merger event, while the subsequent repeating bursts are starquake-induced, and generally fainter, as the energy release rate for the starquakes can hardly exceed that of the catastrophic merger event
+subject: FRB, BNS, observations
+
+link: https://arxiv.org/abs/1909.10288
+title: Physics of radiation mediated shocks and its applications to GRBs, supernovae, and neutron star mergers
+authors: Amir Levinson, Ehud Nakar
+topic: This review aims at providing a comprehensive overview of the theory and applications of radiation mediated shocks, starting from basic principles. The classification of shock solutions, which are governed by the conditions prevailing in each class of objects, and the methods used to solve the shock equations in different regimes will be described, with particular emphasis on the observational diagnostics. The applications to supernovae, low-luminosity GRBs, long GRBs, neutron star mergers, and neutrino emission will be highlighted.
+subject: GRB, radative transport, theory, overview
+revelation: read if you chose GRB to work with
+
+link: https://arxiv.org/abs/1909.09163
+title: Enrichment of Strontium in Dwarf Galaxies
+authors: Yutaka Hirai, Shinya Wanajo, Takayuki R. Saitoh
+topic: We show that binary neutron star mergers (NSMs) and asymptotic giant branch (AGB) stars contribute to the enrichment of Sr in the low metallicity ranges. It appears insufficient, however, to explain the overall observational trends of Sr by considering only these sites.
+subject: nucleo, r-process, abundancess, cosmology, observations
+
+link: https://arxiv.org/abs/1909.08631
+title: The lifetime of binary neutron star merger remnants
+authors: Matteo Lucca, Laura Sagunski
+topic: In this work, we provide a simple analytic relation for the lifetime of the merger remnant as function of the initial mass of the neutron stars. This relation results from a joint fit of data from observational evidence and from various numerical simulations. In this way, a large range of collapse times, physical effects and equation of states is covered. Finally, we apply the relation to the gravitational wave event GW170817 to constrain the equation of state of dense matter.
+subject: BNS, remnant, model, analytic
+
+link: https://arxiv.org/abs/1909.06393
+title: Two years of non-thermal emission from the binary neutron star merger GW170817: rapid fading of the jet afterglow and first constraints on the kilonova fastest ejecta
+authors: A. Hajela, R. Margutti, K. D. Alexander, A. Kathirgamaraju, A. Baldeschi, C. Guidorzi, et al
+topic: We present Chandra and VLA observations of GW170817 at ~521-743 days post merger, and a homogeneous analysis of the entire Chandra data set. We find that the late-time non-thermal emission follows the expected evolution from an off-axis relativistic jet, with a steep temporal decay. The synchrotron emission originates from a power-law distribution of electrons with . Finally, we use our observations to constrain the properties of synchrotron emission from the deceleration of the fastest kilonova ejecta.
+subject: GW170817, observations, compilation, summary
+
+link: https://arxiv.org/abs/1909.06328
+title: Towards a paradigm change in the main heavy r-process nucleosynthesis sites
+authors: Aldana Grichener, Noam Soker 
+topic: We study the basic properties of three possible r-process scenarios (sites) and compare them to recent observations and theoretical simulations. We find that the common envelope jets supernova (CEJSN) r-process scenario can account for the different observations of r-process nucleosynthesis, including the presence of r-process-rich low-metalicity stars in ultra-faint dwarf (UFD) galaxies. The neutron star (NS)-NS merger scenario and the collapsar scenario encounter some difficulties. Despite that, we conclude that it is very likely that more than one r-process scenario exists, with a significant contribution by the CEJSN r-process scenario. We give a prescription to include this scenario in population synthesis studies of the r-process.
+subject: nucleo, r-process, observations, sources, nucleo sites
+
+link: https://arxiv.org/abs/1909.06085
+title: Neutron Star Mergers and How to Study Them
+authors: Eric Burns
+topic: This review begins with a summary of our current knowledge of these events, the expected observational signatures, and estimated detection rates for the next decade. I then present the key observations necessary to advance our understanding of these sources, followed by the broad science this enables. I close with a discussion on the necessary future capabilities to fully utilize these enigmatic sources to understand our universe.
+subject: BNS, summary, review, observations, models
+
+link: https://arxiv.org/abs/1909.05867 
+title: Jet Propagation in Neutron Star Mergers and GW170817
+authors: Hamid Hamidani, Kenta Kiuchi, Kunihito Ioka
+topic: Here we present an analytic model of the jet propagation in an expanding medium. In particular, we notice a new term in the expression of the breakout time and velocity. In parallel, we perform a series of over a hundred 2D numerical simulations of jet propagation. The BNS merger ejecta is prepared based on numerical relativity simulations of a BNS merger with the highest-resolution to date. We show that our analytic results agree with numerical simulations over a wide parameter space. Then we apply our analytic model to GW170817
+subject: GRB, jet, model, analytic
+revelation: maybe we can start by constracting an analytic model of a jet
+
+%% 11
+
+link: https://arxiv.org/abs/1909.04435
+title: The connection between merging double compact objects and the Ultraluminous X-ray Sources
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
+
+link: 
+title:
+authors:
+topic:
+subject:
 
 
 
