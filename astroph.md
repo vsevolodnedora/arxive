@@ -650,108 +650,114 @@ revelation: maybe we can start by constracting an analytic model of a jet
 
 link: https://arxiv.org/abs/1909.04435
 title: The connection between merging double compact objects and the Ultraluminous X-ray Sources
-authors:
-topic:
-subject:
+authors: Samaresh Mondal, Krzysztof Belczyński, Grzegorz Wiktorowicz, Jean-Pierre Lasota, Andrew R. King
+topic: We explore the different formation channels of merging double compact objects, that went through a ultraluminous X-ray phase. Our merger rate calculation shows that in the local Universe typically 50% of merging BH-BH progenitor binaries have evolved through a ULX phase.
+subject: BBH, formation, population synthesis, cosmology
+
+link: https://arxiv.org/abs/1909.02581
+title: Radioactive heating rate of r-process elements and macronova light curve
+authors: Kenta Hotokezaka, Ehud Nakar
+topic: We study the heating rate of r-process nuclei and thermalization of decay products in neutron star merger ejecta and macronova (kilonova) light curvesю We show that the \beta-decay heating rate at later times approaches a power-law decline. We demonstrate that the observed bolometric light curve and temperature evolution of the macronova associated with GW170817 are reproduced well by the \beta-decay heating rate with the solar r-process abundance pattern.
+subject: kilonova, nucleo, r-process, model, EM, GW170817
+revelation: important if I am to do Kilonova models/rad.trasnf.
+
+link: https://arxiv.org/abs/1909.01934
+title: Constraining the Gravitational-Wave Afterglow From a Binary Neutron Star Coalescence
+authors: Sharan Banagiri, Michael W. Coughlin, James Clark, Paul D. Lasky, M. A. Bizouard, Colm Talbot, Eric Thrane, Vuk Mandic
+topic: n this paper, we explore methods for using long duration post-merger gravitational-wave signals to constrain the parameters and the properties of the remnant. We develop a phase-agnostic likelihood model that uses only the spectral content for parameter estimation and demonstrate the calculation of a Bayesian upper limit in the absence of a signal. With the millisecond magnetar model, we show that for an event like GW170817, the ellipticity of a long-lived remnant can be constrained to less than about 0.5 in the parameter space used.
+subject: GW, BNS, postmerger, model
+
+link: https://arxiv.org/abs/1909.01278
+title: Cooling binary neutron star remnants via nucleon-nucleon-axion bremsstrahlung
+authors: Tim Dietrich, Katy Clough
+topic: we perform numerical relativity simulations of a binary neutron star merger, including a phenomenological description of the nucleon-nucleon-axion bremsstrahlung to quantify the effects of such a cooling channel on the dynamical evolution. While our simulations show a difference in the temperature profile of the merger remnant, the imprint of the axion via nucleon-nucleon-axion bremsstrahlung on the emitted gravitational wave signal and the ejecta mass is too small to improve constraints on the axion mass with current or future planned detectors. Whilst we consider a limited number of cases, and a simplified cooling model, these broadly represent the "best case" scenario, thus, a more thorough investigation is unlikely to change the conclusions, at least for this particular interaction channel.
+subject: BNS, model, EOS,
+
+link: https://arxiv.org/abs/1909.00577
+title: Precursors in Short Gamma-ray Bursts as a Possible Probe of Progenitors
+authors: Shu-Qing Zhong, Zi-Gao Dai, Ji-Gui Cheng, Lin Lan, Hai-Ming Zhang
+topic: We extract 18 candidate short gamma-ray bursts (SGRBs) with precursors from 660 SGRBsand carry out a comprehensive analysis on their temporal and spectral features. We obtain the following results.
+subject:GRB, observations, precursor
+
+link: https://arxiv.org/abs/1909.00494
+title: Electromagnetic Emission post Spinning Black Hole-Magnetized Neutron Star Mergers
+authors: Shu-Qing Zhong, Zi-Gao Dai, Can-Min Deng
+topic: Based on this scenario, we here investigate three possible energy-dissipation mechanisms that could produce electromagnetic (EM) counterparts in a time interval of the BH's discharge post a BH-NS merger-induced gravitational wave event: (1) magnetic reconnection at the BH's poles would occur, leading to a millisecond bright EM signal, (2) a magnetic shock in the zone of closed magnetic field lines due to the detachment
+subject: NSBH, MF, charge, FRB, bright radio emission
+
+link: https://arxiv.org/abs/1908.11258
+title: Rotating neutron stars with non-barotropic thermal profile
+authors: Giovanni Camelio, Tim Dietrich, Miguel Marques, Stephan Rosswog
+topic: assumption of barotropicity, where a one-to-one relation between all thermodynamic quantities exists. This implies that the specific angular momentum of a matter element depends only on its angular velocity.  Here, we construct models for stationary, differentially rotating, non-barotropic neutron stars, where the equation of state and the specific angular momentum depend on more than one independent variable
+subject: MNS, EOS, model, framework, theory, physics
+
+link: https://arxiv.org/abs/1908.10866
+title: Faint rapid red transients from Neutron star -- CO white-dwarf mergers
+authors: Yossef Zenati, Alexey Bobrick, Hagai B. Perets
+topic: Mergers of neutron stars (NS) and white dwarfs (WD) may give rise to observable explosive. We use 3D hydrodynamical (SPH) simulations, as well as 2D hydrodynamical-thermonuclear simulations. We post-process the simulations using a large nuclear network and make use of the SuperNu radiation-transfer code.
+subject: EM, NS, WD, NSWD, model, radiative transport
+
+link: https://arxiv.org/abs/1908.10729 
+title: Neutron-capture elements in dwarf galaxies I: Chemical clocks & the short timescale of the r-process
+authors: Ása Skúladóttir, Camilla Juul Hansen, Stefania Salvadori, Arthur Choplin
+topic: From the abundances of the s-process element Ba and the r-process element Eu, it is clear that the r-process enrichment occurred throughout the entire chemical evolution history of Sculptor. Furthermore, there is no evidence for the r-process to have a significant time delay relative to core-collapse supernovae. Neutron star mergers are therefore unlikely the dominant (or only) nucleosynthetic site of the r-process.
+subject: nucleo, r-process, observations
+
+%% 12
+
+link: https://arxiv.org/abs/1908.08822
+title: Electromagnetic counterparts of black hole-neutron star mergers: dependence on the neutron star properties
+authors: C. Barbieri, O. S. Salafia, A. Perego, M. Colpi, G. Ghirlanda
+topic: In this paper, we present a composite semi-analytical model to predict the properties of the expected EM counterpart from BHNS mergers, focusing on the kilonova emission and on the gamma-ray burst afterglow. Using constraints on the NS EoS from GW170817, our modeling shows that the emission falls in a narrow range of absolute magnitudes
+subject: NSBH, EM, Kilonova, semi-analytical model
+
+link: https://arxiv.org/abs/1908.08046
+title: The Optical Afterglow of GW170817: An Off-axis Structured Jet and Deep Constraints on a Globular Cluster Origin
+authors: Wen-fai Fong (Northwestern/CIERA), P. K. Blanchard, K. D. Alexander, J. Strader, R. Margutti, A. Hajela, V. A. Villar, et al
+topic: We present a revised and complete optical afterglow light curve of the binary neutron star merger GW170817, enabled by deep Hubble Space Telescope (HST) F606W observations at \sim 584 days post-merger.  We find that an extrapolation of the post-peak temporal slope of GW170817 to the luminosities of cosmological short GRBs matches their observed jet break times, suggesting that their explosion properties are similar, and that the primary difference in GW170817 is viewing angle.
+subject: KN, EM, afterglow, observations
+
+link: https://arxiv.org/abs/1908.07743
+title: Blast Waves from Magnetar Flares and Fast Radio Bursts
+authors: Andrei M. Beloborodov
+topic: Magnetars younger than one century are expected to be hyper active. Besides winds powered by rotation they generate frequent magnetic flares, which launch powerful blast waves into the wind. These internal shocks act as masers producing fast (millisecond) radio bursts (FRBs) with the following properties.
+subject: magnetar, FRB, review, theory
+
+link: https://arxiv.org/abs/1908.05815
+title: Diversity of kilonova light curves
+authors: Kyohei Kawaguchi, Masaru Shibata, Masaomi Tanaka
+topic: We perform radiative transfer simulations for kilonova in various situations, including the cases of prompt collapse to a black hole from neutron-star mergers, high-velocity ejecta possibly accelerated by magnetars, and a black hole-neutron star merger. Our calculations are done employing ejecta profiles predicted by numerical-relativity simulations and a new line list for all the r-process elements.
+is indicates that we may be able to infer the type of the central engine for kilonovae by observation of the peak in the multiple band.
+subject: KN, EM, BNS, radiative transport
+
+link: https://arxiv.org/abs/1908.05617
+title: Using failed supernovae to constrain the Galactic r-process element production
+authors: B. Wehmeyer, C. Frohlich, B. Côté, M. Pignatari, F.-K. Thielemann
+topic: The large scatter of r-process elements in the early Galaxy suggests that the r-process is made by rare events, like compact binary mergers and rare sub-classes of supernovae. Although being rare, neutron star mergers alone have difficulties to explain the observed enhancement of r-process elements in the lowest metallicity stars compared to Fe. In this work we investigate another complementary scenario, where the r-process occurs in neutron star-black hole mergers in addition to neutron star mergers. Neutron star-black hole mergers would eject similar amounts of r-process matter as neutron star mergers, but only the neutron star progenitor would have produced Fe.
+subject: r-process, chemical model, nucleo, observations, new source
+
+link: https://arxiv.org/abs/1908.04952
+title: Thermodynamics conditions of matter in the neutrino decoupling region during neutron star mergers
+authors: Andrea Endrizzi, Albino Perego, Francesco M. Fabbri, Lorenzo Branca, David Radice, et al
+topic: In this work, we post-process results of general relativistic merger simulations employing microphysical equations of state and approximate neutrino transport to investigate the thermodynamics conditions at which weak and thermal equilibrium freezes out (equilibrium surfaces), as well as conditions at which the transition between diffusion and free-streaming regime occurs (diffusion surfaces)
+subject: BNS, neutrino, physics
+
+link: https://arxiv.org/abs/1908.04888
+title: Thermal evolution of neo-neutron stars. I: envelopes, Eddington luminosity phase and implications for GW170817
+authors: Mikhail V. Beznogov, Dany Page, Enrico Ramirez-Ruiz
+topic: e present a first step in the study of this neo-neutron star phase in a spherically symmetric configuration, thus neglecting fast rotation, and also neglecting the effect of strong magnetic fields. We put particular emphasis on determining how long the star can sustain a near-Eddington luminosity and also show the importance of positrons and contraction energy during neo-neutron star phase. We finally discuss the observational prospects for neutron star mergers triggered by LIGO and for accretion-induced collapse transients.
+subject: NS, neutrino, GRB
+
+link: https://arxiv.org/abs/1908.03622
+title: The Properties of a Black Hole-Neutron Star Merger Candidate
+authors: James M. Lattimer
+topic: In the case of events with a finite probability of being in more than one category, such as is likely to occur with a black hole-neutron star merger, it is shown how to estimate the masses of the components and the spin of the black hole. This technique is applied to the source S190426c.
+subject: EOS, GW, NSBH
+
+%% 13 
 
 link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
+title: Simulating Binary Neutron Stars with Hybrid Equation of States: Gravitational Waves, Electromagnetic Signatures, and Challenges for Numerical Relativity
 authors:
 topic:
 subject:
