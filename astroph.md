@@ -756,56 +756,58 @@ subject: EOS, GW, NSBH
 
 %% 13 
 
-link: 
+link: https://arxiv.org/abs/1908.03135
 title: Simulating Binary Neutron Stars with Hybrid Equation of States: Gravitational Waves, Electromagnetic Signatures, and Challenges for Numerical Relativity
-authors:
-topic:
-subject:
+authors: Henrique Gieg, Tim Dietrich, Maximiliano Ujevic
+topic: We investigate how strange quark matter cores affect the binary neutron star coalescence by performing numerical relativity simulations. We compute and discuss the associated gravitational wave signal and some of the electromagnetic counterparts connected to the merger of the two stars.
+subject: GW, EOS, GW170817, quarks
+
+link: https://arxiv.org/abs/1908.02638
+title: Spin-polarized neutron matter, the maximum mass of neutron stars, and GW170817
+authors: I. Tews, A. Schwenk
+topic: We investigate how a phase transition from neutron-star matter to spin-polarized neutron matter affects the equation of state and mass-radius relation of neutron stars, Hence, such a transition limits the maximum mass of neutron stars to lie below 2.6-2.9Msun. These limits are in good agreement with recent constraints extracted from the neutron-star merger GW170817.
+subject: GW, EOS, maxmass, GW170817
+
+link: https://arxiv.org/abs/1908.02350
+title: Merger and Mass Ejection of Neutron-Star Binaries
+authors: Masaru Shibata, Kenta Hotokezaka
+topic: We summarize our current understanding for the processes of neutron star mergers and subsequent mass ejection based on the results of the latest numerical-relativity simulations. We emphasize that the predictions of the numerical-relativity simulations agrees broadly with the optical and infrared observations of GW170817
+subject: BNS, model, summary, overview
+
+link: https://arxiv.org/abs/1908.02168
+title: Can Kilonova Light curves be Standardized?
+authors: Rahul Kashyap, Gayathri Raman, Parameswaran Ajith
+topic: we investigate the possibility of the KN light curves exhibiting similar correlations. Using semi-analytic models of KN light curves in conjunction with results from numerical relativity simulations of binary neutron star mergers, we obtain the maximum bolometric luminosity. We find that theoretical light curves of KNe show remarkable correlations despite the complex physics governing their behavior.
+subject: KN, EM, models, semi-analytic
+
+link: https://arxiv.org/abs/1908.01419
+title: Gradient sub-grid-scale model for relativistic MHD Large Eddy Simulations
+authors: Federico Carrasco, Daniele Viganò, Carlos Palenzuela
+topic: Large Eddy Simulations study MHD turbulence. The resolution is not fine enough to capture all the relevant small-scale physics at play, which is instead effectively modeled by a set of additional terms in the evolution equations, dubbed as sub-grid-scale model. relativistic compressible ideal MHD scenario. Providing all the additional sub-grid-scale terms
+subject: GRMHD, MHD, MF, model, theory
+
+link: https://arxiv.org/abs/1908.01100
+title: Novel Signals from Neutron Star Mergers at 511 keV
+authors: Volodymyr Takhistov
+topic: We present a new generic signature of neutron star mergers, positron emission and the associated 511 keV radiation, produced from ejected neutron-rich radioactive merger material.
+subject: EM, BNS, new model, positron emission
+
+link: https://arxiv.org/abs/1908.00100
+title: The Rate of Short Duration Gamma-Ray Bursts in the local Universe
+authors: Soheb Mandhai, Nial Tanvir, Gavin Lamb, Andrew Levan, David Tsang
+topic: we find no events with high likelihood of being in this distance range, and place an upper limit for the all-sky rate of such events
+subject: GRB, observations
+
+link: https://arxiv.org/abs/1907.11945
+title: Neutron Star Merger Afterglows: Population Prospects for the Gravitational Wave Era
+authors: Raphaël Duque, Robert Mochkovitch, Frédéric Daigne
+topic: Through prescribing a population of mergers and modelling their afterglows, we study the diversity of those events to be observed jointly in gravitational waves and electromagnetic bands.
+subject: BNS, observations, prospects, afterglow
+
+%% 14
 
 link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
-authors:
-topic:
-subject:
-
-link: 
-title:
+title: Fast Extragalactic X-ray Transients From Binary Neutron Star Mergers
 authors:
 topic:
 subject:
