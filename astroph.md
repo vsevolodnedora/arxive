@@ -806,62 +806,65 @@ subject: BNS, observations, prospects, afterglow
 
 %% 14
 
-link: 
+link: https://arxiv.org/abs/1907.10523
 title: Fast Extragalactic X-ray Transients From Binary Neutron Star Mergers
-authors:
-topic:
-subject:
+authors: Shlomo Dado, Arnon Dar
+topic: observed light curves and other properties of the two extragalactic fast x-ray transients
+subject: x-ray, observations
 
-link: 
-title:
-authors:
-topic:
-subject:
+link: https://arxiv.org/abs/1907.10328
+title: Beyond second-order convergence in simulations of magnetised binary neutron stars with realistic microphysics
+authors: Elias R. Most, L. Jens Papenfort, Luciano Rezzolla
+topic: high-order numerical methods to study the merger of magnetised neutron stars with finite-temperature microphysics and neutrino cooling in full general relativity. We further demonstrate that the second-order scheme overestimates the amount of proton-rich shock-heated ejecta, which can have an impact on the modelling of the dynamical part of the kilonova emission. 
+subject: BNS, method, model, new model, NR
 
-link: 
-title:
-authors:
-topic:
-subject:
+link: https://arxiv.org/abs/1907.08534
+title: Gravitational waves from neutron star mergers and their relation to the nuclear equation of state
+authors: Luca Baiotti
+topic: We introduce ideas and techniques to extract information about the equation of state of matter at very high densities from gravitational waves emitted before, during and after the merger of binary neutron stars.
+subject: BNS, GW, EOS
 
-link: 
-title:
-authors:
-topic:
-subject:
+link: https://arxiv.org/abs/1907.08008
+title: Supernovae in massive binaries and compact object mergers near supermassive black holes
+authors: Giacomo Fragione, Idan Ginsburg, Abraham Loeb
+topic: We study the dynamical evolution of these systems by means of high-precision N-body simulations, including post-Newtonian (PN) terms up to 2.5PN order. Finally, we compute a merger rate
+subject: neutonian, GW, merger rate, cosmology
 
-link: 
-title:
-authors:
-topic:
-subject:
+link: https://arxiv.org/abs/1907.07599
+title: Gamma-ray burst jet propagation, development of angular structure, and the luminosity function
+authors: O. S. Salafia, C. Barbieri, S. Ascenzi, M. Toffano
+topic: We present a semi-analytical model of such interaction, which builds upon several previous analytical and numerical works, aimed at predicting the angular distribution of jet and cocoon energy and Lorentz factor after breakout, given the properties of the ambient material and of the jet at launch
+subject: GRB, model, semi-analytic, EM
+revelation: read if you have GRB to work with
 
-link: 
-title:
-authors:
-topic:
-subject:
+link: https://arxiv.org/abs/1907.05921
+title: Matter And Gravitation In Collisions of heavy ions and neutron stars: equation of state
+authors: Anton Motornenko, Jan Steinheimer, Volodymyr Vovchenko, Stefan Schramm, Horst Stoecker
+topic: We demonstrate how one unified equation of state can be constructed and used for both neutron star physics and hot QCD matter excited at laboratory facilities. The similarity in underlying QCD physics allows the gravitational wave signals from future advanced LIGO and Virgo events to be combined with the analysis of high multiplicity fluctuations and flow measurements in heavy ion detectors in the lab to pin down the EoS and the phase structure of dense matter.
+subject: BNS, EOS, QCD
 
-link: 
-title:
-authors:
-topic:
-subject:
+link: https://arxiv.org/abs/1907.05218
+title: On the importance of resistivity and Hall effect in MHD simulations of binary neutron star mergers
+authors: Arus S. Harutyunyan
+topic: We examine the range of rest-mass densities, temperatures and magnetic fields involved in simulations of binary neutron star mergers (BNSM) and identify the conditions under which the ideal magneto-hydrodynamics (MHD) breaks down using recently computed conductivities of warm, magnetized plasma created in such systems. Finally, we mark the region in temperature-density plane where the hydrodynamic description breaks down.
+subject: BNS, plasma, MF, MHD
 
-link: 
-title:
-authors:
-topic:
-subject:
+%% 15 
 
-link: 
-title:
-authors:
-topic:
-subject:
+link: https://arxiv.org/abs/1907.03790
+title: Sub-radian-accuracy gravitational waves from coalescing binary neutron stars II: Systematic study on the equation of state, binary mass, and mass ratio
+authors: Kenta Kiuchi, Kyohei Kawaguchi, Koutarou Kyutoku, Yuichiro Sekiguchi, Masaru Shibata
+topic: We report results of numerical relativity simulations for {\it new} 26 non-spinning binary neutron star systems with 6 grid resolutions using an adaptive mesh refinement numerical re\ lativity code {\tt SACRA-MPI}. The finest grid spacing 64 85m 
+subject: GW, inspiral, BNS, model
 
-link: 
-title:
+link: https://arxiv.org/abs/1907.03283
+title: Constraints from the GW170817 merger event on the nuclear matter equation of state
+authors: G. F. Burgio, A. Figura, H.-J. Schulze, J.-B. Wei
+topic: we compare in particular the pressure-density relation obtained from heavy-ion collisions with the analysis of the NS merger event.
+subject: EOS, BNS, GW170817
+
+link: https://arxiv.org/abs/1907.02079
+title: The Role of Magnetic Field Geometry in the Evolution of Neutron Star Merger Accretion Discs
 authors:
 topic:
 subject:
