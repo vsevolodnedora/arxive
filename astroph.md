@@ -865,142 +865,196 @@ subject: EOS, BNS, GW170817
 
 link: https://arxiv.org/abs/1907.02079
 title: The Role of Magnetic Field Geometry in the Evolution of Neutron Star Merger Accretion Discs
-authors:
-topic:
-subject:
+authors: I.M. Christie, A. Lalakos, A. Tchekhovskoy, R. Fernández, F. Foucart, E. Quataert, D. Kasen
+topic:  We used 3D general relativistic magnetohydrodynamic simulations to study the role of the post-merger magnetic geometry in the evolution of merger remnant discs around stationary Kerr black holes (-4 seconds)  Our simulated jet energies and durations span the range of sGRBs. We find that although the blue kilonova component is initially hidden from view by the red component, it expands faster, outruns the red component, and becomes visible to off-axis observers
+subject: BH, accretion, MF, MHD, GRMHD, EM
+
+link: https://arxiv.org/abs/1907.01557
+title: Neutron star mergers and rare core-collapse supernovae as sources of r-process enrichment in simulated galaxies
+authors: Freeke van de Voort (1, 2, 3), Rüdiger Pakmor (1), Robert J. J. Grand (1), Volker Springel (1), Facundo A. Gómez (4), Federico Marinacci
+topic: We use cosmological, magnetohydrodynamical simulations of Milky Way-mass galaxies from the Auriga project to study their enrichment with rapid neutron capture (r-process) elements. We focus on the abundances of (extremely) metal-poor stars, most of which were formed during the first ~Gyr of the Universe
+subject: r-process, cosmology, sources, SN, BNS
+
+link: https://arxiv.org/abs/1907.00809
+title: The r-process nucleosynthesis in the outflows from short GRB accretion disks
+authors: Agnieszka Janiuk 
+topic: We explore the formation, composition and geometry of the secondary outflow by means of simulating accretion disks with relativistic magneto-hydrodynamics and employing realistic nuclear equation of state. We calculate the nucleosynthetic r-process yields by sampling the outflow with a dense set of tracer particles. Our simulations show that both magnetisation of the disk and high black hole spin are able to launch fast wind outflows.
+subject: r-process, MHD, ejecta, BNS
+
+link: https://arxiv.org/abs/1907.00016
+title: Fast Radio Bursts from Magnetars Born in Binary Neutron Star Mergers and Accretion Induced Collapse
+authors: Ben Margalit, Edo Berger, Brian D. Metzger
+topic: A BNS FRB channel will be characterized by distinct host galaxy and spatial offset distributions than the SLSNe/LGRB channel; we anticipate a similar host population, although possibly different offset distribution for AIC events. We show that both the BNS and AIC channels are consistent with the recently reported FRB 180924. we make predictions for the dispersion measure, rotation measure, and persistent radio emission from magnetar FRB sources born in BNS mergers or AIC.
+subject: GRB, observation, magnetar, preditions
+
+link: https://arxiv.org/abs/1906.11494
+title: A multi-dimensional implementation of the Advanced Spectral neutrino Leakage scheme
+authors: Davide Gizzi, Evan O'Connor, Stephan Rosswog, Albino Perego, Ruben Cabezón, Lorenzo Nativi
+topic: We present a new, multi-dimensional implementation of the Advanced Spectral Leakage (ASL) scheme with the purpose of modelling neutrino-matter interactions in neutron star mergers. we introduce an optical-depth-dependent flux factor to model the average angle of neutrino propagation.  we compare the new ASL scheme with the M1 scheme. We find that the neutrino absorption distribution in the semi-transparent regime is overall well reproduced. Both approaches agree to within
+subject: neutrino, ASL, new method
+
+%% 16
+
+link: https://arxiv.org/abs/1906.09647
+title: Searching for hypermassive neutron stars with short gamma-ray bursts
+authors: Cecilia Chirenti, M. Coleman Miller, Tod Strohmayer, Jordan Camp
+topic: Here we discuss the current and future prospects for detecting these (strong oscillations and emit GWs with frequencies of a few kilohertz) oscillations as modulation of the SGRB.
+subject: GRB, GW, detection prospects
+
+link: https://arxiv.org/abs/1906.09559
+title: A Quark-Nova in the wake of a core-collapse Supernova: a unifying model for long duration Gamma-Ray Bursts and Fast Radio Bursts
+authors: Rachid Ouyed, Denis Leahy, Nico Koning
+topic: we develop a unified model for long duration Gamma-ray Bursts (LGRBs) and Fast Radio Bursts (FRBs). In our model, a LGRB light-curve exhibits the interaction of the fragmented QN ejecta with a turbulent (i.e. filamentary and magnetically saturated) SN ejecta which is shaped by its interaction with an underlying pulsar wind nebula (PWN). Our model can fit BAT/XRT prompt and afterglow light-curves, simultaneously with their spectra, thus yielding the observed properties of LGRBs.
+subject: FRB, GRB, model, new model
+
+link: https://arxiv.org/abs/1906.08786
+title: On the dynamical stability of quasi-toroidal differentially rotating neutron stars
+authors: Pedro L. Espino, Vasileios Paschalidis, Thomas W. Baumgarte, Stuart L. Shapiro
+topic: We investigate the dynamical stability of relativistic, differentially rotating, quasi-toroidal models of neutron stars through hydrodynamical simulations in full general relativity. We find that all quasi-toroidal configurations studied in this work are dynamically unstable against the growth of non-axisymmetric modes. Both one-arm and bar mode instabilities grow during their evolution.
+subject: modes, remnant, BNS, GRHD
+revelation: important for m=1 modes paper
+
+link: https://arxiv.org/abs/1906.08780
+title: Tidal Effects in Eccentric Coalescing Neutron Star Binaries
+authors: Michelle Vick, Dong Lai
+topic: We model this system by coupling the evolution of the NS f-modes to the orbital evolution of the binary as it circularizes and moves toward coalescence. NS f-mode excitation generally speeds up the orbital decay and advances the phase of the gravitational wave signal from the system. We calculate how this effect changes the timing of pericenter passages and examine how the cumulative phase shift before merger depends on the initial eccentricity of the system
+subject: BNS, eccentric, GW
+
+link: https://arxiv.org/abs/1906.08440
+title: Finite-temperature Equations of State for Neutron Star Mergers
+authors: Paul M. Chesler, Niko Jokela, Abraham Loeb, Aleksi Vuorinen
+topic: we construct a family of neutron star matter equations of state at nonzero density and temperature by combining state-of-the-art nuclear matter equations of state with holographic equations of state for strongly interacting quark matter
+subject: EOS, BNS
+
+link: https://arxiv.org/abs/1906.07210
+title: Early Solar System r-process Abundances Limit Collapsar Origin
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
+title: 
+authors: 
+topic: 
+subject: 
 
 link: 
-title:
-authors:
-topic:
-subject:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
 
