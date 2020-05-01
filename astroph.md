@@ -928,120 +928,128 @@ subject: EOS, BNS
 
 link: https://arxiv.org/abs/1906.07210
 title: Early Solar System r-process Abundances Limit Collapsar Origin
-authors: 
-topic: 
-subject: 
+authors: Imre Bartos, Szabolcs Marka
+topic: Here we show that collapsars are too rare to be the prime origin of r-process elements in the Solar System
+subject: r-process, nucleo, observations
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1906.05288
+title: Binary neutron star mergers: Effects of spin and post-merger dynamics
+authors: William E. East, Vasileios Paschalidis, Frans Pretorius, Antonios Tsokaros
+topic: We perform a systematic investigation of the impact of neutron star spin on the merger of equal mass, quasicircular binary neutron stars using fully general-relativistic simulations. Spin has a pronounced impact on the mass, velocity, and angular distribution of the dynamical ejecta, and the mass of the disk that remains outside the merger remnant. We discuss the implications of these findings on anticipated electromagnetic signals, and on constraints that have been placed on the equation of state based on multimessenger observations of GW170817
+subject: BNS, spin, GW, ejecta, models, modes
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1906.05002
+title: Current Status of r-Process Nucleosynthesis
+authors: T. Kajino, W. Aoki, A. B. Balantekin, R. Diehl, M. A. Famiano, G. J. Mathews
+topic: In this review we highlight some current issues surrounding the nuclear physics input, astronomical observations, galactic chemical evolution, and theoretical simulations of r-process astrophysical environments with the goal of outlining a path toward resolving the remaining mysteries of the r process.
+subject: r-process, nucleo, review, overview
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1906.03998
+title: Multi-waveform cross-correlation search method for intermediate-duration gravitational waves from gamma-ray bursts
+authors: Eric Sowell, Alessandra Corsi, Robert Coyne
+topic: n this work, we test CoCoA on real data collected with ground-based GW detectors.
+subject: observations, GRB
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1906.02877
+title: Plerion model of the X-ray plateau in short gamma-ray bursts
+authors: L C Strang, A Melatos
+topic: The plerionic component of the electron energy spectrum is evolved under the action
+of time-dependent, power-law injection and adiabatic and synchrotron cooling in order
+to calculate the X-ray light curve analytically. The model yields an anti-correlation
+between the luminosity and duration of the plateau as well as a sudden cut-off in
+the X-ray flux, if the decelerating magnetar collapses to form a black hole.
+subject: GRB, new model, semianalytic
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1906.01176
+title: Energy function, formation rate and low-metallicity environment of fast radio bursts
+authors: G. Q. Zhang, F. Y. Wang
+topic: In this paper, we investigate the energy function, formation rate and environment of fast radio bursts (FRBs) using Parkes sample and Australian Square Kilometer Array Pathfinder (ASKAP) sample
+subject: FRB, observations
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+%% 17
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.12658
+title: Neutron-Star-Merger Equation of State
+authors: Veronica Dexheimer, Constantinos Constantinou, Elias R. Most, L. Jens Papenfort, Matthias Hanauske, Stefan Schramm, Horst Stoecker, Luciano Rezzolla
+topic: In this work, we discuss the dense matter equation of state (EOS) for the extreme range of conditions encountered in neutron stars and their mergers. Finally, we present results from realistic neutron-star-merger simulations performed using the CMF model that predict signatures for deconfinement to quark matter in gravitational wave signals.
+subject: EOS, GW, BNS
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.12016
+title: Neutron star binary orbits in their host potential: effect on early r-process enrichment
+authors: Matteo Bonetti, Albino Perego, Massimo Dotti, Gabriele Cescutti
+topic: This results in a significant geometrical dilution of the amount of produced r−process elements that fall back and pollute the host galaxy gas reservoir. The combination of dilution and small number statistics produces a large scatter in the expected r-process enrichment within a single UFD or classical dwarf galaxy. Comparison between our results and observed europium abundances reveals a tension that even a systematic choice of optimistic parameters in our models cannot release. Such a discrepancy could point to the need of additional r-process production sites that suffer less severe dilution or to a population of extremely fast merging binaries.
+subject: r-process, cosmology, origin, population
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.11355
+title: Binary Neutron Star (BNS) merger: What we learned from relativistic ejecta of GW/GRB~170817A
+authors: Houri Ziaeepour
+topic: Here we review an extensive analysis of the prompt gamma-ray and late afterglows of this event. We show that a fraction of polar ejecta from the merger had been accelerated to ultra-relativistic speeds.
+subject: BNS, ejecta, GW170817, summary, overview
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.11212
+title: Constraining the properties of dense matter and neutron stars by combining nuclear physics and gravitational waves from GW170817
+authors: I. Tews, J. Margueron, S. Reddy
+topic: In this paper, we address how the first observation of gravitational waves from GW170817 can be combined with modern calculations of the equation of state to extract useful insights about the equation of state of matter encountered inside neutron stars. We analyze the impact of various uncertainties and we show that the tidal deformability extracted from GW170817 is compatible, while less constraining, than modern nuclear physics knowledge
+subject: BNS, GW170817, EOS
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.09663
+title: Observational signature of a wind bubble environment for double neutron star mergers
+authors: Yong-Sen Li, Aming Chen, Yun-Wei Yu
+topic: By calculating the dynamics and synchrotron radiation of the jet-driven external shock, we reveal that an abrupt jump could appear in the afterglow light curves of SGRBs and the observational time of the jump is dependent on the viewing angle. 
+subject: GRB, model, jet
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.08275
+title: Galactic r-process abundance feature shaped by radial migration
+authors: Takuji Tsujimoto, Junichi Baba
+topic:  Here, we show that radial migration of stars across the Galactic disk plays a crucial role in shaping the r-process abundance feature in the solar vicinity. In this proposed scenario, we highlight the importance of migration from the outer disk where (r-process/Fe) of some old stars is predicted to be enhanced to the level beyond the expectation from the observed Galactic Fe and Eu radial gradient, which results in a large span of (r-process/Fe) among nearby disk stars. IMF change for solar neighbourhood required
+subject: observations, r-process, nucleo, abundances, solar
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.07929
+title: Statistical Study of Gamma-Ray Bursts with a Plateau Phase in the X-ray Afterglow
+authors: Chen-Han Tang, Yong-Feng Huang, Jin-Jun Geng, Zhi-Bin Zhang
+topic: We collect 174 GRBs, with redshifts available for all of them. For the whole sample, the correlation ... , s confirmed, with the best fit relation being ... , Moreover, GRBs having an "internal" plateau (i.e., with a following decay index being generally smaller than -3) also obey this correlation.
+subject: GRB, observation
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.07477
+title: Full Transport Model of GW170817-Like Disk Produces a Blue Kilonova
+authors: Jonah M. Miller, Benjamin R. Ryan, Joshua C. Dolence, Adam Burrows, Christopher J. Fontes, Christopher L. Fryer, Oleg Korobkin, Jonas Lippuner, Matthew R. Mumpower, Ryan T. Wollaeger
+topic: We present the first three-dimensional general relativistic, full transport neutrino radiation magnetohydrodynamics (GRRMHD) simulations of the black hole-accretion disk-wind system produced by the GW170817 merger. We show that the small but non-negligible optical depths lead to neutrino transport globally coupling the disk electron fraction, which we capture by solving the transport equation with a Monte Carlo method. The resulting absorption drives up the electron fraction in a structured, continuous outflow, with electron fraction as high as Ye∼0.4 in the extreme polar region. We show via nuclear reaction network and radiative transfer calculations that nucleosynthesis in the disk wind will produce a blue kilonova.
+subject: GRRMHD, MHD, RMHD, radiative transport, model, disk, kilonova
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.06165
+title: Capitalizing on Nuclear Data Libraries' Comprehensiveness to Obtain Solar r-process Abundances
+authors: Boris Pritychenko
+topic: In this letter, mankind's complete knowledge of neutron cross sections obtained in the last 80 years, as encapsulated in the latest release of the Evaluated Nuclear Data File (ENDF/B) library, is used to obtain solar r-process abundances in a comprehensive data approach. ENDF/B cross sections have been successfully used for decades in nuclear power and defense applications and are now used to obtain r-process abundances in a fully traceable, documented and unbiased way.
+subject: r-process, nucleo, summary, overview
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.04851
+title: Jet Structure in the Afterglow Phase for Gamma-ray Bursts with a Precessing Jet
+authors: Bao-Quan Huang, Da-Bin Lin, Tong Liu, Jia Ren, Xiang-Gao Wang, Hong-Bang Liu, En-Wei Liang
+topic: In this paper, we stress that for a precessing jet, the jet structure in the prompt emission phase and that in the afterglow phase may be different. We estimate the jet structure in the afterglow phase under the situation that a narrow-uniform-precessing jet is launched from the central engine of gamma-ray burst.
+subject: GRB, model, BNS 
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.04775
+title: Black Hole Discharge: very-high-energy gamma rays from black hole-neutron star mergers
+authors: Zhen Pan, Huan Yang
+topic:  Electrons and positrons are accelerated in the BH electric field, which then lose energy to surrounding soft photons via Compton scattering; more electrons and positrons will be created from pair production as the hard photons colliding with soft photons, or through the Schwinger process in strong electromagnetic fields.
+subject: NSBH, gamma rays, discahrge, new outflow
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1905.04670
+title: A Pulsar Wind Nebula Embedded in the Kilonova AT2017gfo Associated with GW 170817/GRB 170817A
+authors: Jia Ren, Da-Bin Lin, Lu-Lu Zhang, Xiao-Yan Li, Tong Liu, Rui-Jing Lu, Xiang-Gao Wang, En-Wei Liang
+topic: We study the effect of the PWN emission on the observed light curves and radiation spectra. Different from previous works, the absorption and leakage of the PWN emission are all involved in our model, where the absorption of the PWN emission heats up the ejecta and alters its radiation. It is found that the characteristic emission of the embedded PWN quickly evolves. Our fitting result suggests that a PWN is embedded in the AT 2017gfo.
+subject: afterglow, PWN, EM, kilonova, GW170817
 
-link: 
-title: 
+link: https://arxiv.org/abs/1905.04495
+title: Radio afterglows of binary neutron star mergers: a population study for current and future gravitational wave observing runs
+authors: Raphaël Duque, Frédéric Daigne, Robert Mochkovitch
+topic: We report the expected distributions of observables (distance, orientation, afterglow peak time/flux, etc.) from future events and study how these can be used to further probe the population of binary neutron stars, their mergers and related outflows during future observing campaigns.
+subject: afterglow, BNS, GRB, predictions
+
+%% 18
+
+link: https://arxiv.org/abs/1905.04315
+title: Constraining Collapsar r-Process Models through Stellar Abundances
 authors: 
 topic: 
 subject: 
