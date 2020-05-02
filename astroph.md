@@ -1050,6 +1050,177 @@ subject: afterglow, BNS, GRB, predictions
 
 link: https://arxiv.org/abs/1905.04315
 title: Constraining Collapsar r-Process Models through Stellar Abundances
+authors: Phillip Macias, Enrico Ramirez-Ruiz
+topic: We use observations of heavy elements in very metal-poor stars ((Fe/H \leq -2.5)) in order to place constraints on the viability of collapsar models as a significant source of the r-process. Our results suggest that early r-process production is likely to be spatially uncorrelated with Fe production, a condition which can be satisfied by neutron star mergers due to their large kick velocities and purely r-process yields.
+subject: r-process, nucleo, observations, collapsar
+
+link: https://arxiv.org/abs/1905.03656
+title: Constraint on the maximum mass of neutron stars using GW170817 event
+authors: Masaru Shibata, Enping Zhou, Kenta Kiuchi, Sho Fujibayashi
+topic: We revisit the constraint on the maximum mass of cold spherical neutron stars coming from the observational results of GW170817. We develop a new framework for the analysis by employing both energy and angular momentum conservation laws as well as solid results of latest numerical-relativity simulations and of neutron stars in equilibrium. 
+subject: BNS, EOS, mass, GW170817
+
+link: https://arxiv.org/abs/1905.02665
+title: GW170817 Afterglow Reveals that Short Gamma-Ray Bursts are Neutron Star Mergers
+authors: Yiyang Wu, Andrew MacFadyen
+topic: We systematically investigate the outflow structure of GW170817 in comparison with a sample of 27 cosmological short GRBs by modelling their afterglow light curves. We find that cosmological short GRBs share the same outflow structures with GW170817, relativistic structured jets. The similarity between the GW170817 outflow structure and those of cosmological short GRBs indicates that cosmological short GRBs are likely neutron star mergers.
+subject: GRB, observations, cosmology
+
+link: https://arxiv.org/abs/1905.02509
+title: Constraining coherent low frequency radio flares from compact binary mergers
+authors: A. Rowlinson, G.E. Anderson
+topic: For this paper, we constrain this coherent radio emission using the deepest available constraints for GRB 150424A, which were obtained via a triggered observation with the Murchison Widefield Array. We then expand this analysis to determine the properties of magnetar merger remnants that may be formed via a general population of binary neutron star mergers. Our results demonstrate that many of the potential coherent emission mechanisms that have been proposed for such events can be detected or very tightly constrained by the complementary strategies used by the current generation of low-frequency radio telescopes
+subject: observations, radio
+
+link: https://arxiv.org/abs/1905.02159
+title: Short GRB 160821B: a reverse shock, a refreshed shock, and a well-sampled kilonova
+authors: G. P. Lamb, N. R. Tanvir, A. J. Levan, A. de Ugarte Postigo, K. Kawaguchi, A. Corsi, P. A. Evans, B. Gompertz, D. B. Malesani, K. L. Page, K. Wiersema, S. Rosswog, et al
+topic: We report our identification of the optical afterglow and host galaxy of the short-duration gamma-ray burst GRB 160821B.  consistent with a binary neutron star merger resulting in a short-lived massive neutron star. This optical and near-infrared dataset provides the best-sampled kilonova light-curve without a gravitational wave trigger to date
+subject: GRB, observations
+
+link: https://arxiv.org/abs/1905.01814
+title: The lanthanide fraction distribution in metal-poor stars: a test of neutron star mergers as the dominant r-process site
+authors: Alexander P. Ji, Maria R. Drout, Terese T. Hansen
+topic: The lanthanide fraction (XLa) is a measurable quantity in both kilonovae and metal-poor stars, but it has not previously been explicitly calculated for stars. Here, we compute the lanthanide fraction distribution of metal-poor stars to enable comparison to current and future kilonovae. For neutron star mergers to remain viable as the dominant r-process site, future kilonova observations should be preferentially lanthanide-rich. These high-XLa kilonovae may be fainter and more rapidly evolving than GW170817, posing a challenge for discovery and follow-up observations
+subject: observations, PIII, MP stars, r-process, nuleo
+
+link: https://arxiv.org/abs/1905.01290
+title: The afterglow and kilonova of the short GRB 160821B
+
+authors: E. Troja, A. J. Castro-Tirado, J. Becerra Gonzalez, Y. Hu, G. S. Ryan, S. B. Cenko, R. Ricci, G. Novara, R. Sanchez-Ramirez, J. A. Acosta-Pulido er al
+topic: We present X-ray, optical/nIR and radio observations of its counterpart and model them with two distinct components of emission: a standard afterglow, arising from the interaction of the relativistic jet with the surrounding medium, and a kilonova, powered by the radioactive decay of the sub-relativistic ejecta.
+subject: GRB, observations
+
+link: https://arxiv.org/abs/1905.00337
+title: On the energetics of a possible relativistic jet associated with the binary neutron star merger candidate S190425z
+authors: M. Saleem, L. Resmi, K. G. Arun, S. Mohan
+topic: Here we combine the available information from gravitational-wave measurements and upper limits of fluence from \textit{INTEGRAL} to show that the observations are completely consistent with a relativistic Gaussian structured jet and a typical short duration Gamma-Ray Burst (GRB) being produced in the merger. We obtain posterior bounds on the on-axis isotropic equivalent energy of the associated GRB under different prior distributions
+subject: GRB, model, S190425z
+
+link: https://arxiv.org/abs/1904.13298
+title: Composition Effects on Kilonova Spectra and Light Curves: I
+authors: Wesley Even, Oleg Korobkin, Christopher L. Fryer, Christopher J. Fontes, R.T. Wollaeger, Aimee Hungerford, Jonas Lippuner, Jonah Miller, Matthew R. Mumpower, G. Wendell Misch
+topic: Here we study variations in the kilonova emission by varying individual lanthanide (and the actinide uranium) concentrations in the ejecta. The broad forest of lanthanide lines makes it difficult to determine the exact fraction of individual lanthanides. Nd is an exception.
+subject: kilonova, model, radiative transport, ejecta, nucleo
+
+link: https://arxiv.org/abs/1904.12745
+title: Double Neutron Star Populations and Formation Channels
+authors: Jeff J. Andrews, Ilya Mandel
+topic: We argue that the observed sample can be split into three distinct sub-populations based on their orbital characteristics: (i) short-period, low-eccentricity binaries; (ii) wide binaries; and (iii) short-period, high-eccentricity binaries. These sub-populations also exhibit distinct spin period and spindown rate properties. We focus on sub-population (iii), which contains the Hulse-Taylor binary
+subject: population synthesis, progenitor, stellar evolution
+
+%% 19
+
+link: https://arxiv.org/abs/1904.11995
+title: The Multi-Messenger Matrix: the Future of Neutron Star Merger Constraints on the Nuclear Equation of State
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
 authors: 
 topic: 
 subject: 
