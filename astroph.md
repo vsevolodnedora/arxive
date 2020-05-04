@@ -1113,90 +1113,93 @@ subject: population synthesis, progenitor, stellar evolution
 
 link: https://arxiv.org/abs/1904.11995
 title: The Multi-Messenger Matrix: the Future of Neutron Star Merger Constraints on the Nuclear Equation of State
-authors: 
-topic: 
-subject: 
+authors: Ben Margalit, Brian D. Metzger
+topic: We elucidate the present and future landscape of EOS constraints from BNS mergers, introducing the "Multi-Messenger Matrix", a mapping between GW and EM measurables that defines the ranges of event chirp masses which provide the most leverage on constraining the EOS
+subject: BNS, GW, MM
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.11841
+title: Polarization of kilonova emission from a black hole-neutron star merger
+authors: Yan Li, Rong-Feng Shen
+topic: For any ejecta whose photosphere shape deviates from the spherical symmetry, the electron scattering at the photosphere causes a net polarization in the kilonova light. Recent observational and theoretical polarization studies have been focused to the NS-NS merger kilonova AT2017gfo. We extend those work to the case of a BH-NS merger kilonova.
+subject: NSBH, kilonova, EM, polarisation, model
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.11133
+title: Diagnosing the remnants of binary neutron star merger from GW170817/GRB170817A event
+authors: Hou-Jun Lü, Jun Shen, Lin Lan, Jared Rice, Wei-Hua Lei, En-Wei Liang
+topic: By systematically comparing the properties of variability in the afterglow of GRB 170817A and X-ray flares in GRB afterglows, we find that this X-ray variability seems to share similar statistical correlations with X-ray flares in GRB afterglows. We further investigate several possible merger product scenarios to see whether they can produce the observed X-ray variability in GRB 170817A. magnetar, black hole, long-lived supra-massive NS, -- magnetar is disfavoired. 
+subject: BNS, afterglow, x-ray, model, magnetar, remnant
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.10222
+title: First 100 ms of a long-lived magnetized neutron star formed in a binary neutron star merger
+authors: Riccardo Ciolfi, Wolfgang Kastaun, Jay Vijay Kalinani, Bruno Giacomazzo
+topic: Here, we explore the latter by performing a GRMHD BNS merger simulation extending up to \sim 100 ms after merger, much longer than any previous simulation of this kind. This allows us to (i) study the emerging structure and amplification of the magnetic field and observe a clear saturation at magnetic energy 10^51. We follow the magnetically supported expansion of the outer layers of the remnant NS and its evolution into an ellipsoidal shape without any surrounding torus. We also argue that the conditions at the end of the simulation disfavor later jet formation on subsecond timescales if no BH is formed.
+subject: BNS, GRMHD, MHD, remnant long-lived, MF
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.10002
+title: Constraints on the Neutron Star Equation of State from GW170817
+authors: Carolyn A. Raithel
+topic: In particular, I review the surprising relationship that has emerged between the effective tidal deformability of the binary system and the neutron star radius. I also report new results that make use of this relationship, finding that the radius inferred from GW170817 lies between 9.8 and 13.2 km at 90% confidence, with distinct likelihood peaks at 10.8 and 12.3 km. I compare these radii, as well as those inferred in the literature, to X-ray measurements of the neutron star radius. I also summarize the various maximum mass constraints
+subject: BNS, EOS, GW
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.08786
+title: Structured Jets and X-ray Plateaus in Gamma-Ray Burst Phenomena
+authors: Gor Oganesyan, Stefano Ascenzi, Marica Branchesi, Om Sharan Salafia, Simone Dall'Osso, Giancarlo Ghirlanda
+topic: Here we show that the high-latitude emission from a structured jet can naturally produce an X-ray plateau in gamma-ray burst (GRB) light curves, independent of the radiation from an external shock. We calculate the radiation from a switched-off shell featuring an angular structure in both its relativistic bulk motion and intrinsic brightness. Our model is able to explain the shallow decay phase (plateau) often observed in GRB X-ray light curves. We discuss the possible contribution of the structured jet high-latitude emission to other distinctive features of GRB X-ray light curves, and its capability to explain the chromatic optical/X-ray light curve properties.
+subject: GRB, BNS, model, GW170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.08781
+title: A line-binned treatment of opacities for the spectra and light curves from neutron star mergers
+authors: C.J. Fontes, C.L. Fryer, A.L. Hungerford, R.T. Wollaeger, O. Korobkin
+topic: Here we investigate the use of fine-structure, line-binned opacities that preserve the integral of the opacity over frequency. Advantages of this area-preserving approach over the traditional expansion-opacity formalism include the ability to pre-calculate opacity tables that are independent of the type of hydrodynamic expansion and that eliminate the computational expense of calculating opacities within radiation-transport simulations. Tabular opacities are generated for all 14 lanthanides as well as a representative actinide element, uranium. We demonstrate that spectral simulations produced with the line-binned opacities agree well with results produced with the more accurate continuous Monte Carlo Sobolev approach, as well as with the commonly used expansion-opacity formalism
+subject: BNS, EM, kilonova, radiative transfer, opacities
+revelation: opacity tables for KN! Not expansion though, but precomputed.
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.08425
+title: Jet-cocoon outflows from neutron star mergers: structure, light curves, and fundamental physics
+authors: Davide Lazzati, Rosalba Perna
+topic: Here we derive analytic estimates for the structure of jets expanding in environments with different density, velocity, and radial extent. We compute the jet-cocoon structure and the properties of the broadband afterglow emission as a function of the ejecta mass, velocity, and time delay between merger and launch of the jet. We show that modeling of the afterglow light curve can constrain the ejecta properties and, in turn, the physics of neutron density matter
+subject: jet, model, analytic
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.07732
+title: Signatures from a quasi-spherical outflow and an off-axis top-hat jet launched in a merger of compact objects: An analytical approach
+authors: N. Fraija, D. Lopez-Camara, A.C. Caligula do E. S. Pedreira, B. Betancourt Kamenetskaia, P. Veres, S. Dichiara
+topic: We calculate the light curves obtained from an analytic model in which the synchrotron and SSC emission (in the fast- or slow-cooling regime) of an off-axis top-hat jet and a quasi-spherical outflow are decelerated in either a homogeneous or a wind-like circumburst medium. We show that the synchrotron emission of the quasi-spherical outflow is stronger than that of the off-axis jet during the first \sim 10 - 20 days, and weaker during the next \geq 80 days. For GRB 170817A, we find using our model that the synchrotron emission generated by the quasi-spherical outflow and off-axis top-hat jet increase.
+subject: GRB, jet, model, analytic, 170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.06664
+title: X-ray transient CDF-S XT2: the electromagnetic and gravitational-wave radiations of a supra-massive neutron star
+authors: Hou-Jun Lü, Yong Yuan, Lin Lan, Bin-Bin Zhang, Jin-Hang Zou, En-Wei Liang
+topic: In this paper, we revisit the X-ray emission of CDF-S XT2 and find that it is more consistent with a supra-massive magnetar central engine, surviving thousands of seconds to collapse black hole. We present the comparisons of the X-ray plateau luminosity, break time, and the parameters of magnetar between CDF-S XT2 and other short GRBs with internal plateau samples. 
+subject: GRB, jet, model, x-ray
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.06137
+title: Double Neutron Star Formation: Merger Times, Systemic Velocities, and Travel Distances
+authors: Jeff J. Andrews, Andreas Zezas
+topic: In this work, we take an alternative approach by focusing only on the second supernova (SN) forming the DNS and the subsequent orbital decay and merger due to gravitational wave radiation. Using analytic and numerical methods, we explore how different NS natal kick velocity distributions, pre-SN orbital separations, and progenitor He-star masses affect the post-SN orbital periods, eccentricities, merger times, systemic velocities, and distances traveled by the system before merging.
+subject: DNS, BNS, formation
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.05934
+title: Impact of Pulsar and Fallback Sources on Multifrequency Kilonova Models
+authors: Ryan T. Wollaeger, Chris L. Fryer, Christopher J. Fontes, Jonas Lippuner, W. Thomas Vestrand, Matthew R. Mumpower, Oleg Korobkin, Aimee L. Hungerford, Wesley P. Even
+topic: We explore the impact of pulsar electromagnetic dipole and fallback accretion emission on the luminosity of a suite of kilonova models. We simulate radiative transfer in the ejecta in either 1D spherical or 2D cylindrical spatial geometry. Our models that fit the bolometric luminosity of AT 2017gfo (the kilonova associated with the first neutron star merger discovered in gravitational waves, GW170817) do not simultaneously fit the B, V, and I time evolution. However, we find that the trends of the evolution in B and V magnitudes are better matched by the fallback model relative to the pulsar model, implying the time dependence of the remnant source influences the color evolution.
+subject: kilonova, fallback, pulsar, radiative transfer
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.05480
+title: On the properties of a newborn magnetar powering the X-ray transient CDF-S XT2
+authors: Di Xiao, Bin-Bin Zhang, Zi-Gao Dai
+topic: In this paper, we revisit this scenario and confirm that this X-ray emission can be well explained by the internal gradual magnetic dissipation process in an ultra-relativistic wind of the newborn magnetar. We show that both the light curve and spectral evolution of CDF-S XT2 can be well fitted by such a model.
+subject: x-ray, EM, BNS, remnant
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1904.05368
+title: A magnetar-powered X-ray transient as the aftermath of a binary neutron-star merger
+authors: Y. Q. Xue, X. C. Zheng, Y. Li, W. N. Brandt, B. Zhang, B. Luo, B. B. Zhang, F. E. Bauer, H. Sun, B. D. Lehmer, X. F. Wu, G. Yang, X. Kong, J. Y. Li, M. Y. Sun, J.-X. Wang, F. Vito
+topic: X-ray plateau following a good fraction (up to 50%) of short gamma-ray bursts. Here we report a second X-ray transient, CDF-S XT2, that is associated with a galaxy at redshift z = 0.738. The light curve is fully consistent with being powered by a millisecond magnetar. 
+subject: bns, GRB, x-ray, observations
 
-link: 
-title: 
+%% 20
+
+link: https://arxiv.org/abs/1904.04233
+title: Constraining the neutron-matter equation of state with gravitational waves
 authors: 
 topic: 
 subject: 
