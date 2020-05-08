@@ -1200,6 +1200,130 @@ subject: bns, GRB, x-ray, observations
 
 link: https://arxiv.org/abs/1904.04233
 title: Constraining the neutron-matter equation of state with gravitational waves
+authors: Michael McNeil Forbes, Sukanta Bose, Sanjay Reddy, Dake Zhou, Arunava Mukherjee, Soumi De
+topic: We show how observations of gravitational waves from binary neutron star (BNS) mergers over the next few years can be combined with insights from nuclear physics to obtain useful constraints on the equation of state (EoS) of dense matter, in particular, constraining the neutron-matter EoS to within 20percent between one and two times the nuclear saturation density. To parameterize the nuclear EoS, we use a different approach, expanding from pure nuclear matter rather than from symmetric nuclear matter to make use of recent quantum Monte Carlo (QMC) calculations.
+subject: GW, EOS, prospects
+
+link: https://arxiv.org/abs/1904.04220
+title: Impact of high spins on the ejection of mass in GW170817
+authors: Elias R. Most, L. Jens Papenfort, Antonios Tsokaros, Luciano Rezzolla
+topic: We discuss the impact that high stellar spins prior to merger have on the ejection of mass focussing, in particular, on the dynamically ejected mass by performing general-relativistic magnetohydrodynamic simulations employing finite-temperature equations of state and neutrino-cooling effects. we find that the dynamical component of the ejected mass can be strongly suppressed in the case of high spins aligned with the orbital angular momentum. In this case, in fact, the merger remnant has an excess angular momentum yielding a more extended and "colder" object, with reduced ability to shed mass dynamically.
+subject: BNS, ejecta, spin
+
+link: https://arxiv.org/abs/1904.03733
+title: Fission and the r-process nucleosynthesis of translead nuclei
+authors: Samuel A. Giuliani, Gabriel Martínez-Pinedo, Meng-Ru Wu, Luis M. Robledo
+topic: We study the impact of fission on the production and destruction of translead nuclei during the r-process nucleosynthesis occurring in neutron star mergers. Abundance patterns and rates of nuclear energy production. We show that the accumulation of fissioning material during the r process can strongly affect the free neutron abundance after the r-process freeze-out. This leads to a significant impact on the abundances of heavy nuclei that undergo α decay or spontaneous fission, affecting the radioactive energy production by the ejecta at timescales relevant for kilonova emission.
+subject: BNS, r-process, nucleo, fission, abundances, kilonova
+revelation: here they show that they overshoot atinides because they normalize to the second peak.
+
+link: https://arxiv.org/abs/1904.02326
+title: Propagation of a Short GRB Jet in the Ejecta: Jet Launching Delay Time, Jet Structure, and GW170817/GRB 170817A
+authors: Jin-Jun Geng, Bing Zhang, Anders Kölligan, Rolf Kuiper, Yong-Feng Huang
+topic: We perform a series of relativistic magnetohydrodynamics simulations to investigate how a hot magnetic jet propagates within the dynamical ejecta of a binary neutron star merger, with the focus on how the jet structure depends on the delay time of jet launching with respect to the merger time.  We find that regardless of the jet launching delay time, a structured jet with an angle-dependent luminosity and Lorentz factor is always formed after the jet breaks out the ejecta. 
+subject: GRB, MHD, HDMHD, jet, model
+
+link: https://arxiv.org/abs/1904.02139
+title: Actinide-rich and Actinide-poor r-Process Enhanced Metal-Poor Stars do not Require Separate r-Process Progenitors
+authors: Erika M. Holmbeck, Anna Frebel, G. C. McLaughlin, Matthew R. Mumpower, Trevor M. Sprouse, Rebecca Surman
+topic:  In this study, we introduce and apply the "Actinide-Dilution with Matching" model to a variety of stellar groups ranging from actinide-deficient to actinide-enhanced to empirically characterize r-process ejecta mass as a function of electron fraction. The very low-Ye, fission-cycling ejecta of an r-process event need only constitute 10-30% of the total ejecta mass to accommodate most actinide abundances of metal-poor stars. We find that our empirical Ye distributions of ejecta are similar to those inferred from studies of GW170817 mass ejecta ratios, which is consistent with neutron-star mergers being a source of the heavy elements in metal-poor, r-process enhanced stars.
+subject: r-process, nucleo, BNS, PIII, stars
+revelation: dyn.ejecta needs to be only 10-40 percent in mass
+
+link: https://arxiv.org/abs/1904.01601
+title: Astro2020 Science White Paper: A Summary of Multimessenger Science with Galactic Binaries
+authors: Thomas Kupfer et al
+topic: white paper on WD and NS binaries 
+subject: WD, NS, whitepaper
+
+link: https://arxiv.org/abs/1904.01545
+title: Merger of compact stars in the two-families scenario
+authors: Roberto De Pietri, Alessandro Drago, Alessandra Feo, Giuseppe Pagliara, Michele Pasquali, Silvia Traversi, Grzegorz Wiktorowicz
+topic: That scenario is based on the coexistence of both hadronic stars and strange quark stars. After discussing the classification of the possible mergers, we turn to detailed numerical simulations of the merger of two hadronic stars, i.e., "first family" stars in which delta resonances and hyperons are present, and we show results for the threshold mass of such binaries, for the mass dynamically ejected and the mass of the disk surrounding the post-merger object. 
+subject: BNS, EOS, strange matter
+
+link: https://arxiv.org/abs/1904.00924
+title: Ab initio constraints on thermal effects of the nuclear equation of state
+authors: Arianna Carbone, Achim Schwenk
+topic: We exploit the many-body self-consistent Green's function method to analyze finite-temperature properties of infinite nuclear matter and to explore the behavior of the thermal index used to simulate thermal effects in equations of state for astrophysical applications. We show how the thermal index is both density and temperature dependent, unlike often considered, and we provide an error estimate based on our ab initio calculations.
+subject: EOS, BNS
+
+link: https://arxiv.org/abs/1903.10589
+title: Astro2020 Science White Paper: Radio Counterparts of Compact Object Mergers in the Era of Gravitational-Wave Astronomy
+authors: Alessandra Corsi, Nicole M. Lloyd-Ronning, Dario Carbone, Dale A. Frail, Davide Lazzati, Eric J. Murphy, Richard O'Shaughnessy, Benjamin J. Owen, David J. Sand, Wen-Fai Fong, Kristine Spekkens, Andrew Seymour
+topic: Here we show how the expected progress in sensitivity of ground-based GW detectors over the next decade calls for U.S.-based GHz radio arrays to be improved beyond current levels.
+subject: whitepaper, radio, instruments
+
+%% 21
+
+link: https://arxiv.org/abs/1903.09273
+title: νbhlight : Radiation GRMHD for Neutrino-Driven Accretion Flows
+authors: Jonah M. Miller, Ben R. Ryan, Joshua C. Dolence
+topic: To meet this challenge, we present νbhlight, a scheme for solving general relativistic magnetohydrodynamics with energy-dependent neutrino transport in full (3+1)-dimensions, facilitated by Monte Carlo methods. 
+subject: monte carlo, radiative transport, GRMHD, MHD, MF
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
 authors: 
 topic: 
 subject: 
