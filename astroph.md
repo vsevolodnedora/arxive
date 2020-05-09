@@ -1261,48 +1261,51 @@ title: νbhlight : Radiation GRMHD for Neutrino-Driven Accretion Flows
 authors: Jonah M. Miller, Ben R. Ryan, Joshua C. Dolence
 topic: To meet this challenge, we present νbhlight, a scheme for solving general relativistic magnetohydrodynamics with energy-dependent neutrino transport in full (3+1)-dimensions, facilitated by Monte Carlo methods. 
 subject: monte carlo, radiative transport, GRMHD, MHD, MF
+revelation: very interesting code that seems to be able to do everything
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1903.09166
+title: Numerical simulations of neutron star-black hole binaries in the near-equal-mass regime
+authors: F. Foucart, M.D. Duez, L.E. Kidder, S. Nissanke, H.P. Pfeiffer, M.A. Scheel
+topic: Here, we perform a set of simulations of low-mass NSBH mergers, including systems compatible with GW170817. Our simulations use a composition and temperature dependent equation of state (DD2) and approximate neutrino transport, but no magnetic fields. We find that low-mass NSBH mergers produce remnant disks significantly less massive than previously expected, and consistent with the post-merger outflow mass inferred from GW170817 for moderately asymmetric mass ratio. The dynamical ejecta produced by systems compatible with GW170817 is negligible except if the mass ratio and black hole spin are at the edge of the allowed parameter space. That dynamical ejecta is cold, neutron-rich, and surprisingly slow for ejecta produced during the tidal disruption of a neutron star.
+subject: NSBH, model, ejecta
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1903.08173
+title: Detectability of neutron star merger afterglows
+authors: Ore Gottlieb, Ehud Nakar, Tsvi Piran
+topic: We use a set of numerical simulations to calibrate these analytic relations and obtain generic equations for the peak time and flux of such an afterglow as seen from various observing angles. Using the calibrated equations and the estimated parameters of GW170817, we estimate the detectability of afterglows from future double neutron star mergers during the Advanced LIGO/Virgo observation run O3.
+subject: EM, afterglow, model, analytic
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1903.07878
+title: Could an X-ray Flare after GRB 170817A Originate from a Post-merger Slim Accretion Disc?
+authors: Yi-Qing Lin, Zi-Gao Dai, Wei-Min Gu
+topic: Here we show that this X-ray flare may be understood based on a slim disc around a compact object. 
+subject: jet, GRB, model, analytic
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1903.06786
+title: A First Search for Prompt Radio Emission from a Gravitational-Wave Event
+authors: Thomas A. Callister, Marin M. Anderson, Gregg Hallinan, Larry R. D'addario, Jayce Dowell, Namir E. Kassim, T. Joseph W. Lazio, Danny C. Price, Frank K. Schinzel
+topic: Here, we present the first search for prompt radio emission accompanying a gravitational-wave event, targeting the binary black hole merger GW170104 detected by the Advanced LIGO and Virgo gravitational-wave observatories during their second (O2) observing run. Using the Owens Valley Radio Observatory Long Wavelength Array (OVRO-LWA), we searc
+subject: observations, radio
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1903.06221
+title: High-energy emissions from neutron star mergers
+authors: Shigeo S. Kimura
+topic: Although high-energy neutrinos were not detected from this event, mergers of neutron stars are expected to produce such high-energy particles. Relativistic jets are launched when neutron stars merge. If the jets contain protons, they can emit high-energy neutrinos through photomeson production. In addition, neutron star mergers produce massive and fast ejecta, which can be a source of Galactic high-energy cosmic rays above the knee. We briefly review what we learned from the multi-messenger event, GW170817, and discuss prospects for multi-messenger detections and hadronic cosmic-ray production related to the neutron star mergers.
+subject: GRB, review
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1903.05736
+title: Kilonovae: nUV/Optical/IR Counterparts of Neutron Star Binary Mergers with TSO
+authors: Brian D. Metzger, Edo Berger, Jonathan Grindlay, Suvi Gezari, Zeljko Ivezic, Jacob Jencson, Mansi Kasliwal, Alexander Kutyrev et al
+topic: The Time-domain Spectroscopic Observatory (TSO) is a proposed Probe-class 1.3 m telescope at L2, with imaging and spectroscopy (R = 200, 1800) in 4 bands (0.3 - 5 micron) and rapid slew capability to 90% of sky. TSO nUV-mid-IR spectra will enable new constraints on NS structure and nucleosynthesis.
+subject: observations, review, prospects
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+%% 22
+
+link: https://arxiv.org/abs/1903.03582
+title: A Summary of Multimessenger Science with Neutron Star Mergers
+authors: Eric Burns, Aaron Tohuvavohu, James Buckley, Tito Dal Canton, S. Brad Cenko, John W. Conklin, Filippo D'Ammando, David Eichler, et al
+topic: In this white paper we present a summary of the science discoveries possible with multimessenger observations of neutron star mergers and provide recommendations to enable them in the new era of time-domain, multimessenger astronomy.
+subject: whitepaper, summary, kilonova, overview
 
 link: 
 title: 
