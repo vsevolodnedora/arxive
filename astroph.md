@@ -1307,35 +1307,43 @@ authors: Eric Burns, Aaron Tohuvavohu, James Buckley, Tito Dal Canton, S. Brad C
 topic: In this white paper we present a summary of the science discoveries possible with multimessenger observations of neutron star mergers and provide recommendations to enable them in the new era of time-domain, multimessenger astronomy.
 subject: whitepaper, summary, kilonova, overview
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1903.01466
+title: Revisiting the lower bound on tidal deformability derived by AT 2017gfo
+authors: Kenta Kiuchi, Koutarou Kyutoku, Masaru Shibata, Keisuke Taniguchi
+topic: We present models of binary mergers with tilde{Lambda} down to 242 that satisfy the requirement on the mass of the ejecta from the luminosity of AT 2017gfo. We further find that the luminosity of AT 2017gfo could be explained by models that do not experience bounce after merger. We conclude that the luminosity of AT 2017gfo is not very useful for constraining the binary tidal deformability
+subject: BNS, models, kilonova, GW170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1903.01280
+title: Note on neutron star equation of state in the light of GW170817
+authors: Ang Li, Zhen-Yu Zhu
+topic: we employ a model from the quark level, describing consistently a nucleon and many-body nucleonic system from a quark potential. We check that our sets of EOSs are consistent with available experimental and observational constraints at both sub-nuclear saturation densities and higher densities. The agreements with ab-initio calculations are also good. Especially, we tune the density dependence of the symmetry energy 
+subject: BNS, EOS, GW170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/pdf/1903.00008.pdf
+title: Hydrodynamic Torques in Circumbinary Accretion Disks
+authors: Mackenzie S.L. Moody, Ji-Ming Shi, James M. Stone
+topic: We explore circumbinary disk systems to determine the evolution of the central binary. To do so, we perform 3D, hydrodynamic, locally isothermal simulations of circumbinary disks on a Cartesian grid
+subject: BBH, disk, merger, HD, physics
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1902.10735
+title: Finite-temperature extension for cold neutron star equations of state
+authors: Carolyn A. Raithel, Feryal Ozel, Dimitrios Psaltis
+topic: n this paper, we introduce a new framework to accurately calculate the thermal pressure of neutron-proton-electron matter at arbitrary density, temperature, and proton fraction. This framework can be expressed using a set of five physically-motivated parameters that span a narrow range of values for realistic EOS and are able to capture the leading-order effects of degenerate matter on the thermal pressure. 
+subject: EOS
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+%% 23
+
+link: https://arxiv.org/abs/1902.08636
+title: Effects of spin on magnetized binary neutron star mergers and jet launching
+authors: Milton Ruiz, Antonios Tsokaros, Vasileios Paschalidis, Stuart L. Shapiro
+topic: Here we summarize our general relativistic magnetohydrodynamic simulations of spinning, NS binaries undergoing merger and delayed collapse to a BH. 
+subject: BNS, GRMHD, jet
+
+link: https://arxiv.org/pdf/1902.08624.pdf
+title: Neutrino-Dominated Accretion Flows with Magnetic Prandtl Number-Dependent MRI-driven Turbulence
+authors: Norita Kawanaka, Youhei Masada
+topic: We investigate the stability of a neutrino-dominated accretion flow (NDAF), which is expected to be formed in the gravitational collapse of a massive star or the merger of a neutron star binary, based on the variable-α prescription.
+subject: disk, MHD, physics
 
 link: 
 title: 
