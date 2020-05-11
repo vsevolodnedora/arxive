@@ -1345,6 +1345,87 @@ authors: Norita Kawanaka, Youhei Masada
 topic: We investigate the stability of a neutrino-dominated accretion flow (NDAF), which is expected to be formed in the gravitational collapse of a massive star or the merger of a neutron star binary, based on the variable-α prescription.
 subject: disk, MHD, physics
 
+link: https://arxiv.org/abs/1902.03300
+title: The mass distribution of Galactic double neutron stars
+authors: Nicholas Farrow, Xing-Jiang Zhu, Eric Thrane
+topic: we perform Bayesian inference using a sample of 17 Galactic double neutron stars effectively doubling the sample used in previous studies. We show that precise component mass measurements of ≈20 double neutron stars are required in order to determine with high confidence (a Bayes factor of 150) if recycled and non-recycled neutron stars come from a common distribution. Approximately 60 are needed in order to establish the detailed shape of the distributions.
+subject: observations, population, DNS
+
+link: https://arxiv.org/abs/1902.01974
+title: Constraints on Gamma-ray Burst Inner Engines in a Blandford-Znajek Framework
+authors: Nicole M. Lloyd-Ronning, Chris Fryer, Jonah Miller, Neelima Prasad, Chris Torres, Phillip Martin
+topic: Under the assumption that a Gamma-ray Burst (GRB) is ultimately produced by a Blandford-Znajek (BZ) jet from a highly spinning black hole BH, we put limits on the magnetic field and BH mass needed to power observed long and short GRBs. For BHs in the range. We also discuss the implications and consequences of high magnetic fields in GRB BH-disk systems, in terms of MRI field growth and magnetically arrested disks. Finally, we examine the conditions under which the progenitor systems can retain enough angular momentum to create BHs spinning rapidly enough to power BZ jets.
+subject: BH, jet, GRB, MF, MHD
+
+link: https://arxiv.org/abs/1902.01419
+title: On the Kelvin-Helmholtz instability with smooth initial conditions -- Linear theory and simulations
+authors: Thomas Berlok, Christoph Pfrommer
+topic: we derive a linear theory for the KHI with smooth profiles and illustrate code testing with the MHD code Athena. We provide the linear solution for the KHI with smooth initial conditions in three different limits: inviscid hydrodynamics, ideal MHD and Braginskii-MHD. These linear solutions are obtained numerically with the framework Psecas (Pseudo-Spectral Eigenvalue Calculator with an Automated Solver), which generates and solves numerical eigenvalue problems using an equation-parser and pseudo-spectral methods. The Athena simulations are carried out on a periodic, Cartesian domain
+subject: physics, athena, MHD
+
+link: https://arxiv.org/abs/1902.01274
+title: The Golden Era of Neutron Stars: from Hadrons to Quarks
+authors: Gordon Baym
+topic: We describe the modern quark-hadron crossover equation of state, QHC18, and the corresponding neutron stars, which agree well with current observations.
+subject: EOS, NS
+
+link: https://arxiv.org/abs/1902.01197
+title: Late time kilonova light curves and implications to GW 170817
+authors: Eli Waxman, Eran O. Ofek, Doron Kushnir
+topic: We discuss the late time (tens of days) emission from the radioactive ejecta of mergers involving neutron stars, when the ionization energy loss time of beta-decay electrons and positrons exceeds the expansion time. This universality of the late time behavior is due to the weak dependence of the ionization loss rate on composition and on e\mp energy. . The late time IR and optical measurements of GW 170817 are consistent with this expected behavior provided that the ionization loss time exceeds the expansion time at
+subject: kilonova, model, em
+
+link: https://arxiv.org/abs/1901.11364
+title: Equation of state of dense matter in the multimessenger era
+authors: Ying Zhou, Lie-Wen Chen, Zhen Zhang
+topic: we show that the high-density symmetry energy cannot be too soft, which leads to lower bounds on dimensionless tidal deformability A>200 and R \geq 11.1 for 1.4 Msun and Lambda \leq 580. 
+subject: EOS, observations
+revelation: use this paper for upper lower limits on Lambda tilde 
+
+link: https://arxiv.org/abs/1901.11199
+title: Misaligned snowplough effect and the electromagnetic counterpart to black hole binary mergers
+authors: Fabrícia A. C. Pereira, Giuseppe Lodato, Irapuan Rodrigues, Márcio E. S. Alves, Daniel J. Price
+topic: We estimate the accretion rates produced when a circumprimary gas disc is pushed into the primary supermassive black hole (SMBH) by the tidal force of the decaying secondary during a SMBH merger. Using the 3D Smoothed Particle Hydrodynamics (SPH) code. We find that discs with small inclination angles (\leq 10 degrees) produce an increase in luminosity exceeding the Eddington rate. we show that the misaligned snowplough effect remains important even for angles larger than the disc aspect ratio. The rise in the accretion rate produced by discs inclined at small angles to the binary orbit can produce an electromagnetic counterpart to the gravitational wave signal emitted from final stages of the binary orbital decay.
+subject: physics, BH, accretion disk
+
+link: https://arxiv.org/abs/1901.11177
+title: Charged Compact Binary Coalescence Signal and Electromagnetic Counterpart of Plunging BH-NS mergers
+authors: Bing Zhang
+topic: If at least one of the members of a compact binary coalescence is charged, the inspiral of the two members would generate a Poynting flux with an increasing power, giving rise to a brief electromagnetic counterpart temporally associated with the chirp signal of the merger (with possibly a small temporal offset), which we term as the {\em charged Compact Binary Coalescence} (cCBC) signal. We develop a general theory of cCBC for any mass and amount of charge for each member.
+subject: NSBH, EM, new emission
+
+link: https://arxiv.org/abs/1901.10792
+title: Properties of jet and surrounding material of GW/GRB~170817A
+authors: Houri Ziaeepour
+topic: We use published data in radio, optical and X-ray bands to analyze and model afterglows of GW/GRB 170817A. Our analysis is based on a phenomenological gamma-ray burst generator model which we previously used to study the prompt gamma-ray emission of this important transient. We find a multi-component model and a few of its variants that are consistent with broad band \sim 1 year observations of afterglows, once the contribution of kilonova in optical/IR band is taken into account. phenomenological models
+subject: jet, GRB, analytic, model
+
+%% 24
+
+link: https://arxiv.org/abs/1901.09977
+title: A General-relativistic Determination of the Threshold Mass to Prompt Collapse in Binary Neutron Star Mergers
+authors: Sven Köppel, Luke Bovard, Luciano Rezzolla
+topic: We study the lifetimes of the remnant produced by the merger of two neutron stars and revisit the determination of the threshold mass to prompt collapse, Mth. Using a fully general-relativistic numerical approach and a novel method for a rigorous determination of Mth, we show that a nonlinear universal relation exists between the threshold mass and the maximum compactness.
+subject: BNS, max mass, EOS, model, GRHD
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
 link: 
 title: 
 authors: 
@@ -1374,4 +1455,29 @@ title:
 authors: 
 topic: 
 subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
 
