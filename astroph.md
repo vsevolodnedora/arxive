@@ -1408,6 +1408,118 @@ authors: Sven Köppel, Luke Bovard, Luciano Rezzolla
 topic: We study the lifetimes of the remnant produced by the merger of two neutron stars and revisit the determination of the threshold mass to prompt collapse, Mth. Using a fully general-relativistic numerical approach and a novel method for a rigorous determination of Mth, we show that a nonlinear universal relation exists between the threshold mass and the maximum compactness.
 subject: BNS, max mass, EOS, model, GRHD
 
+link: https://arxiv.org/abs/1901.09938
+title: The chemical evolution of r-process elements from neutron star mergers: the role of a 2-phase interstellar medium
+authors: Ralph Schönrich, David H. Weinberg
+topic: Using analytic arguments and numerical simulations, we demonstrate that models with a single-phase interstellar medium (ISM) and metallicity-independent yields cannot reproduce observations,  this problem is easily resolved if we allow for a 2-phase ISM, with hot-phase and cool phase. We show that the observed super-solar "Eu/alpha" at intermediate metallicities implies that a significant fraction of Eu originates from NM or another source besides ccSNe, and that these non-ccSN yields are preferentially deposited in the star-forming phase of the ISM at early times.
+subject: r-process, ISM, cosmology
+
+link: https://arxiv.org/abs/1901.09874
+title: Confronting gravitational-wave observations with modern nuclear physics constraints
+authors: I. Tews, J. Margueron, S. Reddy
+topic: In this paper, we address how the first observation of GWs from GW170817 can be combined with modern calculations of the EOS to extract useful insights about the EOS of matter encountered inside neutron stars. We analyze the impact of various uncertainties, the role of phase transitions in the NS core, and discuss how future observations will improve our understanding of dense matter.
+subject: GW, EOS, GW170817
+
+link: https://arxiv.org/abs/1901.09220
+title: Detecting the imprint of a kilonova or supernova \\ in short GRB afterglows
+authors: Nidhal Guessoum, Hannachi Zitouni, Robert Mochkovitch
+topic: In this work, we identify the conditions of the burst energy, external density, kilonova mass, supernova luminosity, that are necessary for the detection of a kilonova or supernova in the follow-up of short GRB afterglows. We have used a simple kilonova model to obtain the peak luminosities and times as a function of mass, expansion velocity and ejected matter opacity. Afterglow light curves are computed for a uniform medium and a stellar wind, in the kilonova and supernova cases, respectively
+subject: GRB, Kilonova, EM, SN, afterglow
+
+link: https://arxiv.org/abs/1901.09044
+title: GW170817−the first observed neutron star merger and its kilonova: implications for the astrophysical site of the r-process
+authors: Daniel M. Siegel
+topic:  I discuss possible astrophysical sites for r-process nucleosynthesis in NS mergers, arguing that the heaviest r-process elements synthesized in this event most likely originated in outflows from a post-merger accretion disk. I compare the inferred properties of r-process element production in GW170817 to current observational constraints on galactic heavy r-process nucleosynthesis and discuss challenges merger-only models face in explaining the r-process content of our galaxy. I then show how GW170817 points to collapsars as the dominant source of r-process enrichment in the Milky Way.
+subject: r-process, collapsars, summary
+revelation: use this for Nucleo discussion
+
+link: https://arxiv.org/abs/1901.08262
+title: Bayesian Analysis on the X-ray Spectra of the Binary Neutron Star Merger GW170817
+authors: En-Tzu Lin, Hoi-Fung Yu, Albert K.H. Kong
+topic: For the first time, we present a Bayesian time-resolved spectral study of the X-ray afterglow datasets of GW170817/GRB17017A observed by the Chandra X-ray Observatory.  While our results are consistent with the other works using Cash statistic within uncertainty, the Bayesian analysis we performed in this work have yielded Gaussian-like parameter distributions. We also obtained the parameter uncertainties directly from their posterior probability distributions. The X-ray flux has been fading since \sim160 days after the merger and has returned to the level as first discovered after one year. Our result shows that the X-ray spectrum of GW170817/GRB170817A is well-described by a simple power-law originated from non-thermal slow-cooling synchrotron radiation.
+subject: GRB, afterglow, x-ray, observations, model
+
+link: https://arxiv.org/abs/1901.08224
+title: Discrete and Continuous Ejection Models of the Radio Source Associated with GW170817
+authors: Brian Punsly
+topic: the discrete region includes all of the radio flux, and there is likely a synchrotron self absorption (SSA) spectral turnover. The velocity can constrain the kinematics and the SSA turnover has been used to constrain the size to much smaller than can be done with an unresolved VLBI image, allowing one to estimate the associated plasmoid size directly from the data and improve estimates of the energetics. Models of the radio emission for both a turbulent, protonic, discrete ballistic ejection and a high dissipation region within an otherwise invisible Poynting flux dominated positron-electron jet are considered. Even though only valid after day 110, this independent analysis augments traditional GRB light curve studies, providing additional constraints on the merger event.
+subject: GRB, GW170817, model
+
+link: https://arxiv.org/abs/1901.06701
+title: Causality of the Einstein-Israel-Stewart Theory with Bulk Viscosity
+authors: Fabio S. Bemfica, Marcelo M. Disconzi, Jorge Noronha
+topic: We prove that Einstein's equations coupled to equations of Israel-Stewart-type, describing the dynamics of a relativistic fluid with bulk viscosity and nonzero baryon charge (without shear viscosity or baryon diffusion) dynamically coupled to gravity, are causal in the full nonlinear regime. We also show that these equations can be written as a first-order symmetric hyperbolic system, implying local existence and uniqueness of solutions to the equations of motion. We use an arbitrary equation of state and do not make any simplifying symmetry or near-equilibrium assumption, requiring only physically natural conditions on the fields. These results pave the way for the inclusion of bulk viscosity effects in simulations of gravitational-wave signals coming from neutron star mergers.
+subject: physics, viscosity, equations, GR, GRHD
+
+link: https://arxiv.org/abs/1901.06052
+title: Can a black hole-neutron star merger explain GW170817, AT2017gfo, GRB170817A?
+authors: Michael W. Coughlin, Tim Dietrich
+topic: To answer the question if the observation of GW170817, GRB170817A, and AT2017gfo could be explained by the merger of a neutron star with a black hole, we perform a joint multi-messenger analysis of the gravitational waves, the short gamma-ray burst, and the kilonova. Overall, we find that a black hole-neutron star merger could explain the observed signatures, however, our analysis shows that a binary neutron star origin of GW170817 seems more plausible.
+subject: multi messenger, kilonova, GRB, BNS, GW170817, NSBH
+
+link: https://arxiv.org/abs/1901.04522
+title: Limits on electromagnetic counterparts of gravitational wave-detected binary black hole mergers
+authors: Rosalba Perna, Davide Lazzati, Will Farr
+topic: Here, via Monte Carlo simulations of a population of BBH mergers with properties consistent with those inferred from the existing LIGO/Virgo observations, and the angular emission characteristic of jets propagating into the interstellar medium, we derive limits on the allowed energetics and Lorentz factors of such jets from EM follow ups to GW-detected BBH merger events to date, and we make predictions which will help tighten these limits with broadband EM follow ups to events in future LIGO/Virgo runs.
+subject: cosmology, BBH, monte carlo, 
+
+link: https://arxiv.org/abs/1901.04138
+title: When Did the Remnant of GW170817 Collapse to a Black Hole?
+authors: Ramandeep Gill, Antonios Nathanail, Luciano Rezzolla
+topic: Here, we determine the survival time of the merger remnant by combining two different constraints, namely, the time needed to produce the requisite blue-ejecta mass and that necessary for the relativistic jet to bore its way out of the expanding ejecta. In this way, we determine that the remnant of GW170817 must have collapsed to a black hole after tcoll=0.98+0.31−0.26s. We also discuss how future detections and the delays between the gravitational and electromagnetic emissions can be used to constrain the properties of the merged object.
+subject: BNS, GW170817, collapse, observations, observations
+revelation: use this to justify the at least 500ms of a remnant lifetime.
+
+%% 25 
+
+link: https://arxiv.org/abs/1901.01521
+title: Late afterglow emission statistics: a clear link between GW170817 and bright short GRBs
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
 link: 
 title: 
 authors: 
