@@ -1474,66 +1474,69 @@ revelation: use this to justify the at least 500ms of a remnant lifetime.
 
 link: https://arxiv.org/abs/1901.01521
 title: Late afterglow emission statistics: a clear link between GW170817 and bright short GRBs
-authors: 
-topic: 
-subject: 
+authors: Kai-Kai Duan, Zhi-Ping Jin, Fu-Wen Zhang, Yi-Ming Zhu, Xiang Li, Yi-Zhong Fan, Da-Ming Wei
+topic:  the afterglow emission of the bright sGRBs and GW170817/GRB 170817A form a natural and continuous sequence, though separated by an observation time gap. If viewed on-axis, the forward shock afterglow emission of GW170817/GRB 170817A would be among the brightest ones detected so far. This provides a strong evidence for the GW170817-like merger origin of bright sGRBs, and suggests that the detection of the forward shock afterglow emission of most neutron star merger events are more challenging than the case of GW170817 since usually the mergers will be more distant and the viewing angles are plausibly higher.
+subject: GRB, GW170817, observations
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1901.00868
+title: Observable Features of GW170817 Kilonova Afterglow
+authors: Adithan Kathirgamaraju, Dimitrios Giannios, Paz Beniamini
+topic: In this work, we assume a power-law distribution of the form ... for the energy of the kilonova ejecta and calculate the non-thermal signatures produced by the interaction of the ejecta with the ambient gas. We find that ejecta with minimum velocity ... energy ...  as inferred from kilonova modeling, has a detectable radio, and possibly X-ray, afterglow for a broad range of parameter space.
+subject: GRB, afterglow, model. kilonova, GW170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1812.11320
+title: Chandra X-ray Observations of the Neutron Star Merger GW170817: Thermal X-Ray Emission From a Kilonova Remnant?
+authors: Samar Safi-Harb, Neil Doerksen, Adam Rogers, Chris L. Fryer
+topic: we analyze the X-ray observations of GW170817 obtained with NASA's Chandra X-ray Observatory. we fit the Chandra data with both non-thermal (as done previously in the literature) and thermal models. We specifically explore thermal plasma models that would be expected from a kilonova remnant (KNR). We reproduced the non-thermal results which were recently published. We also find that thermal bremsstrahlung emission from hot plasma can account for the X-ray emission from this source.
+subject: x-ray, kilonova, afterglow, model
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1812.11247
+title: Relativistic envelopes and gamma-rays from neutron star mergers
+authors: Andrei M. Beloborodov, Christoffer Lundman, Yuri Levin
+topic: We suggest that neutron star mergers eject an ultra-relativistic envelope of mass 1e10-7 Msun, which helps explain the gamma-ray burst from GW170817. One ejection mechanism is the ablation of the neutron star surface by the burst of neutrinos in the first 30 microsec.  Another, more efficient, mechanism for inflating the ultra-relativistic envelope is an internal shock in the massive ejecta from the merger. A strong shock is expected if the merger product is a magnetar, which emits a centrifugally accelerated wind.
+subject: ejecta, model, bns, jet
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1812.10065
+title: Binary neutron star formation and the origin of GW170817
+authors: K. Belczynski, T. Bulik, A. Olejak, M. Chruslinska, N. Singh, N. Pol, L. Zdunik, R. O'Shaughnessy, M. McLaughlin, D. Lorimer, O. Korobkin, E.P.J. van den Heuvel, M.B. Davies, D.E. Holz
+topic: However, these models generate local cosmic NS-NS merger rate in old host galaxies that are below the LIGO/Virgo estimate. The reason behind this tension is the predicted delay time distribution between star formation and NS-NS mergers that favors short delays. However, we show that such distribution is consistent with observations of Galactic NS-NS binaries; 50% of which show very long merger times (much longer than Hubble time). Once model distributions are convolved with continuous prolonged (10 Gyr) star formation in the Galactic disk, then 20-70% (depending on a model) of the predicted NS-NS population has very long current Galactic merger times
+subject: bns formation, cosmology, star evolution
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1812.08910
+title: Constraining nuclear matter parameters with GW170817
+authors: Zack Carson, Andrew W. Steiner, Kent Yagi
+topic:  A recent work found strong correlation among neutron-star tidal deformabilities and certain combinations of nuclear parameters associated with the equation of state. These relations were then used to derive bounds on such parameters from GW170817 assuming that the relations and neutron star masses are known exactly. Here, we expand on this important work by taking into account a few new considerations:
+subject: BNS, EOS, crust
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1812.08708
+title: Spitzer Mid-Infrared Detections of Neutron Star Merger GW170817 Suggests Synthesis of the Heaviest Elements
+authors: Mansi M. Kasliwal, Daniel Kasen, Ryan M. Lau, Daniel A. Perley, Stephan Rosswog, Eran O. Ofek, Kenta Hotokezaka, Ranga-Ram Chary, Jesper Sollerman, Ariel Goobar, David L. Kaplan
+topic: We report our Spitzer Space Telescope observations and detections of the binary neutron star merger GW170817. Our detections constitute the latest and reddest constraints on the kilonova/macronova emission and composition of heavy elements. The 4.5\mu luminosity at this late phase cannot be explained by elements exclusively from the first abundance peak of the r-process. Moreover, the steep decline in the Spitzer band, with a power-law index. can be explained by a few of the heaviest isotopes in the third abundance peak with half-life around 14 days dominating the luminosity (e.g. 140Ba, 143Pr, 147Nd, 156Eu, 191Os, 223Ra, 225Ra, 233Pa, 234Th) or a model with lower deposition efficiency.
+subject: observations, nucleo, r-process, GW170817
+revelation: use this in the descussion of actinides
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1812.07307
+title: A crystal ball for kilonovae
+authors: Sarp Akcay, Morgan Fraser, Antonio Martin-Carrillo
+topic: We demonstrate how Einstein Telescope will provide advance warning of such events on a timescale of hours, based on the low frequency emission from the pre-merger system. In addition, we suggest how this early warning enables prompt identification of any electromagnetic counterpart using the Large Synoptic Survey Telescope.
+subject: observation prospects, kilonova, GW
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1812.06988
+title: Gravitational waveforms from SpEC simulations : neutron star-neutron star and low-mass black hole-neutron star binaries
+authors: Francois Foucart, Matthew D. Duez, Tanja Hinderer, Jesus Caro, Andrew R. Williamson, Michael Boyle, Alessandra Buonanno, Roland Haas, Daniel A. Hemberger, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel
+topic: We provide for the first time waveforms with sub-radian accuracy over more than twenty cycles for low-mass black hole-neutron star binaries, including binaries with non-spinning objects. We also provide for the first time with SpEC a high-accuracy neutron star-neutron star waveform. For most simulations, the models lie outside of the predicted numerical errors in the last few orbits before merger.
+subject: GW, new code, SPEC
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1812.05898
+title: Kinetic modeling of the electromagnetic precursor from an axisymmetric binary pulsar coalescence
+authors: Benjamin Crinquand, Benoît Cerutti, Guillaume Dubus
+topic: We limit our work to the case of aligned magnetic moments and rotation axes, and thus neglect the orbital motion. We perform global two-dimensional axisymmetric particle-in-cell simulations of two pulsar magnetospheres merging at a rate consistent with the emission of gravitational waves. Both symmetric and asymmetric systems are investigated. Simulations show a significant enhancement of magnetic dissipation within the magnetospheres as both stars get closer. 
+subject: inspiral, BNS, MF, precursor, EM, model
 
-link: 
-title: 
+%% 26
+
+link: https://arxiv.org/abs/1812.05054
+title: Explaining the early excess emission of the Type Ia supernova 2018oh by the interaction of the ejecta with disk-originated matter (DOM)
 authors: 
 topic: 
 subject: 
