@@ -1537,6 +1537,123 @@ subject: inspiral, BNS, MF, precursor, EM, model
 
 link: https://arxiv.org/abs/1812.05054
 title: Explaining the early excess emission of the Type Ia supernova 2018oh by the interaction of the ejecta with disk-originated matter (DOM)
+authors: Naveh Levanon, Noam Soker
+topic: We explain the early excess emission of the Type Ia supernova 2018oh by an interaction of the supernova ejecta with disk-originated matter (DOM). We consider the ejecta-DOM interaction to be the most likely explanation for the early excess emission in SN 2018oh. By that we show that the double degenerate scenario can account for early excess emission in SNe Ia.
+subject: SN, disk, ejecta, EM
+
+link: https://arxiv.org/abs/1812.04803
+title: Multi-messenger Bayesian parameter inference of a binary neutron-star merger
+authors: Michael W. Coughlin, Tim Dietrich, Ben Margalit, Brian D. Metzger
+topic: Bayesian parameter estimation combining information from GW170817, AT2017gfo, GRB170817 to obtain truly multi-messenger constraints on the tidal deformability (302,860) mass (2.722,2.751) and an upper bound on the mass ratio of 1.277, 90\% confidence. Our joint novel analysis makes use of new phenomenological descriptions of the dynamical ejecta, debris disk mass, and remnant black hole properties, all derived from a large suite of numerical relativity simulations.
+subject: BNS, EOS, multimessenger, constraints, GW170817 
+
+link: https://arxiv.org/abs/1812.04641
+title: Imprints of r-process heating on fall-back accretion: distinguishing black hole-neutron star from double neutron star mergers
+authors: Dhruv Desai, Brian D. Metzger, Francois Foucart
+topic: One source of late-time engine activity is fall-back accretion of bound tidal ejecta. Here, we re-examine the impact of heating due to rapid neutron capture (r-process) nucleosynthesis on rate of the fall-back accretion, using ejecta properties obtained from numerical relativity simulations of NS-BH mergers in a toy model for the dynamical influence of nuclear heating. Depending on the mass of the remnant black hole, r-process heating can imprint a variety of fall-back curve shapes, ranging from temporal lulls of up to tens of seconds to complete late-time cut-off in the fall-back rate. This behavior is robust to realistic variations in the nuclear heating experienced by different parts of the ejecta.
+subject: NSBH, BH accretion, EM, r-process, nucleo
+
+link: https://arxiv.org/abs/1812.04526
+title: Magnetically inspired explosive outflows from neutron-star mergers
+authors: Antonios Nathanail, Oliver Porth, Luciano Rezzolla
+topic: In particular, it has been proposed that large amounts of the magnetic energy that is amplified after the merger, can be released when the remnant collapses to a black hole, giving rise to a quasi-spherical explosion impacting on the merger ejecta. Through numerical simulations we investigate this scenario for a range of viewing angles, injected energies and matter densities at the time of the collapse. Depending on the magnitude of the energy injection and the remnant density, we find two types of outflows: one with a narrow relativistic core and one with a wide-angle, but mildly relativistic outflow. Furthermore, very wide outflows are possible, but require energy
+subject: outflow, MF, MHD, GRMHD, BH accretion
+
+link: https://arxiv.org/abs/1812.03218
+title: Semi-analytic modelling of the europium production by neutron star mergers in the halo of the Milky Way
+authors: Pim van Oirschot, Gijs Nelemans, Onno Pols, Else Starkenburg
+topic: We study the r-process enrichment of the stellar halo of the Milky Way through NSM, by tracing the typical r-process element Eu in the Munich-Groningen semi-analytic galaxy formation model, applied to three high resolution Aquarius dark matter simulations. In particular, we investigate the effect of the kick velocities that neutron star binaries receive upon their formation, in the building block galaxies (BBs) that partly formed the stellar halo by merging with our Galaxy.  We conclude that our assumption of instantaneous mixing is most likely inaccurate for modelling the r-process enrichment of the Galactic halo, or an additional production site for r-process elements is necessary to explain the presence of low-metallicity halo stars with high Eu abundances.
+subject: e-rpocess, cosmology, mixing
+
+link: https://arxiv.org/abs/1812.02779
+title: On Neutron Star Mergers as the Source of r-process Enhanced Metal Poor Stars in the Milky Way
+authors: Mohammadtaher Safarzadeh, Richard Sarmento, Evan Scannapieco
+topic: We model the history of Galactic r-process enrichment using high-redshift, high-resolution zoom cosmological simulations of a Milky Way (MW) type halo. We assume that all r-process sources are neutron star mergers (NSMs) with a power law delay time distribution. Our results show that even when we adopt the r-process yield estimates observed in GW170817, NSMs by themselves can only explain the observed frequency of r-process enhanced stars if either the birth rate of double neutron stars per unit mass of stars is boosted.
+subject: r-process, cosmology, PIII
+
+link: https://arxiv.org/abs/1812.01022
+title: Chemical Abundance Analysis of Tucana III, the Second r-process Enhanced Ultra-Faint Dwarf Galaxy
+authors: J. L. Marshall, T. Hansen, J. D. Simon, et al (DES Collaboration)
+topic: We present a chemical abundance analysis of four additional confirmed member stars of Tucana III, a Milky Way satellite galaxy candidate in the process of being tidally disrupted as it is accreted by the Galaxy. Overall, the chemical abundance patterns of these stars suggest that Tucana III was an ultra-faint dwarf galaxy, and not a globular cluster, before being tidally disturbed. 
+subject: observations, galaxies, r-process
+
+link: https://arxiv.org/abs/1812.00507
+title: The Rate of Short-Duration Gamma-Ray Bursts in the Local Universe
+authors: Soheb Mandhai, Nial Tanvir, Gavin Lamb, Andrew Levan, David Tsang
+topic: Following the faint gamma-ray burst, GRB 170817A, coincident with a gravitational wave-detected binary neutron star merger at d\sim 40 Mpc, we consider the constraints on a local population of faint short duration GRBs. Our analysis suggests that GRB 170817A-like events are likely to be rare in existing SGRB catalogues. The best candidate for an analogue remains GRB 050906, where the Swift/BAT location was consistent with the galaxy IC0327 at d\apporx 132 Mpc. If binary neutron star merger rates are at the high end of current estimates, then our results imply that at most a few percent will be accompanied by detectable gamma-ray flashes in the forthcoming LIGO/Virgo science runs.
+subject: GRB, cosmology, observations
+
+link: https://arxiv.org/abs/1811.11491
+title: The optical afterglow of GW170817 at one year post-merger
+authors: G.P. Lamb, J.D. Lyman, A.J. Levan, N.R. Tanvir, T. Kangas, A.S. Fruchter, B. Gompertz, J. Hjorth, I. Mandel, S.R. Oates, D. Steeghs, K. Wiersema
+topic: We present observations of the optical afterglow of GRB\,170817A, made by the {\it Hubble Space Telescope}, between February and August 2018, up to one year after the neutron star merger, GW170817. The afterglow shows a rapid decline beyond 170\simdays, and confirms the jet origin for the observed outflow, in contrast to more slowly declining expectations for `failed-jet' scenarios. We show here that the broadband (radio, optical, X-ray) afterglow is consistent with a structured outflow where an ultra-relativistic jet,
+subject: GRB, jet, observations, structure
+revelation: read if you are to do jet models
+
+%% 27
+
+link: https://arxiv.org/abs/1811.11260
+title: Radio Forensics Could Unmask Nearby Off-axis Gamma-ray Bursts
+authors: Imre Bartos, Kyung-hwan Lee, Alessandra Corsi, Zsuzsa Marka, Szabolcs Marka
+topic: The multi-messenger observation of gamma-ray burst (GRB)\,170817A from the nearby binary neutron-star merger GW170817 demonstrated that low-energy γ-ray emission can be observed at relatively large angles from GRB jet axes. If such structured emission is typical, then the currently known sample of short GRBs with no distance measurements may contain multiple nearby off-axis events whose delayed afterglows could have gone undetected.
+subject: observations, GRB, jet, new method
+
+link: https://arxiv.org/abs/1811.11180
+title: Cooling off with a kilonova - Lower Limit on the Expansion Velocity of GW170817
+authors: Itai Linial, Re'em Sari
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
 authors: 
 topic: 
 subject: 
@@ -1595,4 +1712,51 @@ authors:
 topic: 
 subject: 
 
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
 
