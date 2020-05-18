@@ -1601,42 +1601,44 @@ subject: observations, GRB, jet, new method
 link: https://arxiv.org/abs/1811.11180
 title: Cooling off with a kilonova - Lower Limit on the Expansion Velocity of GW170817
 authors: Itai Linial, Re'em Sari
-topic: 
-subject: 
+topic:  At early times, when the kilonova is still dominant, the synchrotron emitting electrons can efficiently cool by up-scattering the kilonova photos through inverse-Compton. Yet, the cooling frequency is not observed up to the X-ray band. This can only be explained if the source is moving at least at a mildly relativistic velocity. We find a lower limit on the source's bulk Lorentz factor of >2.1
+subject: kilonova, em, x-ray, model
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1811.10929
+title: Constraining twin stars with GW170817
+authors: Gloria Montana, Laura Tolos, Matthias Hanauske, Luciano Rezzolla
+topic: phase transition in the core of a compact star. giving rise to twin-star configurations. We perform an extensive analysis of the features of the phase transition leading twin-star configurations and, at the same time, fulfilling the constraints coming from the maximum mass 2Msun information following gravitational-wave event GW170817. Finally, combining all observational information available, we set constraints on the parameters that characterise the phase transition, the maximum masses, and the radii of 1.4Msun stars described by equations of state leading to twin-star configurations.
+subject: GW, EOS, nucleo, phase transition
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1811.10627
+title: Black hole and neutron star mergers in galactic nuclei
+authors: Giacomo Fragione, Evgeni Grishin, Nathan W. C. Leigh, Hagai. B. Perets, Rosalba Perna
+topic: SMBH, which acts as a perturber and may enhance BH and NS mergers via the Lidov-Kozai mechanism. We follow-up previous studies, but for the first time perform an extensive statistical study of BH-BH, NS-NS and BH-NS binary mergers by means of direct high-precision regularized N-body. We also compare our results to the secular approximation, and show that N-body simulations generally predict a larger number of mergers. Finally, these events can also be observable via their electromagnetic counterparts, thus making these compact object mergers especially valuable for cosmological and astrophysical purposes.
+subject: cosmology, merger rates, SMBH
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1811.09296
+title: Local merger rates of double neutron stars
+authors: Martyna Chruslinska
+topic: shows that apart from being particularly sensitive to the common envelope treatment, DNS merger rates appear rather robust against variations of several factors probed in their study (e.g. conservativeness of the mass transfer, angular momentum loss, and natal kicks), unless extreme assumptions are made. Confrontation with the improving observational limits may allow to rule out some of the extreme models. To correctly compare model predictions with observational limits one has to account for the other factors that affect the rates
+subject: star formation, DNS, projenitros
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1811.08906
+title: Hypermassive Neutron Star Disk Outflows and Blue Kilonovae
+authors: Steven Fahlman, Rodrigo Fernández
+topic: We study mass ejection from accretion disks around newly-formed hypermassive neutron stars (HMNS). Standard kilonova model fits to GW170817 require at least a lanthanide-poor ('blue') and lanthanide-rich ('red') component. but average disk outflow velocities from existing long-term HMNS simulations fall short of the inferred value 0.25c.  Here we use time-dependent, axisymmetric hydrodynamic simulations of HMNS disks to explore the limits of the model and its ability to account for observations. For physically plausible parameter choices compatible with GW170817, we find that hydrodynamic models that use shear viscosity to transport angular momentum cannot eject matter with mass-averaged velocities larger than \sim 0.15c. While outflow velocities in our simulations can exceed the asymptotic value for a steady-state neutrino-driven wind, the increase in the average velocity due to viscosity is not sufficient. Therefore, viscous HMNS disk winds cannot reproduce by themselves the ejecta properties inferred from multi-component fits to kilonova light curves from GW170817
+subject: BNS, HMNS, disk, ejecta, secular, MF, MHD, GRMHD, kilonova, models
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1811.06745
+title: Analysis of the duration--hardness ratio plane of gamma-ray bursts using skewed distributions
+authors: Mariusz Tarnopolski
+topic: existance of an intermedate GRB, between sGRB and lGRB, by analysing statistics of GRB. It is found that the best description is given by a two-component mixture of skewed Student-t distributions, which outperforms any other model considered. This implies that the distribution of the studied parameters is intrinsically skewed, introducing spurious Gaussian components, and hence the third class is unlikely to be a real phenomenon. Its existence, based on statistical inference, is therefore rejected as unnecessary to explain the observations.
+subject: GRB, statistics
 
-link: 
-title: 
-authors: 
+%% 28
+
+link: https://arxiv.org/abs/1811.02558
+title: GW170817: The energy extraction process of the off-axis relativistic outflow and the constraint on the equation of state of neutron stars
+authors: Yuan-Zhu Wang, Dong-Sheng Shao, Jin-Liang Jiang, Shao-Peng Tang, Xiao-Xiao Ren, Fu-Wen Zhang, Zhi-Ping Jin, Yi-Zhong Fan, Da-Ming Wei 
 topic: 
 subject: 
 
