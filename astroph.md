@@ -1639,41 +1639,43 @@ subject: GRB, statistics
 link: https://arxiv.org/abs/1811.02558
 title: GW170817: The energy extraction process of the off-axis relativistic outflow and the constraint on the equation of state of neutron stars
 authors: Yuan-Zhu Wang, Dong-Sheng Shao, Jin-Liang Jiang, Shao-Peng Tang, Xiao-Xiao Ren, Fu-Wen Zhang, Zhi-Ping Jin, Yi-Zhong Fan, Da-Ming Wei 
-topic: 
-subject: 
+topic: In this work we use the results of these modeling (off-axis energetic relativistic outflow component launched) to examine the energy extraction process of the central engine. We show that the magnetic process (i.e., the Blandford-Znajek mechanism) is favored, while the neutrino process usually requires a too massive accretion disk if the duration of the central engine activity is comparable to the observed. We propose that the GRB observations are helpful to constrain the combined tidal parameter by adopting the accretion disk mass distribution estimated in BZ mechanism.
+subject: GRB, disk, jet, GW170817
 
-link: 
-title: 
+link: https://arxiv.org/abs/1811.00790
+title: Magnetic field creation by solar mass neutrino jets
+authors: Dharam Vir Ahluwalia, Cheng-Yang Lee
+topic: Parity violation and its effects for neutrinos in astrophysical contexts have been considered earlier in pioneering papers of Hawking and Vilenkin. neutrino oscillations. Here we show that since in astrophysical scenarios a huge number of neutrinos may be emitted, the smallness of the magnetic moment, when coupled with parity violation, is compensated by the sheer number of neutrinos. The merger of neutron stars would leave behind a short pulse of electromagnetic synchrotron radiation even if the neutrino jet in the merger points away from the neutrino detectors.
+subject: GRB, MF, particle physics, new emission
+
+link: https://arxiv.org/abs/1810.12927
+title: A Strong Jet Signature in the Late-Time Lightcurve of GW170817
+authors: K. P. Mooley, D. A. Frail, D. Dobie, E. Lenc, A. Corsi, K. De, A.J. Nayana, S. Makhathini, I. Heywood et al
+topic: We present new 0.6-10 GHz observations of the binary neutron star merger GW170817 covering the period up to 300 days post-merger, taken with the Karl G. Jansky Very Large Array, the Australia Telescope Compact Array, the Giant Metrewave Radio Telescope and the MeerKAT telescope. Such a slope cannot be produced by a quasi-isotropic (cocoon-dominated) outflow, but is instead the classic signature of a relativistic jet. This provides strong observational evidence that GW170817 produced a successful jet, and directly demonstrates the link between binary neutron star mergers and short-hard GRBs. Using simple analytical arguments, we derive constraints on the geometry and the jet opening angle of GW170817. These results are consistent with those from our companion Very Long Baseline Interferometry (VLBI) paper, reporting superluminal motion in GW170817.
+subject: observations, jet
+
+link: https://arxiv.org/abs/1810.12917
+title: Multimessenger Parameter Estimation of GW170817
+authors: David Radice, Liang Dai
+topic: We combine gravitational wave (GW) and electromagnetic (EM) data to perform a Bayesian parameter estimation of the binary neutron star (NS) merger GW170817. The EM likelihood is constructed from a fit to a large number of numerical relativity simulations which we combine with a lower bound on the mass of the remnant's accretion disk inferred from the modeling of the EM light curve. In comparison with previous works, our analysis yields a more precise determination of the tidal deformability of the binary, for which the EM data provide a lower bound, and of the mass ratio of the binary, with the EM data favoring a smaller mass asymmetry. 
+subject: multimessenger, EM, GW, GW170817
+
+link: https://arxiv.org/abs/1810.11561
+title: Mass Measurements of Neutron-Rich Gallium Isotopes Refine Production of Nuclei of the First r-Process Abundance Peak in Neutron Star Merger Calculations
+authors: M.P. Reiter, S. Ayet San Andrés, S. Nikas, J. Lippuner, C. Andreoiu, C. Babcock, B.R. Barquest, J. Bollig, T. Brunner, T. Dickel, J. Dilling, I. Dillmann, E. Dunling, G. Gwinner, L. Graham, C. Hornung, R. Klawitter, B. Kootte, A.A. Kwiatkowski, et al
+topic: We report mass measurements of neutron-rich Ga isotopes with TRIUMF's Ion Trap for Atomic and Nuclear science (TITAN). The measurements determine the masses of Ga in good agreement with previous measurements. The new mass values reduce the nuclear uncertainties associated with the production of by the \emph{r}-process for astrophysical conditions that might be consistent with a binary neutron star (BNS) merger producing a blue kilonova. Our nucleosynthesis simulations confirm that BNS merger may contribute to the first abundance peak under moderate neutron-rich conditions with electron fractions Ye 0.35 - 0.38
+subject: r-process, observations
+
+link: https://arxiv.org/abs/1810.10966
+title: Baikal-GVD Collaboration: A.D. Avrorin, A.V. Avrorin, V.M. Aynutdinov, R. Bannash, I.A. Belolaptikov, V.B. Brudanin, N.M. Budnev et al
 authors: 
-topic: 
-subject: 
+topic: The precise location of the event was determined by optical detections of emission following the merger. We searched for high-energy neutrinos from the merger in the TeV - 100 PeV energy range using Baikal-GVD. No neutrinos directionally coincident with the source were detected within 500s around the merger time, as well as during a 14-day period after the GW detection. We derived 90\% confidence level upper limits on the neutrino fluence from GW170817 during 
+subject: neutrinos, observations, GW170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+%% 29
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
-
-link: 
-title: 
-authors: 
-topic: 
-subject: 
-
-link: 
-title: 
-authors: 
-topic: 
-subject: 
-
-link: 
-title: 
+link: https://arxiv.org/abs/1810.08618
+title: Jet launching from binary black hole-neutron star mergers: Dependence on black hole spin, binary mass ratio and magnetic field orientation
 authors: 
 topic: 
 subject: 
