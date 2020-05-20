@@ -1676,66 +1676,68 @@ subject: neutrinos, observations, GW170817
 
 link: https://arxiv.org/abs/1810.08618
 title: Jet launching from binary black hole-neutron star mergers: Dependence on black hole spin, binary mass ratio and magnetic field orientation
-authors: 
-topic: 
-subject: 
+authors: Milton Ruiz, Stuart L. Shapiro, Antonios Tsokaros
+topic: sing general relativistic magnetohydrodynamic simulations of BHNS undergoing merger we showed that a magnetically--driven jet can be launched by the remnant if the NS is endowed with a dipole B field extending from the interior into the exterior as in a radio pulsar. Here, as a crucial step in establishing BHNS systems as viable progenitors of central engines that power short gamma--ray bursts (sGRBs) and thereby solidify their role as multimessenger sources, we survey different BHNS configurations that differ in BH spin. By the time we terminate our simulations, we do not observe either an outflow or a large-scale B field collimation in the other configurations we simulate. These results suggest that future multimessenger detections from BHNSs are more likely produced by binaries with highly spinning BH companions and small tilt-angle B fields.
+subject: NSBH, jet, accretion, model, MHD
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.07264
+title: The r-mode instability windows of strange stars
+authors: Yu-Bin Wang, Xia Zhou, Na Wang, Xiong-Wei Liu
+topic: we investigate the r-mode instability windows of strange stars with unpaired and color-flavor-locked phase strange quark matter. Shear viscosities due to surface rubbing and electron-electron scattering are taken into account in this work. he results show that the effects of the equation of state of unpaired strange quark matter are only dominant at low temperature, but do not have significant effects on strange stars in the color-flavor-locked phase. A color-flavor-locked phase strange star, which is surrounded by an insulating nuclear crust, seems to be consistent with observational data of young pulsars
+subject: EOS, quarks, nucphys
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.06109
+title: What do we learn about vector interactions from GW170817?
+authors: Veronica Dexheimer, Rosana de Oliveira Gomes, Stefan Schramm, Helena Pais
+topic: We analyze the role played by vector-isovector meson interaction in dense matter present in the interior of neutron stars in the light of new measurements made during the double neutron-star merger GW170817. These concern measurements of tidal deformability from gravitational waves and electromagnetic observations. Our study includes three different equations of state that contain different physical assumptions and matter compositions, namely the NL3 family, MBF, and CMF models. 
+subject: EOS, mesons, nucphys
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.05448
+title: Gravitational waves from post-merger radially-oscillating millisecond pulsars
+authors: Z. G. Dai
+topic: In this paper, we have investigated rotation-induced gravitational radiation from possibly existing, radially oscillating pulsars after binary neutron star mergers, and find that this mechanism can efficiently damp the radial oscillations. The resulting gravitational waves (GWs) could have a non-negligible contribution to the high-frequency spectrum. We provide an order-of-magnitude estimate of the event rate and suggest that such GW events would be detectable with the advanced LIGO/Virgo or next-generation detectors. Our discussion can also be applied to newborn, radially oscillating, millisecond pulsars formed through the other astrophysical processes.
+subject: GW, pulsars
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.04664
+title: A long-lived neutron star merger remnant in GW170817: constraints and clues from X-ray observations
+authors: L. Piro, E. Troja, B. Zhang, G. Ryan, H. van Eerten, R. Ricci, M. H. Wieringa, A. Tiengo, N. R. Butler, S. B. Cenko, O.D. Fox, H. G. Kandrika, G. Novara, A. Rossi, T. Sakamoto
+topic: We show that a long-lived magnetized NS with a poloidal field is fully consistent with the electromagnetic dataset, when spin down losses are dominated by gravitational wave (GW) emission. The required ellipticity can result from a toroidal magnetic field component much stronger than the poloidal component, a configuration expected from a NS newly formed from a merger. Abrupt magnetic dissipation of the toroidal component can lead to the appearance of X-ray flares, analogous to the one observed in gamma-ray burst (GRB) afterglows. we identify a low-significance  temporal feature at 155 d, consistent with a sudden reactivation of the central NS. Energy injection from the NS spin down into the relativistic shock is negligible, and the underlying continuum is fully accounted for by a structured jet seen off-axis. 
+subject: jet, BNS, new emission, flares, MHD, GRMHD
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.04176
+title: r-process enrichment of ultra-faint dwarf galaxies by fast merging double neutron stars
+authors: Mohammadtaher Safarzadeh, Enrico Ramirez-Ruiz, Jeff. J. Andrews, Tassos Fragos, Phillip Macias, Evan Scannapieco
+topic: However, it is difficult to reconcile the large natal kicks and long average merging times of Double Neutron Stars (DNSs), with the levels of r-process enrichment seen in ultra faint dwarf (UFD) galaxies such as Reticulum II and Tucana III. Assuming that such dwarf systems have lost a significant fraction of their stellar mass through tidal stripping, we conclude that contrary to most current models, it is the DNSs with rather large natal kicks but very short merging timescales that can enrich UFD-type galaxies. These binaries are either on highly eccentric orbits, or form with very short separations due to an additional mass-transfer between the first-born neutron star and a naked helium star, progenitor of the second-born neutron star. These DNSs are born with a frequency that agrees with the statistics of the r-process UFDs, and merge well within the virial radius of their host halos, therefore contributing significantly to their r-process enrichment.
+subject: r-process, cosmology, projenitors, DNS
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.03514
+title: Critical Tests Of Leading Gamma Ray Burst Theories 
+authors: Shlomo Dado, Arnon Dar
+topic: The two leading theoretical models of GRBs and their afterglows, the fireball model and the cannonball model, have been widely confronted with the mounting observational data on GRBs and SHBs during the last two decades. Both have claimed success in reproducing the observational data, despite their complexity and diversity. This claimed success, however, may reflect multiple choices and the use of many free adjustable parameters, rather than the true validity of the models. Only confrontation of the key falsifiable predictions of the models with solid observational data can test their validity. Such critical tests are summarized in this report. Conclusions left to the reader.
+subject: GRB, model, summary
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.02587
+title: Nonthermal afterglow of the binary neutron star merger GW170817: a more natural modeling of electron energy distribution leads to a qualitatively different new solution
+authors: Haoxiang Lin, Tomonori Totani, Kenta Kiuchi
+topic: nonthermal afterglow  -- synchrotron radiation by shock-accelerated electrons. Assumption:  all electrons in the shock are accelerated as a nonthermal population, affecting the peak frequency of the afterglow spectrum. Here we present Bayesian fitting to the observed data with a more natural electron energy distribution, in which the acceleration efficiency is a free parameter. Interestingly, the maximum likelihood solutions are found with radio flux below numax in the early phase, in contrast to previous studies that found the radio frequency always above numax. The jet energy and interstellar medium density are increased by 1--2 orders of magnitude from the conventional modeling, though these are still consistent with other constraints.
+subject: jet, radio, model, synchrotron
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.00170
+title: Pre-merger electromagnetic counterparts of binary compact stars
+authors: Jie-Shuang Wang, Fang-Kun Peng, Kinwah Wu, Zi-Gao Dai
+topic: We investigate emission signatures of binary compact star gravitational wave sources consisting of strongly magnetized neutron stars (NSs) and/or white dwarfs (WDs) in their late-time inspiral phase. Because of electromagnetic interactions between the magnetospheres of the two compact stars, a substantial amount of energy will be extracted in the last few seconds before the two stars merge, when the binary system contains a NS with a surface magnetic field 10 to 12 gauss. The induced electric field in the process can accelerate charged particles up to the EeV energy range. Synchrotron radiation is emitted from energetic electrons, with radiative energies reaching the GeV energy for binary NSs and the MeV energy for NS - WD or double WD binaries. In addition, a blackbody component is also presented and it peaks at several to hundreds keV for binary NSs and at several keV for NS - WD or double WD binaries. The strong angular dependence of the synchrotron radiation and the isotropic nature of the blackbody radiation lead to distinguishable modulation patterns between the two emission components. If coherent curvature radiation is presented, fast radio bursts could be produced.
+subject: precousour, radio, MH, MHD, synchrotron
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1810.00098
+title: The neutron star merger GW170817 points to collapsars as the main r-process source
+authors: Daniel M. Siegel, Jennifer Barnes, Brian D. Metzger
+topic: Here we show that collapsar accretion disks also produce neutron-rich outflows that synthesize heavy r-process nuclei, despite the comparatively proton-rich composition of the infalling star. Though occurring less frequently than mergers, the much greater accreted mass in collapsars---and their correspondingly larger disk wind ejecta---implicate them as dominant contributors to the Galactic r-process. Collapsars provide the rare r-process source needed to promptly enrich a small fraction of ultra-faint dwarf galaxies early in the Universe which is also compatible with the Galactic chemical enrichment of europium relative to iron over longer timescales. We predict an excess in the late-time near-infrared emission from GRB supernovae, testable by future observations.
+subject: collapsars, r-process, nucleo, ejecta
 
-link: 
-title: 
+%% 30
+
+link: https://arxiv.org/abs/1809.11163
+title: Viscous-Dynamical Ejecta from Binary Neutron Star Merger
 authors: 
 topic: 
 subject: 
