@@ -1738,13 +1738,88 @@ subject: collapsars, r-process, nucleo, ejecta
 
 link: https://arxiv.org/abs/1809.11163
 title: Viscous-Dynamical Ejecta from Binary Neutron Star Merger
-authors: 
-topic: 
-subject: 
+authors: David Radice, Albino Perego, Kenta Hotokezaka, Sebastiano Bernuzzi, Steven A. Fromm, Luke F. Roberts
+topic: General-relativistic simulations of binary neutron star mergers with viscosity reveal a new outflow mechanism operating in unequal mass binaries on dynamical timescales and enabled by turbulent viscosity. These "viscous-dynamical" ejecta are launched during merger due to the thermalization of mass exchange streams between the secondary and the primary neutron star. They are characterized by asymptotic velocities extending up to 0.8c. The radioactive decay of the expanding viscous-dynamical ejecta could produce bright kilonova transients with signatures of free neutron decay in the first hour and enhanced near infrared flux on a timescale of a few days. The synchrotron remnant produced by the interaction between the ejecta and the interstellar medium could also be significantly enhanced by viscosity. Such remnant could be detected in the case of GW170817 as a rebrightening of the radio signal in the next months to years.
+subject: BNS, viscosity, BNS, GRHD, models
 
-link: 
-title: 
-authors: 
+link: https://arxiv.org/abs/1809.11161
+title: Binary Neutron Star Mergers: Mass Ejection, Electromagnetic Counterparts and Nucleosynthesis
+authors: David Radice, Albino Perego, Kenta Hotokezaka, Steven A. Fromm, Sebastiano Bernuzzi, Luke F. Roberts
+topic: We present a systematic numerical relativity study of the mass ejection and the associated electromagnetic transients and nucleosynthesis from binary neutron star (NS) mergers.
+subject: BNS, models, GRHD, r-process, nucleo, EM, kilonova
+
+link: https://arxiv.org/abs/1809.10991
+title: Galactic Simulations of r-process Elemental Abundances
+authors: Christopher Haynes, Chiaki Kobayashi
+topic: We present the distributions of elemental abundance ratios using chemodynamical simulations which include four different neutron capture processes: magneto-rotational supernovae, neutron star mergers, neutrino driven winds, and electron capture supernovae. We examine both simple isolated dwarf disc galaxies and cosmological zoom-in simulations of Milky Way-type galaxies, and compare the (Eu/Fe) and (Eu/{\alpha}) evolution with recent observations, including the HERMES-GALAH survey. We find that neither electron-capture supernovae or neutrino-driven winds are able to adequately produce heavy neutron-capture elements such as Eu in quantities to match observations. Both neutron-star mergers and magneto-rotational supernovae are able to produce these elements in sufficient quantities.
+subject: cosmology, r-process, model, chemical evolution, r-process
+
+link: https://arxiv.org/abs/1809.10478
+title: Electrodynamics of double neutron star mergers
+authors: Maxim Lyutikov 
+topic: We consider electromagnetic interaction and precursor emission of merging neutron stars. Orbital motion of the magnetized neutron stars may revive pair production within the common magnetosphere years before the merger, igniting pulsar-like magnetospheric dynamics. We identify two basic scenarios: (i) only one star is magnetized (1M-DNS scenario) and (ii) both stars are magnetized (2M-DNS scenario). Inductively created electric fields can have component along the total magnetic field (gaps) and/or the electric field may exceed the value of the local magnetic field. 
+subject: BNS, MF, analytic, physics, DNS
+
+link: https://arxiv.org/abs/1809.08126
+title: Dense matter equation of state for neutron star mergers
+authors: S. Lalit, M. A. A. Mamun, C. Constantinou, M. Prakash
+topic: Here we assess the status of dense matter theory and point out the successes and limitations of approaches currently in use. A comparative study of the excluded volume (EV) and virial approaches for the np\alpha system using the equation of state of Akmal, Pandharipande and Ravenhall for interacting nucleons is presented in the sub-nuclear density regime. Results of the relevant state variables from this development are presented and enable comparisons with related but slightly different approaches in the literature. We also comment on some of the sweet and sour aspects of the supra-nuclear EOS. The extent to which the neutron star gravitational and baryon masses vary due to thermal effects, neutrino trapping, magnetic fields and rotation are summarized from earlier studies in which the effects from each of these sources were considered separately.
+subject: EOS, NS, nuclear
+
+link: https://arxiv.org/abs/1809.07960
+title: The AMBRE Project: r-process elements in the Milky Way thin and thick discs
+authors: G. Guiglion, P. de Laverny, A. Recio-Blanco, N. Prantzos
+topic: The chemical evolution of neutron capture elements in the Milky Way disc is still a matter of debate. We aim to understand the chemical evolution of r-process elements in Milky Way disc. We find that the (Eu/Fe) ratio follows a continuous sequence from the thin disc to the thick disc as a function of the metallicity. In thick disc stars, the ratio is found to be constant, while the and  ratios decrease as a function of the metallicity.  These observations clearly indicate a different nucleosynthesis history in the thick disc between Eu and Gd-Dy. We also find that the alpha-rich metal-rich stars are also enriched in r-process elements. his data may help to constrain chemical evolution models of Milky Way r- and s-process elements and the yields of massive stars.
+subject: observations, r-process, nucleo
+
+link: https://arxiv.org/abs/1809.07187
+title: Explosive Nucleosynthesis: What we learned and what we still do not understand
+authors: Friedrich-Karl Thielemann
+topic: This review discusses (i) the required nuclear input from reaction rates and decay properties up to the nuclear equation of state, continues (ii) with the tools to perform nucleosynthesis calculations and (iii) early parametrized nucleosynthesis studies, before (iv) reliable stellar models became available for the late stages of stellar evolution. It passes then through (v) explosive environments from core-collapse supernovae to explosive events in binary systems (including type Ia supernovae and compact binary mergers), and finally (vi) discusses the role of all these nucleosynthesis production sites in the evolution of galaxies
+subject: review, r-process, nuecleo
+
+link: https://arxiv.org/abs/1809.06843
+title: Constraining the Outflow Structure of the Binary Neutron Star Merger Event GW170817 with Markov-Chain Monte Carlo Analysis
+authors: Yiyang Wu, Andrew MacFadyen
+topic: We utilize a physically motivated analytic two-parameter model called the "boosted fireball" for the outflow structure after it has expanded far from the merger site and has entered the self-similar coasting phase. This model consists of a family of outflows with a structure varying smoothly between a highly collimated ultra-relativistic jet and an isotropic fireball. We simulate the dynamical evolution, starting with "boosted fireball" initial conditions, of 240 outflows using the moving-mesh relativistic hydrodynamics code JET to follow their evolution through the afterglow phase. We compute synchrotron spectra from the hydrodynamic simulations using the standard synchrotron radiation model. We develop a synthetic light curve generator with an efficient sampling speed. Our results favor the relativistic structured jet, with a jet opening angle \sim 5 deg and Lorentz factor \sim 175, viewed from an off-axis angle of 27(+9-3) deg. 
+subject: jet, EM, model, analytic, synchrotron
+
+link: https://arxiv.org/abs/1809.05099
+title: EM counterparts of structured jets from 3D GRMHD simulations
+authors: Adithan Kathirgamaraju, Alexander Tchekhovskoy, Dimitrios Giannios, Rodolfo Barniol Duran
+topic:  it remains unclear whether and how the central engine can produce such structured jets. Here, we utilize 3D GRMHD simulations starting with a black hole surrounded by a magnetized torus with properties typically expected of a post-merger system. We follow the jet, as it is self-consistently launched, from the scale of the compact object out to more than 3 orders of magnitude in distance. We find that this naturally results in a structured jet, which is collimated by the disk wind into a half-opening angle of roughly 10 degrees, its emission can explain features of both the prompt and afterglow emission of GRB170817A for a 30 degree observing angle. Our work is the first to compute the afterglow, in the context of a binary merger, from a relativistic magnetized jet self-consistently generated by an accreting black hole, with the jet's transverse structure determined by the accretion physics and not prescribed at any point.
+subject: jet, GRMHD, model, BH accretion, EM afterglow
+
+link: https://arxiv.org/abs/1809.04597
+title: Neutron Star Mergers Are the Dominant Source of the r-process in the Early Evolution of Dwarf Galaxies
+authors: Gina E. Duggan, Evan N. Kirby, Serge M. Andrievsky, Sergey A. Korotin
+topic: Dwarf galaxies are especially useful because simple chemical evolution models can be used to determine the sources of r-process material. We have measured the r-process element barium with Keck/DEIMOS medium-resolution spectroscopy. We present the largest sample of barium abundances (almost 250 stars) in dwarf galaxies ever assembled. We have found that a large contribution of barium needs to occur at more delayed timescales than core-collapse supernovae in order to explain our observed abundances, namely the significantly more positive trend of the r-process component of... We conclude that neutron star mergers are the most likely source of r-process enrichment in dwarf galaxies at early times.
+subject: r-process, observations, sources
+
+link: https://arxiv.org/abs/1809.04295
+title: GW170817: implications for the local kilonova rate and for surveys from ground-based facilities
+authors: M. Della Valle, D. Guetta, E. Cappellaro, L. Amati, M.T. Botticella, M. Branchesi, E. Brocato, L. Izzo, M.A. Perez-Torres, G. Stratta
+topic: We compute the local rate of events similar to GRB 170817A, which has been recently found to be associated with a kilonova (KN) outburst. Finally we provide preliminary estimates of the number of sGRB/KN events detected by future surveys carried out with present/future ground-based/space facilities, such as LSST, VST, ZTF, SKA and THESEUS.
+subject: merger rates, observations, GRB
+
+link: https://arxiv.org/abs/1809.04078
+title: The origin of polarization in kilonovae and the case of the gravitational-wave counterpart AT 2017gfo
+authors: M. Bulla, S. Covino, K. Kyutoku, M. Tanaka, J. R. Maund, F. Patat, K. Toma, K. Wiersema, J. Bruten, Z. P. Jin, V. Testa
+topic: In this paper, we present and discuss a detailed analysis of the linear polarization expected from a merging NS binary system by means of 3D Monte Carlo radiative transfer simulations assuming a range of possible configurations, wavelengths, epochs and viewing angles. We find that polarization originates from the non-homogeneous opacity distribution within the ejecta and can reach levels of 1\% at early times (1−2 days after the merger) and in the optical R band.  we constrain the observer orientation of AT 2017gfo.
+subject: polarisation, kilonova, model, EM 
+
+%% 31 
+
+link: https://arxiv.org/abs/1809.03525
+title: Neutron Star Mergers Might not be the Only Source of r-Process Elements in the Milky Way
+authors: Benoit Côté, Marius Eichler, Almudena Arcones, Camilla J. Hansen, Paolo Simonetti, Anna Frebel, Chris L. Fryer, Marco Pignatari, Moritz Reichert, Krzysztof Belczynski, Francesca Matteucci 
+topic: We review the observational evidence that probe the properties of r-process sites, and address them using galactic chemical evolution simulations, binary population synthesis models, and nucleosynthesis calculations. Our motivation is to define which astrophysical sites have significantly contributed to the total mass of r-process elements present in our Galaxy. We found discrepancies with the neutron star (NS-NS) merger scenario. One solution is to assume an extra production site of Eu that would be active in the early universe, but would fade away with increasing metallicity. If this is correct, this extra site could be responsible for roughly 50% of the Eu production in the early universe, before the onset of Type~Ia supernovae. Rare classes of supernovae could be this additional r-process source, but hydrodynamic simulations still need to ensure the conditions for a robust r-process pattern.
+subject: r-process, abundances, observations, models
+revelation: source of the belive for other sources of galactic r-process
+
+link: https://arxiv.org/abs/1809.03087
+title: Kilonova emission from black hole-neutron star mergers: observational signatures of anisotropic mass ejection
+authors: Zhi-Qiu Huang, Liang-Duan Liu, Xiang-Yu Wang, Zi-Gao Dai
 topic: 
 subject: 
 
