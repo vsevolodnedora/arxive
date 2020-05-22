@@ -1820,6 +1820,194 @@ revelation: source of the belive for other sources of galactic r-process
 link: https://arxiv.org/abs/1809.03087
 title: Kilonova emission from black hole-neutron star mergers: observational signatures of anisotropic mass ejection
 authors: Zhi-Qiu Huang, Liang-Duan Liu, Xiang-Yu Wang, Zi-Gao Dai
+topic:  In this paper, we investigate observational signatures of kilonova emission from the anisotropic ejecta in BH-NS mergers. We find that a bump appears on the bolometric luminosity light curve due to the inhomogeneous mass distribution in the latitudinal direction. The decay slope of the single-band light curve becomes flatter and the spectrum also deviates from a single-temperature blackbody radiation spectrum due to the gradient in the velocity distribution of the ejecta. Future detection or non-detection of such signatures would be useful to test the mass ejection geometry in BH-NS mergers.
+subject: kilonova, NSBH, model, summary
+
+link: https://arxiv.org/abs/1809.02000
+title: QCD at high density: Equation of state for nuclear collisions and neutron stars
+authors: Anton Motornenko, Volodymyr Vovchenko, Jan Steinheimer, Stefan Schramm, Horst Stoecker
+topic: A unified chiral mean field approach is presented for QCD thermodynamics in a wide range of temperatures and densities. The model simultaneously gives a satisfactory description of lattice QCD thermodynamics and fulfills nuclear matter and astrophysical constraints. The resulting equation of state can be incorporated in relativistic fluid-dynamical simulations of heavy-ion collisions and neutron stars mergers. Access to different regions of the QCD phase diagram can be obtained in simulations of heavy-ion data and observations of neutron star mergers.
+subject: EOS, BNS, QCD
+
+link: https://arxiv.org/abs/1809.01149
+title: Delayed jet breakouts from binary neutron star mergers
+authors: Tatsuya Matsumoto, Shigeo S. Kimura
+topic: the jet may be choked and fails to produce a successful sGRB. We propose a "delayed breakout" scenario where a late-time jet launched by a long-term engine activity can penetrate ejecta even if a prompt jet is choked. Observationally, such a late-time jet is supported by the long-lasting high-energy emissions in sGRBs. Solving the jet propagation in ejecta, we show that a typical late-time activity easily achieves the delayed breakout.
+subject: jet, BNS, new model, GRB
+
+link: https://arxiv.org/abs/1809.01116
+title: Identifying a first-order phase transition in neutron star mergers through gravitational waves
+authors: Andreas Bauswein, Niels-Uwe F. Bastian, David B. Blaschke, Katerina Chatziioannou, James A. Clark, Tobias Fischer, Micaela Oertel
+topic: We identify an observable imprint of a first-order hadron-quark phase transition at supranuclear densities on the gravitational-wave (GW) emission of neutron star mergers. Specifically, we show that the dominant postmerger GW frequency fpeak may exhibit a significant deviation from an empirical relation between fpeak and the tidal deformability if a strong first-order phase transition leads to the formation of a gravitationally stable extended quark matter core in the postmerger remnant
+subject: GW, EOS, BNS, QCD
+
+link: https://arxiv.org/abs/1809.00006
+title: Mergers of black hole-neutron star binaries and rates of associated electromagnetic counterparts
+authors: Mukul Bhattacharya, Pawan Kumar, George Smoot
+topic: Here we study the effect of the BHNS binary parameters on the merger ejecta properties and associated EM signals. We estimate the remnant disk and unbound ejecta masses for BH mass and spin distributions motivated from the observations of transient low-mass X-ray binaries (LMXBs) and specific NS equation of state (EoS). The amount of r-process elements synthesised in BHNS mergers is estimated to be a factor 1 -- 0.01\% of the BNS.  due to the smaller dynamical ejecta and merger rates for the former. We compute the EM luminosities and light curves for the early- and late-time emissions from the ultra-relativistic jet, sub-relativistic dynamical ejecta and wind, and the mildly-relativistic cocoon for typical ejecta parameters. 
+subject: NSBH, models, ejecta, EM, kilonova, merger rates
+
+link: https://arxiv.org/abs/1808.10459
+title: Fingerprints of heavy element nucleosynthesis in the late-time lightcurves of kilonovae
+authors: Meng-Ru Wu, Jennifer Barnes, Gabriel Martinez-Pinedo, Brian D. Metzger
+topic: At early times (~days) most of the r-process heating arises from a large statistical ensemble of beta-decays, which thermalize efficiently while the ejecta is still dense, generating a heating rate that is reasonably approximated by a single power-law. However, at later times (weeks to months), the decay energy input can possibly be dominated by a discrete number of alpha-decays following the beta-decay of 225Ra which liberate more energy per decay and thermalize with greater efficiency than beta-decay products. Late-time nebular observations of kilonovae which constrain the radioactive power provide the potential to identify signatures of these individual isotopes, thus confirming the production of heavy nuclei. In order to constrain the bolometric light to the required accuracy, multi-epoch & wide-band observations are required with sensitive instruments like the James Webb Space Telescope
+subject: r=process, nucleo, prospects, estimations
+
+link: https://arxiv.org/abs/1808.10057
+title: Forecasting Gamma-Ray Bursts using Gravitational Waves
+authors: Sarp Akcay
+topic: We explore the intriguing possibility of employing future ground-based gravitational-wave interferometers to detect the inspiral of binary neutron stars sufficiently early to alert electromagnetic observatories so that a gamma-ray burst (GRB) can be observed in its entirety from its very beginning. 
+subject: GRB, prosepct, GW
+
+link: https://arxiv.org/abs/1808.09833
+title: Radioactive \gamma-Ray Emissions from Neutron Star Mergers
+authors: Li-Xin Li
+topic: According to the theoretical model, the optical radiation from a neutron star merger originates from the radioactive decay of unstable nuclides freshly synthesized in the merger ejecta. In about a day the ejecta transits from an optically thick state to an optically thin state due to its subrelativistic expansion. Hence, we expect that about a day after the merger, the gamma-ray photons produced by radioactive decays start to escape from the ejecta and make it bright in the MeV band. In this paper, we study the features of the radioactive gamma-ray emission from a neutron star merger, including the brightness and the spectrum, and discuss the observability of the gamma-ray emission. Under favorable conditions, a prominent pair annihilation line can be present in the gamma-ray spectrum. Requires D less 12Mpc.
+subject: GRB, gamma, EM, BNS, radiation
+
+link: https://arxiv.org/abs/1808.07889
+title: Impact of inter-correlated initial binary parameters on double black hole and neutron star mergers
+authors: J. Klencki, M. Moe, W. Gladysz, M. Chruslinska, D. E. Holz, K. Belczynski
+topic: Here, we implement empirically derived inter-correlated distributions of initial binary parameters primary mass (M1), mass ratio (q), orbital period (P), and eccentricity (e). Unexpectedly, the introduction of inter-correlated initial binary parameters leads to only a small decrease in the predicted merger rates by a factor of 2 − 3 relative to the previously used non-correlated initial distributions. The formation of compact object mergers in the isolated classical binary evolution favors initial binaries with stars of comparable masses (q = 0.5 − 1) at intermediate orbital periods (log P (days) = 2 − 4)
+subject: projenitors, IMF, DNS, NSBH
+
+link: https://arxiv.org/abs/1808.06848
+title: Constraining the Neutron Star Radius with Joint Gravitational-Wave and Short Gamma-Ray Burst Observations of Neutron Star-Black Hole Coalescing Binaries
+authors: Stefano Ascenzi, Nicola De Lillo, Carl-Johan Haster, Frank Ohme, Francesco Pannarale
+topic: he observation of an SGRB in coincidence with gravitational radiation from an NS-BH coalescence would confirm the association between the two phenomena and also give us new insights on NS physics. We present here a new method to measure NS radii and thus constrain the NS equation of state using joint SGRB and GW observations of NS-BH mergers. We show that in the event of a joint detection with realistic GW signal-to-noise ratio (S/N)
+subject: MM, BNS, GRB, GW, NSBH
+
+link: https://arxiv.org/abs/1808.06617
+title: A year in the life of GW170817: the rise and fall of a structured jet from a binary neutron star merger
+authors: E. Troja, H. van Eerten, G. Ryan, R. Ricci, J. M. Burgess, M. Wieringa, L. Piro, S. B. Cenko, T. Sakamoto
+topic: We present the results of our year-long afterglow monitoring of GW170817, the first binary neutron star (NS) merger detected by advanced LIGO and advanced Virgo. New observations with the Australian Telescope Compact Array (ATCA) and the Chandra X-ray Telescope were used to constrain its late-time behavior. The latest temporal trend challenges most models of choked jet/cocoon systems, and is instead consistent with the emergence of a relativistic structured jet seen at an angle of \sim 22 deg from its axis
+subject: observations, GW170817, sumamry, jet
+
+link: https://arxiv.org/abs/1808.06238
+title: Observational consequences of structured jets from neutron star mergers in the local Universe
+authors: Nihar Gupte, Imre Bartos
+topic: The recent multi-messenger discovery of binary neutron star (BNS) merger GW170817 showed that \gamma-ray emission in short GRBs is wider than the central energetic narrow cone, and weakly expands out to tens of degrees. Here we explore some of the observational consequences of this structured emission, taking the reconstructed angular emission profile of gamma-ray burst GRB170817A to be typical. We calculate the expected fraction of gravitational-wave observations from BNS mergers that will have an observed GRB counterpart to be \sim 30\%, implying that joint gravitational-wave and GRB observations will be common. Further, we find that \sim 10% of observed short GRBs occur within 200 Mpc. Finally, we estimate a BNS merger rate of 500
+subject: jet, model, observations, BNS, cosmology
+
+%% 32 
+
+link: https://arxiv.org/abs/1808.05794
+title: Binary neutron star and short gamma-ray burst simulations in light of GW170817
+authors: Antonios Nathanail
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
 topic: 
 subject: 
 
