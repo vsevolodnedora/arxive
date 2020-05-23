@@ -1894,72 +1894,75 @@ subject: jet, model, observations, BNS, cosmology
 link: https://arxiv.org/abs/1808.05794
 title: Binary neutron star and short gamma-ray burst simulations in light of GW170817
 authors: Antonios Nathanail
-topic: 
-subject: 
+topic: lay back and think about established knowledge. We review the status of numerical relativity simulations with respect to any jet or magnetized outflow produced after merger. We compare what is known from such simulations, with what is used and obtained from short GRB jet simulations propagating through the BNS ejecta. We point out facts that are established and can be considered known, and things that need to be further revised and/or clarified.
+subject: jet, NR, review, GRB, sumamry
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.05210
+title: Circularly Polarized EM Radiation from GW Binary Sources
+authors: Soroush Shakeri, Alireza Allahyari
+topic: We consider the polarization characteristics of the electromagnetic (EM) counterpart of the gravitational wave (GW) created by coalescence of the binary sources. Here, we explore the impact of the photon-graviton interaction on the polarization evolution of X-ray emission of GammaRay Bursts (GRBs). We show that significant circular polarization can be generated due to the gravitational wave from the binary merger. Our predicted signal can be used as an indirect probe for GW events and also the nature of photon-graviton interaction.
+subject: EM, GW, graviton, GRB, physics
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.04831
+title: A lesson from GW170817: most neutron star mergers result in tightly collimated successful GRB jets
+authors: Paz Beniamini, Maria Petropoulou, Rodolfo Barniol Duran, Dimitrios Giannios
+topic: Comparing the observations of GRB170817 with those of the regular population of short GRBs (sGRBs), we show that an order unity fraction of NS mergers result in sGRB jets that breakout of the surrounding ejecta. We argue that the luminosity function of sGRBs. likely an intrinsic property of the sGRB central engine and that sGRB jets are typically narrow with opening angles. We perform Monte Carlo simulations to examine models for the structure and efficiency of the prompt emission in off axis sGRBs. We find that only a small fraction of NS mergers detectable by LIGO/VIRGO in GWs is expected to be also detected in prompt \gamma-rays and that GW170817-like events are very rare. 
+subject: GRB, monte-carlo, models
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.04831
+title: A lesson from GW170817: most neutron star mergers result in tightly collimated successful GRB jets
+authors: Paz Beniamini, Maria Petropoulou, Rodolfo Barniol Duran, Dimitrios Giannios
+topic: off-axis GRBs. Comparing the observations of GRB170817 with those of the regular population of short GRBs (sGRBs), we show that an order unity fraction of NS mergers result in sGRB jets that breakout of the surrounding ejecta. We argue that the luminosity function of sGRBs, peaking 10**52. likely an intrinsic property of the sGRB central engine and that sGRB jets are typically narrow with opening angles. We perform Monte Carlo simulations to examine models for the structure and efficiency of the prompt emission in off axis sGRBs. 
+subject: GRB, mone-carlo, geometry, models
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.04822
+title: Are fast radio bursts the most likely electromagnetic counterpart of neutron star mergers resulting in prompt collapse?
+authors: Vasileios Paschalidis, Milton Ruiz
+topic: Moreover, we find that most models of the BNS mass function we study here predict that the majority of prompt-collapse BNS mergers have q greater 0.8. Prompt-collapse BNS mergers with mass ratio may not be accompanied by detectable kilonovae or short gamma-ray bursts, because they unbind a negligible amount of mass and form negligibly small accretion disks onto the remnant black hole. We call such BNS mergers "orphan". Through simulations in full general relativity of BNSs endowed with an initial dipole magnetosphere, we find that the energy in the magnetosphere following black hole formation is  in 1 ms, as has been found in previous studies, matches the premerger magnetospheric luminosity. These magnetospheric signals are not beamed, and their duration and power agrees with those of non-repeating fast radio bursts (FRBs).
+subject: MHD, GRMHD, jet, FRB, GRB
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.03836
+title: Distinguishing the nature of comparable-mass neutron star binary systems with multimessenger observations: GW170817 case study
+authors: Tanja Hinderer, Samaya Nissanke, Francois Foucart, Kenta Hotokezaka, Trevor Vincent, Mansi Kasliwal, Patricia Schmidt, Andrew R. Williamson, David Nichols, Matthew Duez, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel
+topic: Using new numerical-relativity simulations and incorporating modeling uncertainties we produce novel GW and EM observables for NS-BH mergers with similar masses. A joint analysis of GW and EM measurements reveals that if GW170817 is a NS-BH merger, less then 40% of the binary parameters consistent with the GW data are compatible with EM observations.
+subject: NSBH, predictions, models
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.03763
+title: Physical conditions for the r-process I. radioactive energy sources of kilonovae
+authors: Shinya Wanajo
+topic: In previous studies power-law-type heating rates have frequently been used, which may be inadequate if the ejecta are dominated by nuclei other than the A ~ 130 region. We consider, therefore, two reference abundance distributions that match the r-process residuals to the solar abundances for A above 69 (light trans-iron plus r-process elements) and A above 90 (r-process elements). Nucleosynthetic abundances are obtained by using free-expansion models with three parameters: expansion velocity, entropy, and electron fraction. Radioactive energies are calculated as an ensemble of weighted free-expansion models that reproduce the reference abundance patterns. The results are compared with the bolometric luminosity (above a few days since merger) of the kilonova associated with GW170817. If this is the case, the event GW170817 is best explained by the production of both light trans-iron and r-process elements that originate from dynamical ejecta and subsequent disk outflows from the neutron star merger.
+subject: r-process, light and heavy, models, BNS
+revelation: Important for swind nucleo! 
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.03390
+title: Stochastic Chemical Evolution of Galactic Subhalos and the Origin of r-Process Elements
+authors: Takuya Ojima, Yuhri Ishimaru, Shinya Wanajo, Nikos Prantzos, Patrick Francois
+topic: the average coalescence timescale of NSMs appears to be > 100 Myr. most of previous chemical evolution models indicate that the observed early appearance and large dispersion of [r/Fe] in Galactic halo stars at [Fe/H] less -2.5 favors shorter coalescence times of 1-10 Myr. We argue that this is not the case for the models assuming the formation of the Galactic halo from clustering of subhalos with different star formation histories as suggested by Ishimaru et al. (2015). We present a stochastic chemical evolution model of the subhalos, in which the site of the r-process is assumed to be mainly NSMs with a coalescence timescale of 100 Myr.  Our results show that the less massive subhalos evolve at lower metallicities and generate highly r-process-enhanced stars. An assembly of these subhalos leaves behind the large star-to-star scatters of [r/Fe] in the Galactic halo as observed. However, the observed scatters of [Sr/Ba] at low metallicities indicate the presence of an additional site that partially contributes to the enrichment of light neutron-capture elements such as Sr.
+subject: r-process, sites, origin, cosmology
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.00469
+title: Compact radio emission indicates a structured jet was produced by a binary neutron star merger
+authors: G. Ghirlanda, O. S. Salafia, Z. Paragi, A. Perego, et al
+topic: The binary neutron star merger event GW170817 was detected through both electromagnetic radiation and gravitational waves. Its afterglow emission may have been produced by either a narrow relativistic jet or an isotropic outflow. High spatial resolution measurements of the source size and displacement can discriminate between these scenarios. We present Very Long Baseline Interferometry observations, performed 207.4 days after the merger, using a global network of 32 radio telescopes. The apparent source size is constrained to be smaller than 2.5 milliarcseconds at the 90% confidence level. This excludes the isotropic outflow scenario, which would have produced a larger apparent size, indicating that GW170817 produced a structured relativistic jet.
+subject: jet, observations, BNS, GW170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.00461
+title: Long-term GRMHD Simulations of Neutron Star Merger Accretion Disks: Implications for Electromagnetic Counterparts
+authors: Rodrigo Fernández, Alexander Tchekhovskoy, Eliot Quataert, Francois Foucart, Daniel Kasen
+topic: We investigate the long-term evolution of black hole accretion disks formed in neutron star mergers. These disks expel matter that contributes to an r-process kilonova, and can produce relativistic jets powering short gamma-ray bursts. Here we report the results of a three-dimensional, general-relativistic magnetohydrodynamic (GRMHD) simulation of such a disk which is evolved for long enough 6s to achieve completion of mass ejection far from the disk. Our model starts with a poloidal field, and fully resolves the most unstable mode of the magnetorotational instability. We parameterize the dominant microphysics and neutrino cooling effects, and compare with axisymmetric hydrodynamic models with shear viscosity. The GRMHD model ejects mass in two ways: a prompt MHD-mediated outflow and a late-time, thermally-driven wind once the disk becomes advective. The total amount of unbound mass ejected (0.013Msun, or \approx 40\% of the initial torus mass) is twice as much as in hydrodynamic models, with higher average velocity (0.1c) and a broad electron fraction distribution with a lower average value (0.16). 
+subject: GRMHD, model, BH accretion, EM, ejecta
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1808.00006
+title: Improved Leakage-Equilibration-Absorption Scheme (ILEAS) for Neutrino Physics in Compact Object Mergers
+authors: Ricard Ardevol-Pulpillo, H.-Thomas Janka, Oliver Just, Andreas Bauswein
+topic: We present a new, computationally efficient, energy-integrated approximation for neutrino effects in hot and dense astrophysical environments such as supernova cores and compact binary mergers and their remnants. Our new method, termed ILEAS for Improved Leakage-Equilibration-Absorption Scheme, improves the lepton-number and energy losses of traditional leakage descriptions by a novel prescription of the diffusion time-scale based on a detailed energy integral of the flux-limited diffusion equation. The leakage module is supplemented by a neutrino-equilibration treatment that ensures the proper evolution of the total lepton number and medium plus neutrino energies as well as neutrino-pressure effects in the neutrino-trapping domain. Moreover, we employ a simple and straightforwardly applicable ray-tracing algorithm for including re-absorption of escaping neutrinos especially in the decoupling layer and during the transition to semi-transparent conditions. ILEAS is implemented on a three-dimensional (3D) Cartesian grid with a minimum of free and potentially case-dependent parameters and exploits the basic physics constraints that should be fulfilled in the neutrino-opaque and free-streaming limits. 
+subject: neutrino, method, code, leackage
 
-link: 
-title: 
-authors: 
+%% 33 
+
+link: https://arxiv.org/abs/1807.07905
+title: Electromagnetic emission of white dwarf binary mergers
+authors: J.A. Rueda, R. Ruffini, Y. Wang, C.L. Bianco, J.M. Blanco-Iglesias, M. Karlica, P. Loren-Aguilar, R. Moradi, N. Sahakyan
 topic: 
 subject: 
 
