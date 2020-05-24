@@ -1963,6 +1963,101 @@ subject: neutrino, method, code, leackage
 link: https://arxiv.org/abs/1807.07905
 title: Electromagnetic emission of white dwarf binary mergers
 authors: J.A. Rueda, R. Ruffini, Y. Wang, C.L. Bianco, J.M. Blanco-Iglesias, M. Karlica, P. Loren-Aguilar, R. Moradi, N. Sahakyan
+topic: To confirm this we calculate the electromagnetic emission from WD-WD mergers and compare with kilonova observations. We simulate WD-WD mergers leading to a massive, fast rotating, highly magnetized WD with an adapted version of the smoothed-particle-hydrodynamics (SPH) code Phantom. We thus obtain initial conditions for the ejecta such as escape velocity, mass and initial position and distribution.
+subject: WD, merger, model, EM
+revelation: see for emission details, analytical models
+
+link: https://arxiv.org/abs/1807.07659
+title: A consistent estimate for Gravitational Wave and Electromagnetic transient rates
+authors: J. J. Eldridge, E. R. Stanway, Petra N. Tang
+topic: We aim to estimate simultaneously the event rates and delay time distribution of gravitational wave-driven compact object mergers together with the rates of core collapse and thermonuclear supernovae within a single consistent stellar population synthesis paradigm. We combine event delay-time distributions at different metallicities from the Binary Population and Spectral Synthesis (BPASS) models with an analytic model of the volume-averaged cosmic star formation rate density and chemical evolution to determine the volume-averaged rates of each event rate at the current time.
+subject: merger rates, progenitors, star formation
+
+link: https://arxiv.org/abs/1807.06959
+title: Full 3D Numerical Relativity Simulations of Neutron Star -- Boson Star Collisions with BAM
+authors: Tim Dietrich, Serguei Ossokine, Katy Clough
+topic: In this paper, we extend the infrastructure of the numerical relativity code BAM, to permit the simultaneous simulation of baryonic matter with bosonic scalar fields, thus enabling the study of BS-BS, BS-NS, and BS-BH mergers. We present a large number of single star evolutions to test the newly implemented routines, and to quantify the numerical challenges of such simulations, which we find to partially differ from the default NS case. We also compare head-on BS-BS simulations with independent numerical relativity codes, namely the SpEC and the GRChombo codes, and find good general agreement.
+subject: NR, models, BAM, EOS
+
+link: https://arxiv.org/abs/1807.06857
+title: Gravitational waves and mass ejecta from binary neutron star mergers: Effect of large eccentricities
+authors: Swami Vivekanandji Chaurasia, Tim Dietrich, Nathan K. Johnson-McDaniel, Maximiliano Ujevic, Wolfgang Tichy, Bernd Brügmann
+topic: We present the first detailed study of highly eccentric BNS systems with full (3+1)D numerical relativity simulations using consistent initial conditions, i.e., setups which are in agreement with the Einstein equations and with the equations of general relativistic hydrodynamics in equilibrium. While in general (eccentric) neutron star mergers produce bright electromagnetic counterparts, we find that the luminosity decreases when the eccentricity becomes too large, due to a decrease of the ejecta mass
+subject: BNS, eccetric, BAM, models, EM
+
+link: https://arxiv.org/abs/1807.06662
+title: Actinide Production in Neutron-Rich Ejecta of a Neutron Star Merger
+authors: Erika M. Holmbeck, Rebecca Surman, Trevor M. Sprouse, Matthew R. Mumpower, Nicole Vassh, Timothy C. Beers, Toshihiko Kawano
+topic:  Simulations of r-process nucleosynthesis, so far fail to account for the observed over-enhancement of actinides. In this work, we investigate actinide production in the dynamical ejecta of a neutron star merger and explore if varying levels of neutron richness can reproduce the actinide boost. We also investigate the sensitivity of actinide production on nuclear physics properties: fission distribution, beta-decay, and mass model. For most cases, the actinides are over-produced in our models if the initial conditions are sufficiently neutron-rich for fission cycling. We find that actinide production can be so robust in the dynamical ejecta that an additional lanthanide-rich, actinide-poor component is necessary in order to match observations of actinide-boost stars. We present a simple actinide-dilution model that folds in estimated contributions from two nucleosynthetic sites within a merger event. Our study suggests that while the dynamical ejecta of a neutron star merger is a likely production site for the formation of actinides, a significant contribution from another site or sites (e.g., the neutron star merger accretion disk wind) is required to explain abundances of r-process-enhanced, metal-poor stars.
+subject: r-process, actinites, BNS, nucleo
+revelation: source of the r-process actinides overproduction
+
+link: https://arxiv.org/abs/1807.06437
+title: Neutron star equation of state and GW170817
+authors: Sajad A. Bhat, Debades Bandyopadhyay
+topic: Properties of neutron stars in GW170817 are investigated using different equations of state (EoS) involving nucleons, Λ hyperons, quarks resulting in 2Msum neutron stars. This calculation is performed using the same EoS for merger components and for low spin prior case. It is found from the computations of tidal deformability parameters that soft to moderately stiff equations of state are allowed by the 50\% and 90\% credible regions obtained from the gravitational wave observation of binary neutron star merger GW170817, whereas the stiffest hadron-quark EoS which lies above the upper 90% limit, is ruled out. A correlation among the tidal deformabilities and masses is found to exist as already predicted. Furthermore moments of inertia and quadrupole moments of merger components of GW170817 are estimated.
+subject: EOS, BNS, GW
+
+link https://arxiv.org/abs/1807.05667
+title: A standard siren measurement of the Hubble constant from GW170817 without the electromagnetic counterpart
+authors: M. Fishbach, R. Gray, I. Magaña Hernandez, H. Qi, A. Sur, F. Acernese, L. Aiello, A. Allocca, M. A. Aloy, A. Amato, S. Antier, M. Arène, N. Arnaud et al
+topic: We perform a statistical standard siren analysis of GW170817. Our analysis does not utilize knowledge of NGC 4993 as the unique host galaxy of the optical counterpart to GW170817. Instead, we consider each galaxy within the GW170817 localization region as a potential host; combining the redshift from each galaxy with the distance estimate from GW170817 provides an estimate of the Hubble constant, H0. We then combine the H0 values from all the galaxies to provide a final measurement of H0. We explore the dependence of our results on the thresholds by which galaxies are included in our sample, as well as the impact of weighting the galaxies by stellar mass and star-formation rate. 
+subject: GW, hubble, siren
+
+link: https://arxiv.org/abs/1807.05226
+title: Viewing angle of binary neutron star mergers
+authors: Hsin-Yu Chen, Salvatore Vitale, Ramesh Narayan
+topic: n the first part of this study, we present a systematic analysis of how well the viewing angle of binary neutron stars can be measured from the GW data. We show that if the sky position and the redshift of the binary can be identified via the EM counterpart and an associated host galaxy, then for 50\% of the systems the viewing angle can be constrained to \leq 7∘ uncertainty from the GW data, independent of electromagnetic emission models. On the other hand, if no redshift measurement is available, the measurement of the viewing angle with GW alone is not informative. 
+subject: observation prospects, jet, GW, angle
+
+link: https://arxiv.org/abs/1807.04766
+title: Polarization of the first-hour macronovae
+authors: Tatsuya Matsumoto
+topic: Early- time macronovae are potentially powered by some mechanisms such as the beta-decay heating of the surviving free neutrons. In this paper, we propose that the polarimetric observation can be a useful tool to study the early macronova emissions. If free nucleons remain in the outermost layer of the ejecta, the electron scattering produces a larger polarization than that by the r-process element-rich ejecta. The degree of polarization can show a large value of \sim 3\% for the first 0.3−1 hour.
+subject: EM, observation prospect, polarisation, Kilonova
+
+link: https://arxiv.org/abs/1807.04756
+title: Constraints on the emitting region of the gamma-rays observed in GW170817
+authors: Tatsuya Matsumoto, Ehud Nakar, Tsvi Piran
+topic:  whether the {\gamma}-rays that we have seen were a regular sGRB viewed off-axis. We revisit this question following recent refined analyses of the {\gamma}-ray signal and the VLBI observations that revealed the angular structure of the relativistic outflow. We show here that: (i) The region emitting the observed γ-rays must have been moving with a Lorentz factor \Gamma \geq 5; The observed {\gamma}-rays were not "off-axis" emission, emerging from the core of the jet, where a regular sGRB was most likely produced
+subject: jet, BNS, geometry, angle, observations
+
+link: https://arxiv.org/abs/1807.03795
+title: Dynamical ejecta and nucleosynthetic yields from eccentric binary neutron-star mergers
+authors: L. Jens Papenfort, Roman Gold, Luciano Rezzolla
+topic:  we investigate the dynamics, gravitational-wave emission, and nucleosynthetic yields of numerous eccentric binary neutron-star mergers having different equations of state. For each equation of state we vary the orbital properties around th we couple the dynamical ejecta output from the simulations to the nuclear-reaction network code \texttt{SkyNet} to compute nucleosynthetic yields and compare to the corresponding results in the case of a quasi-circular merger. We find that the amount and velocity of dynamically ejected material is always much larger than in the quasi-circular case, reaching maximal valuese threshold of immediate merger, as well as the binary mass ratio. At the same time, the properties of this material are rather insensitive to the details of the orbit. urthermore, while the composition of the ejected matter depends on the orbital parameters and on the equation of state, the relative nucleosynthetic yields do not, thus indicating that kilonova signatures could provide information on the orbital properties of dynamically captured neutron-star binaries.
+subject: BNS, models, ejecta, nucleo, r-process
+
+link: https://arxiv.org/abs/1807.03734
+title: The R-Process Alliance: Chemical Abundances for a Trio of R-Process-Enhanced Stars -- One Strong, One Moderate, One Mild
+authors: Madelyn Cain, Anna Frebel, Maude Gull et al
+topic: We present detailed chemical abundances of three new bright (V ~ 11), extremely metal-poor ([Fe/H] ~ -3.0), r-process-enhanced halo red giants based on high-resolution, high-S/N Magellan/MIKE spectra. We measured abundances for 20-25 neutron-capture elements in each of our stars. All three stars show remarkable agreement with the scaled solar r-process pattern for elements above Ba, consistent with enrichment of the birth gas cloud by a neutron star merger. The abundances for Sr, Y, and Zr, however, deviate from the scaled solar pattern. This indicates that more than one distinct r-process site might be responsible for the observed neutron-capture element abundance pattern. Thorium was detected in J1432-4125 and J2005-3057. Age estimates for J1432-4125 and J2005-3057 were adopted from one of two sets of initial production ratios each by assuming the stars are old. 
+subject: r-process, observations, abundances, sites
+
+link: https://arxiv.org/abs/1807.03319
+title: Radioactive Heating and Late Time Kilonova Light Curves
+authors: Daniel Kasen, Jennifer Barnes
+topic:  The luminosity of kilonova light curves depends on the efficiency with which beta-decay electrons are thermalized in the ejecta. Here we derive a simple analytic solution for thermalization by calculating how electrons accumulate in the ejecta and lose energy adiabatically and via plasma losses. We find that the time-dependent thermalization efficiency is well described by [law] is a function of the ejecta mass and velocity. For a statistical distribution of r-process isotopes with radioactive power [law] the late time kilonova luminosity asymptotes to [law] depends super-linearly on the ejecta mass [law] If a kilonova is instead powered by a single dominate isotope, we show that the late time luminosity can deviate substantially from the underlying exponential decay and eventually become brighter than the instantaneous radioactivity due to the accumulation of trapped electrons. Applied to the kilonova associated with the gravitational wave source GW170817, these results imply that a possible steepening of the observed light curve at ≳7 days is unrelated to thermalization effects and instead could mark the onset of translucency in a high opacity component of ejecta. The analytic results should be convenient for estimating the properties of observed kilonovae and assessing the potential late time detectability of future events.
+subject: kilonova, models, analytic
+revelation: usefull for analytic EM study.
+
+%% 34 
+
+link: https://arxiv.org/abs/1807.02853
+title: The Location and Environments of Neutron Star Mergers in an Evolving Universe
+authors: Brandon K. Wiggins, Christopher L. Fryer, Joseph M. Smidt, Dieter H. Hartmann, Nicole Lloyd-Ronning, Chris Belcynski
+topic: While long-duration GRBs originate from massive stars and thus are located near their stellar nurseries, binary neutron stars may merge on much longer timescales, and thus may have had time to migrate appreciably. The strength and character of the electromagnetic afterglow emission of binary neutron star mergers is a sensitive function of the circum-merger environment. Though the explosion sites of short GRBs have been explored in the literature, the question has yet to be fully addressed in its cosmological context. We present cosmological simulations following the evolution of a galaxy cluster including star formation combined with binary population synthesis models to self-consistently track the locations and environmental gas densities of compact binary merger sites throughout the cosmic web. We present probability distributions for densities as a function of redshift and discuss model sensitivity to population synthesis model assumptions.
+subject: cosmology, GRB, environment
+
+link: https://arxiv.org/abs/1807.00011
+title: Remnant baryon mass outside of the black hole after a neutron star-black hole merger
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
 topic: 
 subject: 
 
