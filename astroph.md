@@ -2051,6 +2051,125 @@ subject: cosmology, GRB, environment
 
 link: https://arxiv.org/abs/1807.00011
 title: Remnant baryon mass outside of the black hole after a neutron star-black hole merger
+authors: Francois Foucart, Tanja Hinderer, Samaya Nissanke
+topic: Gravitational-wave (GW) and electromagnetic (EM) signals from the merger of a Neutron Star (NS) and a Black Hole (BH) are a highly anticipated discovery in extreme gravity, nuclear-, and astrophysics. We develop a simple formula that distinguishes between merger outcomes and predicts the post-merger remnant mass, validated with 75 simulations. Our formula improves on existing results by describing critical unexplored regimes: comparable masses and higher BH spins. These are important to differentiate NSNS from NSBH mergers, and to infer source physics from EM signals
+subject: analytic, model, NSBH, fitting formula
+revelation: this is an attempt to fit all the data for NSBH
+
+link: https://arxiv.org/abs/1806.11161
+title: Late afterglows of GW/GRB 170817A
+authors: Houri Ziaeepour
+topic: In a previous work we used a phenomenological formulation of relativistic shocks and synchrotron emission to analyse the prompt gamma-ray emission of GW/GRB 170817A. Here we use the same model to analyse late afterglows of this event. The main goal is to see whether synchrotron emission alone can explain late afterglows. This is true, if the synchrotron self-absorption of radio emission and extinction of optical/IR photons are taken into account. Alternatively, an additional source of X-ray is necessary to explain the data. These conclusions are independent of the model used here and can be deduced directly from data. We also show that at the time of its encounter with circumburst material the outflow could have been still mildly magnetized. 
+subject: GRB, model, synchrotron, radio, afterglow
+
+link: https://arxiv.org/abs/1806.10624
+title: A luminous blue kilonova and an off-axis jet from a compact binary merger at z=0.1341
+authors: E. Troja, G. Ryan, L. Piro, H. van Eerten, S. B. Cenko, Y. Yoon, S.-K. Lee, M. Im, T. Sakamoto, P. Gatkine, A. Kutyrev, S. Veilleux
+topic: Here we show that GRB150101B was an analogue of GRB170817A located at a cosmological distance. GRB 150101B was a faint short duration GRB characterized by a bright optical counterpart and a long-lived X-ray afterglow. These properties are unusual for standard short GRBs and are instead consistent with an explosion viewed off-axis: the optical light is produced by a luminous kilonova component, while the observed X-rays trace the GRB afterglow viewed at an angle of \sim 13 degrees. Our findings suggest that these properties could be common among future electromagnetic counterparts of GW sources.
+subject: GRB, observations
+
+link: https://arxiv.org/abs/1806.10616
+title: Jet Dynamics in Compact Object Mergers: GW170817 Likely had a Successful Jet
+authors: Paul C. Duffell, Eliot Quataert, Daniel Kasen, Hannah Klion
+topic: We use relativistic hydrodynamic numerical calculations to study the interaction between a jet and a homologous outflow produced dynamically during binary neutron star mergers. We quantify how the thermal energy supplied by the jet to the ejecta and the ability of a jet to escape the homologous ejecta depend on the parameters of the jet engine and the ejecta. For collimated jets initiated at early times compared to the engine duration, we show that successful breakout of the forward cocoon shock necessitates a jet that successfully escapes the ejecta. This is because the ejecta is expanding and absorbing thermal energy, so that the forward shock from a failed jet stalls before it reaches the edge of the ejecta. This conclusion can be circumvented only for very energetic wide angle jets, with parameters that are uncomfortable given short-duration GRB observations. For successful jets, we find two regimes of jet breakout from the ejecta, early breakout on timescales shorter than the engine duration, and late breakout well after the engine shuts off. A late breakout can explain the observed delay between gravitational waves and gamma rays in GW 170817. 
+subject: jet, model, GRHD,
+
+link: https://arxiv.org/abs/1806.10596
+title: A Hubble constant measurement from superluminal motion of the jet in GW170817
+authors: Kenta Hotokezaka, Ehud Nakar, Ore Gottlieb, Samaya Nissanke, Kento Masuda, Gregg Hallinan, Kunal P. Mooley, Adam. T. Deller
+topic: In this analysis, the degeneracy in the GW signal between the source distance and the weakly constrained viewing angle dominated the H0 measurement uncertainty. ecently, Mooley et al. (2018) obtained tight constraints on the viewing angle using high angular resolution imaging of the radio counterpart of GW170817. Here we obtain a significantly improved measurement H0=68.9+4.7−4.6 km/s/Mpc by using these new radio observations, combined with the previous GW and EM data. We estimate that 15 more localized GW170817-like events (comparable signal-to-noise ratio, favorable orientation), having radio images and light curve data, will potentially bring resolution to the tension between the Planck and Cepheid-supernova measurements, as compared to 50-100 GW events without such data.
+subject: GW, hubble, observations
+
+link: https://arxiv.org/abs/1806.10255
+title: Elastic Scattering in General Relativistic Ray Tracing for Neutrinos
+authors: M. Brett Deaton, Evan O'Connor, Y. L. Zhu, Andy Bohn, Jerred Jesse, Francois Foucart, Matthew D. Duez, G. C. McLaughlin
+topic: We present a covariant ray tracing algorithm for computing high-resolution neutrino distributions in general relativistic numerical spacetimes with hydrodynamical sources. Our formulation treats the very important effect of elastic scattering of neutrinos off of nuclei and nucleons (changing the neutrino's direction but not energy) by incorporating estimates of the background neutrino fields. Background fields provide information about the spectra and intensities of the neutrinos scattered into each ray. These background fields may be taken from a low-order moment simulation or be ignored, in which case the method reduces to a standard state-of-the-art ray tracing formulation. The method handles radiation in regimes spanning optically thick to optically thin. 
+subject: neutrino, model, code, new code
+
+link: https://arxiv.org/abs/1806.09724
+title: Californium-254 and kilonova light curves
+authors: Y. Zhu, R. T. Wollaeger, N. Vassh, et al
+topic: We have performed dynamical nucleosynthesis calculations and identified a single isotope, 254Cf, which has a particularly high impact on the brightness of electromagnetic transients associated with mergers on the order of 15 to 250 days. This is due to the anomalously long half-life of this isotope and the efficiency of fission thermalization compared to other nuclear channels. We estimate the fission fragment yield of this nucleus and outline the astrophysical conditions under which 254Cf has the greatest impact to the light curve. Future observations in the middle-IR which are bright during this regime could indicate the production of actinide nucleosynthesis.
+subject: r-process, dynamical, model, observations, kilonova
+
+link: https://arxiv.org/abs/1806.09693
+title: Superluminal motion of a relativistic jet in the neutron star merger GW170817
+authors: K. P. Mooley, A. T. Deller, O. Gottlieb, E. Nakar, G. Hallinan, S. Bourke , D.A. Frail, A. Horesh, A. Corsi, K. Hotokezaka
+topic: To date, various models have been proposed to explain the afterglow emission, including a choked-jet cocoon and a successful-jet cocoon (a.k.a. structured jet). However, the observational data have remained inconclusive as to whether GW170817 launched a successful relativistic jet. Here we show, through Very Long Baseline Interferometry, that the compact radio source associated with GW170817 exhibits superluminal motion between two epochs at 75 and 230 days post-merger. This measurement breaks the degeneracy between the models and indicates that, while the early-time radio emission was powered by a wider-angle outflow (cocoon), the late-time emission was most likely dominated by an energetic and narrowly-collimated jet, with an opening angle of \less 5 degrees, and observed from a viewing angle of about 20 degrees.
+subject: jet, GRB, model, observations
+
+link: https://arxiv.org/abs/1806.08955
+title: From Nuclei to the Cosmos: Tracing Heavy-Element Production with the Oldest Stars
+authors: Anna Frebel
+topic: Old stars found in the Milky Way and its dwarf satellite galaxies can provide answers because they preserve clean elemental patterns of the nucleosynthesis processes that operated some 13 billion years ago. This enables the reconstruction of the chemical evolution of the elements. Here we focus on the astrophysical signatures of heavy neutron-capture elements made in the s-, i- and r-process found in old stars. A highlight is the recently discovered r-process galaxy Reticulum II that was apparently enriched by a neutron star merger. These results show that old stars in dwarf galaxies provide a novel means to constrain the astrophysical site of the r-process, ushering in much needed progress on this major outstanding question.
+subject: r-process, nucleo, observations
+
+link: https://arxiv.org/abs/1806.08793
+title: Parameter Estimation for GW170817 using Relative Binning
+authors: Liang Dai, Tejaswi Venumadhav, Barak Zackay
+topic: Relative binning is a new method for fast and accurate evaluation of the likelihood of gravitational wave strain data. This technique can be used to produce reliable posterior distributions for compact object mergers with very moderate computational resources. We use a fast likelihood evaluation code based on this technique to estimate the parameters of the double neutron-star merger event GW170817 using publicly available LIGO data. We obtain statistically similar posteriors using either Markov-chain Monte-Carlo or nested sampling.
+subject: GW, statistics
+
+link: https://arxiv.org/abs/1806.07775
+title: Disk formation in the collapse of supramassive neutron stars
+authors: Giovanni Camelio, Tim Dietrich, Stephan Rosswog
+topic: Several sGRBs engine models involve the collapse of a supramassive neutron star that produces a black hole plus an accretion disk. We study this scenario for a variety of equations of states both via angular momentum considerations based on equilibrium models and via fully dynamical Numerical Relativity simulations. We obtain a broader range of disk forming configurations than earlier studies but we agree with the latter that none of these configurations is likely to produce a phenomenon that would be classified as an sGRB.
+subject: BNS, remnant, disk, GRB
+revelation: physics paper on the disk mass evolution. Might be important
+
+link: https://arxiv.org/abs/1806.06848
+title: Radio sky maps of the GRB 170817A afterglow from simulations
+authors: Jonathan Zrake, Xiaoyi Xie, Andrew MacFadyen
+topic: We present synthetic radio images of the GRB170817A afterglow, computed from moving-mesh hydrodynamic simulations of binary neutron star merger outflows. Having expanded for nearly a year, the merger remnant is expected to subtend roughly 5 milli-arcseconds (mas) on the sky, potentially resolvable by very long baseline radio imaging techniques. Any observations revealing the radio centroid to be offset from the line-of-site to the merger would be the smoking gun of a jetted outflow. We find that in both scenarios, the centroid exhibits superluminal proper motion away from the merger site at roughly 4 - 10 mas per day for at least the first 300 days. We argue that a successful strategy for differentiating among the explosion models will need to include multiple observations over the coming months - years. In particular, we find the time at which the centroid attains its maximum offset, and begins heading back toward the merger site, is considerably later if the jet was choked.
+subject: jet, model, observatioms, radio
+revelation: model of the expanding ejecta
+
+%% 35
+
+link: https://arxiv.org/abs/1806.05690
+title: Unveiling the Engines of Fast Radio Bursts, Super-Luminous Supernovae, and Gamma-Ray Bursts
+authors: Ben Margalit, Brian D. Metzger, Edo Berger, Matt Nicholl, Tarraneh Eftekhari, Raffaella Margutti
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
 authors: 
 topic: 
 subject: 
