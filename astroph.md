@@ -2129,101 +2129,103 @@ revelation: model of the expanding ejecta
 link: https://arxiv.org/abs/1806.05690
 title: Unveiling the Engines of Fast Radio Bursts, Super-Luminous Supernovae, and Gamma-Ray Bursts
 authors: Ben Margalit, Brian D. Metzger, Edo Berger, Matt Nicholl, Tarraneh Eftekhari, Raffaella Margutti
-topic: 
-subject: 
+topic: However, a barrier to direct confirmation of the magnetar hypothesis is the challenge of directly observing non-thermal emission from the central engine at early times (when it is most powerful and thus detectable) due to the dense surrounding ejecta. We present CLOUDY calculations of the time-dependent evolution of the temperature and ionization structure of expanding supernova or merger ejecta due to photo-ionization by a magnetar engine, in order to study the escape of X-rays (absorbed by neutral gas) and radio waves (absorbed by ionized gas), as well as to assess the evolution of the local dispersion measure due to photo-ionization. We find that ionization breakout does not occur if the engine's ionizing luminosity decays rapidly, and that X-rays typically escape the oxygen-rich ejecta of SLSNe only on \sim 100yr timescales, consistent with current X-ray non-detections. We apply these results to constrain engine-driven models for the binary NS merger GW170817 and the luminous transient ASASSN-15lh.
+subject: ejecta, EM, NS, SN, radio, non-thermal, model
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.05097
+title: On GW170817 and the Galactic Binary Neutron Star Population
+authors: Chris Pankow
+topic: Electromagnetic observations and model fitting of the ejecta properties from the subsequent kilonova detection provided values of the ejecta mass from the merger. These values, when combined with the gravitational-wave measurement disfavors an equal-mass configuration, with the level of disagreement dependent on the assumed amount of ejecta mass of dynamical origin. Within the confines of our own galaxy, several binary neutron star systems along with measurements of their component masses have been made. If those distributions are indicative of a universal distribution, the joint measurement of the component masses of GW170817 represents an outlier. This tension is not easily resolvable from physical arguments, as the proposed pathways which form binary neutron stars do not often produce very asymmetrical pairs. Even accounting for the uncertainty associated with the total mass of the dynamical ejecta, this tension suggests that the distribution of binary neutron star masses in the galaxy is not indicative of those in other galaxies.
+subject: population, cosmology, DNS, BNS
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.04866
+title: The cosmic merger rate of neutron stars and black holes
+authors: Michela Mapelli, Nicola Giacobbo
+topic: We investigate the cosmic merger rate of double neutron stars (DNSs), neutron star-black hole binaries (NSBHs) and black hole binaries (BHBs) by means of population-synthesis simulations coupled with the Illustris cosmological simulation. We have performed six different simulations, considering different assumptions for the efficiency of common envelope (CE) ejection and exploring two distributions for the supernova (SN) kicks. The the current merger rates of DNSs and NSBHs  strongly depend on the assumptions on CE and natal kicks. The merger rate of DNSs is consistent with the one inferred from the detection of GW170817 only if a high efficiency of CE ejection and low SN kicks.
+subject: cosmology, population, merger rate, DNS, NSBH
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.04163
+title: Urca reactions during neutron star inspiral
+authors: Phil Arras, Nevin N. Weinberg
+topic: We study the impact of nonlinear bulk viscosity due to Urca reactions driven by tidally-induced fluid motion during binary neutron star inspiral. Fluid compression is computed for low radial order oscillation modes through an adiabatic, time-dependent solution of the mode amplitudes. Optically thin neutrino emission and heating rates are then computed from this adiabatic fluid motion. Calculations use direct and modified Urca reactions operating in a M=1.4Msun neutron star, which is constructed using the Skyrme Rs equation of state. 
+subject: physics, technical, bulk viscosity, NS, inspiral
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.04088 
+title: Radiative transfer simulation for the optical and near-infrared electromagnetic counterparts to GW170817
+authors: Kyohei Kawaguchi, Masaru Shibata, Masaomi Tanaka
+topic: However, in most of previous studies in which contribution from each ejecta component to the lightcurves is separately calculated and composited, the red component is too massive as dynamical ejecta and the blue component is too fast as post-merger ejecta. In this letter, we perform a 2-dimensional radiative transfer simulation for a kilonova/macronova consistently taking the interplay of multiple ejecta components into account. We show that the lightcurves and photospheric velocity of SSS17a can be reproduced naturally by a setup consistent with the prediction of the numerical-relativity simulations.
+subject: kilonova, morel, radiative transfer
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.03843
+title: Late-time Evolution of Afterglows from Off-Axis Neutron-Star Mergers
+authors: Gavin P Lamb, Ilya Mandel, Lekshmi Resmi
+topic: Here we show that the post-peak afterglow decline can distinguish between an initially ultra-relativistic jet viewed off-axis and a mildly relativistic wide-angle outflow. Post-peak the afterglow flux will decline as [func] The steepest decline for a jet afterglow is [func] for an observation frequency below and above the cooling frequency.
+subject: afterglow, jet, moderl, BNS, EM
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.03441
+title: Constraining the Environmental Properties of FRB 131104 Using the Unified Dynamical Afterglow Model
+authors: Zong-Kai Peng, Shan-Qin Wang, Liang-Duan Liu, Zi-Gao Dai, Hai Yu
+topic:  In this paper, we adopt a unified afterglow model that takes into account the non-relativistic effect and jet effect and use the upper limits of four bands (5.5 GHz, 7.5 GHz, U-band, and X-ray) to obtain more stringent constraints on the parameter space spanned by \epsilon_B and n. We thus suggest that FRB 131104/Swift J0644.5-5111 might originate from a black hole-neutron star merger event. Moreover, we calculate multi-band emissions from a kilonova powered by the radioactivity of r-process elements synthesized in the ejected neutron-rich material and find that the U-band emission from the putative kilonova is significantly lower than the upper limit of the observations.
+subject: jet, model, afterglow, FRB, GRB
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.03136
+title: An upper-limit on the linear polarization fraction of the GW170817 radio continuum
+authors: Alessandra Corsi, Gregg W. Hallinan, Davide Lazzati, Kunal P. Mooley, Eric J. Murphy, Dale A. Frail, Dario Carbone, David L. Kaplan, Tara Murphy, Shrinivas R. Kulkarni, Kenta Hotokezaka
+topic: We present late-time radio observations of GW170817, the first binary neutron star merger discovered through gravitational waves by the advanced LIGO and Virgo detectors. Our observations, carried out with the Karl G. Jansky Very Large Array, were optimized to detect polarized radio emission, and thus to constrain the linear polarization fraction of GW170817. At an epoch of \sim 244 days after the merger, we rule out linearly polarized emission above a fraction of ~1\2 \% at a frequency of 2.8 GHz (99\% confidence). Within the structured jet scenario (a.k.a. successful jet plus cocoon system) for GW170817, the derived upper-limit on the radio continuum linear polarization fraction strongly constrains the magnetic field configuration in the shocked ejecta. We show that our results for GW170817 are compatible with the low level of linear polarization found in afterglows of cosmological long gamma-ray bursts. Finally, we discuss our findings in the context of future expectations for the study of radio counterparts of binary neutron star mergers identified by ground-based gravitational-wave detectors.
+subject: observations, afterglow, jet, BNS
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.02349
+title: Evaluating radiation transport errors in merger simulations using a Monte-Carlo algorithm
+authors: Francois Foucart, Matthew D. Duez, Lawerence E. Kidder, Ronny Nguyen, Harald P. Pfeiffer, Mark A. Scheel
+topic: Unfortunately, Boltzmann's equations of radiation transport remain too costly to be evolved directly in merger simulations. Simulations rely instead on approximate transport algorithms with unquantified modeling errors. In this paper, we use for the first time a time-dependent general relativistic Monte-Carlo (MC) algorithm to solve Boltzmann's equations and estimate important properties of the neutrino distribution function \sim 10ms after a neutron star merger. We do not fully couple the MC algorithm to the fluid evolution, but use a short evolution of the merger remnant to critically assess errors in our approximate gray two-moment transport scheme. We demonstrate that the analytical closure used by the moment scheme is highly inaccurate in the polar regions, but performs well elsewhere. While the average energy of polar neutrinos is reasonably well captured by the two-moment scheme, estimates for the neutrino energy become less accurate at lower latitudes. The two-moment formalism also overestimates the density of neutrinos in the polar regions by \sim 50%, and underestimates the neutrino pair-annihilation rate at the poles by factors of 2-3. Although the latter is significantly more accurate than one might have expected before this study, our results indicate that predictions for the properties of polar outflows and for the creation of a baryon-free region at the poles are likely to be affected by errors in the two-moment scheme, thus limiting our ability to reliably model kilonovae and gamma-ray bursts.
+subject: neutrino transport, BNS, remannt, Monte-Carlo, radiative trasport
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.02165
+title: Observational evidence for Extended Emission to GW170817
+authors: Maurice H.P.M. van Putten, Massimo Della Valle
+topic: The merger produced a hyper-massive neutron star of stellar mass black hole with prompt or continuous energy output powering GRB170817A. {Here, we report on a possible detection of} Extended Emission (EE) in gravitational radiation {\em during} GRB170817A: a descending chirp with characteristic time scale
+subject: GW, observations
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.01624
+title: Binary Neutron Star Merger Remnants as Sources of Cosmic Rays Below the "Ankle"
+authors: Xavier Rodrigues, Daniel Biehl, Denise Boncioli, Andrew M. Taylor
+topic: We investigate non-thermal electron and nuclei energy losses within the binary neutron star merger remnant produced by the event GW170817. The lack of a cooling feature within the detected synchrotron emission from the source is used to constrain the magnetic field at the mG level, assuming that this emission is electron synchrotron in origin, and that the accelerated spectrum in the electrons follows the form [func] he level of subsequent gamma-ray emission from the source is demonstrated to provide a further constraint on the source magnetic field strength. We also put forward alternative strong (\sim G) magnetic field scenarios able to support this emission. For such stronger fields, the photo-disintegration of non-thermal nuclei within the source is considered, and a bottleneck period of \sim 5-30 days is found when this process peaks. We find that this class of source is in principle able to support the population of cosmic rays detected at Earth below the "ankle".
+subject: radio, non-thermal, EM, BNS, model
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.00645
+title: The R-Process Alliance: Discovery of the first metal-poor star with a combined r- and s-process element signature
+authors: Maude Gull, Anna Frebel, Madelyn G. Cain, Vinicius M. Placco, Alexander P. Ji, Carlo Abate
+topic: We present a high-resolution obseravtions spectrum of the star RAVE J094921.8-161722, a bright metal-poor red giant star with. We report its detailed chemical abundance signature of light fusion elements and heavy neutron-capture elements. s-process enhancement that must have formed from gas enriched by a prior r-process event. We speculate that J0949-1617 formed in an environment similar to those of ultra-faint dwarf galaxies like Tucana III and Reticulum II, which were enriched in r-process elements by one or multiple neutron star mergers at the earliest times.a
+subject: obsevations, r-process, PIII
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1806.00001
+title: The progenitors of compact-object binaries: impact of metallicity, common envelope and natal kicks
+authors: Nicola Giacobbo, Michela Mapelli
+topic: We investigate the impact of progenitor's metallicity, of the common-envelope parameter α and of the natal kicks on the properties of DNSs, BHNSs and BHBs. We find that neutron-star (NS) masses in DNSs span from 1.1 to 2.0 Msun, with a preference for light NSs, while NSs in merging BHNSs have mostly large masses (1.3−2.0 Msun). BHs in merging BHNSs are preferentially low mass (5−15 Msun). BH masses in merging BHBs strongly depend on the progenitor's metallicity and span from \sim 5 to \sim 45 Msun. The local merger rate density of both BHNSs and BHBs derived from our simulations is consistent with the values reported by the LVC in all our simulations. In contrast, the local merger rate density of DNSs matches the value inferred from the LVC only if low natal kicks are assumed. This result adds another piece to the intricate puzzle of natal kicks and DNS formation.
+subject: cosmology, projenitors, model, DNS, BBH, natak kick
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1805.11613
+title: Trans-Ejecta High-Energy Neutrino Emission from Binary Neutron Star Mergers
+authors: Shigeo S. Kimura, Kohta Murase, Imre Bartos, Kunihito Ioka, Ik Siong Heng, Peter Mészáros
+topic: The coincident gamma-ray detection implies the existence of a relativistic jet in this system. During the jet's propagation within the ejecta, high-energy photons and neutrinos can be produced. The photons are absorbed by the ejecta, while the neutrinos escape and can be detected. Here, we estimate such trans-ejecta neutrino emission, and discuss how neutrino observations could be used to differentiate between gamma-ray burst emission scenarios.
+subject: neutrino, observation prospect
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1805.11579
+title: Properties of the binary neutron star merger GW170817
+authors: LIGO Scientific Collaboration, the Virgo Collaboration
+topic: We extend the range of gravitational-wave frequencies considered down to 23 Hz, compared to 30 Hz in the initial analysis. We also compare results inferred using several signal models, which are more accurate and incorporate additional physical effects as compared to the initial analysis. We improve the localization of the gravitational-wave source to a 90\%. We find tighter constraints on the masses, spins, and tidal parameters, and continue to find no evidence for nonzero component spins. 
+subject: ligo, virgo, summary, observations, GW170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+%% 36
 
-link: 
-title: 
+link: https://arxiv.org/abs/1805.11100
+title: The impact of electron-capture supernovae on merging double neutron stars
+authors: Nicola Giacobbo, Michela Mapelli
+topic: Natal kicks are one of the most debated issues about double neutron star (DNS) formation. We investigate the impact of ECSNe on the formation of DNSs by means of population synthesis simulations. In most simulations, more than 50 per cent of the progenitors of merging DNSs undergo at least one ECSN and the ECSN is almost always the first SN occurring in the binary system.  Finally, we have considered the extreme case in which all neutron stars receive a low natal kick. In this case, the number of DNSs increases by a factor of ten and the percentage of merging DNSs which went through an ECSN is significantly suppressed.
+subject: projenitors, formation, SN, model
+
+link: https://arxiv.org/abs/1805.09043
+title: How Li & Paczynski Model of Kilonova Fits GW170817 Optical Counterpart
 authors: 
 topic: 
 subject: 
