@@ -2226,6 +2226,124 @@ subject: projenitors, formation, SN, model
 
 link: https://arxiv.org/abs/1805.09043
 title: How Li & Paczynski Model of Kilonova Fits GW170817 Optical Counterpart
+authors: Andrzej Kruszewski
+topic: The original Li & Paczynski model of kilonova was compared with the observed bolometric optical light curve of the GW170817 electromagnetic counterpart. Perfect agreement is obtained for early observations up to 1.5 days since the time of merger.
+subject: kilonova, model, analytic
+revelation: very simple kilonova model
+
+link: https://arxiv.org/abs/1805.08192
+title: Spitzer Space Telescope Infrared Observations of the Binary Neutron Star Merger GW170817
+authors: V. A. Villar, P. S. Cowperthwaite, E. Berger, P. K. Blanchard, S. Gomez, K. D. Alexander, R. Margutti, R. Chornock, T. Eftekhari, G. G. Fazio, J. Guillochon, J. L. Hora, B. D. Metzger, M. Nicholl, P. K. G. Williams
+topic: We present Spitzer Space Telescope 3.6 and 4.5 micron observations of the binary neutron star merger GW170817 at 43, 74, and 264 days post-merger. Using the final observation as a template, we uncover a source at the position of GW170817 at 4.5 micron with a brightness of 22.9+/-0.3 AB mag at 43 days and 23.8+/-0.3 AB mag at 74 days (the uncertainty is dominated by systematics from the image subtraction. The measured brightness is dimmer by a factor of about 2-3 times compared to our previously published kilonova model, which is based on UV, optical, and near-IR data at less 30 days. However, the observed fading rate and color are consistent with our model. We suggest that the discrepancy is likely due to a transition to the nebular phase, or a reduced thermalization efficiency at such late time. Using the Spitzer data as a guide, we briefly discuss the prospects of observing future binary neutron star mergers with Spitzer (in LIGO/Virgo Observing Run 3) and the James Webb Space Telescope (in LIGO/Virgo Observing Run 4 and beyond).
+subject: kilonova, observations
+
+link: https://arxiv.org/abs/1805.07974
+title: On the formation history of Galactic double neutron stars
+authors: Alejandro Vigna-Gómez, Coenraad J. Neijssel et al
+topic:  We perform rapid population synthesis of massive binary stars and discuss model predictions, including formation rates, mass distributions, and delay time distributions. We vary assumptions and parameters of physical processes such as mass transfer stability criteria, supernova kick distributions, remnant mass distributions and common-envelope energetics. We compute the likelihood of observing the orbital period-eccentricity distribution of the Galactic DNS population under each of our population synthesis models, allowing us to quantitatively compare the models. We find that mass transfer from a stripped post-helium-burning secondary (case BB) onto a neutron star is most likely dynamically stable.
+subject: projenitor, formation, population synthesis, model
+
+link: https://arxiv.org/abs/1805.06883
+title: Particle acceleration in relativistic magnetic flux-merging events
+authors: Maxim Lyutikov (Purdue), Serguei Komissarov (Leeds), Lorenzo Sironi (Columbia), Oliver Porth (Goethe-Universitat)
+topic: Using analytical and numerical methods (fluid and particle-in-cell simulations) we study a number of model problems involving merger of magnetic flux tubes in relativistic magnetically-dominated plasma. Mergers of current-carrying flux tubes (exemplified by the two dimensional `ABC' structures) and zero total current magnetic flux tubes are considered.  We identify two stages of particle acceleration during flux mergers: (i) fast explosive prompt X-point collapse and (ii) ensuing island merger. The fastest acceleration occurs during the initial catastrophic X-point collapse, with the reconnection electric field of the order of the magnetic field. During the X-point collapse particles are accelerated by charge-starved electric fields, which can reach (and even exceed) values of the local magnetic field. The explosive stage of reconnection produces non-thermal power-law tails with slopes that depend on the average magnetization. The X-point collapse stage is followed by magnetic island merger that dissipates a large fraction of the initial magnetic energy in a regime of forced magnetic reconnection, further accelerating the particles, but proceeds at a slower reconnection rate.
+subject: physics, magnetic field, MF, acceleration particle, structure
+
+link: https://arxiv.org/abs/1805.06319
+title: The Smoking Guns Of Neutron Stars Mergers
+authors: Shlomo Dado, Arnon Dar
+topic: But, their pulsar wind nebula powered by the spin down of the remnant neutron star produces an early-time isotropic afterglow with a universal temporal shape. This smoking gun of NSMs is detectable independent of whether the SHB was visible, or was invisible from Earth because of being beamed away.
+subject: obseravtions, prospects, BNS, EM, pulsar
+
+link: https://arxiv.org/abs/1805.04909
+title: Free Neutron Ejection From Shock Breakout in Binary Neutron Star Mergers
+authors: Ayako Ishii, Toshikazu Shigeyama, Masaomi Tanaka
+topic: It is expected that some of such neutrons having avoided capturing positrons remain as free neutrons even after disappearance of electron-positron pairs. To investigate how many free neutrons can be ejected from merging neutron stars, we performed special-relativistic Lagrangian hydrodynamics computation with simplified models of this phenomenon in which a spherically symmetric shock wave propagates in the hydrostatic envelope and emerge from the surface. We systematically study a wide parameter space of the size of the merging neutron stars and the energy involved in the shock waves. As a result, it is found that the mass of remaining free neutron is \sim 10**-6 which is smaller than the previously expected by more than two orders of magnitude.  We briefly discuss the emission from the free neutron layer and estimate the luminosity in the optical band to be about
+subject: precorsour, free neutron, EM, hydro, HD, models
+
+link: https://arxiv.org/abs/1805.04780
+title: Nuclear Astrophysics in the New Era of Multimessenger Astronomy
+authors: J. Piekarewicz
+topic: In these three lectures I will discuss how the strong synergy that has developed between nuclear physics and astrophysics will uncover some of the deepest secrets behind these fascinating objects. In particular, I will highlight the enormous impact that the very first detection of gravitational waves from the binary neutron-star merger GW170817 is having in constraining the composition, structure, and dynamics of neutron stars.
+subject: review, r-process, nucleo
+
+link: https://arxiv.org/abs/1805.04637
+title: r-Process Nucleosynthesis: Connecting Rare-Isotope Beam Facilities with the Cosmos
+authors: C. J. Horowitz, A. Arcones, B. Côté, I. Dillmann, W. Nazarewicz, I. U. Roederer, H. Schatz, A. Aprahamian, D. Atanasov, A. Bauswein et al.
+topic: This review paper was initiated at a three-week International Collaborations in Nuclear Theory program in June 2016 where we explored promising r-process experiments and discussed their likely impact, and their astrophysical, astronomical, and nuclear theory context.
+subject: review, r-process, nucleo
+
+link: https://arxiv.org/abs/1805.04093
+title: Fading of the X-ray Afterglow of Neutron Star Merger GW170817/GRB170817A at 260 days
+authors: Melania Nynka, John J. Ruan, Daryl Haggard, Phil A. Evans
+topic: We present new, deep Chandra observations of GW170817/GRB170817A at 260 days post-merger that reveal an X-ray flux and confirm that the X-ray light curve is now also fading. Through rigorous comparisons to previous Chandra observations of GW170817/GRB170817A, X-ray fading is detected between 160 and 260 days post-merger based on the X-ray data alone. We further constrain the X-ray photon index to steepen significance during this period, which disfavors the passing of the synchrotron cooling frequency through the X-ray band as the cause of the observed fading. These observations remain consistent with optically thin synchrotron afterglow emission. If this afterglow emission arises from a quasi-spherical mildly relativistic outflow, the X-ray fading suggests that the outflow is now decelerating. Alternatively, if this afterglow arises from a successful off-axis structured jet, the X-ray fading suggests that emission from the jet core has already entered the line of sight.
+subject: observations, afterglow, BNS, x-ray, GW170817
+
+link: https://arxiv.org/abs/1805.03959
+title: Gamma-Ray Burst Optical Afterglows with Two-Component Jets: Polarization Evolution Revisited
+authors: Mi-Xiang Lan, Xue-Feng Wu, Zi-Gao Dai
+topic: Gamma-ray bursts (GRBs) have been widely argued to originate from binary compact object mergers or core collapses of massive stars. Jets from these systems may have two components, an inner, narrow sub-jet and an outer, wider sub-jet. Such a jet subsequently interacts with its ambient gas, leading to a reverse shock (RS) and a forward shock (FS). The magnetic field in the narrow sub-jet is very likely to be mixed by an ordered component and a random component during the afterglow phase. In this paper, we calculate light curves and polarization evolution of optical afterglows with this mixed magnetic field in the RS region of the narrow sub-jet in a two-component jet model. The resultant light curve has two peaks: an early peak arises from the narrow sub-jet and a late-time rebrightening is due to the wider sub-jet. We find the polarization degree (PD) evolution under such a mixed magnetic field confined in the shock plane is very similar to that under the purely ordered magnetic field condition
+subject: jet, model, BNS
+revelation: important paper for jet model attempts
+
+%% 37 
+
+link: https://arxiv.org/abs/1805.02870
+title: A Decline in the X-ray through Radio Emission from GW170817 Continues to Support an Off-Axis Structured Jet
+authors: K. D. Alexander, R. Margutti, P. K. Blanchard, W. Fong, E. Berger, A. Hajela, T. Eftekhari, R. Chornock, P. S. Cowperthwaite et al
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
 authors: 
 topic: 
 subject: 
