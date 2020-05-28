@@ -2291,66 +2291,68 @@ revelation: important paper for jet model attempts
 link: https://arxiv.org/abs/1805.02870
 title: A Decline in the X-ray through Radio Emission from GW170817 Continues to Support an Off-Axis Structured Jet
 authors: K. D. Alexander, R. Margutti, P. K. Blanchard, W. Fong, E. Berger, A. Hajela, T. Eftekhari, R. Chornock, P. S. Cowperthwaite et al
-topic: 
-subject: 
+topic: We present new observations of the binary neutron star merger GW170817 at time period of 220−290 days post-merger, at radio (Karl G. Jansky Very Large Array; VLA), X-ray (Chandra X-ray Observatory) and optical (Hubble Space Telescope; HST) wavelengths. first evidence for a turnover in the X-ray light curve.  mirroring a decline in the radio emission. The radio-to-X-ray spectral energy distribution exhibits no evolution into the declining phase. Our full multi-wavelength dataset is consistent with the predicted behavior of our previously published models of a successful structured jet expanding into a low-density circumbinary medium, but pure cocoon models with a choked jet cannot be ruled out. 
+subject: observations, jet, x-ray, radio
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1805.01481
+title: X-ray guided gravitational-wave search for binary neutron star merger remnants
+authors: Nikhil Sarin, Paul D. Lasky, Letizia Sammut, Greg Ashton
+topic: We develop a gravitational-wave detection pipeline for a long-lived binary neutron star merger remnant guided by these counterpart electromagnetic observations. We determine the distance out to which a gravitational-wave signal can be detected with Advanced LIGO at design sensitivity and the Einstein Telescope using this method, guided by X-ray data from GRB140903A as an example. We show how these observations can be used to place upper limits on the ellipticity using these energy considerations.
+subject: pipeline, GW, x-ray, observation preditions
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1805.01127
+title: A Globular Cluster Luminosity Function Distance to NGC 4993 Hosting a Binary Neutron Star Merger GW170817/GRB 170817A
+authors: Myung Gyoon Lee, Jisu Kang, Myungshin Im
+topic: NGC 4993 hosts a binary neutron star merger emitting gravitational waves and electromagnetic waves, GW170817/GRB 170817A. The distance to this galaxy is not well established. We select the globular cluster candidates from the Hubble Space Telescope/ACS F606W images of NGC 4993 in the archive, using the structural parameters of the detected sources.  Also the luminosity function of these candidates is fit well by a Gaussian function. We derive an extinction-corrected turnover Vega magnitude in the luminosity function of the globular clusters we derive a distance to NGC 4993, d = 41.65 plus minus 3.00 Mpc. The systematic error of this method can be as large as  0.3 mag. This value is consistent with the previous distance estimates based on the fundamental plane relation and the gravitational wave method in the literature. The distance in this study can be used to constrain the values of the parameters including the inclination angle of the binary system in the models of gravitational wave analysis.
+subject: observations, cosmology, distance measure, GW170817
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1804.09823
+title: Black hole-neutron star mergers using a survey of finite-temperature equations of state
+authors: Wyatt Brege, Matthew D. Duez, Francois Foucart, M. Brett Deaton, Jesus Caro, Daniel A. Hemberger, Lawrence E. Kidder, Evan O'Connor, Harald P. Pfeiffer, Mark A. Scheel
+topic:  In this paper, we simulate black hole-neutron star mergers varying both the neutron star mass and the equation of state, using three finite-temperature nuclear models of varying stiffness. Our simulations largely vindicate formulae for ejecta properties but do not find the expected dependence of disk mass on neutron star compaction. We track the early evolution of the accretion disk, largely driven by shocking and fallback inflow, and do find notable equation of state effects on the structure of this early-time, neutrino-bright disk.
+subject: NSBH, model, EOS
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1804.09345
+title: Numerical simulations of the jet dynamics and synchrotron radiation of binary neutron star merger event GW170817/GRB170817A
+authors: Xiaoyi Xie, Jonathan Zrake, Andrew MacFadyen
+topic: We present numerical simulations of energetic flows propagating through the debris cloud of a binary neutron star (BNS) merger. Starting from the scale of the central engine, we use a moving-mesh hydrodynamics code to simulate the complete dynamical evolution of the produced relativistic jets. We compute synchrotron emission directly from the simulations and present multi-band light curves of the early (sub-day) through late (weeks to years) afterglow stages. Our work systematically compares two distinct models for the central engine, referred to as the narrow and wide engine scenario, which is associated with a successful structured jet and a quasi-isotropic explosion respectively. The rapidly declining signature may be detectable for future BNS mergers during the first minutes to day following the GW chirp. Furthermore, its non-detection for the GRB170817A event may disfavor the wide, quasi-isotropic explosion model.
+subject: jet, model, HD, synchrotron
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1804.08583
+title: Tidal Deformabilities and Radii of Neutron Stars from the Observation of GW170817
+authors: Soumi De, Daniel Finstad, James M. Lattimer, Duncan A. Brown, Edo Berger, Christopher M. Biwer
+topic: We use gravitational-wave observations of the binary neutron star merger GW170817 to explore the tidal deformabilities and radii of neutron stars. We perform Bayesian parameter estimation with the source location and distance informed by electromagnetic observations. We also assume that the two stars have the same equation of state; we demonstrate that for stars with masses comparable to the component masses of GW170817, this is effectively implemented by assuming that the stars' dimensionless tidal deformabilities are determined by the binary's mass ratio. Our results are the first measurement of tidal deformability with a physical constraint on the star's equation of state and place the first lower bounds on the deformability and areal radii of neutron stars using gravitational waves.
+subject: BNS, EOS, Lambda 
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1804.06597
+title: What Powered the Optical Transient AT2017gfo Associated with GW170817?
+authors: Shao-Ze Li, Liang-Duan Liu, Yun-Wei Yu, Bing Zhang
+topic: The groundbreaking discovery of the optical transient AT2017gfo associated with GW170817 opens a unique opportunity to study the physics of double neutron star (NS) mergers. We argue that the standard interpretation of AT2017gfo as being powered by radioactive decays of r-process elements faces the challenge of simultaneously accounting for the peak luminosity and peak time of the event, as it is not easy to achieve the required high mass, and especially the low opacity of the ejecta required to fit the data. We consider energy injection from two types of the merger products: (1) a post-merger black hole powered by fallback accretion; and (2) a long-lived NS remnant. In the latter case, both early- and late-emission components can be well interpreted as due to energy injection from a spinning-down NS, with the required mass and opacity of the ejecta components well consistent with known numerical simulation results. We suggest that there is a strong indication that the merger product of GW170817 is a long-lived (supramassive or even permanently stable), low magnetic field NS. The result provides a stringent constraint on the equations of state of NSs.
+subject: kilonova, model, observations, EM
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1804.04179
+title: Measuring the viewing angle of GW170817 with electromagnetic and gravitational waves
+authors: Daniel Finstad, Soumi De, Duncan A. Brown, Edo Berger, Christopher M. Biwer
+topic: Here, we use joint GW-EM observations to measure the viewing angle of GW170817, the angle between the binary's angular momentum and the line of sight. We combine a direct measurement of the distance to the host galaxy of GW170817 (NGC 4993) of 40.7\pm2.36 Mpc with the Laser Interferometer Gravitational-wave Observatory (LIGO)/Virgo GW data and find that the viewing angle is 32+10−13\pm1.7 degrees (90\% confidence, statistical, and systematic errors). We place a conservative lower limit on the viewing angle of more then 13\deg, which is robust to the choice of prior. This measurement provides a constraint on models of the prompt \gamma-ray and radio/X-ray afterglow emission associated with the merger; for example, it is consistent with the off-axis viewing angle inferred for a structured jet model.
+subject: observations, GW, Kilonova, GW170817, distance
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1804.03947
+title: Production of Mo and Ru isotopes in neutrino-driven winds: implications for solar abundances and presolar grains
+authors: Julia Bliss, Almudena Arcones, Yong-Zhong Qian
+topic: The origin of the so-called p-isotopes 92,94[Mo] and 96,98[Ru] in the solar system remains a mystery as several astrophysical scenarios fail to account for them. In addition, data on presolar silicon carbide grains of type X (SiC X) exhibit peculiar Mo patterns, especially for 95,97[Mo]. We examine production of Mo and Ru isotopes in neutrino-driven winds associated with core-collapse supernovae (CCSNe) over a wide range of conditions. We find that proton-rich winds can make dominant contributions to the solar abundance of 98[Ru], significant contributions to those of 96[Ru] (less 40%) and 92Mo (less 27%), and relatively minor contributions to that of 94[Mo] (less 14%). In contrast, neutron-rich winds make negligible contributions to the solar abundances of 92,94[Mo] and cannot produce 96,98[Ru]. However, we show that some neutron-rich winds can account for the peculiar Mo patterns in SiC X grains. Our results can be generalized if conditions similar to those studied here are also obtained for other types of ejecta in either CCSNe or neutron star mergers.
+subject: r-process, light elements
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+%% 38
 
-link: 
-title: 
-authors: 
+link: https://arxiv.org/abs/1804.03684
+title: Short gamma-ray burst central engines
+authors: Riccardo Ciolfi
+topic: Growing evidence connects the progenitor systems of the short-hard subclass of gamma-ray bursts (GRBs) to the merger of compact object binaries composed by two neutron stars (NSs) or by a NS and a black hole (BH). However, the mechanisms through which a BNS or NS-BH merger remnant would power a collimated outflow are much less constrained. Understanding the properties of the remnant systems and whether they can provide the right conditions for jet production has been a main driver of the great effort devoted to study BNS and NS-BH mergers, and still represents a real challenge from both the physical and the computational point of view. One fundamental open question concerns the nature of the central engine itself. Here we elaborate on this key aspect, considering three different scenarios to explain the SGRB phenomenology based on different hypotheses on the nature of the merger remnant. Then, we discuss the basic properties of GRB 170817A and how this event would fit within the different frameworks of the above scenarios, under the assumption that it was or was not a canonical SGRB.
+subject: GRB, review, approaches to model
+
+link: https://arxiv.org/abs/1804.03114
+title: The R-Process Alliance: First Release from the Southern Search for r-Process-Enhanced Stars in the Galactic Halo
+authors: Terese T. Hansen, Erika M. Holmbeck, Timothy C. Beers, Vinicius M. Placco, Ian U. Roederer, Anna Frebel, Charli M. Sakari, Joshua D. Simon, Ian B. Thompson
 topic: 
 subject: 
 
