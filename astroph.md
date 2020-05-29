@@ -2353,6 +2353,111 @@ subject: GRB, review, approaches to model
 link: https://arxiv.org/abs/1804.03114
 title: The R-Process Alliance: First Release from the Southern Search for r-Process-Enhanced Stars in the Galactic Halo
 authors: Terese T. Hansen, Erika M. Holmbeck, Timothy C. Beers, Vinicius M. Placco, Ian U. Roederer, Anna Frebel, Charli M. Sakari, Joshua D. Simon, Ian B. Thompson
+topic: However, observations of metal-poor stars with highly-enhanced r-process elements have revealed abundance patterns suggesting that multiple sites may be involved. To address this issue, and to advance our understanding of the r-process, we have initiated an extensive search for bright (V lenss 13.5), very metal-poor ([Fe/H] less then 2) stars in the Milky Way halo exhibiting strongly-enhanced r-process signatures. This paper presents the first sample collected in the Southern Hemisphere, using the echelle spectrograph on du Pont 2.5m telescope at Las Campanas Observatory. Of those, 12 stars are strongly enhanced in heavy r-process elements (r-II), 42 stars show moderate enhancements of heavy r-process material (r-I), and 20 stars exhibit low abundances of the heavy r-process elements and higher abundances of the light r-process elements relative to the heavy ones (limited-r). This search is more successful at finding r-process-enhanced stars compared to previous searches, primarily due to a refined target selection procedure that focuses on red giants.
+subject: observatons, r-process, PIII
+
+link: https://arxiv.org/abs/1804.03101
+title: Total gravitational mass of the Galactic Double Neutron Star systems: evidence for a bimodal distribution
+authors: Yong-Jia Huang, Jin-Liang Jiang, Xiang Li, Zhi-Ping Jin, Yi-Zhong Fan, Da-Ming Wei
+topic: So far, in total 15 double neutron star systems (DNSs) with a reliable measurement of the total gravitational mass (MT) have been detected in the Galaxy. In this work we study the distribution of MT. The data prefer the double Gaussian distribution over a single Gaussian distribution and the low and high mass populations center at 2.58 and 2.72 resepctively? The progenitor stars of GW170817 have a 2.74. , falling into the high mass population. the upcoming runs of the advanced LIGO/Virgo will soon detect some events with 2.6.
+subject: DNS, cosmology, observations, populations, mass distributions
+
+link: https://arxiv.org/abs/1804.03020
+title: Nuclear Equation of state for Compact Stars and Supernovae
+authors: G. Fiorella Burgio, Anthea F. Fantina
+topic:  We review the current status of the EoS for compact objects, that have been studied with both ab-initio many-body approaches and phenomenological models. We limit ourselves to the description of EoSs with purely nucleonic degrees of freedom, disregarding the appearance of strange baryonic matter and/or quark matter. We compare the theoretical predictions with different data coming from both nuclear physics experiments and astrophysical observations. Combining the complementary information thus obtained greatly enriches our insights into the dense nuclear matter properties. Current challenges in the description of the EoS are also discussed, mainly focusing on the model dependence of the constraints extracted from either experimental or observational data (specifically, concerning the symmetry energy), the lack of a consistent and rigorous many-body treatment at zero and finite temperature of the matter encountered in compact stars (e.g. problem of cluster formation and extension of the EoS to very high temperatures), the role of nucleonic three-body forces, and the dependence of the direct URCA processes on the EoS.
+subject: EOS, summary
+
+link: https://arxiv.org/abs/1804.01538
+title: The demographics of neutron star - white dwarf mergers: rates, delay-time distributions and progenitors
+authors: S. Toonen, H.B. Perets, A.P. Igoshev, E. Michaely, Y. Zenati
+topic: The mergers of neutron stars (NSs) and white dwarfs (WDs) could give rise to explosive transients, potentially observable with current and future transient surveys. However, the expected properties and distribution of such events is not well understood. Here we characterize the rates of such events, their delay time distribution, their progenitors and the distribution of their properties. We use binary populations synthesis models and consider a wide range of initial conditions and physical processes. We find that the majority of NS-WD mergers are born in systems in which mass-transfer played an important role, and the WD formed before the NS. For the majority of the mergers the WDs have a carbon-oxygen composition (60-80%) and most of the rest are with oxygen-neon WDs. The rates of NS-WD mergers are in the range of 3-15% of the type Ia supernovae (SNe) rate. Their delay time distribution is very similar to that of type Ia SNe, but slightly biased towards earlier times. They typically explode in young 0.1-1Gyr environments, but have a tail distribution extending to long, Gyrs-timescales.
+subject: DNS, projenitors, population sysnthesis, cosmology
+
+link: https://arxiv.org/abs/1804.00365
+title: Constraining the ejecta for the nonthermal emission from GW170817
+authors: Yan Huang, Zhuo Li
+topic: We consider a simple model for the nonthermal emission from GW170817, in which a quasi-spherical ejecta is released in the merger event, with the kinetic energy distributed over the momentum [func]  The ejecta drives a shock into the medium and gives rise to synchrotron radiation. Using multi-band observations we constrain that [func] and postshock magnetic field carries a fraction [func] of the postshock internal energy) the total kinetic energy is [func] the slowest ejecta velocity is ∼(0.7−0.8)c; and the fastest ejecta has a Lorentz factor [func] We conclude that the sub-relativistic dynamical ejecta responsible to the kilonova cannot produce the nonthermal emission. The co-existence of the nonthermal and thermal kilonova emission implies that two corresponding ejecta are ejected at different angles.
+subject: radio, nonthermal, model, ejecta, BNS, jet
+revelation: important for radio emission models, synchrotron emission [R]
+
+link: https://arxiv.org/abs/1803.10926
+title: Shock acceleration of electrons and synchrotron emission from the dynamical ejecta of neutron star mergers
+authors: Shiu-Hang Lee, Keiichi Maeda, Norita Kawanaka
+topic: As analogous to supernovae and supernova remnants, the NSM dynamical ejecta are expected to produce non-thermal emission by electrons accelerated at a shock wave. In this paper, we present expected radio and X-ray signals by this mechanism, taking into account non-linear diffusive shock acceleration (DSA) and magnetic field amplification. We suggest that the NSM has a unique nature as a DSA site, where the seed relativistic electrons are abundantly provided by the decays of r-process elements. The signal is predicted to peak at a few 100 - 1,000 days after the merger, determined by the balance between the decrease of the number of seed electrons and the increase of the dissipated kinetic energy due to the shock expansion. While the resulting flux can ideally reach to the maximum flux expected from near-equipartition, the available kinetic energy dissipation rate of the NSM ejecta limits the detectability of such a signal. It is likely that the radio and X-ray emission are overwhelmed by other mechanisms (e.g., an off-axis jet) for an observer placed to a jet direction (i.e., for GW170817). On the other hand, for an off-axis observer, to be discovered once a number of NSMs are identified, the dynamical ejecta component is predicted to dominate the non-thermal emission. While the detection of this signal is challenging even with near-future facilities, this potentially provides a robust probe of the creation of r-process elements in NSMs.
+subject: radio, nonthermal, model, BNS, jet, EM, [R]
+
+link: https://arxiv.org/abs/1803.10865
+title: Long-lived Remnants from Binary Neutron Star Mergers
+authors: David Radice, Albino Perego, Sebastiano Bernuzzi, Bing Zhang
+topic: We find that gravitational-wave (GW) emission is not able to remove this excess angular momentum within the time over which solid body rotation should be achieved. Instead, we argue that the excess angular momentum could be carried away by massive winds. Long-lived merger remnants are also formed with larger gravitational masses than those of rigidly-rotating NSs having the same number of baryons. The excess mass is likely radiated in the form of neutrinos. The evolution of long-lived remnants on the viscous timescale is thus determined by the interplay of finite-temperature effects, mass ejection, and neutrinos with potentially dramatic consequences for the remnants' properties and stability. We also provide an empirical fit for the spin of the remnant at the end of its viscous evolution as a function of its final mass, and we discuss the implications for the magnetar model of short gamma-ray bursts (SGRBs). Finally, we investigate the possible electromagnetic signatures associated with the viscous ejecta. Massive outflows possibly resulting from the formation of long-lived remnants would power unusually bright, blue kilonova counterparts to GW events and SGRBs whose detection would provide smoking gun evidence for the formation of long-lived remnants.
+subject: BNS, long-lived, models, secular, ejecta, EM
+
+link: https://arxiv.org/abs/1803.10454
+title: Echoes from the Abyss: A highly spinning black hole remnant for the binary neutron star merger GW170817
+authors: Jahed Abedi, Niayesh Afshordi
+topic: While post-merger gravitational wave signal in general relativity is too faint (given current detector sensitivities), here we present the first tentative detection of post-merger gravitational wave "echoes" from a highly spinning "black hole" remnant. The echoes may be expected in different models of quantum black holes that replace event horizons by exotic Planck-scale structure and tentative evidence for them has been found in binary black hole merger events. 
+subject: GW, BNS, observations, postmerger, mdoel
+
+link: https://arxiv.org/abs/1803.10262
+title: Central Engine-Powered Bright X-ray Flares in Short Gamma-Ray Bursts: A Hint of Black Hole-Neutron Star Merger?
+authors: Hui-Jun Mu, Wei-Min Gu, Jirong Mao, Shu-Jin Hou, Da-Bin Lin, Tong Liu
+topic: Short gamma-ray bursts may originate from the merger of double neutron stars (NS) or that of a black hole (BH) and an NS. We propose that the bright X-ray flare related to the central engine reactivity may hint a BH-NS merger, since such a merger can provide more fall-back materials and therefore a more massive accretion disk than the NS-NS merger. Based on the observed 49 short bursts with Swift/X-ray Telescope follow-up observations, we find that three bursts have bright X-ray flares, among which three flares from two bursts are probably related to the central engine reactivity. We argue that these two bursts may originate from the BH-NS merger rather than the NS-NS merger. Our suggested link between the central engine-powered bright X-ray flare and the BH-NS merger event can be checked by the future gravitational wave detections from advanced LIGO and Virgo.
+subject: x-ray, observations, GRB, flares
+
+link: https://arxiv.org/abs/1803.10040
+title: Bimodal distribution of short gamma-ray bursts: evidence for two distinct types of short gamma-ray bursts
+authors: Y. B. Yu, L. B. Li, B. Li, J. J. Geng, Y. F. Huang
+topic: Recently, GRB 170817A was confirmed to be associated with GW 170817, which was produced by a neutron star - neutron star merger. It indicates that at least some short gamma-ray bursts come from binary neutron star mergers. Theoretically, it is widely accepted that short gamma-ray bursts can be produced by two distinctly different mechanisms, binary neutron star mergers and neutron star - black hole mergers. These two kinds of bursts should be different observationally due to their different trigger mechanisms. Motivated by this idea, we collect a universal data set constituted of 51 short gamma-ray bursts observed by Swift/BAT, among which 14 events have extended emission component. We study the observational features of these 51 events statistically. It is found that our samples are consisted of two distinct groups. They clearly show a bimodal distribution when their peak photon fluxes at 15-150 keV band are plotted against the corresponding fluences. Most interestingly, all the 14 short bursts with extended emission lie in a particular region
+subject: GRB, populations, statsistics, obserrvations
+
+link: https://arxiv.org/abs/1803.09215
+title: Electrical Resistivity and Hall Effect in Binary Neutron-Star Mergers
+authors: Arus Harutyunyan, Antonios Nathanail, Luciano Rezzolla, Armen Sedrakian
+topic: We examine the range of rest-mass densities, temperatures and magnetic fields involved in simulations of binary neutron-star mergers and identify the conditions under which the ideal-magnetohydrodynamics approximation breaks down and hence the magnetic-field decay should be accounted for. We use recent calculations of the conductivities of warm correlated plasma in envelopes of compact stars and find that the magnetic-field decay timescales are much larger than the characteristic timescales of the merger process for lengthscales down to a meter. Because these are smaller than the currently available resolution in numerical simulations, the ideal-magnetohydrodynamics approximation is effectively valid for all realistic simulations. At the same time, we find that the Hall effect can be important at low densities and low temperatures, where it can induce a non-dissipative rearrangement of the magnetic field. Finally, we mark the region in temperature and density where the hydrodynamic description breaks down.
+subject: BNS, merger models, MF, idela MHD
+
+%% 39
+
+link: https://arxiv.org/abs/1803.07965
+title: High-resolution numerical relativity simulations of spinning binary neutron star mergers
+authors: Tim Dietrich, Sebastiano Bernuzzi, Bernd Bruegmann, Wolfgang Tichy
+topic: Numerical relativity simulations are the only tool to describe the binary's merger dynamics in the regime when speeds are largest and gravity is strongest. In this work we report state-of-the-art binary neutron star simulations for irrotational (non-spinning) and spinning configurations. The main use of these simulations is to model the gravitational-wave signal. Key numerical requirements are the understanding of the convergence properties of the numerical data and a detailed error budget. The simulations have been performed on different HPC clusters, they use multiple grid resolutions, and are based on eccentricity reduced quasi-circular initial data. We obtain convergent waveforms with phase errors of 0.5-1.5 rad accumulated over approximately 12 orbits to merger. The waveforms have been used for the construction of a phenomenological waveform model which has been applied for the analysis of the recent binary neutron star detection. Additionally, we show that the data can also be used to test other state-of-the-art semi-analytical waveform models.
+subject: BNS, models, GW, inspiral, merger
+
+link: https://arxiv.org/abs/1803.07873
+title: Gamma Ray Bursts. Progenitors, accretion in the central engine, jet acceleration mechanisms
+authors: Agnieszka Janiuk, Kostas Sapountzis 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
 topic: 
 subject: 
 
