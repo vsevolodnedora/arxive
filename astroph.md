@@ -2428,6 +2428,95 @@ subject: BNS, models, GW, inspiral, merger
 link: https://arxiv.org/abs/1803.07873
 title: Gamma Ray Bursts. Progenitors, accretion in the central engine, jet acceleration mechanisms
 authors: Agnieszka Janiuk, Kostas Sapountzis 
+topic: The collapsar model was proposed to explain the long-duration gamma-ray bursts (GRBs), while the short GRBs are associated with the mergers of compact objects. In the first case, mainly the energetics of the events is consistent with the proposed progenitor models, while the duration, time variability, as well as the afterglow emission may shed some light on the detailed properties of the collapsing massive stars.  For long ones, the rotation of the progenitor star is a key property in order to support accretion over relatively long activity periods, and also to sustain the rotation of the black hole itself. The latter is responsible for ejection of the relativistic jets, which are powered due to the extraction of the BH rotational energy, mitigated by the accretion torus and magnetic fields. The jets must break through the stellar envelope though, which poses a question on the efficiency of this process. Similar mechanisms of powering the jet ejection may act in short GRBs, which in this case may freely propagate through the interstellar medium. The power of the jets launched from the rotating black hole is at first associated mostly with the magnetic Poynting flux, and then at large distances it is transferred to the kinetic and finally radiative energy of the expanding shells.
+subject: jet, GRB, review
+
+link: https://arxiv.org/abs/1803.07687
+title: Tidal deformability from GW170817 as a direct probe of the neutron star radius
+authors: Carolyn Raithel, Feryal Özel, Dimitrios Psaltis
+topic: We report here on a new simplification that arises in the effective tidal deformability of the binary, when the chirp mass is specified. We find that, in this case, the effective tidal deformability of the binary is surprisingly independent of the component masses of the individual neutron stars, and instead depends primarily on the ratio of the chirp mass to the neutron star radius. Thus, a measurement of the effective tidal deformability can be used to directly measure the neutron star radius. We find that the upper limit on the effective tidal deformability from GW170817 implies that the radius cannot be larger than \sim 13km, at the 90\% level, independent of the assumed masses for the component stars. The result can be applied generally, to probe the stellar radii in any neutron star-neutron star merger with a measured chirp mass
+subject: BNS, EOS, GW, radius
+
+link: https://arxiv.org/abs/1803.07595
+title: From gamma to Radio - The Electromagnetic Counterpart of GW 170817
+authors: Ehud Nakar, Ore Gottlieb, Tsvi Piran, Mansi M. Kasliwal, Greg Hallinan 
+topic: However, a closer examination of the sub-luminous γ-rays and the peculiar radio afterglow were inconsistent with this simple interpretation. Here we present results of 3D and 2D numerical simulations that follow the hydrodynamics and emission of the outflow from a neutron star merger form its ejection and up to its deceleration by the circum-merger medium. Our results show that the entire set of \gamma -rays, X-rays and radio observations can be explained by the emission from a mildly relativistic cocoon material (Lorentz factor \sim 2-5) that was formed while a jet propagated through the material ejected during the merger. The γ-rays are generated when the cocoon breaks out from the engulfing ejecta while the afterglow is produced by interaction of the cocoon matter with the interstellar medium. The strong early uv/optical signal may be a Lorentz boosted macronova/kilonova. The fate of the jet itself is currently unknown, but our full-EM models define a path to resolving between successful and choked jet scenarios, outputting coupled predictions for the image size, morphology, observed time-dependent polarization and light curve behavior from radio to X-ray. The predictive power of these models will prove key in interpreting the on-going multi-faceted observations of this unprecedented event.
+subject: EM, jet, radio, kilonova, models
+revelation: important for EM -- all of them. Sumary of all the emissions
+
+link: https://arxiv.org/abs/1803.07219
+title: Brightening X-ray/Optical/Radio Emission of GW170817/SGRB 170817A: Results of an Electron-Positron Wind from the Central Engine?
+authors: Jin-Jun Geng, Zi-Gao Dai, Yong-Feng Huang, Xue-Feng Wu, Long-Biao Li, Bing Li, Yan-Zhi Meng
+topic: Recent follow-up observations of the binary neutron star (NS) merging event GW170817/SGRB 170817A reveal that its X-ray/optical/radio emissions are brightening continuously up to \sim 100 days post-merger. This late-time brightening is unexpected from the kilonova model or the off-axis top-hat jet model for gamma-ray burst afterglows. In this paper, by assuming that the merger remnant is a long-lived NS, we propose that the interaction between an electron-positron-pair (e+e−) wind from the central NS and the jet could produce a long-lived reverse shock, from which a new emission component would rise and can interpret current observations well. We suggest that radio polarization observations of the brightening would help to distinguish our scenario from other scenarios. Future observations on a large sample of short gamma-ray burst afterglows or detections of GW signals from merger remnants would test our scenario.
+subject: EM, observation, movdel, x-ray, long-lived, BNS
+revelation: an EM observaion, supporting long-lived remanants
+
+link: https://arxiv.org/abs/1803.06853
+title: A turnover in the radio light curve of GW170817
+authors: Dougal Dobie, David L. Kaplan, Tara Murphy, Emil Lenc, Kunal P. Mooley, Christene Lynch, Alessandra Corsi, Dale Frail, Mansi Kasliwal, Gregg Hallinan
+topic: We present 2-9 GHz radio observations of GW170817 covering the period 125-200 days post-merger, taken with the Australia Telescope Compact Array and the Karl G. Jansky Very Large Array. Our observations demonstrate that the radio afterglow peaked at 149±2 days post-merger and is now declining in flux density. We see no evidence for evolution in the radio-only spectral index, which remains consistent with optically-thin synchrotron emission connecting the radio, optical, and X-ray regimes. The peak implies a total energy in the synchrotron-emitting component of a few 10^50 ergs . The temporal decay rate is most consistent with mildly- or non-relativistic material and we do not see evidence for a very energetic off-axis jet, but we cannot distinguish between a lower-energy jet and more isotropic emission.
+subject: jet, radio, observations
+revelation: Important for radio work, model the turn over
+
+link: https://arxiv.org/abs/1803.06266
+title: Xiao-Feng Cao, Yun-Wei Yu, Xia Zhou
+authors: 
+topic: Fast radio bursts (FRBs) are usually suggested to be associated with mergers of compact binaries consisting of white dwarfs (WDs), neutron stars (NSs), or black holes (BHs). We test these models by fitting the observational distributions in both redshift and isotropic energy of 22 Parkes FRBs, where, as usual, the rates of compact binary mergers (CBMs) are connected with cosmic star formation rates by a power-law distributed time delay. It is found that the observational distributions can well be produced by the CBM model with a characteristic delay time from several ten to several hundred Myr and an energy function index gamma 1.2 - 1.7 where a tentative fixed spectral index beta 0.8 is adopted for all FRBs.  This event rate, about an order of magnitude higher than the rates of NS-NS/NS-BH mergers, indicates that the most promising origin of FRBs in the CBM scenario could be mergers of WD-WD binaries. Here a massive WD could be produced since no FRB was found to be associated with a type Ia supernova. Alternatively, if actually all FRBs can repeat on a timescale much longer than the period of current observations, then they could also originate from a young active NS that forms from relatively rare NS-NS mergers and accretion-induced collapses of WD-WD binaries.
+subject: FRB, radio, merger, WDWD, observations, popylation, cosmology
+
+link: https://arxiv.org/abs/1803.05856
+title: Off-axis afterglow light curves and images from 2D hydrodynamic simulations of double-sided GRB jets in a stratified external medium
+authors: Jonathan Granot, Fabio De Colle, Enrico Ramirez-Ruiz
+topic: Gamma-ray burst (GRB) jets are narrow, and thus typically point away from us. They are initially ultra-relativistic, causing their prompt γ-ray and early afterglow emission to be beamed away from us. However, as the jet gradually decelerates its beaming cone widens and eventually reaches our line of sight and the afterglow emission may be detected. Such orphan afterglows were not clearly detected so far. Nevertheless, they should be detected in upcoming optical or radio surveys, and it would be challenging to clearly distinguish between them and other types of transients. Therefore, we perform detailed, realistic calculations of the expected afterglow emission from GRB jets viewed at different angles from the jet's symmetry axis. The dynamics are calculated using 2D relativistic hydrodynamics simulations of jets propagating into different power-law external density profiles. ranging from a uniform ISM-like medium . to a stratified steady stellar-wind like profile k =2.  We calculate radio, optical and X-ray lightcurves, and the evolution of the radio afterglow image size, shape and flux centroid. This may help identify misaligned relativistic jets, whether initially ultra-relativistic and producing a GRB for observers within their beam, or (possibly intrinsically more common) moderately relativistic, in either (i) nearby supernovae Ib/c (some of which are associated with long duration GRBs), or (ii) in binary neutron star mergers, which may produce short duration GRBs, and may also be detected in gravitational waves (e.g. GW170827/GRB170817A with a weak prompt γ-ray emission may harbor an off-axis jet). 
+subject: jet, models, GRB, 2D HRD models
+
+link: https://arxiv.org/abs/1803.02978
+title: Light curves of a shock-breakout material and a relativistic off-axis jet from a Binary Neutron Star system
+authors: N. Fraija, A.C. Caligula do E. S. Pedreira, P. Veres
+topic: Binary neutron star mergers are believed to eject significant masses with a diverse range of velocities. Once these ejected materials begin to be decelerated by a homogeneous medium, relativistic electrons are mainly cooled down by synchrotron radiation, generating a multiwavelength long-lived afterglow. Analytic and numerical methods illustrate that the outermost matter, the merger shock-breakout material, can be parametrized by power-law velocity distributions [func]. Considering that the shock-breakout material is moving on-axis towards the observer and the relativistic jet off-axis, we compute the light curves during the relativistic and the lateral expansion phase. As a particular case, we successfully describe the X-ray, optical and radio light curves alongside the spectral energy distribution from the recently discovered gravitational-wave transient GW170817, when the merger shock-breakout material moves with mildly relativistic velocities near-Newtonian phase and the jet with relativistic velocities. Future electromagnetic counterpart observations of this binary system could be able to evaluate different properties of these light curves.
+subject: x-ray, radio, models, observations, jet, BNS
+revelation: important for overall jet/radio analysis
+
+link: https://arxiv.org/abs/1803.00662
+title: Beta equilibrium in neutron star mergers
+authors: Mark G. Alford, Steven P. Harris
+topic: We show that the commonly used criterion for beta equilibrium in neutrino-transparent dense nuclear matter becomes invalid as temperatures rise above 1 MeV. Such temperatures are attained in neutron star mergers. By numerically computing the relevant weak interaction rates we find that the correct criterion for beta equilibrium requires an isospin chemical potential that can be as large as 10-20 MeV, depending on the temperature at which neutrinos become trapped.
+subject: EOS, BNS, NS, merger, nucleo
+
+link: https://arxiv.org/abs/1803.00599
+title: Synchrotron radiation from the fast tail of dynamical ejecta of neutron star mergers
+authors:  
+topic: We find, using high resolution numerical relativistic simulations, that the tail of the dynamical ejecta of neutron star mergers extends to mildly relativistic velocities faster than 0.7c. The kinetic energy of this fast tail is depending on the neutron star equation of state and on the binary masses. The synchrotron flare arising from the interaction of this fast tail with the surrounding ISM can power the observed non-thermal emission that followed GW170817, provided that the ISM density 10^-2 the two neutron stars had roughly equal masses and the neutron star equation of state is soft (small neutron star radii). One of the generic predictions of this scenario is that the cooling frequency crosses the X-ray band on a time scale of a few months to a year, leading to a cooling break in the X-ray light curve. If this dynamical ejecta scenario is correct, we expect that the synchrotron radio flare from the ejecta that have produced the macronova/kilonova emission will be observable on time scales of 10^3 10^5 days
+subject: radio, ejects, BNS, model
+revelation: very importnat for radio for BNS! 
+
+link: https://arxiv.org/abs/1802.10397
+title: Continued Brightening of the Afterglow of GW170817/GRB 170817A as due to a Delayed Energy Injection
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
 topic: 
 subject: 
 
