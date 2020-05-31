@@ -2492,19 +2492,78 @@ revelation: very importnat for radio for BNS!
 
 link: https://arxiv.org/abs/1802.10397
 title: Continued Brightening of the Afterglow of GW170817/GRB 170817A as due to a Delayed Energy Injection
-authors: 
-topic: 
-subject: 
+authors: Bing Li, Long-Biao Li, Yong-Feng Huang, Jin-Jun Geng, Yong-Bo Yu, Li-Ming Song
+topic: The brightness of the multi-wavelength afterglow of GRB 170817A is increasing unexpectedly even approx 160 days after the associated gravitational burst. Here we suggest that the brightening can be caused by a late-time energy injection process. We use an empirical expression to mimic the evolution of the injection luminosity, which is consisted of a power-law rising phase and a power-law decreasing phase. It is found that the power-law indices of the two phases are 0.92 and −2.8, respectively, with the peak time of the injection being approx 110 days. The energy injection could be due to some kind of accretion, with the total accreted mass being \approx 0.006Msun. However, normal fall-back accretion, which usually lasts for a much shorter period, cannot provide a natural explanation. we argue that there should also be some ejecta with correspondingly lower velocities during the coalescence of the double neutron star system. They are bound by the gravitational well of the remnant central compact object and might be accreted at a timescale of about 100 days, providing a reasonable explanation for the energy injection. Detailed studies on the long-lasting brightening of GRB 170817A thus may provide useful information on the matter ejection during the merger process of binary neutron stars.
+subject: afterglow, radio, x-ray, ejecta, accretion, puzzle
+revelation: can we use our long-lived models to understand the brightening?
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1802.10027
+title: GRB 170817A-GW170817-AT 2017gfo and the observations of NS-NS, NS-WD and WD-WD mergers
+authors: J. A. Rueda, R. Ruffini, Y. Wang, U. Barres de Almeida, C. L. Bianco, Y. Chen, R. V. Lobato, C. Maia, D. Primorac, R. Moradi, J. F. Rodriguez
+topic: (NS-NS) merger. In order to probe this association we confront our current understanding of the gravitational waves and associated electromagnetic radiation with four observed GRBs originating in binaries composed of different combinations NSs and white dwarfs (WDs). We consider 1) GRB 090510 the prototype of NS-NS merger leading to a black hole (BH); 2) GRB 130603B the prototype of a NS-NS merger leading to massive NS (MNS) with an associated kilonova; 3) GRB 060614 the prototype of a NS-WD merger leading to a MNS with an associated kilonova candidate; 4) GRB 170817A the prototype of a WD-WD merger leading to massive WD with an associated AT 2017gfo-like emission. None of these systems support the above mentioned association. The clear association between GRB 170817A and AT 2017gfo has led to introduce a new model based on on a new subfamily of GRBs originating from WD-WD mergers.
+subject: GRB, kilonova, model, WDWD, alternative explanation
 
-link: 
-title: 
-authors: 
+link: https://arxiv.org/abs/1802.07750
+title: Effects of Fall-Back Accretion on Proto-Magnetar Outflows in Gamma-Ray Bursts and Superluminous Supernovae
+authors: Brian D. Metzger, Paz Beniamini, Dimitrios Giannios
+topic: Rapidly spinning, strongly magnetized proto-neutron stars ("millisecond proto-magnetars") are candidate central engines of long-duration gamma-ray bursts (GRB), superluminous supernovae (SLSNe), and binary neutron star mergers. The more complex evolution of the jet power and magnetization of an accreting magnetar more readily accounts for the high 56Ni yields GRB SNe and irregular time evolution of some GRB light curves (e.g.~bursts with precursors followed by a long quiescent interval before the main emission episode). Additional baryon-loading from accretion-powered neutrino irradiation of the magnetar polar cap lengthens the timeframe over which the jet magnetization is in the requisite range sigma less of equal 1e3 for efficient gamma-ray emission, thereby accommodating GRBs with ultra-long durations. 
+subject: GRB, long, projenotor, MF, magnetar, review
+
+link: https://arxiv.org/abs/1802.07732
+title: Is the macronova in GW170817 powered by the central engine?
+authors: Tatsuya Matsumoto, Kunihito Ioka, Shota Kisaka, Ehud Nakar
+topic:  Although the radioactivity of synthesized r-process elements is widely discussed as an energy source, its decisive evidence is not clearly shown yet. We discuss a macronova powered by the central engine activities such as jet activities and X-rays from the matter fallback, and show that the engine model allows much broader parameter spaces, in particular smaller ejecta mass 1e-4-0.01Msun than the r-process model. The blue and red macronovae are naturally explained by various combinations of the ejecta such as a cocoon and merger ejecta with the energy sources of jets and X-rays. The required energy injection is very similar to the X-ray excess observed in GRB 130603B with the power-law slope of \sim 1.3 The required lanthanoid fraction for the opacity can be also consistent with the Galactic one
+subject: kilonova, alterantive model, accretion, jet
+
+link: https://arxiv.org/abs/1802.07552
+title: On the Short GRB GeV emission from a Kerr Black hole
+authors: R. Ruffini, M. Muccino, Y. Aimuratov, M. Amiri, C.L. Bianco, Y.-C. Chen, B. Eslam Panah, G.J. Mathews, R. Moradi, G.B. Pisani, D. Primorac, J.A. Rueda, Y. Wang
+topic: It has recently become clear that in both short and long gamma-ray bursts (GRBs) it coexists a sequence of different events, each characterized by specific physical processes and corresponding values of the Lorentz gamma factors. The ultra-relativistic prompt emission (UPE) phase, with Lorentz factor less Gamma=1e4 is followed by a mildly relativistic plateau-afterglow phase with Gamma=2 The GeV radiation, with Gamma approx 50  coexists with the above two phases. It is shown that: a) the GeV radiation originates at the onset of the formation of a black hole (BH), b) its luminosity follows specific power-law dependence when measured in the rest frame of the source with a decay index gamma = -1.29 \mp 0.06. We present these conceptual results for the case of short GRBs in this article and give the extended analysis for long GRBs in a companion article. A direct astrophysical application of these results is that the merger of binary neutron stars leading to BH formation emits GeV radiation: the GeV emission is a necessary and sufficient condition to indicate the creation of a BH in S-GRBs.
+subject: GRB, afterglow, summary, physical explanation
+revelation: Important for overall EM emission
+
+link: https://arxiv.org/abs/1802.07328
+title: Gamma-ray burst models in light of the GRB 170817A - GW170817 connection
+authors: P. Veres, P. Mészáros, A. Goldstein, N. Fraija, V. Connaughton, E. Burns, R. D. Preece, R. Hamburg, C. A. Wilson-Hodge, M. S. Briggs, D. Kocevski
+topic:  We find that photospheric models (both dissipative and non-dissipative variants) have difficulties accounting for the observations. Internal shocks give the most natural account of the observed peak energy, viewing angle and total energy. We also show that a simple external shock model can reproduce the observed GRB pulse with parameters consistent with those derived from the afterglow modeling. We find a simple cocoon shock breakout model is in mild tension with the observed spectral evolution, however it cannot be excluded based on gamma-ray data alone. Future joint observations of brighter GRBs will pose even tighter constraints on prompt emission models.
+subject: GRB, shock, models, EM, methods
+revelation: also importnat for analystical modelling
+
+link: https://arxiv.org/abs/1802.07272
+title: From actinides to zinc: Using the full abundance pattern of the brightest star in Reticulum II to distinguish between different r-process sites
+authors: Alexander P. Ji, Anna Frebel
+topic: The observed neutron-capture element abundances closely match the solar r-process component, except for the first r-process peak which is significantly lower than solar but matches other r-process enhanced stars. The ratio of first peak to heavier r-process elements implies the r-process site produces roughly equal masses of high and low electron fraction ejecta, within a factor of 2. We compare the detailed abundance pattern to predictions from nucleosynthesis calculations of neutron star mergers and magneto-rotationally driven jet supernovae, finding that nuclear physics uncertainties dominate over astrophysical uncertainties. The abundance of light elements up to Zn are consistent with extremely metal-poor Milky Way halo stars. They may eventually provide a way to distinguish between neutron star mergers and magneto-rotationally driven jet supernovae, but this would require more detailed knowledge of the chemical evolution of Reticulum II.
+subject: r-process, 1 and 3 peaks, abundances, observations, sites
+
+link: https://arxiv.org/abs/1802.04398 
+title: \beta-delayed fission in r-process nucleosynthesis
+authors: M. R. Mumpower, T. Kawano, T. M. Sprouse, N. Vassh, E. M. Holmbeck, R. Surman, P. Moller
+topic: We present \beta-delayed neutron emission and \beta-delayed fission calculations for heavy, neutron-rich nuclei using the coupled Quasi-Particle Random Phase Approximation plus Hauser-Feshbach (QRPA+HF) approach. From the initial population of a compound nucleus after \beta-decay, we follow the statistical decay taking into account competition between neutrons, \gamma-rays, and fission. We find a region of the chart of nuclides where the probability of \beta-delayed fission is \approx 100%, that likely prevents the production of superheavy elements in nature. We explore the impact of \beta-delayed fission in rapid neutron capture process (r-process) nucleosynthesis in the tidal ejecta of a neutron star--neutron star merger and show that it is a key fission channel that shapes the final abundances near the second r-process peak.
+subject: nucleo, r-process, models, physics, peaks
+
+link: https://arxiv.org/abs/1802.03288
+title: Convective Excitation of Inertial Modes in Binary Neutron Star Mergers
+authors: Roberto De Pietri, Alessandra Feo, José A. Font, Frank Löffler, Francesco Maione, Michele Pasquali, Nikolaos Stergioulas
+topic: We present the first very long-term simulations (extending up to ~140 ms after merger) of binary neutron star mergers with piecewise polytropic equations of state and in full general relativity. Our simulations reveal that at a time of 30-50 ms after merger, parts of the star become convectively unstable, which triggers the excitation of inertial modes. The excited inertial modes are sustained up to several tens of milliseconds and are potentially observable by the planned third-generation gravitational-wave detectors at frequencies of a few kilohertz. Since inertial modes depend on the rotation rate of the star and they are triggered by a convective instability in the postmerger remnant, their detection in gravitational waves will provide a unique opportunity to probe the rotational and thermal state of the merger remnant. In addition, our findings have implications for the long-term evolution and stability of binary neutron star remnants
+subject: BNS, model, long-lived, convection
+
+link: https://arxiv.org/abs/1802.02786
+title: The MRI imprint on the Short-GRB Jets
+authors: K. Sapountzis, A. Janiuk
+topic: Short gamma ray bursts are presumably results of binary neutron star mergers, which lead to the formation of a stellar mass black hole, surrounded by a remnant matter. The strong magnetic fields help collimate jets of plasma, launched along the axis of the black hole rotation. We study the structure and evolution of the accreting plasma in the short GRBs and we model the formation of the base of a relativistic, Poynting-dominated jets. Our numerical models are based on the general relativistic MHD, axisymmetric simulations. We discuss the origin of variability in the GRB jet emission, which timescales are related to the action of the magneto-rotational instability in the accreting plasma. We also estimate the value of a maximum achievable Lorentz factor in the jets produced by our simulations, and reached at the large distances, where the gamma ray emission is produced.
+subject: GRB, jet, model, MHD, GRMHD
+
+%% 41
+
+link: https://arxiv.org/abs/1802.02495
+title: The merger of two compact stars: a tool for dense matter nuclear physics
+authors: Alessandro Drago, Giuseppe Pagliara, Sergei B. Popov, Silvia Traversi, Grzegorz Wiktorowicz
+topic:  Indeed, the stiffness of the equation of state and the particle composition of the merging compact stars, strongly affect e.g. the life time of the post-merger remnant and its gravitational wave signal, the emission of the short gamma-ray-burst, the amount of ejected mass and the related kilonova. The first detection of gravitational waves from the merger of two compact stars in August 2017, GW170817, and the subsequent detections of its electromagnetic counterparts, GRB170817A and AT2017gfo, is the first example of the era of "multi-messenger astronomy": we discuss what we have learned from this detection on the equation of state of compact stars and we provide a tentative interpretation of this event, within the two families scenario, as due to the merger of a hadronic star with a quark star.
+subject: EOS, BNS, Physics, MM
+
+link: https://arxiv.org/abs/1802.02164
+title: The First Hours of the GW170817 Kilonova and the Importance of Early Optical and Ultraviolet Observations for Constraining Emission Models
+authors: Iair Arcavi
 topic: 
 subject: 
 
