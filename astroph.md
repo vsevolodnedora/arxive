@@ -2564,6 +2564,87 @@ subject: EOS, BNS, Physics, MM
 link: https://arxiv.org/abs/1802.02164
 title: The First Hours of the GW170817 Kilonova and the Importance of Early Optical and Ultraviolet Observations for Constraining Emission Models
 authors: Iair Arcavi
+topic: The combined optical data show an early rise consistent with radioactive decay of low opacity ejecta as the main emission source, but the subsequent decline is fit well by all models. A lack of constraints on the ultraviolet flux during the first few hours after discovery allows for both radioactive decay and other cooling mechanisms to explain the early bolometric light curve. This analysis demonstrates that early (few hours after merger) high-cadence optical and ultraviolet observations will be critical for determining the source of blue emission in future kilonovae.
+subject: kilonova, observations, models, summary
+
+link: https://arxiv.org/abs/1802.01707
+title: PALFA Discovery of a Highly Relativistic Double Neutron Star Binary
+authors: 
+topic: We report the discovery and initial follow-up of a double neutron star (DNS) system, PSR J1946+2052, with the Arecibo L-Band Feed Array pulsar (PALFA) survey. the small inferred magnetic field strength at the surface  indicates that this pulsar has been recycled.  Among all known radio pulsars in DNS systems, PSR J1946+2052 has the shortest orbital period and the shortest estimated merger timescale, 46 Myr; at that time it will display the largest spin effects on gravitational wave waveforms of any such system discovered to date. We have measured the advance of periastron passage for this system. Total mass 2.5 \pm 0.04
+subject: DNS, pulsars, observations
+
+link: https://arxiv.org/abs/1802.01685
+title: GPU-accelerated broadband analysis of multi-messenger GRB light curves
+authors: Maurice H.P.M. van Putten
+topic: THESEUS' design is ideally suited to pursue both science objectives. Here, we present a general-purpose {\em graphics processor units} (GPU)-accelerated broadband search algorithm for long duration ascending and descending chirps, post-merger or from core-collapse of massive stars, in electromagnetic and gravitational radiation. 
+subject: BNS, MM, GRB, search method
+
+link: https://arxiv.org/abs/1802.01444
+title: Inverse compton scattered merger-nova: late X-ray counterpart of gravitational wave signals from NS-NS/BH mergers
+authors: Shunke Ai, He Gao
+topic:  The central remnant could launch a collimated jet and when the jet propagating through the ejecta, a mildly relativistic cocoon would be formed and the interaction between the cocoon and the ambient medium would accelerate electrons via external shock in a wide angle. So that the merger-nova photons (i.e., thermal emission from the ejecta) would be scattered into higher frequency via inverse compton (IC) process when they propagating through the cocoon shocked region. We find that the IC scattered component peaks at X-ray band and it will reach its peak luminosity in order of days (simultaneously with the merger-nova emission). With current X-ray detectors, such a late X-ray component could be detected out to 200 Mpc, depending on the merger remnant properties. It could serve as an important electromagnetic counterpart of gravitational wave signals from NS-NS/BH mergers.
+subject: jet, model, radiation, kilonoga, GRB, x-ray
+revelation: contains eqiations for models of IC emission
+
+link: https://arxiv.org/abs/1802.00571
+title: The allowed parameter space of a long-lived neutron star as the merger remnant of GW170817
+authors: Shunke Ai, He Gao, Zi-Gao Dai, Xue-Feng Wu, Ang Li, Bing Zhang
+topic: Considering the relatively large total mass, it is generally proposed that the merger of GW170817 would lead to a shortly lived hypermassive NS or directly produce a black hole (BH). There is no clear evidence to support or rule out a long-lived NS as the merger remnant. Here we utilize the GW and electromagnetic (EM) signals to comprehensively investigate the parameter space that allows a long-lived NS to survive as the merger remnant of GW170817. We find that for some stiff equations of state, the merger of GW170817 could, in principle, lead to a massive NS, which has a millisecond spin period. The post-merger GW signal could hardly constrain the ellipticity of the NS
+subject: MM, constrains, models, EOS
+
+link: https://arxiv.org/abs/1801.10169
+title: Compton echoes from nearby Gamma-Ray Bursts
+authors: Paz Beniamini, Dimitrios Giannios, George Younes, Alexander J. van der Horst, Chryssa Kouveliotou
+topic: We consider here Compton echoes, the scattered light from the prompt and afterglow emission. Compton echoes, an as yet undetected counterpart of GRBs, peak in X-rays and maintain a roughly constant flux for hundreds to thousands of years after the burst. Though too faint to be detected in typical cosmological GRBs, a fraction of close by bursts with a sufficiently large energy output in X-rays, and for which the surrounding medium is sufficiently dense, may indeed be observed in this way. The detection of a Compton echo could provide unique insight into the burst properties and the environment's density structure. In particular, it could potentially determine whether or not there was a successful jet that broke through the compact binary merger ejecta. We discuss here the properties and expectations from Compton echoes and suggest methods for detectability.
+subject: jet, GRB, compton, afterglow, models
+
+link: https://arxiv.org/abs/1801.09717
+title: Compact binary merger and kilonova: outflows from remnant disc
+authors: Tuan Yi, Wei-Min Gu, Tong Liu, Rajiv Kumar, Hui-Jun Mu, Cui-Ying Song
+topic: Outflows launched from a remnant disc of compact binary merger may have essential contribution to the kilonova emission. Numerical calculations are conducted in this work to study the structure of accretion flows and outflows. By the incorporation of limited-energy advection in the hyper-accretion discs, outflows occur naturally from accretion flows due to imbalance between the viscous heating and the sum of the advective and radiative cooling. Following this spirit, we revisit the properties of the merger outflow ejecta. Our results show that around of the disc mass can be launched as powerful outflows. The amount of unbound mass varies with the disc mass and the viscosity. The outflow-contributed peak luminosity is around.
+subject: 
+
+link: https://arxiv.org/abs/1801.09712
+title: Implications of the radio and X-ray emission that followed GW170817
+authors: Ehud Nakar, Tsvi Piran
+topic: The radio and X-rays that followed GW170817 increased gradually over similar  100 days, resembling the radio flare predicted to arise from the interaction of a binary neutron star merger outflow with the ISM \citep{nakar2011}. Considering a blast wave moving with a Lorentz factor Gamma, we show that an off-axis observer, namely an observer at. Observations imply that at all times we have seen an on-axis emission. The isotropic equivalent energy in the observed region increases with time,  implying that the outflow was structured. The energy increase can arise from a slower material moving behind the blast wave or from a matter moving at larger angles that has slowed down. Such a structure could have different origins, however, the only physically motivated one, proposed so far, is the interaction of a relativistic jet with the ejecta and the resulting cocoon. The jet could have been choked or successful. In the latter case, it has produced a short GRB pointing elsewhere (this successful jet-cocoon system is sometimes called a "structured jet") 
+subject: EM, jet, GRB, jet structure, analytic, x-ray
+
+link: https://arxiv.org/abs/1801.07727
+title: The r-Process Pattern of a Bright, Highly r-Process-Enhanced, Metal-Poor Halo Star at [Fe/H] similar to -2
+authors: C.M. Sakari, V.M. Placco, T. Hansen, E.M. Holmbeck, T.C. Beers, A. Frebel, I.U. Roederer, K.A. Venn, G. Wallerstein, C.E. Davis, E.M. Farrell, D Yong
+topic: A high-resolution spectroscopic analysis is presented for a new highly r-process-enhanced very metal-poor retrograde halo star, RAVE J153830.9-180424, discovered as part of the R-Process Alliance survey. J1538-1804's r-process pattern matches that of the Sun for elements between the first, second, and third peaks, and does not exhibit an actinide boost. Cosmo-chronometric age-dating reveals the r-process material to be quite old. This robust main r-process pattern is a necessary constraint for r-process formation scenarios (of particular interest in light of the recent neutron star merger, GW 170817), and has important consequences for the origins of r-II stars. Additional r-I and r-II stars will be reported by the R-Process Alliance in the near future.
+subject: r-process, abundances, observations, PIII
+
+link: https://arxiv.org/abs/1801.07522
+title: Uncertainties in radiative neutron-capture rates relevant to the A similar 80 r-process peak
+authors: I. K. B. Kullmann, E. W. Hafli, A.C. Larsen, E. Lima
+topic: The rapid neutron-capture process (r-process) has for the first time been confirmed to take place in a neutron-star merger event. A detailed understanding of the rapid neutron-capture process is one of the holy grails in nuclear astrophysics. In this work we investigate one aspect of the r-process modelling: uncertainties in radiative neutron-capture cross sections and astrophysical reaction rates for isotopes of the elements Fe, Co, Ni, Cu, Zn, Ga, Ge, As, and Se. In particular, we study deviations from standard libraries used for astrophysics, and the influence of a very-low γ-energy enhancement in the average, reduced γ-decay probability on the (n,γ) rates. We find that the intrinsic uncertainties are in some cases extremely large, and that the low-energy enhancement, if present in neutron-rich nuclei, may increase the neutron-capture reaction rate significantly.
+subject: r-process, uncertanties, comparison, abundances
+
+link: https://arxiv.org/abs/1801.06516
+title: The outflow structure of GW170817 from late time broadband observations
+authors: E. Troja, L. Piro, G. Ryan, H. van Eerten, R. Ricci, M. H. Wieringa, S. Lotti, T. Sakamoto, S. B. Cenko
+topic: We present our broadband study of GW170817 from radio to hard X-rays, including NuSTAR and Chandra observations up to 165 days after the merger, and a multi-messenger analysis including LIGO constraints. The data are compared with predictions from a wide range of models, providing the first detailed comparison between non-trivial cocoon and jet models. Homogeneous and power-law shaped jets, as well as simple cocoon models are ruled out by the data, while both a Gaussian shaped jet and a cocoon with energy injection can describe the current dataset for a reasonable range of physical parameters, consistent with the typical values derived from short GRB afterglows. We propose that these models can be unambiguously discriminated by future observations measuring the post-peak behaviour, with slope -1.0 for the cocoon and -2.5 for the jet model.
+subject: jet, model analysis, observations, x-ray, GRB
+
+link: https://arxiv.org/abs/1801.06164
+title: The evolution of the X-ray afterglow emission of GW 170817 / GRB 170817A in XMM-Newton observations
+authors: P. D'Avanzo, S. Campana, O.S. Salafia, G. Ghirlanda, G. Ghisellini, A. Melandri, M.G. Bernardini, M. Branchesi, E. Chassande-Mottin, S. Covino, V. D'Elia, L. Nava, R. Salvaterra, G. Tagliaferri, S.D. Vergani
+topic: We report our observation of the short GRB 170817A, associated to the binary neutron star merger event GW 170817, perfomed in the X-ray band with XMM-Newton 135 d after the event (on the 29th December 2017). We find evidence for a flattening of the X-ray light curve with respect to the previously observed brightening. We interpret all the existing afterglow data with two models: i) a structured jet and ii) a jet-less isotropic fireball with some stratification in its radial velocity structure. Both models fit the data and predict that the radio flux must decrease simultaneously with the optical and the X-ray one, making hard to distinguish between them at the present stage. Polarimetric measures and the rate of short GRB-GW association in future LIGO/Virgo runs will be key to disentangle these two geometrically different scenarios.
+subject: jet, radio, x-ray, observations, model analysis
+
+%% 42 
+
+link: https://arxiv.org/abs/1801.06124
+title: Prompt gamma-ray emission of GRB 170817A associated to GW 170817: A consistent picture
+authors: Houri Ziaeepour
+topic: Here we use a phenomenological model of shock evolution and synchrotron/self-Compton emission to simulate the prompt emission of GRB 170817A and to test above proposals. We find that synchrotron emission from a mildly relativistic cocoon with a Lorentz factor of 2-3, as considered in the literature, generates a too soft, too long, and too bright prompt emission. Off-axis view of an structured jet with a Lorentz factor of about 10 can reproduce observations, but needs a very efficient transfer of kinetic energy to electrons in internal shocks, which is disfavored by particle in cell simulations. We also comment on cocoon breakout as a mechanism for generation of the prompt gamma-ray. A relativistic jet with a Lorentz factor of about 100 and a density lower than typical short GRBs seems to be the most plausible model and we conclude that GRB 170817A was intrinsically faint. Based on this result and findings of relativistic magnetohydrodynamics simulations of BNS merger in the literature we discuss physical and astronomical conditions, which may lead to such faint short GRBs
+subject: GRB, jet, model, synchrotron, compton, discussion
+
+link: https://arxiv.org/abs/1801.05680
+title: An explosion is triggered by the late collapse of the compact remnant from a neutron star merger
+authors: Antonios Nathanail
 topic: 
 subject: 
 
