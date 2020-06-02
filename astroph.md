@@ -2645,6 +2645,86 @@ subject: GRB, jet, model, synchrotron, compton, discussion
 link: https://arxiv.org/abs/1801.05680
 title: An explosion is triggered by the late collapse of the compact remnant from a neutron star merger
 authors: Antonios Nathanail
+topic: The collapse of this compact remnant to a black- hole-torus system is expected to give rise to a powerful jet and a short gamma-ray burst. Nevertheless, if the collapse is delayed half a second or so, the surrounding matter would be already accreted and/or expelled and hence no torus will be formed. However, the collapse itself will give rise to a quasi-isotropic magnetized fireball. This magnetic bomb will dissipate much of its energy due to magnetic re-connection and will produce the prompt emission, when the fireball will become transparent to gamma-rays. The energy range of such an explosion depends on the initial magnetic field strength of the two neutron stars and the amplification of the magnetic energy during merger. We discuss the production of a quasi-isotropic magnetized fireball and its subsequent interaction with the ejected matter during merger, as the outcome of the coalescence of a binary neutron star system.
+subject: delayed collapse, BH, accretion, MF, analytic, discussion
+
+link: https://arxiv.org/abs/1801.05167
+title: Searching for Gamma-Ray counterparts to Gravitational Waves from merging binary neutron stars with the Cherenkov Telescope Array
+authors: Barbara Patricelli, Antonio Stamerra, Massimiliano Razzano, Elena Pian, Giancarlo Cella
+topic: Short GRBs are also expected to emit very-high energy (VHE, > 100 GeV) photons and VHE electromagnetic (EM) upper limits have been set with observations performed by ground-based gamma-ray detectors and during the intense EM follow-up campaign associated with GW170817/GRB 170817A. In the next years, the searches for VHE EM counterparts will become more effective thanks to the Cherenkov Telescope Array (CTA) We present a comprehensive study on the prospects for joint GW and VHE EM observations of merging BNSs with Advanced LIGO, Advanced Virgo and CTA, based on detailed simulations of the multi-messenger emission and detection. We propose a new observational strategy optimized on the prior assumptions about the EM emission. 
+subject: observataion prospect, EM, GRB, gamma
+
+link: https://arxiv.org/abs/1801.04286
+title: A magnetar origin for the kilonova ejecta in GW170817
+authors: Brian D. Metzger, Todd A. Thompson, Eliot Quataert
+topic: We propose an alternative ejecta source: the neutrino-heated, magnetically-accelerated wind from the strongly-magnetized hypermassive NS (HMNS) remnant. A rapidly-spinning HMNS with an ordered surface magnetic field of strength B ~ 1-3e14 G and lifetime t_rem ~ 0.1-1 s can simultaneously explain the velocity, total mass, and electron fraction of the blue KN ejecta. The inferred HMNS lifetime is close to its Alfven crossing time, suggesting global magnetic torques could be responsible for bringing the HMNS into solid body rotation and instigating its gravitational collapse. Different origins for the KN ejecta may be distinguished by their predictions for the emission in the first hours after the merger, when the luminosity is enhanced by heating from internal shocks; the latter are likely generic to any temporally-extended ejecta source (e.g. magnetar or accretion disk wind) and are not unique to the emergence of a relativistic jet.
+subject: JET, ejecta, model, MF, analytic, discussion
+
+link: https://arxiv.org/abs/1801.03531
+title: The Binary Neutron Star event LIGO/VIRGO GW170817 a hundred and sixty days after merger: synchrotron emission across the electromagnetic spectrum
+authors: Raffaella Margutti, K.D. Alexander, X. Xie, L. Sironi, B.D. Metzger, A. Kathirgamaraju, W. Fong, P.K. Blanchard, E. Berger, A. MacFadyen, et al
+topic: We report deep Chandra, HST and VLA observations of the binary neutron star event GW170817 at t less 160 d after merger. These observations show that GW170817 has been steadily brightening with time and might have now reached its peak, and constrain the emission process as non-thermal synchrotron emission where the cooling frequency νc is above the X-ray band and the synchrotron frequency nu_m is below the radio band. The very simple power-law spectrum extending for eight orders of magnitude in frequency enables the most precise measurement of the index p of the distribution of non-thermal relativistic electrons N(gamma)\prop to gamma−p accelerated by a shock launched by a NS-NS merger to date.  We find p=2.17 \pm 0.01, which indicates that radiation from ejecta with Gamma similar 3−10 dominates the observed emission. While constraining the nature of the emission process, these observations do \emph{not} constrain the nature of the relativistic ejecta. We employ simulations of explosive outflows launched in NS ejecta clouds to show that the spectral and temporal evolution of the non-thermal emission from GW170817 is consistent with both emission from radially stratified quasi-spherical ejecta traveling at mildly relativistic speeds, \emph{and} emission from off-axis collimated ejecta characterized by a narrow cone of ultra-relativistic material with slower wings extending to larger angles. In the latter scenario, GW170817 harbored a normal SGRB directed away from our line of sight.
+subject: observations, radio, synchrotron, spectr
+
+link: https://arxiv.org/abs/1801.03506
+title: r-process nucleosynthesis in the early Universe through fast mergers of compact binaries in triple systems
+authors: Matteo Bonetti, Albino Perego, Pedro R. Capelo, Massimo Dotti, M. Coleman Miller
+topic: Surface abundance observations of halo stars hint at the occurrence of r-process nucleosynthesis at low metallicity... Possible loci of early-Universe r-process nucleosynthesis are the ejecta of either black hole--neutron star or neutron star--neutron star binary mergers. Here we study the effect of the inclination--eccentricity oscillations raised by a tertiary (e.g. a star) on the coalescence time scale of the inner compact object binaries. Our results are highly sensitive to the assumed initial distribution of the inner binary semi-major axes. Our results provide additional support to the compact object merger scenario for r-process nucleosynthesis.
+subject: r-process, sites, cosmology, popylation synthesis
+
+link: https://arxiv.org/abs/1801.02669
+title: The optical afterglow of the short gamma-ray burst associated with GW170817
+authors: J. D. Lyman, G. P. Lamb, A. J. Levan, I. Mandel, N. R. Tanvir, S. Kobayashi, B. Gompertz, J. Hjorth, A. S. Fruchter, T. Kangas, D. Steeghs., et al
+topic: The electromagnetic signal began approximately 2 seconds post-merger with a weak, short burst of gamma-rays, which was followed over the next hours and days by the ultraviolet, optical and near-infrared emission from a radioactively- powered kilonova. Later, non-thermal rising X-ray and radio emission was observed. The low luminosity of the gamma-rays and the rising non-thermal flux from the source at late times could indicate that we are outside the opening angle of the beamed relativistic jet. Alternatively, the emission could be arising from a cocoon of material formed from the interaction between a jet and the merger ejecta. Here we present late-time optical detections and deep near-infrared limits on the emission from GW170817 at 110 days post-merger. Our new observations are at odds with expectations of late-time emission from kilonova models, being too bright and blue. Instead, the emission arises from the interaction between the relativistic ejecta of GW170817 and the interstellar medium. We show that this emission matches the expectations of a Gaussian structured relativistic jet, which would have launched a high luminosity short GRB to an aligned observer. However, other jet structure or cocoon models can also match current data - the future evolution of the afterglow will directly distinguish the origin of the emission.
+subject: observations, kilonova, discussion
+
+link: https://arxiv.org/abs/1801.02361
+title: Optimized Radio Follow Up of Binary Neutron-Star Mergers
+authors: Dario Carbone, Alessandra Corsi
+topic: We simulate GW170817-like radio transients, and radio afterglows generated by fast jets with isotropic energy expanding in a low-density interstellar medium bserved from different viewing angles (from slightly off-axis to largely off-axis). We then determine the optimal timing of GHz radio observations following the precise localization of the BNS radio counterpart candidate, assuming a sensitivity comparable to that of the Karl G. Jansky Very Large Array. The optimization is done so as to ensure that properties such as viewing angle and circumstellar density can be correctly reconstructed with the minimum number of observations. We show that radio is the optimal band to explore the fastest ejecta from BNSs in low-density ISM, since the optical emission is likelyto be dominated by the so-called `kilonova' component, while X-rays from the jet are detectable only for a small subset of the BNS models considered here.
+subject: radio, EM, prospects, observations, discussion
+
+link: https://arxiv.org/abs/1801.02305
+title: On the interpretation of the Fermi GBM transient observed in coincidence with LIGO Gravitational Wave Event GW150914
+authors: V. Connaughton, E. Burns, A. Goldstein, L. Blackburn, M. S. Briggs, N. Christensen, C. M. Hui, D. Kocevski, T. Littenberg, J. E. McEnery et al
+topic: We find Greiner et al. (2016) used an inconsistent source position and did not follow the steps taken in Connaughton et al. (2016) to mitigate the statistical shortcomings of their software when analyzing this weak event. We use the approach of Greiner et al. (2016) to verify that our original spectral analysis is not biased.
+subject: GRB, observations, discussion
+
+link: https://arxiv.org/abs/1801.01410
+title: The Origin of the Prompt Emission for Short GRB 170817A: Photosphere Emission or Synchrotron Emission?
+authors: Yan-Zhi Meng, Jin-Jun Geng, Bin-Bin Zhang, Jun-Jie Wei et al
+topic: The origin of this short GRB is still under debate, but a plausible interpretation is that it is due to the off-axis emission from a structured jet. We consider two possibilities. First, since the best-fit spectral model for the main pulse of GRB 170817A is a cutoff power law with a hard low-energy photon index (α=−0.62+0.49−0.54), we consider an off-axis photosphere model. We develop a theory of photosphere emission in a structured jet and find that such a model can reproduce a low-energy photon index that is softer than a blackbody through enhancing high-latitude emission. The model can naturally account for the observed spectrum. The best-fit Lorentz factor along the line of sight is \sim 20, which demands that there is a significant delay between the merger and jet launching. Alternatively, we consider that the emission is produced via synchrotron radiation in an optically thin region in an expanding jet with decreasing magnetic fields.
+subject: GRB, model, jet, radio, thermal, non-thermal emission
+
+link: https://arxiv.org/abs/1801.01190
+title: The formation of the heaviest elements
+authors: Anna Frebel, Timothy C. Beers 
+topic: The rapid neutron-capture process needed to build up many of the elements heavier than iron seems to take place primarily in neutron-star mergers, not supernova explosions.
+subject: r-process
+
+link: https://arxiv.org/abs/1801.01141
+title: Neutron Star Mergers as sites of r-process Nucleosynthesis and Short Gamma-Ray Bursts
+authors: Kenta Hotokezaka, Paz Beniamini, Tsvi Piran
+topic: We overview observational evidence supporting this scenario including: the total amount of r-process elements in the Galaxy, extreme metal poor stars, geological radioactive elemental abundances, dwarf galaxies, and short gamma-ray bursts (sGRBs). The ultra-violet, optical, and near infrared observations point to r-process elements that have been synthesized in the merger ejecta. The rate and ejected mass inferred from GW170817 and the EM counterparts are consistent with other observations. We find however that, within simple one zone chemical evolution models (based on merger rates with reasonable delay time distributions as expected from evolutionary models, or from observations of sGRBs), it is difficult to reconcile the current observations of the europium abundance history of Galactic stars for [Fe/H] more then −1. This implies that to account for the role of mergers in the Galactic chemical evolution, we need a Galactic model with multiple populations that have different spatial distributions and/or varying formation rates.
+subject: r-process, summary, model, alternative cites, GRB
+
+link: https://arxiv.org/abs/1712.09970
+title: Cannonball model diagnosis of the short gamma ray burst 170817A
+authors: Shlomo Dado, Arnon Dar, Alvaro De Rujula
+topic: The rich and complex data obtained from multi-wavelength observations of SHB170817A, the short hard gamma ray burst (SHB) associated with GW170817 --the first neutron stars merger event detected in gravitational waves (GWs)-- are analyzed in the framework of the cannonball model of SHBs. In this model a highly relativistic jet is launched by fall back matter on the nascent neutron star (or black hole) into a surrounding glory (light from the surrounding wind nebula of the binary neutron stars) which was present already before the merger. The SHB was produced by inverse Compton scattering of glory photons by the jet, which was viewed far off-axis. The fading glory, which produced the initial UVOIR afterglow, was powered by a neutron star remnant. It was overtaken by a late time X-ray, UVOIR and radio afterglow produced by synchrotron radiation from the decelerating jet in the interstellar medium of the host galaxy. If the radio afterglow of SHB170817A was indeed produced by the jet, it should display a superluminal motion relative to the SHB location, still detectable in VLA and VLBI radio observations.
+subject: jet, alternative model, GRB
+
+%% 43
+
+link: https://arxiv.org/abs/1712.03958
+title: Ilya Mandel
+authors: 
+topic: 
+subject: 
+
+link: 
+title: 
+authors: 
 topic: 
 subject: 
 
