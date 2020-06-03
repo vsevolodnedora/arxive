@@ -2717,7 +2717,82 @@ subject: jet, alternative model, GRB
 %% 43
 
 link: https://arxiv.org/abs/1712.03958
-title: Ilya Mandel
+title: The orbit of GW170817 was inclined by less than 28 degrees to the line of sight
+authors: Ilya Mandel
+topic: We combine the gravitational-wave measurement of the effective distance to the binary neutron star merger GW170817, the redshift of its host galaxy NGC 4993, and the latest Hubble constant measurement from the Dark Energy Survey to constrain the inclination between the orbital angular momentum of the binary and the line of sight to 18±8 degrees (less than 28 degrees at 90% confidence). This provides a complementary constraint on models of potential afterglow observations.
+subject: afterglow prospects, observations, GW data
+
+link: https://arxiv.org/abs/1712.03845
+title: Early soft X-ray to UV emission from double neutron star mergers: implications from the long-term radio and X-ray emissions of GW 170817
+authors: Xiang-Yu Wang, Zhi-Qiu Huang
+topic: It has been suggested that this mildly relativistic outflow may represent a cocoon of material. We suggest that the velocity gradient profile may form during the stage that the cocoon is breaking out of the merger ejecta, resulted from shock propagation down a density gradient. The cooling of the hot relativistic cocoon material immediately after it breaks out should have produced soft X-ray to UV radiation at tens of seconds to hours after the merger. The soft X-ray emission has a luminosity of 10^45 over a period of tens of seconds for a merger event like GW 170817. The UV emission shows a rise initially and peaks at about a few hours with a luminosity of 10^42
+subject: jet, EM, model, ejecta, analytic EM
+
+link: https://arxiv.org/abs/1712.03240
+title: GW170817 Most Likely Made a Black Hole
+authors: David Pooley, Pawan Kumar, J. Craig Wheeler, Bruce Grossan
+topic: If we assume that the spin-down luminosity of any putative neutron star is converted to pulsar wind nebula X-ray emission in the 0.5-8 keV band with an efficiency of 10^-3  for a dipole magnetic field with 10^12 G a rising X-ray signal would result and would be brighter than that observed by day 107, we therefore conclude that the remnant of GW170817 is most likely a black hole. Independent of any assumptions of X-ray efficiency, however, if the remnant is a rapidly-rotating, magnetized, neutron star, the total energy in the external shock should rise by a facto 10^2 after a few years, therefore,
+subject: jet, GRB, x-ray, accretion, BH
+
+link: https://arxiv.org/abs/1712.03237
+title: Late time afterglow observations reveal a collimated relativistic jet in the ejecta of the binary neutron star merger GW170817
+authors: Davide Lazzati, Rosalba Perna, Brian J. Morsony, Diego López-Cámara, Matteo Cantiello, Riccardo Ciolfi, Bruno giacomazzo, Jared C. Workman
+topic: Here we show that structured jets with a relativistic, energetic core surrounded by slower and less energetic wings produce afterglow emission that brightens characteristically with time, as recently seen in the afterglow of GW170817. Initially, we only see the relatively slow material moving towards us. As time passes, larger and larger sections of the outflow become visible, increasing the luminosity of the afterglow. The late appearance and increasing brightness of the multi-wavelength afterglow of GW170817 allow us to constrain the geometry of its ejecta and thus reveal the presence of an off-axis jet pointing about 30 degrees away from Earth. Our results confirm a single origin for BNS mergers and short GRBs: GW170817 produced a structured outflow with a highly relativistic core and a canonical short GRB. 
+subject: jet, model, structure, GRB
+
+link: https://arxiv.org/abs/1712.00632
+title: The origin of the first neutron star -- neutron star merger
+authors: K. Belczynski, A. Askar, M. Arca-Sedda, M. Chruslinska, M. Donnari, M. Giersz, M. Benacquista, R. Spurzem, D. Jin, G. Wiktorowicz, D. Belloni
+topic: We perform a suite of numerical calculations to understand the formation mechanism of this merger. We probe three leading formation mechanisms of double compact objects: classical isolated binary star evolution, dynamical evolution in globular clusters and nuclear cluster formation to test whether they are likely to produce NS-NS mergers in old host galaxies. Our results imply that either (i) the detection of GW170817 by LIGO/Virgo at their current sensitivity in an elliptical galaxy is a statistical coincidence; or that (ii) physics in at least one of our three models is incomplete in the context of the evolution of stars that can form NS-NS mergers; or that (iii) another very efficient (unknown) formation channel with a long delay time between star formation and merger is at play.
+subject: DNS, popylation synthesis, model, formation, projenitor
+
+link: https://arxiv.org/abs/1712.00418
+title: Transient Survey Rates for Orphan Afterglows from Compact Merger Jets
+authors: Gavin P Lamb, Masaomi Tanaka, Shiho Kobayashi
+topic: Orphan afterglows from short γ-ray bursts (GRB) are potential candidates for electromagnetic (EM) counterpart searches to gravitational wave (GW) detected neutron star or neutron star black hole mergers. Various jet dynamical and structure models have been proposed that can be tested by the detection of a large sample of GW-EM counterparts. We make predictions for the expected rate of optical transients from these jet models for future survey telescopes, without a GW or GRB trigger. 
+subject: observation prospects
+
+link: https://arxiv.org/abs/1711.09638
+title: Constraints on the ejecta of the GW170817 neutron-star merger from its electromagnetic emission
+authors: Eli Waxman, Eran Ofek, Doron Kushnir, Avishay Gal-Yam 
+topic: We present a simple analytic model, that captures the key features of the emission of radiation from material ejected by the merger of neutron stars (NS), and construct the multi-band and bolometric luminosity light curves of the transient associated with GW170817, AT\,2017gfo, using all available data. If this opacity is provided entirely by Lanthanides, their implied mass fraction is approximately 30 times below the value required to account for the solar abundance.
+subject: kilonova, model, analytic
+
+link: https://arxiv.org/abs/1711.08577
+title: A more stringent constraint on the mass ratio of binary neutron star merger GW170817
+authors: He Gao, Zhoujian Cao, Shunke Ai, Bing Zhang
+topic: Here we propose that if one can constrain the dynamical ejecta mass through performing kilonova modeling of the optical/IR data, by utilizing an empirical relation between the dynamical ejecta mass and the mass ratio of NS binaries, one may place a more stringent constraint on the mass ratio of the system. For instance, considering that the red "kilonova" component is powered by the dynamical ejecta, we reach a tight constraint on the mass ratio in the range of 0.46-0.59. Alternatively, if the blue "kilonova" component is powered by the dynamical ejecta, the mass ratio would be constrained in the range of 0.53-0.67. Overall, such a multi-messenger approach could narrow down the mass ratio of GW170817 system to the range of 0.46-0.67, which gives a more precise estimation of the individual NS mass than pure GW signal analysis
+subject: kilonova, model, ejecta inferred, analytic
+
+link: https://arxiv.org/abs/1711.06856
+title: Prompt emission from the counter jet of a short gamma-ray burst
+authors: Ryo Yamazaki, Kunihito Ioka, Takashi Nakamura
+topic: The counter jet of a short gamma-ray burst (sGRB) has not yet been observed, while recent discoveries of gravitational waves (GWs) from a binary neutron star (NS) merger GW170817 and the associated sGRB 170817A have demonstrated that off-axis sGRB jets are detectable. We calculate the prompt emission from the counter jet of an sGRB and show that it is typically 23-26 mag in the optical-infrared band 10-10^3 sec after the GWs for an sGRB 170817A-like event, which is brighter than the early macronova (or kilonova) emission and detectable by LSST in the near future. We also propose a new method to constrain the unknown jet properties, such as the Lorentz factor, opening angle, emission radii, and jet launch time, by observing both the forward and counter jets. To scrutinize the counter jets, space GW detectors like DECIGO are powerful in forecasting the merger time (less or equal 1 sec) and position (less or equal 1 arcmin) (similar a week) before the merger.
+subject: jet, model, GRB, analytic
+
+link: https://arxiv.org/abs/1711.06593
+title: A magnetically driven origin for the low luminosity GRB 170817A associated with GW170817
+authors: H. Tong, C. Yu, L. Huang
+topic: The gamma-ray burst GRB 170817A associated with GW170817 is subluminous and subenergetic compared with other typical short GRBs. It may be due to a relativistic jet viewed off-axis, or a structured jet, or cocoon emission. Giant flares from magnetars may possibly be ruled out. However, the luminosity and energetics of GRB 170817A is coincident with that of magnetar giant flares. After the coalescence of the binary neutron star, a hypermassive neutron star may be formed. The hypermassive neutron star may have magnetar-strength magnetic field. During the collapse of the hypermassive neutron star, the magnetic field energy will also be released. This giant-flare-like event may explain the the luminosity and energetics of GRB 170817A. Bursts with similar luminosity and energetics are expected in future neutron star-neutron star or neutron star-black hole mergers.
+subject: summary, jet
+
+link: https://arxiv.org/abs/1711.05565
+title: GW170817 and the prospect of forming supramassive remnants in neutron star mergers
+authors: Peng-Xiong Ma, Jin-Liang Jiang, Hao Wang, Zhi-Ping Jin, Yi-Zhong Fan, Da-Ming Wei
+topic: Motivated by such a remarkable progress, we examine the fate of the remnants formed in NS mergers and focus on the roles of the angular momentum and the mass distribution of the binary NSs. In the mass shedding limit (for which the dimensionless angular momentum equals to the Keplerian value, [func] the adopted { seven EoS models, except H4 and ALF2,} yield supramassive NSs in more than half of the mergers. However, for [func]  the presence or absence of a non-negligible fraction of supramassive NSs formed in the mergers depends sensitively on both the EoS and the mass distribution of the binary systems. The NS mergers with a total gravitational mass less 2.6Msun are found to be able to shed valuable light on both the EoS model and the angular momentum of the remnants if supramassive NSs are still absent.
+subject: analytic, EOS, angular momentum, mass shedding
+revelation: important for secular ejecta
+
+%% 44
+
+link: https://arxiv.org/abs/1711.03112
+title: Interpreting GRB170817A as a giant flare from a jet-less double neutron-star merger
+authors: Om S. Salafia, Gabriele Ghisellini, Giancarlo Ghirlanda, Monica Colpi
+topic: 
+subject: 
+
+link: 
+title: 
 authors: 
 topic: 
 subject: 
