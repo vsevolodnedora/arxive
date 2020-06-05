@@ -2947,53 +2947,55 @@ link: https://arxiv.org/abs/1710.01311
 title: Global simulations of strongly magnetized remnant massive neutron stars formed in binary neutron star mergers
 authors: Kenta Kiuchi, Koutarou Kyutoku, Yuichiro Sekiguchi, Masaru Shibata
 topic: We perform a general-relativistic magnetohydrodynamics simulation for ≈30 ms after merger of a binary neutron star to a remnant massive neutron star (RMNS) with a high spatial resolution of the finest grid resolution 12.5 m. First, we estimate that the Kelvin-Helmholtz instability at merger could amplify the magnetic-field energy up to \sim 1% of the thermal energy. Second, we find that the magnetorotational instability in the RMNS envelope and torus with ρ less 10^13 g cm−3 sustains magneto-turbulent state and the effective viscous parameter in these regions is likely to converge to approx 0.01--0.02 with respect to the grid resolution.
-subject: GRMHD, model
+subject: GRMHD, model, analytic
 
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/1709.08512
+title: Science with an ngVLA: Radio Emission from Short Gamma-ray Bursts in the Multi-Messenger Era
+authors: Nicole M. Lloyd-Ronning
+topic: We investigate the expected radio emission from short GRBs, guided by the observed distributions of their afterglow parameters. Our motivation is to explore the radio signatures of the forward and reverse shock in a sGRB jet, as well as the off-axis jet component and radio emission from the dynamical ejecta. We estimate the fraction of GRBs detectable in the radio that may be coincident with a GW signal from a neutron star (NS) merger. At the distance to which aLIGO at design specification is sensitive to GWs from NS mergers, we may detect up to 20 % of off-axis jet radio components of these events, and up to about 10 % of events with radio emission from the tidal ejecta shocking with the external medium. We discuss our results in light of the Next Generation Very Large Array, expected to make significant progress in detecting radio signals from sGRBs.
+subject: GRB, model, radio
+
+link: https://arxiv.org/abs/1709.07889
+title: Evidence for a maximum mass cut-off in the neutron star mass distribution and constraints on the equation of state
+authors: Justin Alsing, Hector O. Silva, Emanuele Berti
+topic: We infer the mass distribution of neutron stars in binary systems using a flexible Gaussian mixture model and use Bayesian model selection to explore evidence for multi-modality and a sharp cut-off in the mass distribution. We find overwhelming evidence for a bimodal distribution, in agreement with previous literature, and report for the first time positive evidence for a sharp cut-off at a maximum neutron star mass. We obtain a lower bound on the maximum sound speed attained inside the neutron star. Our constraints on the maximum neutron star mass strengthen the case for neutron star-neutron star mergers as the primary source of short gamma-ray bursts.
+subject: DNS, observation, statistics, max mass
+
+link: https://arxiv.org/abs/1708.08452
+title: Monte-Carlo closure for moment-based transport schemes in general relativistic radiation hydrodynamics simulations
+authors: Francois Foucart
+topic:  Photon transport plays a crucial role in radiatively dominated accretion disks, while neutrino transport is critical to core-collapse supernovae and to the modeling of electromagnetic transients and nucleosynthesis in neutron star mergers. However, evolving the full Boltzmann equations of radiative transport is extremely expensive. Here, we describe the implementation in the general relativistic SpEC code of a cheaper radiation hydrodynamics method which theoretically converges to a solution of Boltzmann's equation in the limit of infinite numerical resources. The algorithm is based on a gray two-moment scheme, in which we evolve the energy density and momentum density of the radiation. Two-moment schemes require a closure which fills in missing information about the energy spectrum and higher-order moments of the radiation. Instead of the approximate analytical closure currently used in core-collapse and merger simulations, we complement the two-moment scheme with a low-accuracy Monte-Carlo evolution. The Monte-Carlo results can provide any or all of the missing information in the evolution of the moments, as desired by the user. 
+subject: transport, monte-carly, neutrino, model, neutrino
+
+link: https://arxiv.org/abs/1706.02969
+title: Closed-form tidal approximants for binary neutron star gravitational waveforms constructed from high-resolution numerical relativity simulations
+authors: Tim Dietrich, Sebastiano Bernuzzi, Wolfgang Tichy
+topic: We construct closed-form gravitational waveforms (GWs) with tidal effects for the coalescence and merger of binary neutron stars. The method relies on a new set of eccentricity-reduced and high-resolution numerical relativity (NR) simulations and is composed of three steps. First, tidal contributions to the GW phase are extracted from the time-domain NR data. Second, those contributions are employed to fix high-order coefficients in an effective and resummed post-Newtonian expression. Third, frequency-domain tidal approximants are built using the stationary phase approximation. Our tidal approximants are valid from the low frequencies to the strong-field regime and up to merger. They can be analytically added to any binary black hole GW model to obtain a binary neutron star waveform, either in the time or in the frequency domain. This work provides simple, flexible, and accurate models ready to be used in both searches and parameter estimation of binary neutron star events.
 subject: 
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+%% 46
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1705.01513
+title: Detecting binary compact-object mergers with gravitational waves: Understanding and Improving the sensitivity of the PyCBC search
+authors: Alexander H. Nitz, Thomas Dent, Tito Dal Canton, Stephen Fairhurst, Duncan A. Brown
+topic: We present an improved search for binary compact-object mergers using a network of ground-based gravitational-wave detectors. We model a volumetric, isotropic source population and incorporate the resulting distribution over signal amplitude, time delay, and coalescence phase into the ranking of candidate events. We describe an improved modeling of the background distribution, and demonstrate incorporating a prior model of the binary mass distribution in the ranking of candidate events. We find a approx 10% and approx 20% increase in detection volume for simulated binary neutron star and neutron star--binary black hole systems, respectively, corresponding to a reduction of the false alarm rates assigned to signals by between one and two orders of magnitude.
+subject: search prospects
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1612.03671
+title: Structure of Stable Binary Neutron Star Merger Remnants: Role of Initial Spin
+authors: Wolfgang Kastaun, Riccardo Ciolfi, Andrea Endrizzi, Bruno Giacomazzo
+topic: We present general relativistic numerical simulations of binary neutron star (BNS) mergers with different initial spin configurations. We focus on models with stars of mass 1.4 M_sol each, which employ the equation of state (EOS) by Shen, Horowitz, and Teige, and which result in stable NSs as merger remnants. We present visualizations of the fluid flow and temperature distribution and find a strong impact of the spin on vortex structure and nonaxisymmetric deformation. We compute the radial mass distribution and the rotation profile in the equatorial plane using recently developed measures independent of spatial gauge, revealing slowly rotating cores that can be well approximated by the cores of spherical stars. We also study the influence of the spin on the inspiral phase and the gravitational wave (GW) signal.
+subject: GRHD, model, spin
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1607.02186
+title: Structure of Stable Binary Neutron Star Merger Remnants: a Case Study
+authors: Wolfgang Kastaun, Riccardo Ciolfi, Bruno Giacomazzo
+topic: In this work, we study the merger of two neutron stars with a gravitational mass of 1.4 M_sol each, employing the Shen-Horowitz-Teige equation of state. This equation of state is a corner case, allowing the formation of a stable neutron star with the given total baryonic mass of 3.03 M_sol. We investigate in unprecedented detail the structure of the remnant, in particular the mass distribution, the thermal structure, and the rotation profile. We also compute fluid trajectories both inside the remnant and those relevant for the formation of the disk. We find a peanut-shaped fluid flow inside the remnant following a strong m=2 perturbation. Moreover, the flow is locally compressive, causing the appearance of dynamic hot spots. Further, we introduce new diagnostic measures that are easy to implement in numeric simulations and that allow to quantify mass and compactness of merger remnants in a well-defined way. 
+subject: model, old eos, GW, remnant, dynamics
 
-link: 
-title: 
-authors: 
-topic: 
-subject: 
-
-link: 
-title: 
-authors: 
-topic: 
-subject: 
-
-link: 
-title: 
-authors: 
-topic: 
-subject: 
+link: https://arxiv.org/abs/1603.01950
+title: Possible role of magnetic reconnection in the electromagnetic counterpart of binary black hole merger
+authors: F. Fraschetti
+topic: We propose a qualitative scenario to interpret the argued association between the direct measurement of the gravitational wave event GW150914 by Laser Interferometer Gravitational Wave Observatory (LIGO)-Virgo collaborations and the hard X-ray transient detected by Fermi-Gamma-ray Burst Monitor (GBM) 0.4 sec after. In a binary system of two gravitationally collapsing objects with a non-vanishing electric charge, the compenetration of the two magnetospheres occurring during the coalescence, through magnetic reconnection, produces a highly collimated relativistic outflow that becomes optically thin and shines in the GBM field of view. We propose that this process should be expected as a commonplace in the future joint gravitational/electromagnetic detections and, in case of neutron star-neutron star merger event, might lead to detectable X- or γ-ray precursors to, or transients associated with, the gravitational bursts.
+subject: MF, analystic, GW
 
