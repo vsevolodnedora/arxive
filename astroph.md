@@ -1,3 +1,80 @@
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2006.00477
+title: Analysis of the spectra observed from GRB061007, GRB061121, GRB080605, GRB090926B, GRB080207 and GRB070521 host galaxies. Ha and SFR trends
+authors: Marcella Contini
+topic: We calculate the physical conditions and the N/H and O/H relative abundances for a sample of long GRB (LGRB) host galaxies in the redshift range 1 less z less 2.1 by modelling recently observed line and continuum spectra. The results are consistent with those previously calculated for LGRB host galaxies throughout a more extended redshift range z less 3. We analyse star formation rates (SFR) within the LGRB hosts on the basis of the Ha fluxes. 
+subjects: long GRB, spectra, observations
+
+link: https://arxiv.org/abs/2006.01150
+title: A thousand days after the merger: continued X-ray emission from GW170817
+authors: E. Troja, H. van Eerten, B. Zhang, G. Ryan, L. Piro, R. Ricci, B. O'Connor, M. H. Wieringa, S. B. Cenko, T. Sakamoto
+topic: Recent observations with the Chandra X-ray telescope continue to detect X-ray emission from the transient GW170817. The current dataset appears consistent both with energy injection by a long-lived central engine and with the onset of a kilonova afterglow, arising from the interaction of the sub-relativistic merger ejecta with the surrounding medium. Long-term monitoring of this source will be essential to test these different models.
+subjects: GW170817, x-ray, observations
+
+link: https://arxiv.org/abs/2006.01832
+title: Comparing Moment-Based and Monte Carlo Methods of Radiation Transport Modeling for Type II-Plateau Supernova Light Curves
+authors: Benny T.-H. Tsang, Jared A. Goldberg, Lars Bildsten, Daniel Kasen
+topic: We present a systematic comparison of the moment-based radiation hydrodynamical code STELLA and the Monte Carlo radiation transport code Sedona in the 1D modeling of Type II-Plateau supernovae. Based on explosion models generated from the Modules for Experiments in Stellar Astrophysics (MESA) instrument, we find remarkable agreements in the modeled light curves and the ejecta structure thermal evolution, affirming the fidelity of both radiation transport modeling approaches.
+subjects: radiaiton transport, monte-carlo, methods
+
+link: https://arxiv.org/abs/2006.02060
+title: The jet structure and the intrinsic luminosity function of short gamma-ray bursts
+authors: Wei-Wei Tan, Yun-Wei Yu
+topic: The joint observation of GW170817 and GRB 170817A indicated that short gamma-ray bursts (SGRBs) can originate from binary neutron star mergers. Moreover, some SGRBs could be detected off-axis, while the SGRB jets are highly structured. Then, by assuming an universal angular distribution of the jet emission for all SGRBs For self-consistency, this angular distribution is simultaneously constrained by the luminosity and event rate of GRB 170817A. Meanwhile, the intrinsic luminosity function (LF) of the on-axis emission of the jets can be simply described by a single power law with a low-luminosity exponential cutoff. The usually discovered broken-power-law apparent LF for relatively high luminosities can naturally result from the coupling of the intrinsic LF with the angular distribution of the jet emission, as the viewing angles to the SGRBs are arbitrarily distributed.
+subjects: GRB, observations
+
+link: https://arxiv.org/abs/2006.02382
+title: The Panchromatic Afterglow of GW170817: The full uniform dataset, modeling, comparison with previous results and implications
+authors: Sphesihle Makhathini, Kunal P. Mooley, Murray Brightman, Kenta Hotokezaka, AJ Nayana, Huib T. Intema, Dougal Dobie, E. Lenc, Daniel A. Perley, Christoffer Fremling et al
+topic: We present the full panchromatic afterglow light curve data of GW170817, including new radio data as well as archival optical and X-ray data, between 0.5 and 940 days post-merger. By compiling all archival data, and reprocessing a subset of it, we have ensured that the panchromatic dataset is uniform and therefore immune to the differences in data processing or flux determination methods used by different groups. Our fits to the afterglow data using an analytical model that includes VLBI proper motion from Mooley et al (2018), and a structured jet model that ignores the proper motion, indicates that the proper motion measurement needs to be considered while seeking an accurate estimate of the viewing angle.
+subjects: EM, grb, kilonova, radio, observations, GW170817
+
+link: https://arxiv.org/abs/2006.02466
+title: The structure of hydrodynamic γ-ray burst jets
+authors: Ore Gottlieb, Ehud Nakar, Omer Bromberg
+topic: Here, using a set of 3D simulations we follow the evolution of hydrodynamic long and short GRB jets after breakout and provide a physically motivated post-breakout outflow structure of GRB jets (the structure of weakly magnetized jets is underway). Our simulations feature Rayleigh-Taylor fingers, which grow from the cocoon into the jet and destabilize it. The mixing of jet-cocoon material gives rise to a previously unidentified region between the two, which we denote the jet-cocoon interface (JCI). In lGRBs the mixing is strong, leading to most of the outflow energy to drift into the JCI. In sGRBs, where the medium is lighter, the mixing is weaker, and the JCI and the jet core hold a comparable amount of energy. At larger angles, where the cocoon dominates, the structure is more complex including both an angular and a radial structure. The mixing shapes the prompt light curve and implies that typical afterglows of lGRBs are different from those of sGRBs. The predictions that we provide can be used to infer jet characteristics from prompt and afterglow observations.
+subjects: HD, model, jet, GRB
+
+%% https://arxiv.org/list/astro-ph/2006?skip=200&show=25
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+
+
+
 %% 03:2020
 
 %% https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=merger&terms-0-field=abstract&classification-physics=y&classification-physics_archives=astro-ph&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2018&date-to_date=2020-03-30&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
@@ -172,12 +249,14 @@ title: The rarity of repeating fast radio bursts from binary neutron star merger
 authors: G. Q. Zhang, S. X. Yi, F. Y. Wang
 topic: We first calculate the lower limit of the local formation rate of repeating FRBs observed by the Canadian Hydrogen Intensity Mapping Experiment. Then we show that only a small fraction (6%) of repeating FRBs is produced by young magnetars from binary neutron star mergers, basing on the gravitational wave detections by the third observing run.
 subject: FRB, observation, magnetars and FRB
+relevance: low
 
 link: https://arxiv.org/abs/2002.12391
 title: Test the hypothesis of compact-binary-coalescence origin of fast radio bursts through a multi-messenger approach
 authors: Min-Hao Wang, Shun-Ke Ai, Zheng-Xiang Li, Nan Xing, He Gao, Bing Zhang
 topic: FRB related to BBH 
 subject: FRB, BBH
+relevance: low
 
 link: https://arxiv.org/abs/2002.12209
 title: Asteroseismology: radial oscillations of neutron stars with realistic equation of state
@@ -254,6 +333,7 @@ title: Fast radio bursts from activities of neutron stars newborn in BNS mergers
 authors: F. Y. Wang, Y. Y. Wang, Yuan-Pei Yang, Y. W. Yu, Z. Y. Zuo, Z. G. Dai
 topic: Therefore, the NSs powering FRBs may be formed in BNS mergers. In this paper, we study the BNS merger rates, merger times, and predict their most likely merger locations for different types of host galaxies using population synthesis method. We find that the BNS merger channel is consistent with the recently reported offsets of FRB 180924 and FRB 190523.
 subject: BNS, FRB, origin of FRB -- BNS
+relevance: low
 
 link: https://arxiv.org/abs/2002.01950
 title: Observational constraints on the optical and near-infrared emission from the neutron star-black hole binary merger S190814bv
@@ -283,7 +363,8 @@ link: https://arxiv.org/abs/2002.00335
 title: Fast Radio Bursts from Interacting Binary Neutron Star Systems
 authors: Bing Zhang
 topic:  We discuss a hypothesis of producing abundant repeating FRBs in BNS systems
-subject: BNS, MHD, FRB, 
+subject: BNS, MHD, FRB
+rerelevance: low
 
 link: https://arxiv.org/abs/2002.00299
 title: Inclination Dependence of Kilonova Light Curves from Globally Aspherical Geometries
@@ -446,6 +527,7 @@ title: Modelling Double Neutron Stars: Radio and Gravitational Waves
 authors: Debatri Chattopadhyay, Simon Stevenson, Jarrod R. Hurley, Luca J. Rossi, Chris Flynn
 topic: We have implemented prescriptions for modelling pulsars in the rapid binary population synthesis code COMPAS, We perform a detailed analysis of the double neutron star (DNS) population, accounting for radio survey selection effects. We find a best-fit model that is in broad agreement with the observed Galactic DNS population
 subject: BNS, pulsars, population synthesis
+relevance: low
 
 link: https://arxiv.org/abs/1912.00399
 title: Constraining the long-lived magnetar remnants in short gamma-ray bursts from late-time radio observations
@@ -492,12 +574,14 @@ title: Constraining properties of neutron star merger outflows with radio observ
 authors: Dougal Dobie, David L. Kaplan, Kenta Hotokezaka, Tara Murphy, Adam Deller, Gregg Hallinan, Samaya Nissanke
 topic: In this paper we discuss and quantify the prospects for the use of radio VLBI observations and observations of scintillation-induced variability to measure the source size and proper motion of merger afterglows, and thereby infer properties of the merger including inclination angle, opening angle and energetics (limited to the very closest events) 
 subject: radio, afterglow, prediction
+relevance: low
 
 link: https://arxiv.org/abs/1910.13647
 title: An ASKAP search for a radio counterpart to the first high-significance neutron star-black hole merger LIGO/Virgo S190814bv
 authors: Dougal Dobie, Adam Stewart, Tara Murphy, Emil Lenc, Ziteng Wang, David L. Kaplan, Igor Andreoni, Julie Banfield, Ian Brown, Alessandra Corsi, et al
 topic: observations, search for radio afterglow, -- none found
 subject: radio, NSBH, followup
+relevance: low
 
 link: https://arxiv.org/abs/1910.13619
 title: Line Expansion Opacity in Relativistically Expanding Media
@@ -684,6 +768,7 @@ title: Electromagnetic Emission post Spinning Black Hole-Magnetized Neutron Star
 authors: Shu-Qing Zhong, Zi-Gao Dai, Can-Min Deng
 topic: Based on this scenario, we here investigate three possible energy-dissipation mechanisms that could produce electromagnetic (EM) counterparts in a time interval of the BH's discharge post a BH-NS merger-induced gravitational wave event: (1) magnetic reconnection at the BH's poles would occur, leading to a millisecond bright EM signal, (2) a magnetic shock in the zone of closed magnetic field lines due to the detachment
 subject: NSBH, MF, charge, FRB, bright radio emission
+relevance: low
 
 link: https://arxiv.org/abs/1908.11258
 title: Rotating neutron stars with non-barotropic thermal profile
@@ -965,6 +1050,7 @@ title: Energy function, formation rate and low-metallicity environment of fast r
 authors: G. Q. Zhang, F. Y. Wang
 topic: In this paper, we investigate the energy function, formation rate and environment of fast radio bursts (FRBs) using Parkes sample and Australian Square Kilometer Array Pathfinder (ASKAP) sample
 subject: FRB, observations
+relevance: low
 
 %% 17
 
@@ -1086,7 +1172,6 @@ subject: observations, PIII, MP stars, r-process, nuleo
 
 link: https://arxiv.org/abs/1905.01290
 title: The afterglow and kilonova of the short GRB 160821B
-
 authors: E. Troja, A. J. Castro-Tirado, J. Becerra Gonzalez, Y. Hu, G. S. Ryan, S. B. Cenko, R. Ricci, G. Novara, R. Sanchez-Ramirez, J. A. Acosta-Pulido er al
 topic: We present X-ray, optical/nIR and radio observations of its counterpart and model them with two distinct components of emission: a standard afterglow, arising from the interaction of the relativistic jet with the surrounding medium, and a kilonova, powered by the radioactive decay of the sub-relativistic ejecta.
 subject: GRB, observations
@@ -2485,7 +2570,7 @@ subject: EOS, BNS, NS, merger, nucleo
 
 link: https://arxiv.org/abs/1803.00599
 title: Synchrotron radiation from the fast tail of dynamical ejecta of neutron star mergers
-authors:  
+authors: Kenta Hotokezaka, Kenta Kiuchi, Masaru Shibata, Ehud Nakar, Tsvi Piran 
 topic: We find, using high resolution numerical relativistic simulations, that the tail of the dynamical ejecta of neutron star mergers extends to mildly relativistic velocities faster than 0.7c. The kinetic energy of this fast tail is depending on the neutron star equation of state and on the binary masses. The synchrotron flare arising from the interaction of this fast tail with the surrounding ISM can power the observed non-thermal emission that followed GW170817, provided that the ISM density 10^-2 the two neutron stars had roughly equal masses and the neutron star equation of state is soft (small neutron star radii). One of the generic predictions of this scenario is that the cooling frequency crosses the X-ray band on a time scale of a few months to a year, leading to a cooling break in the X-ray light curve. If this dynamical ejecta scenario is correct, we expect that the synchrotron radio flare from the ejecta that have produced the macronova/kilonova emission will be observable on time scales of 10^3 10^5 days
 subject: radio, ejects, BNS, model
 revelation: very importnat for radio for BNS! 
