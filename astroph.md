@@ -4,6 +4,24 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2006.00477
 title: Analysis of the spectra observed from GRB061007, GRB061121, GRB080605, GRB090926B, GRB080207 and GRB070521 host galaxies. Ha and SFR trends
 authors: Marcella Contini
@@ -41,6 +59,86 @@ topic: Here, using a set of 3D simulations we follow the evolution of hydrodynam
 subjects: HD, model, jet, GRB
 
 %% https://arxiv.org/list/astro-ph/2006?skip=200&show=25
+
+link: https://arxiv.org/abs/2006.02748
+title: The Luminosity Distribution of Short Gamma-Ray Bursts under a Structured Jet Scenario
+authors: Qi Guo, Daming Wei, Yuanzhu Wang
+topic:  In this paper, we calculate the luminosity distribution of sGRBs and its evolution with redshift based on the structured (Gaussian) jet model, and find that the typical luminosity increase with redshift, for nearby sGRBs (such as for luminosity distance less than 200 Mpc) the typical gamma-ray luminosity is just around  which naturally explains the very low radiation luminosity of GRB 170817A. We derived the detection probability of sGRBs by Fermi-GBM and found that the expected detection rate of sGRBs is only about 1 yr-1 within the distance of several hundred Mpc. Finally, we compare our results of gamma-ray luminosity distribution with sGRBs with known redshifts, and found that our results are consistent with the observation, which implies that our simulation results can reproduce the observed luminosity distribution well.
+subjects: GRB, jet, analytic, model, comparison
+
+link: https://arxiv.org/abs/2006.02914
+title: Discovery of a Universal Correlation For Long and Short GRBs and Its Application on the Study of Luminosity Function and Formation Rate
+authors: Qi Guo, Da-Ming Wei, Yuan-Zhu Wang, Zhi-Ping Jin
+topic: Gamma-ray bursts (GRBs) are known to be the most violent explosions in the universe, and a variety of correlations between observable GRB properties have been proposed in literature, but none of these correlations is valid for both long GRBs and short GRBs. In this paper we report the discovery of a universal correlation which is suitable for both long and short GRBs using three prompt emission properties of GRBs, i.e. the isotropic peak luminosity, the peak energy of the time-integtated prompt emission spectrum 
+subjects: GRB, statistics
+
+link: https://arxiv.org/abs/2006.03174
+title: Variability in Short Gamma-ray Bursts: Gravitationally Unstable Tidal Tails
+authors: Eric R. Coughlin, C. J. Nixon, Jennifer Barnes, Brian D. Metzger, R. Margutti
+topic: Short gamma-ray bursts are thought to result from the mergers of two neutron stars or a neutron star and stellar mass black hole. The final stages of the merger are generally accompanied by the production of one or more tidal "tails" of ejecta, which fall back onto the remnant-disc system at late times. Using the results of a linear stability analysis, we show that if the material comprising these tails is modeled as adiabatic and the effective adiabatic index satisfies γ≥5/3, then the tails are gravitationally unstable and collapse to form small-scale knots. We analytically estimate the properties of these knots, including their spacing along the tidal tail and the total number produced, and their effect on the mass return rate to the merger remnant. We perform hydrodynamical simulations of the disruption of a polytropic (with the polytropic and adiabatic indices γ equal), γ=2 neutron star by a black hole, and find agreement between the predictions of the linear stability analysis and the distribution of knots that collapse out of the instability.
+subjects: NSBH, tidal disruption, HD model, tail, knots
+
+link: https://arxiv.org/abs/2006.03270
+title: Pair separation in parallel electric field of a magnetar magnetosphere and narrow spectra of fast radio bursts
+authors: Yuan-Pei Yang, Jin-Ping Zhu, Bing Zhang, Xue-Feng Wu
+topic: When a magnetar magnetosphere is trigged by crustal deformations, an electric field E|| parallel to the magnetic field line would appear via Alvfén waves in the charge starvation region. If electron-positron pair bunches pre-exist, e.g., via some possible plasma instabilities, in the magnetosphere, these pairs will undergo charge separation in the E|| and in the meantime emit coherent curvature radiation. Following the approach of Yang & Zhang (2018), we find that the superposed curvature radiation becomes narrower due to charge separation, with the width of spectrum depending on the separation between the electron and positron clumps. This mechanism can interpret the narrow spectra of FRBs, in particular, the Galactic FRB 200428 recently detected in association with a hard X-ray burst from the Galactic magnetar SGR J1935+2154.
+subjects: jet, MF, model, x-ray
+
+link: https://arxiv.org/abs/2006.03802
+title: Analytical Solutions of Radiative Transfer Equations in Accretion Discs with Finite Optical Depth
+authors: Maryam Samadi, Fahimeh Habibi, Shahram Abbassi
+topic: The main purpose of this paper is to obtain analytical solutions for radiative transfer equations related to the vertical structure of accretion discs with finite optical depth. In the non-gray atmosphere, we employ the optical-depth dependent Eddington factor to define the relationship between the mean intensity and radiation stress tensor. Analytical solutions are achieved for two cases: (i) radiative equilibrium, and (ii) a disc with uniform internal heating and both cases are assumed to be in local thermodynamical equilibrium (LTE), too. Our results show that for the first case, the surface value of mean intensity with constant Eddington factor is three times larger than that with a variable factor. Moreover, scattering has no role in the vertical radiative structure of discs with the assumptions of the first case. On the other hand, for the second case, we encounter reductions in all radiative quantities as the photon destruction probability decreases (which is equivalent to increasing scattering). 
+subjects: radiation transport, analytic, physics
+
+%% https://arxiv.org/list/astro-ph/2006?skip=325&show=25
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
 
 link: 
 title: 
