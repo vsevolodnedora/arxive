@@ -1,3 +1,34 @@
+
+link: https://arxiv.org/abs/2006.07482
+title: Deciphering the properties of the central engine in GRB collapsars
+authors: M. Petropoulou, P. Beniamini, G. Vasilopoulos, D. Giannios, R. Barniol Duran
+topic: The central engine in long gamma-ray bursts (GRBs) is thought to be a compact object produced by the core collapse of massive stars, but its exact nature (black hole or millisecond magnetar) is still debatable. Although the central engine of GRB collapsars is hidden to direct observation, its properties may be imprinted on the accompanying electromagnetic signals. We aim to decipher the generic properties of central engines that are consistent with prompt observations of long GRBs detected by the Burst Alert Telescope (BAT) on board the Neil Gehrels Swift Observatory. Adopting a generic model for the central engine, in which the engine power and activity timescale are independent of each other, we perform Monte Carlo simulations of long GRBs produced by jets that successfully breakout from the star. The intrinsic 2D distribution of simulated collapsar GRBs peaks at lower gamma-ray luminosities and longer durations than the observed one, a prediction that can be tested in the future with more sensitive detectors. Black-hole accretors, whose power and activity time are set by the large-scale magnetic flux through the progenitor star and stellar structure, respectively, are compatible with the properties of the central engine inferred by our model.
+subjects: GRB, long GRB, statistics, model 
+
+link: https://arxiv.org/abs/2006.07376
+title: Accretion-to-jet energy conversion efficiency in GW170817
+authors: Om S. Salafia, Bruno Giacomazzo
+topic: Based on previously published multi-wavelength modelling of the GRB 170817A jet afterglow, that includes information from the VLBI centroid motion, we construct the posterior probability density distribution on the total energy in the bipolar jets launched by the GW170817 merger remnant. By applying a new numerical-relativity-informed fitting formula for the accretion disk mass, we construct the posterior probability density distribution of the GW170817 remnant disk mass. By combining the two, we estimate the accretion-to-jet energy conversion efficiency in this system, carefully accounting for uncertainties.  Such an efficiency also agrees with that anticipated for the Blandford-Znajek mechanism, provided that the magnetic field in the disk right after the merger is predominantly toroidal (which is expected as a result of the merger dynamics).
+subjects: BH, accretion, analytic, jet
+
+link: https://arxiv.org/abs/2006.07975
+title: Bulk Viscous Damping of Density Oscillations in Neutron Star Mergers
+authors: Mark Alford, Arus Harutyunyan, Armen Sedrakian
+topic: We discuss the damping of density oscillations in dense nuclear matter in the temperature range relevant to neutron star mergers. This damping is due to bulk viscosity arising from the weak interaction ``Urca'' processes of neutron decay and electron capture. The nuclear matter is modelled in the relativistic density functional approach. The bulk viscosity reaches a resonant maximum close to the neutrino trapping temperature, then drops rapidly as temperature rises into the range where neutrinos are trapped in neutron stars. We investigate the bulk viscous dissipation timescales in a post-merger object and identify regimes where these timescales are as short as the characteristic timescale 10 ms, and, therefore, might affect the evolution of the post-merger object. Our analysis indicates that bulk viscous damping would be important at not too high temperatures of the order of a few MeV and densities up to a few times saturation density.
+subjects: NS, physics, modes, viscosity
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2006.07251
 title: Observation of inverse Compton emission from a long gamma-ray burst
 authors: V. A. Acciari, S. Ansoldi, L. A. Antonelli, A. Arbet Engels, D. Baack, A. Babić, B. Banerjee, U. Barres de Almeida, J. A. Barrio et al
