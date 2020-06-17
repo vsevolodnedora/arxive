@@ -1,4 +1,34 @@
 
+link: https://arxiv.org/abs/2006.09369
+title: Constraining Magnetic Fields in the Circumgalactic Medium
+authors: Ting-Wen Lan, J. Xavier Prochaska
+topic: We study the properties of magnetic fields in the circumgalactic medium galaxies by correlating Faraday rotation measures of ∼1,000 high-redshift radio sources with the foreground galaxy number density estimated from the DESI Legacy Imaging Surveys. This method enables us to extract signals of rotation measures contributed by intervening gas around multiple galaxies. Our results show that there is no detectable correlation between the distribution of rotation measures and the number of foreground galaxies, contrary to several previous results. By adopting a column density distribution of ionized gas obtained from absorption line measurements, we further estimate the strengths of coherent magnetic fields parallel to the line of sight of less the equal 2 micro Gauss in the CGM.
+subjects: ISM, observations, MF
+
+link: https://arxiv.org/abs/2006.08662
+title: Simultaneous multi-telescope observations of FRB 121102
+authors: M. Caleb, B. W. Stappers, T. D. Abbott, E. D. Barr, M. C. Bezuidenhout, S. J. Buchner, M. Burgay, W. Chen, I. Cognard, L. N. Driessen, R. Fender, G. H. Hilmarsson, J. Hoang, D. M. Horn, F. Jankowski et al
+topic: We present 11 detections of FRB 121102 in ~3 hours of observations during its 'active' period on the 10th of September 2019. The drift rates we measure for the full-band and sub-banded data are consistent with those published between 600-6500 MHz.
+subjects: FRB, observation
+
+link: https://arxiv.org/abs/2006.08431
+title: General Relativistic Mean-field Dynamo Model for Proto-neutron Stars
+authors: K. Franceschetti, L. Del Zanna
+topic: Neutron stars, and magnetars in particular, are known to host the strongest magnetic fields in the Universe. The origin of these strong fields is a matter of controversy. In this preliminary work, via numerical simulations, we study, for the first time in non-ideal general relativistic magnetohydrodynamic (GRMHD) regime, the growth of the magnetic field due to the action of the mean-field dynamo due to sub-scale, unresolved turbulence. The dynamo process, combined with the differential rotation of the (proto-)star, is able to produce an exponential growth of any initial magnetic seed field up to the values required to explain the observations. By varying the dynamo coefficient we obtain different growth rates. We find a quasi-linear dependence of the growth rates on the intensity of the dynamo. Furthermore, the time interval in which exponential growth occurs and the growth rates also seems to depend on the initial configuration of the magnetic field.
+subjects: GRMHD, NS, MF, model
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2006.07482
 title: Deciphering the properties of the central engine in GRB collapsars
 authors: M. Petropoulou, P. Beniamini, G. Vasilopoulos, D. Giannios, R. Barniol Duran
