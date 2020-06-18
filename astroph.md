@@ -1,4 +1,41 @@
 
+link: https://arxiv.org/abs/2006.09840
+title: Dissipative relativistic magnetohydrodynamics of a multicomponent mixture and its application to neutron stars
+authors: Vasiliy A. Dommes, Mikhail E. Gusakov, Peter S. Shternin
+topic: We formulate hydrodynamic equations for nonsuperfluid multicomponent magnetized charged relativistic mixtures, taking into account chemical reactions as well as viscosity, diffusion, thermodiffusion, and thermal conductivity effects. The resulting equations have a rather simple form and can be readily applied, e.g., for studying magnetothermal evolution of neutron stars. We also establish a link between our formalism and the results known in the literature, and express the phenomenological diffusion coefficients through momentum transfer rates which are calculated from microscopic theory.
+subjects: physics, GRMHD, formulation
+
+link: https://arxiv.org/abs/2006.09680
+title: Combined Limit on the Photon Mass with Nine Localized Fast Radio Bursts
+authors: Jun-Jie Wei, Xue-Feng Wu
+topic: A nonzero-mass hypothesis for the photon can produces a frequency-dependent dispersion of light, which results in arrival-time differences of photons with different frequencies originating from a given transient source. 
+subjects: strange physics, mass of photon, FRB
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+
 link: https://arxiv.org/abs/2006.09369
 title: Constraining Magnetic Fields in the Circumgalactic Medium
 authors: Ting-Wen Lan, J. Xavier Prochaska
@@ -16,18 +53,6 @@ title: General Relativistic Mean-field Dynamo Model for Proto-neutron Stars
 authors: K. Franceschetti, L. Del Zanna
 topic: Neutron stars, and magnetars in particular, are known to host the strongest magnetic fields in the Universe. The origin of these strong fields is a matter of controversy. In this preliminary work, via numerical simulations, we study, for the first time in non-ideal general relativistic magnetohydrodynamic (GRMHD) regime, the growth of the magnetic field due to the action of the mean-field dynamo due to sub-scale, unresolved turbulence. The dynamo process, combined with the differential rotation of the (proto-)star, is able to produce an exponential growth of any initial magnetic seed field up to the values required to explain the observations. By varying the dynamo coefficient we obtain different growth rates. We find a quasi-linear dependence of the growth rates on the intensity of the dynamo. Furthermore, the time interval in which exponential growth occurs and the growth rates also seems to depend on the initial configuration of the magnetic field.
 subjects: GRMHD, NS, MF, model
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
 
 link: https://arxiv.org/abs/2006.07482
 title: Deciphering the properties of the central engine in GRB collapsars
