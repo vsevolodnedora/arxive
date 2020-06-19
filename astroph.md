@@ -1,4 +1,28 @@
 
+link: https://arxiv.org/abs/2006.10570
+title: A brief overview of black hole-neutron star mergers
+authors: Francois Foucart
+topic: Of the three main types of binaries detectable through ground-based gravitational wave observations, black hole-neutron star (BHNS) mergers remain the most elusive. While candidates BHNS exist in the triggers released during the third observing run of the Advanced LIGO/Virgo collaboration, no detection has been confirmed so far. As for binary neutron star systems, BHNS binaries allow us to explore a wide range of physical processes, including the neutron star equation of state, nucleosynthesis, stellar evolution, high-energy astrophysics, and the expansion of the Universe. Here, we review some of the main features of BHNS systems: the distinction between disrupting and non-disrupting binaries, the types of outflows that BHNS mergers can produce, and the information that can be extracted from the observation of their gravitational wave and electromagnetic signals. We also emphasize that for the most likely binary parameters, BHNS mergers seem less likely to power electromagnetic signals than binary neutron star systems. Finally, we discuss some of the issues that still limit our ability to model and interpret electromagnetic signals from BHNS binaries.
+subjects: BHNS, overview
+
+link: https://arxiv.org/abs/2006.10291
+title: GRB Fermi-LAT afterglows: explaining flares, breaks, and energetic photons
+authors: N. Fraija, T. Laskar, S. Dichiara, P. Beniamini, R. Barniol Duran, M.G. Dainotti, R. L. Becerra
+topic: The Fermi-LAT collaboration presented the second gamma-ray burst (GRB) catalog covering its first 10 years of operations. A significant fraction of afterglow-phase light curves in this catalog cannot be explained by the closure relations of the standard synchrotron forward-shock model, suggesting that there could be an important contribution from another process. In view of the above, we derive the synchrotron self-Compton (SSC) light curves from the reverse shock in the thick- and thin-shell regime for a uniform-density medium. We show that this emission could explain the GeV flares exhibited in some LAT light curves. Additionally, we demonstrate that the passage of the forward shock synchrotron cooling break through the LAT band from jets expanding in a uniform-density environment may be responsible for the late time
+subjects: radio, GRB, observations, model, analytic
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2006.09840
 title: Dissipative relativistic magnetohydrodynamics of a multicomponent mixture and its application to neutron stars
 authors: Vasiliy A. Dommes, Mikhail E. Gusakov, Peter S. Shternin
@@ -10,31 +34,6 @@ title: Combined Limit on the Photon Mass with Nine Localized Fast Radio Bursts
 authors: Jun-Jie Wei, Xue-Feng Wu
 topic: A nonzero-mass hypothesis for the photon can produces a frequency-dependent dispersion of light, which results in arrival-time differences of photons with different frequencies originating from a given transient source. 
 subjects: strange physics, mass of photon, FRB
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
 
 link: https://arxiv.org/abs/2006.09369
 title: Constraining Magnetic Fields in the Circumgalactic Medium
