@@ -1,4 +1,46 @@
 
+link: https://arxiv.org/abs/2006.10905
+title: Probing the fission properties of neutron-rich actinides with the astrophysical r process
+authors: Nicole Vassh, Matthew R. Mumpower, Trevor M. Sprouse, Rebecca Surman, Ramona Vogt
+topic: We review recent work examining the influence of fission in rapid neutron capture (r-process) nucleosynthesis which can take place in astrophysical environments. We briefly discuss the impact of uncertain fission barriers and fission rates on the population of heavy actinide species. We demonstrate the influence of the fission fragment distributions for neutron-rich nuclei and discuss currently available treatments, including recent macroscopic-microscopic calculations. We conclude by comparing our nucleosynthesis results directly with stellar data for metal-poor stars rich in r-process elements to consider whether fission plays a role in the so-called `universality' of r-process abundances observed from star to star.
+subjects: r-process, nucleo, review
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2006.10570
 title: A brief overview of black hole-neutron star mergers
 authors: Francois Foucart
@@ -10,18 +52,6 @@ title: GRB Fermi-LAT afterglows: explaining flares, breaks, and energetic photon
 authors: N. Fraija, T. Laskar, S. Dichiara, P. Beniamini, R. Barniol Duran, M.G. Dainotti, R. L. Becerra
 topic: The Fermi-LAT collaboration presented the second gamma-ray burst (GRB) catalog covering its first 10 years of operations. A significant fraction of afterglow-phase light curves in this catalog cannot be explained by the closure relations of the standard synchrotron forward-shock model, suggesting that there could be an important contribution from another process. In view of the above, we derive the synchrotron self-Compton (SSC) light curves from the reverse shock in the thick- and thin-shell regime for a uniform-density medium. We show that this emission could explain the GeV flares exhibited in some LAT light curves. Additionally, we demonstrate that the passage of the forward shock synchrotron cooling break through the LAT band from jets expanding in a uniform-density environment may be responsible for the late time
 subjects: radio, GRB, observations, model, analytic
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
 
 link: https://arxiv.org/abs/2006.09840
 title: Dissipative relativistic magnetohydrodynamics of a multicomponent mixture and its application to neutron stars
