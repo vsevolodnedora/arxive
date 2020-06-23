@@ -1,45 +1,70 @@
 
+link: https://arxiv.org/abs/2006.12240
+title: A Generalized Kompaneets Formalism for Inelastic Neutrino-Nucleon Scattering in Supernova Simulations
+authors: Tianshu Wang, Adam Burrows
+topic: Based on the Kompaneets approximation, we develop a robust methodology to calculate spectral redistribution via inelastic neutrino-nucleon scattering in the context of core-collapse supernova simulations. The resulting equations conserve lepton number to machine precision and scale linearly, not quadratically, with number of energy groups. The formalism also provides an elegant means to derive the rate of energy transfer to matter which, as it must, automatically goes to zero when the neutrino radiation field is in thermal equilibrium. Furthermore, we derive the next-higher-order in {\epsilon}/mc2 correction to the neutrino Kompaneets equation. Unlike other Kompaneets schema, ours also generalizes to the case of anisotropic angular distributions, while retaining the conservative form that is a hallmark of the classical Kompaneets equation. Our formalism enables immediate incorporation into supernova codes that follow the spectral angular moments of the neutrino radiation fields.
+subjects: neutrino, formalism, physics
+
+link: https://arxiv.org/abs/2006.11528
+title: Testing the Weak Equivalence Principle and Lorentz Invariance with Multiwavelength Polarization Observations of GRB Optical Afterglows
+authors: Jun-Jie Wei, Xue-Feng Wu
+topic: Violations of both the weak equivalence principle (WEP) and Lorentz invariance can produce vacuum birefringence, which leads to an energy-dependent rotation of the polarization vector of linearly polarized emission from a given astrophysical source. However, the search for the birefringent effect has been hindered by our ignorance concerning the intrinsic polarization angle in different energy bands. Considering the contributions to the observed linear polarization angle from both the intrinsic polarization angle and the rotation angles induced by violations of the WEP and Lorentz invariance, and assuming the intrinsic polarization angle is an unknown constant, we simultaneously obtain robust bounds on possible deviations from the WEP and Lorentz invariance, by directly fitting the multiwavelength polarimetric data of the optical afterglows of gamma-ray burst (GRB) 020813 and GRB 021004.
+subjects: GRB, polarisation, physics, quantum
+
+link: https://arxiv.org/abs/2006.11414
+title: Potential Impact of Fast Flavor Oscillations on Neutrino-driven Winds and Their Nucleosynthesis
+authors: Zewei Xiong, Andre Sieverding, Manibrata Sen, Yong-Zhong Qian
+topic: The wind driven by the intense neutrino emission from a protoneutron star (PNS) is an important site for producing nuclei heavier than the Fe group. Because of certain features in the neutrino angular distributions, the so-called fast flavor oscillations may occur very close to the PNS surface, effectively resetting the neutrino luminosities and energy spectra that drive the wind.
+Using the unoscillated neutrino emission characteristics from two core-collapse supernova simulations representative of relevant progenitors at the lower and higher mass end, we study the potential effects of fast flavor oscillations on neutrino-driven winds and their nucleosynthesis.
+subjects: neutrino wind, proto neutron star, nucleo
+
+link: https://arxiv.org/abs/2006.11306
+title: Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers
+authors: We present a systematic search for optical counterparts to 13 gravitational wave (GW) triggers involving at least one neutron star during LIGO/Virgo's third observing run. We searched binary neutron star (BNS) and neutron star black hole (NSBH) merger localizations with the Zwicky Transient Facility (ZTF) and undertook follow-up with the Global Relay of Observatories Watching Transients Happen (GROWTH) collaboration.
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2006.12137
+title: Tests of general relativity using multiband observations of intermediate mass binary black hole mergers
+authors: Sayantani Datta, Anuradha Gupta, Shilpa Kastha, K. G. Arun, B. S. Sathyaprakash
+topic: Observation of gravitational waves (GWs) in two different frequency bands is referred to as {\it multiband GW astronomy}. With the planned Laser Interferometric Space Antenna (LISA) operating In this paper we present the potential of multiband observations of intermediate mass binary black holes (IMBBHs) of component to test general relativity (GR). We show that mutiband observations of IMBBHs would permit multiparameter tests of GR---tests where more than one post-Newtonian (PN) coefficient is simultaneously measured yielding more rigorous constraints on possible modifications to GR. 
+subjects: GW, GW, Lisa
+
+link: https://arxiv.org/abs/2006.11525
+title: Higher-order gravitational-wave modes will allow for percent-level measurements of Hubble's constant with single binary neutron star merger observations
+authors: Juan Calderón Bustillo, Tim Dietrich, Paul D. Lasky
+topic: The first multi-messenger gravitational-wave observation of a binary neutron star merger allowed for the first distance-ladder independent measure of Hubble's constant, albeit with an uncertainty of ∼15% at the 68\% credible level. We show that a single future observation of a binary neutron star merger with a network of detectors sensitive to the post-merger remnant at a few kHz, and commensurate improvement in cosmological redshift measurements, will allow for percent-level uncertainties in measurement of Hubble's constant. We show how higher-order modes can be exploited in astrophysical parameter estimation in both the inspiral phase, and also the post-merger remnant. While former suffices in the case of unequal-mass binaries to obtain major improvements in the distance estimates, the latter is crucial for equal-mass cases. 
+subjects: GW, cosmology, prospects
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2006.10905
 title: Probing the fission properties of neutron-rich actinides with the astrophysical r process
 authors: Nicole Vassh, Matthew R. Mumpower, Trevor M. Sprouse, Rebecca Surman, Ramona Vogt
 topic: We review recent work examining the influence of fission in rapid neutron capture (r-process) nucleosynthesis which can take place in astrophysical environments. We briefly discuss the impact of uncertain fission barriers and fission rates on the population of heavy actinide species. We demonstrate the influence of the fission fragment distributions for neutron-rich nuclei and discuss currently available treatments, including recent macroscopic-microscopic calculations. We conclude by comparing our nucleosynthesis results directly with stellar data for metal-poor stars rich in r-process elements to consider whether fission plays a role in the so-called `universality' of r-process abundances observed from star to star.
 subjects: r-process, nucleo, review
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
 
 link: https://arxiv.org/abs/2006.10570
 title: A brief overview of black hole-neutron star mergers
