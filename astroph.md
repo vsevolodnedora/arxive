@@ -1,4 +1,46 @@
 
+link: https://arxiv.org/abs/2006.13186
+title: Two-fluid simulations of the magnetic field evolution in neutron star cores in the weak-coupling regime
+authors: F. Castillo, A. Reisenegger, J. A. Valdivia
+topic: In a previous paper, we reported simulations of the evolution of the magnetic field in neutron star cores through ambipolar diffusion, taking the neutrons as a motionless uniform background. However, in real neutron stars, neutrons are free to move, and a strong composition gradient leads to stable stratification (stability against convective motions) both of which might impact on the time-scales of evolution. Here we address these issues by providing the first long-term two-fluid simulations of the evolution of an axially symmetric magnetic field in a neutron star core composed of neutrons, protons, and electrons with density and composition gradients. However, the evolution is found to be faster than in the case of motionless neutrons, as the movement of charged particles (which are coupled to the magnetic field, but are also limited by the collisional drag forces exerted by neutrons) is less constrained, since neutrons are now allowed to move. The possible impact of non-axisymmetric instabilities on these equilibria, as well as beta decays, proton superconductivity, and neutron superfluidity, are left for future work.
+subjects: NS, MF, physics, NS structure
+
+link: https://arxiv.org/abs/2006.12984
+title: Hall cascade with fractional magnetic helicity in neutron star crusts
+authors: Axel Brandenburg
+topic: The ohmic decay of magnetic fields in the crusts of neutron stars is generally believed to be governed by Hall drift which leads to what is known as a Hall cascade. Here we show that helical and fractionally helical magnetic fields undergo strong inverse cascading like in magnetohydrodynamics (MHD), but the magnetic energy decays much more slowly Even for a nonhelical magnetic field there is inverse cascading with an increase of magnetic energy at the largest possible scale in the system. The strength of this effect depends on the strength of the magnetic field and disappears for weak fields.
+subjects: NS, MF, physics, NS structure
+
+link: https://arxiv.org/abs/2006.12611
+title: GW190814: Gravitational Waves from the Coalescence of a 23 M⊙ Black Hole with a 2.6 Msun Compact Object
+authors: LIGO Scientific Collaboration, the Virgo Collaboration
+topic: We report the observation of a compact binary coalescence involving a 22.2 - 24.3 Msun black hole and a compact object with a mass of 2.50 - 2.67 Msun (all measurements quoted at the 90% credible level). The gravitational-wave signal, GW190814, was observed during LIGO's and Virgo's third observing run on August 14, 2019 at 21:10:39 UTC and has a signal-to-noise ratio of 25 in the three-detector network. The source was localized to 18.5 deg2 at a distance of 241+41−45 Mpc; no electromagnetic counterpart has been confirmed to date. The source has the most unequal mass ratio yet measured with gravitational waves, 0.112+0.008−0.009, and its secondary component is either the lightest black hole or the heaviest neutron star ever discovered in a double compact-object system. The dimensionless spin of the primary black hole is tightly constrained to less or eqyal 0.07. Tests of general relativity reveal no measurable deviations from the theory, and its prediction of higher-multipole emission is confirmed at high confidence.
+subjects: GW, observations, BBH
+
+link: https://arxiv.org/abs/2006.12513
+title: On the inspiral of coalescing massive black hole binaries with LISA in the era of Multi-Messenger Astrophysics
+authors: Alberto Mangiagli, Antoine Klein, Matteo Bonetti, Michael L. Katz, Alberto Sesana, Marta Volonteri, Monica Colpi, Sylvain Marsat, Stanislav Babak
+topic:  This allows us to perform the parameter estimation on the fly, i.e. as a function of the time to coalescence during the inspiral phase, relevant for early warning of the planned LISA protected periods and for searches of electromagnetic signals. In this work, we study the evolution of the sky position, luminosity distance, chirp mass and mass ratio uncertainties as function of time left before merger.
+subjects: BBH, SMBH, LISA
+
+link: https://arxiv.org/abs/2006.12954
+title: Slowly rotating topological neutron stars -- universal relations and epicyclic frequencies
+authors: Victor I. Danchev, Daniela D. Doneva, Stoytcho S. Yazadjiev
+topic: In the modern era of abundant X-ray detections and the increasing momentum of gravitational waves astronomy, tests of General Relativity in strong field regime become increasingly feasible and their importance for probing gravity cannot be understated. To this end, we study the characteristics of slowly rotating topological neutron stars in the tensor-multi-scalar theories of gravity following the static study of this new type of compact objects by two of the authors. We explore the moment of inertia and verify that universal relations known from General Relativity hold for this new class of compact objects. Furthermore, we study the properties of their innermost stable circular orbits (ISCO) and the epicyclic frequencies due to the latter's hinted link to observational quantities such as quasi-periodic X-ray spectrum features.
+subjects: NS, physics, structure
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2006.12240
 title: A Generalized Kompaneets Formalism for Inelastic Neutrino-Nucleon Scattering in Supernova Simulations
 authors: Tianshu Wang, Adam Burrows
@@ -35,30 +77,6 @@ title: Higher-order gravitational-wave modes will allow for percent-level measur
 authors: Juan Calderón Bustillo, Tim Dietrich, Paul D. Lasky
 topic: The first multi-messenger gravitational-wave observation of a binary neutron star merger allowed for the first distance-ladder independent measure of Hubble's constant, albeit with an uncertainty of ∼15% at the 68\% credible level. We show that a single future observation of a binary neutron star merger with a network of detectors sensitive to the post-merger remnant at a few kHz, and commensurate improvement in cosmological redshift measurements, will allow for percent-level uncertainties in measurement of Hubble's constant. We show how higher-order modes can be exploited in astrophysical parameter estimation in both the inspiral phase, and also the post-merger remnant. While former suffices in the case of unequal-mass binaries to obtain major improvements in the distance estimates, the latter is crucial for equal-mass cases. 
 subjects: GW, cosmology, prospects
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
 
 link: https://arxiv.org/abs/2006.10905
 title: Probing the fission properties of neutron-rich actinides with the astrophysical r process
