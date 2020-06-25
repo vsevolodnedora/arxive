@@ -1,4 +1,52 @@
 
+link: https://arxiv.org/abs/2006.13872
+title: Gravitational waves from cosmic strings and first-order phase transition
+authors: Ruiyu Zhou, Ligong Bian
+topic: Cosmic strings and first-order phase transition are two main sources for the stochastic gravitational wave background (SGWB). In this work, we study the stochastic gravitational wave radiation from cosmic string which is formed after the first-order phase transition. For the first-order phase transition occurs at temperature far beyond the electroweak scale, the gravitational wave signal cannot be reached by the future gravitational wave interferometers. The gravitational waves from cosmic strings that formed after the phase transition can be detected by future gravitational wave detectors in a wide range of frequency, and therefore its imprints can serve to search for firs-order phase transitions at high scales with the phase transition temperature:
+subjects: GW, quantum
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2006.13186
 title: Two-fluid simulations of the magnetic field evolution in neutron star cores in the weak-coupling regime
 authors: F. Castillo, A. Reisenegger, J. A. Valdivia
@@ -28,18 +76,6 @@ title: Slowly rotating topological neutron stars -- universal relations and epic
 authors: Victor I. Danchev, Daniela D. Doneva, Stoytcho S. Yazadjiev
 topic: In the modern era of abundant X-ray detections and the increasing momentum of gravitational waves astronomy, tests of General Relativity in strong field regime become increasingly feasible and their importance for probing gravity cannot be understated. To this end, we study the characteristics of slowly rotating topological neutron stars in the tensor-multi-scalar theories of gravity following the static study of this new type of compact objects by two of the authors. We explore the moment of inertia and verify that universal relations known from General Relativity hold for this new class of compact objects. Furthermore, we study the properties of their innermost stable circular orbits (ISCO) and the epicyclic frequencies due to the latter's hinted link to observational quantities such as quasi-periodic X-ray spectrum features.
 subjects: NS, physics, structure
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
 
 link: https://arxiv.org/abs/2006.12240
 title: A Generalized Kompaneets Formalism for Inelastic Neutrino-Nucleon Scattering in Supernova Simulations
