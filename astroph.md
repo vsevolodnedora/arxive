@@ -1,51 +1,81 @@
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2006.14601
+title: A lower bound on the maximum mass if the secondary in GW190814 was once a rapidly spinning neutron star
+authors: Elias R. Most, L. Jens Papenfort, Lukas R. Weih, Luciano Rezzolla
+topic: While the primary was most likely a black hole, the secondary could be interpreted as either the lightest black hole or the most massive neutron star ever observed, but also as the indication of a novel class of exotic compact objects. We here argue that the secondary in GW190814 needs not be an ab-initio black hole nor an exotic object; rather, based on our current understanding of the nuclear-matter equation of state, it can be a rapidly rotating neutron star that collapsed to a rotating black hole at some point before merger. Show it using EOS.
+subjects: EOS, GW, NSBH, BBH
+
+link: https://arxiv.org/abs/2006.14301
+title: Systematic parameter space study for the UHECR originfrom GRBs in models with multiple internal shocks
+authors: Jonas Heinze, Daniel Biehl, Anatoli Fedynitch, Denise Boncioli, Annika Rudolph, Walter Winter
+topic: We scrutinize the paradigm that conventional long-duration Gamma-Ray Bursts (GRBs) are the dominant source of the ultra-high energy cosmic rays (UHECRs) within the internal shock scenario by describing UHECR spectrum and composition and by studying the predicted (source and cosmogenic) neutrino fluxes. Since it has been demonstrated that the stacking searches for astrophysical GRB neutrinos strongly constrain the parameter space in single-zone models, we focus on the dynamics of multiple collisions for which different messengers are expected to come from different regions of the same object. We propose a model which can describe both stochastic and deterministic engines, which we study in a systematic way.
+subjects: GRB, engine, Gamma rays
+
+link: https://arxiv.org/abs/2006.14250
+title: Monte-Carlo simulations of fast Newtonian and mildly relativistic shock breakout from a stellar wind
+authors: Hirotaka Ito, Amir Levinson, Ehud Nakar
+topic: Strong explosion of a compact star surrounded by a thick stellar wind drives a fast (greater 0.1c) radiation mediated shock (RMS) that propagates in the wind, and ultimately breaks out gradually once photons start escaping from the shock transition layer. In exceptionally strong or aspherical explosions the shock velocity may even be relativistic. The properties of the breakout signal depend on the dynamics and structure of the shock during the breakout phase. Here we present, for the first time, spectra and lightcurves of the breakout emission of fast Newtonian and mildly relativistic shocks, that were calculated using self-consistent Monte-Carlo simulations of finite RMS with radiative losses. 
+subjects: monte-carlo, radiative transfer, model
+
+link: https://arxiv.org/abs/2006.14148
+title: Nuclear Reaction Screening, Weak Interactions, and r-Process Nucleosynthesis in High Magnetic Fields
+authors: Michael Famiano, A. Baha Balantekin, Toshitaka Kajino, Motohiko Kusakabe, Kanji Mori, Yudong Luo
+topic: Coulomb screening and weak interactions in a hot, magnetized plasma are investigated. Coulomb screening is evaluated in a relativistic thermal plasma in which electrons and positrons are in equilibrium. In addition to temperature effects, effects on weak screening from a strong external magnetic field are evaluated. In high fields, the electron transverse momentum components are quantized into Landau levels. The characteristic plasma screening length at high temperatures and at high magnetic fields is explored. In addition to changes to the screening length, changes in weak interaction rates are estimated. It is found that high fields can result in increased β-decay rates as the electron and positron spectra are dominated by Landau levels. Finally, the effects studied here are evaluated in a simple r-process model. It is found that relativistic Coulomb screening has a small effect on the final abundance distribution. While changes in weak interaction rates in strong magnetic fields can have an effect on the r-process evolution and abundance distribution, the field strength required to have a significant effect may be larger than what is currently thought to be typical of the r-process environment in collapsar jets or neutron star mergers.
+subjects: r-process, nucleo, magnetic, MF, abundances
+
+link: https://arxiv.org/abs/2006.14122
+title: Candidate Electromagnetic Counterpart to the Binary Black Hole Merger Gravitational Wave Event S190521g
+authors: M. J. Graham, K. E. S. Ford, B. McKernan, N. P. Ross, D. Stern, K. Burdge, M. Coughlin, S. G. Djorgovski, A. J. Drake et al
+topic: We report the first plausible optical electromagnetic (EM) counterpart to a (candidate) binary black hole (BBH) merger. Detected by the Zwicky Transient Facility (ZTF), the EM flare is consistent with expectations for a kicked BBH merger in the accretion disk of an active galactic nucleus (AGN), and is unlikely due to intrinsic variability of this source. The lack of color evolution implies that it is not a supernovae and instead is strongly suggestive of a constant temperature shock. Other false-positive events, such as microlensing or a tidal disruption event, are ruled out or constrained.
+subjects: EM, NSBH, BBH, observations
+
+link: https://arxiv.org/abs/2006.13952
+title: A non-equipartition shockwave traveling in a dense circumstellar environment around SN2020oi
+authors: Assaf Horesh, Itai Sfaradi, Mattias Ergon, Cristina Barbarino, Jesper Sollerman, Javier Moldon, Dougal Dobie
+topic: We report the discovery and panchromatic followup observations of the young Type Ic supernova, SN2020oi, in M100, a grand design spiral galaxy at a mere distance of 14 Mpc. We followed up with observations at radio, X-ray and optical wavelengths from only a few days to several months after explosion. The optical behaviour of the supernova is similar to those of other normal Type Ic supernovae. Given, the relatively small number of stripped envelope SNe for which radio emission is detectable, we used this opportunity to perform a detailed analysis of the comprehensive radio dataset we obtained. The radio emitting electrons initially experience a phase of inverse Compton cooling which leads to steepening of the spectral index of the radio emission.
+subjects: SN, super novae, observations, model, afterglow
+
 link: https://arxiv.org/abs/2006.13872
 title: Gravitational waves from cosmic strings and first-order phase transition
 authors: Ruiyu Zhou, Ligong Bian
 topic: Cosmic strings and first-order phase transition are two main sources for the stochastic gravitational wave background (SGWB). In this work, we study the stochastic gravitational wave radiation from cosmic string which is formed after the first-order phase transition. For the first-order phase transition occurs at temperature far beyond the electroweak scale, the gravitational wave signal cannot be reached by the future gravitational wave interferometers. The gravitational waves from cosmic strings that formed after the phase transition can be detected by future gravitational wave detectors in a wide range of frequency, and therefore its imprints can serve to search for firs-order phase transitions at high scales with the phase transition temperature:
 subjects: GW, quantum
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
 
 link: https://arxiv.org/abs/2006.13186
 title: Two-fluid simulations of the magnetic field evolution in neutron star cores in the weak-coupling regime
