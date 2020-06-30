@@ -2,38 +2,110 @@
 link: 
 title: 
 authors: 
-topic: 
+topic:
 subjects: 
 
 link: 
 title: 
 authors: 
-topic: 
+topic:
 subjects: 
 
 link: 
 title: 
 authors: 
-topic: 
+topic:
 subjects: 
 
 link: 
 title: 
 authors: 
-topic: 
+topic:
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2006.16231
+title: Fast Radio Burst Trains from Magnetar Oscillations
+authors: Zorawar Wadiasingh, Cecilia Chirenti
+topic: Quasi-periodic oscillations inferred during rare magnetar giant flare tails were initially interpreted as torsional oscillations of the neutron star (NS) crust, and have been more recently described as global core+crust perturbations. Similar frequencies are also present in high signal-to-noise magnetar short bursts. In magnetars, disturbances of the field are strongly coupled to the NS crust regardless of the triggering mechanism of short bursts. 
+subjects: FRB, magnetar, crust, oscillations, model
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2006.16029
+title: Free electron laser in magnetars/Fast Radio Bursts
+authors: Maxim Lyutikov
+topic: We discuss coherent free electron laser (FEL) operating during explosive reconnection events in magnetized pair plasma of magnetar magnetospheres. The model explains many salient features of Fast Radio Bursts/magnetars' radio emission: temporal coincidence of radio and high energy bursts, high efficiency of conversion of plasma kinetic energy into coherent radiation, presence of variable, narrow-band emission features drifting down in frequency, high degree of linear polarization.
+subjects: FRB, EM, MF, model
+
+link: https://arxiv.org/abs/2006.15901
+title: Photospheric Emission in Gamma-ray Bursts: Variability
+authors: Kai Wang, Da-Bin Lin, Yun Wang, Lu-yao Jiang, Shen-Shi Du, Xiao-Yan Li, Jia Ren, Xiang-gao Wang, En-Wei Liang
+topic: It is generally believed that the variability of photospheric emission in gamma-ray bursts (GRBs) traces that of the jet power. This work further investigates the variability of photospheric emission in a variable jet. By setting a constant η (dimensionless entropy of the jet), we find that the light curve of the photospheric emission shows a ``tracking'' pattern on the time profile of jet power. However, the relative variability is significantly low in the photospheric emission compared with that in the jet power. If the η is genetic variable, the variability of the photospheric emission is not only limited by the jet power but also affected by η strongly. It becomes complex and is generally different from that of the jet power. Moreover, the opposite phase may stand in the variabilities of the photospheric emission at different photon energies. We also find that the relative variability does not remain constant over the photon energies with an obvious reduction at a certain energy.
+subjects: GRB, thermal emission, jet, structure
+
+link: https://arxiv.org/abs/2006.15675
+title: Could the 2.6 Msun object in GW190814 be a primordial black hole?
+authors: Kyriakos Vattis, Isabelle S. Goldstein, Savvas M. Koushiappas
+topic: We find that a primordial black hole explanation to GW190814 is unlikely as it is limited by the formation rate of the primary stellar progenitor and the observed merger rates of
+subjects: GW, BBH
+
+link: https://arxiv.org/abs/2006.15487
+title: A rotation-driven pulsar radio emission mechanism]{A rotation-driven pulsar radio emission mechanism
+authors: D. B. Melrose, M. Z. Rafat, A. Mastrano
+topic: We propose and discuss an alternative pulsar radio emission mechanism that relies on rotation-driven plasma oscillations, rather than on a beam-driven instability, and suggest that it may be the generic radio emission mechanism for pulsars. We identify these oscillations as superluminal longitudinal waves in the pulsar plasma, and point out that these waves can escape directly in the O-mode. Escape of the energy in these oscillations is possible only if they are generated in overdense, field-aligned regions that we call fibers; the wave energy is initially refracted into underdense regions between the fibers, which act as ducts. Some implications of the model for the interpretation of pulsar radio emission are discussed.
+subjects: pulsars, oscillations, rotation, radio emsission
+
+link: https://arxiv.org/abs/2006.15324
+title: Spectral Diversities of Gamma-ray Bursts in High Energy Bands: Hints from Turbulent Cascade
+authors: Jirong Mao, Liande Li, Jiancheng Wang
+topic: We statistically examine the gamma-ray burst (GRB) photon indices obtained by the Fermi-GBM and Fermi-LAT observations and compare the LAT GRB photon indices to the GBM GRB photon indices. We apply the jitter radiation to explain the GRB spectral diversities in the high-energy bands. In our model, the jitter radiative spectral index is determined by the spectral index of the turbulence.
+subjects: GRB, statistics, observations
+
+link: https://arxiv.org/abs/2006.15288
+title: Recent Progress on Particle Acceleration and Reconnection Physics during Magnetic Reconnectionin the Magnetically-dominated Relativistic Regime
+authors: Fan Guo, Yi-Hsin Liu, Xiaocan Li, Hui Li, William Daughton, Patrick Kilian
+topic: Magnetic reconnection in strongly magnetized astrophysical plasma environments is believed to be the primary process for fast energy release and particle energization. Currently there is strong interest in relativistic magnetic reconnection, in that it may provide a new explanation for high-energy particle acceleration and radiation in strongly magnetized astrophysical systems. We review recent advances in particle acceleration and reconnection physics in the magnetically-dominated regime. More discussion is focused on the physics of particle acceleration, power-law formation as well as the reconnection rate problem. In addition, we provide an outlook for studying reconnection acceleration mechanisms and kinetic physics in the next step.
+subjects: physics, MF, acceleration
+
+link: https://arxiv.org/abs/2006.15147
+title: CMacIonize 2.0: a novel task-based approach to Monte Carlo radiation transfer
+authors: Bert Vandenbroucke, Peter Camps
+topic: In this work, we present a novel approach to MCRT that addresses the challenging memory access patterns of traditional MCRT algorithms, which hinder optimal performance of MCRT simulations on modern hardware with a complex memory architecture. (Methods) We reformulate the MCRT photon packet life cycle as a task-based algorithm, whereby the computation is broken down into small tasks that are executed concurrently. Photon packets are stored in intermediate buffers, and tasks propagate photon packets through small parts of the computational domain, moving them from one buffer to another in the process. Using the implementation of the new algorithm in the photoionization MCRT code CMacIonize 2.0, we show that the decomposition of the MCRT grid into small parts leads to a significant performance gain during the photon packet propagation phase, which constitutes the bulk of an MCRT algorithm, as a result of better usage of memory caches. 
+subjects: monte-carlo, radiative transfer, new technique
+
+link: https://arxiv.org/abs/2006.16238 
+title: On dynamics of nonmagnetic accretion disks
+authors: V. S. Borisov
+topic: Axisymmetric accretion disks in vicinity of a central compact body are studied. In the case of non-viscous disk it is proven that all solutions for the midplane circular velocity are unstable. Hence, the pure hydrodynamic turbulence in accretion disks is possible. It is disproved the well-known arguments that an inviscid accretion disk must be sub-Keplerian. It is also demonstrated that the regular asymptotic solutions, often used in astrophysics, can lead to erroneous conclusions. It is proven that a laminar viscous disk can be approximated with a great precision by the vortex motion. Assuming that a turbulent gas tends to flow with minimal losses, we have shown that a turbulent disk tends to be Keplerian.
+subjects: physics, disk, accretion, 
+
+link: https://arxiv.org/abs/2006.15430
+title: Constraints from GW170817 on the bulk viscosity of neutron star matter and the r-mode instability
+authors: T. R. Routray, S. P. Pattnaik, C. Gonzalez-Boquera, X. Viñas, M. Centelles, B. Behera
+topic: We perform a systematic study of the dependence of the r-mode phenomenology in normal fluid pulsar neutron stars on the symmetry energy slope parameter L. An essential ingredient in this study is the bulk viscosity, which is evaluated consistently for several equations of state corresponding to different values of the slope parameter L. Direct Urca processes, which are allowed from a critical L-value onwards, enhance the bulk viscosity and have large influence on the r-mode features, such as the instability boundary and spin-down properties of newborn neutron stars. The magnitude of the changes in the r-mode properties induced by the direct Urca processes are driven by the L-value of the equation of state and the mass of the pulsar. 
+subjects: NS, bulk viscosity, model
+
+link: https://arxiv.org/abs/2006.15004
+title: Thermal luminosities of cooling neutron stars
+authors: A. Y. Potekhin, D. A. Zyuzin, D. G. Yakovlev, M. V. Beznogov, Yu. A. Shibanov
+topic: Ages and thermal luminosities of neutron stars, inferred from observations, can be interpreted with the aid of the neutron star cooling theory to gain information on the properties of superdense matter in neutron-star interiors. We present a survey of estimated ages, surface temperatures and thermal luminosities of middle-aged neutron stars with relatively weak or moderately strong magnetic fields, which can be useful for these purposes. The catalogue includes results selected from the literature, supplemented with new results of spectral analysis of a few cooling neutron stars. The data are compared with the theory. We show that overall agreement of theoretical cooling curves with observations improves substantially for models where neutron superfluidity in stellar core is weak.
+subjects: NS, cooling, physics, observations
+
+link: https://arxiv.org/abs/2006.14976
+title: Kink-driven magnetic reconnection in relativistic jets: consequences for X-ray polarimetry of BL Lacs
+authors: Gianluigi Bodo, Fabrizo Tavecchio, Lorenzo Sironi
+topic: We investigate with relativistic MHD simulations the dissipation physics of BL Lac jets, by studying the synchrotron polarization signatures of particles accelerated by the kink instability in a magnetically-dominated plasma column. The nonlinear stage of the kink instability generates current sheets, where particles can be efficiently accelerated via magnetic reconnection. We identify current sheets as regions where s = J d/B is above some predefined threshold (where B is the field strength, J the current density and d the grid scale), and assume that the particle injection efficiency scales as proportional to the square of the current. X-ray emitting particles have short cooling times, so they only probe the field geometry of their injection sites. In contrast, particles emitting in the optical band, which we follow self-consistently as they propagate away from their injection sites while cooling, sample a larger volume, and so they may be expected to produce different polarimetric signatures.
+subjects: jet, physics, BHD, model, stellar
+
+link: https://arxiv.org/abs/2006.14936
+title: Parameter estimation for strong phase transitions in supranuclear matter using gravitational-wave astronomy
+authors: Peter T. H. Pang, Tim Dietrich, Ingo Tews, Chris Van Den Broeck
+topic: At supranuclear densities, explored in the core of neutron stars, a strong phase transition from hadronic matter to more exotic forms of matter might be present. To test this hypothesis, binary neutron-star mergers offer a unique possibility to probe matter at densities that we can not create in any existing terrestrial experiment. In this work, we show that, if present, strong phase transitions can have a measurable imprint on the binary neutron-star coalescence and the emitted gravitational-wave signal. We construct a new parameterization of the supranuclear equation of state that allows us to test for the existence of a strong phase transition and extract its characteristic properties purely from the gravitational-wave signal of the inspiraling neutron stars.
+subjects: GW, inference, statistics, EOS
+
+link: https://arxiv.org/abs/2006.14906
+title: A search for fast radio burst-like emission from Fermi gamma-ray bursts
+authors: Mieke Bouwhuis (1 and 2), Keith W. Bannister (1), Jean-Pierre Macquart (3), R. M. Shannon (4), David L. Kaplan (5), John D. Bunton (1), Bärbel S. Koribalski (1), M. T. Whiting
+topic: We report the results of the rapid follow-up observations of gamma-ray bursts (GRBs) detected by the Fermi satellite to search for associated fast radio bursts. The observations were conducted with the Australian Square Kilometre Array Pathfinder at frequencies from 1.2-1.4 GHz. A set of 20 bursts, of which four were short GRBs, were followed up with a typical latency of about one minute, for a duration of up to 11 hours after the burst. 
+subjects: GRB, FRB. observations
 
 link: https://arxiv.org/abs/2006.14601
 title: A lower bound on the maximum mass if the secondary in GW190814 was once a rapidly spinning neutron star
