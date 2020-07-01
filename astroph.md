@@ -23,6 +23,31 @@ authors:
 topic:
 subjects: 
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2006.16975
+title: Revisiting primordial black holes capture into neutron stars
+authors: Yoann Génolini, Pasquale Serpico, Peter Tinyakov
+topic: Primordial black holes (PBH), produced through a variety of processes in the early universe, could fill galactic halos accounting for a fraction or the totality of the dark matter. In particular, PBH with sub-stellar masses could be captured by stars, start to swallow their material, and eventually turn them into BH, hence originating a peculiar new type of stellar catastrophic event. Here we revisit this process in the most favorable case of PBH capture by neutron stars. We detail a number of novel features in the capture phase, during the settling within the star and mass growth of the PBH, and illustrate some phenomenological consequences. In particular, we point out that in the subsonic regime the PBH drag takes the form of a Bondi accretion. 
+subjects: BH, NS, primordial
+
+link: https://arxiv.org/abs/2006.16494
+title: A systematic study on the rise time-peak luminosity relation for bright optical transients powered by wind shock breakout
+authors: Akihiro Suzuki, Takashi J. Moriya, Tomoya Takiwaki
+topic: A number of astrophyical transients originating from stellar explosions are powered by the collision of the ejected material with the circumstellar medium, which efficiently produces thermal radiation via shock dissipation. We investigate how such interaction-powered transients are distributed in the peak bolometric luminosity vs the rise time phase space. Taking the advantage of less time-consuming one-dimensional simulations with spherical symmetry, we calculated more than 500 models with different circumstellar mass and radius, ejecta mass and energy, and chemical compositions. The peak bolometric luminosity, the total radiated energy, and the rise time of the interaction-powered emission are measured for each simulated light curve. We consider how these characteristic quantities are determined as a function of the model parameters and discuss possible implications for the observed populations of (potential) interaction-powered transients, such as type IIn supernovae and fast blue optical transients.
+subjects: GRB, ejecta, EM, blast wave, simple models
+revelation: important for all EM counterparts
+
+link: https://arxiv.org/abs/2006.16296
+title: Kinky neutron stars in light of GW190814
+authors: Hung Tan, Jacquelyn Noronha-Hostler, Nico Yunes
+topic: The observation of gravitational waves from an asymmetric binary opens the possibility for heavy neutron stars, but these pose challenges to models of the neutron star equation of state. We construct heavy neutron stars by introducing non-trivial structure in the speed of sound sourced by deconfined QCD matter, which cannot be well recovered by spectral representations. Their moment of inertia, Love number and quadrupole moment are very small, so a tenfold increase in sensitivity may be needed to test this possibility with gravitational waves, which is feasible with third generation detectors.
+subjects: GW, EOS
+
 link: https://arxiv.org/abs/2006.16231
 title: Fast Radio Burst Trains from Magnetar Oscillations
 authors: Zorawar Wadiasingh, Cecilia Chirenti
