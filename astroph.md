@@ -23,11 +23,30 @@ authors:
 topic:
 subjects: 
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.00563
+title: FIRST J1419+3940 as the First Observed Radio Flare from a Neutron Star Merger
+authors: K.H. Lee, I. Bartos, G.C. Privon, J.C. Rose, P. Torrey
+topic: During their violent merger, two neutron stars can shed a few percent of their mass. As this ejecta expands, it collides with the surrounding interstellar gas, producing a slowly-fading {\it radio flare} that lasts for years. Radio flares uniquely probe the neutron star merger populations as many events from past decades could still be detectable. Nonetheless, no radio flare observation has been reported to date. Here we show that the radio transient FIRST J1419+3940, first observed in 1993 and still detectable, likely originated from a neutron star merger. We carry out numerical simulations of neutron star merger ejecta to demonstrate that the observed radio light curve is well reproduced by a merger model with astrophysically expected parameters. We find that a neutron star merger model is a priori more likely and provides a better fit to the data than the alternative explanation---the afterglow of an off-axis long gamma-ray burst.
+modelling (Piran 2013 model) 
+subjects: BNS merger, ejecta, EM, radio, observations
+
+link: https://arxiv.org/abs/2007.00474
+title: Post-merger Mass Ejection of Low-mass Binary Neutron Stars
+authors: Sho Fujibayashi, Shinya Wanajo, Kenta Kiuchi, Koutaro Kyutoku, Yuichiro Sekiguchi, Masaru Shibata
+topic: We study the post-merger mass ejection of low-mass binary neutron stars (NSs) with the system mass of 2.5M⊙, and subsequent nucleosynthesis by performing general-relativistic, neutrino-radiation viscous-hydrodynamics simulations in axial symmetry. We find that the merger remnants are long-lived massive NSs surviving more than several seconds, irrespective of the nuclear equations of state (EOSs) adopted.  Post-processing nucleosynthesis calculations indicate that the ejecta is composed mainly of light r-process nuclei with small amounts of lanthanides. Such abundance distributions are incompatible with the solar r-process-like abundance patterns found in all measured r-process-enhanced metal-poor stars. Therefore, low-mass binary NS mergers should be rare. If such low-mass NS mergers occur, their electromagnetic counterparts, kilonovae, will be characterized by an early bright blue emission because of the large ejecta mass as well as the small lanthanide fraction. We also show, however, that if the effective turbulent viscosity is very high, or there is an efficient mass ejection working in the early post-merger phase, the electron fraction of the ejecta could be low enough that the solar r-process-like abundance pattern is reproduced and the lanthanide fraction becomes so high that the kilonova would be characterized by early bright blue and late bright red emissions.
+subjects: BNS, GRRHD, axial sym., models, ejecta, nucleo, new models, low mass
+
+link: https://arxiv.org/abs/2007.00050
+title: A DESGW Search for the Electromagnetic Counterpart to the LIGO/Virgo Gravitational Wave Binary Neutron Star Merger Candidate S190510g
+authors: DES Collaboration
+topic: We present the results from a search for the electromagnetic counterpart of the LIGO/Virgo event S190510g using the Dark Energy Camera (DECam). S190510g is a binary neutron star (BNS) merger candidate of moderate significance detected at a distance of 227 pm 92 Mpc and localized within an area of 31 (1166) square degrees at 50\% (90\%) confidence. While this event was later classified as likely non-astrophysical in nature within 30 hours of the event, our short latency search and discovery pipeline identified 11 counterpart candidates, all of which appear consistent with supernovae following offline analysis and spectroscopy by other instruments. Later reprocessing of the images enabled the recovery of 6 more candidates.
+subjects: observations, kilonova, search
+
+link: https://arxiv.org/abs/2007.00020
+title: Prompt emission of short gamma ray bursts: a clue to the viewing angle and the post-merger remnant
+authors: Shabnam Iyyani, Vidushi Sharma
+topic: The prompt emission of short gamma ray bursts (sGRBs) with known redshifts are analyzed using the model of multi-color blackbody which is interpreted as the emission from a non-dissipative photosphere taking into account the structure and the viewing geometry of the jet. We find nearly 69% and 26% of the sample are consistent with multi-color blackbody and a pure blackbody model, respectively. We find that nearly 57\%(18\%) of the sGRBs in our sample are observed within (or along the edge of) the jet cone. The sGRB jets are found to be very narrow with the most probable value of the jet opening angle, θj=2pm1 deg. This gives the rate of sGRBs that would be viewed within the jet cone to be 0.2−4.4Gpc−3yr−1. The intrinsic luminosity are found to range between 1048−1053erg/s. The average values of Lorentz factor and nozzle radius of the sGRB jets are found to be 210(85) and 107.7(109.6)cm for the cases when the photosphere forms in the coasting (accelerating) phase respectively.
+subjects: sGRB, statistics, simple model, photosphere (!) 
 
 link: https://arxiv.org/abs/2006.16975
 title: Revisiting primordial black holes capture into neutron stars
