@@ -23,6 +23,48 @@ authors:
 topic:
 subjects: 
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2007.01139
+title: Comment on "Tidal Love numbers of neutron and self-bound quark stars"
+authors: János Takátsy, Péter Kovács
+topic: We comment on the paper of S. Postnikov et al. in Phys. Rev. D 82, 024016 (2010) and give a modified formula that needs to be taken into account when calculating the tidal Love number of neutron stars in case a first order phase-transition occurs at non-zero pressure. We show that the error made when using the original formula tends to zero as p-->0 and we estimate the maximum relative error to be \sim5% if the density discontinuity is at larger densities.
+subjects: EOS, NS, quarks
+
+link: https://arxiv.org/abs/2007.01124
+title: Evidence for gravitational-wave dominated emission in the central engine of short GRB 200219A
+authors: Hou-Jun Lü, Yong Yuan, Lin Lan, Bin-Bin Zhang, Jin-Hang Zou, Zong-Kai Peng, Jun Shen, Yun-Feng Liang, Xiang-Gao Wang, En-Wei Liang
+topic: Together with the EE component and early X-ray data, it exhibits a plateau emission smoothly connected with a \sim t^-1 segment, and followed by an extremely steep decay. The short GRB composed of those three segments is unique in the {\em Swift} era, and is very difficult to explain with the standard internal/external shock model of a black hole central engine, but could be consistent with the prediction of a magnetar central engine from the merger of an NS binary. We suggest that the plateau emission followed by a \sim t^-1 decay phase is powered by the spin-down of millisecond magnetar, which loses its rotation energy via GW quadrupole radiation. Then, the abrupt drop decay is caused by magnetar collapsing into black hole before switching to the EM-dominated emission.
+subjects: 
+
+link: https://arxiv.org/abs/2007.00919
+title: Two temperature solutions and emergent spectra from relativistic accretion discs around black holes
+authors: Shilpa Sarkar, Indranil Chattopadhyay, Philippe Laurent
+topic: An accreting system in two-temperature regime, admits multiple solutions for the same set of constants of motion, producing widely different spectra. Comparing observed spectrum with that derived from a randomly chosen accretion solution, will give us a wrong estimation of the accretion parameters of the system. The form of entropy measure obtained by us, have helped in removing the degeneracy of the solutions, allowing us to understand the physics of the system, shorn of arbitrary assumptions. In this work, we have shown how the spectra and luminosities of an accreting system depends on the constants of motion, producing solutions ranging from radiatively inefficient flows to luminous flows. Increase in BH mass quantitatively changes the system, makes the system more luminous and the spectral bandwidth also increases. Higher BH mass system spans from radio to gamma-rays. However, increasing the accretion rate around a BH of certain mass, has little influence in the frequency range of the spectra.
+subjects: physics, accretion, BH, analytic
+
+link: https://arxiv.org/abs/2007.00749
+title: The R-Process Alliance: Fourth Data Release from the Search for r-Process-Enhanced Stars in the Galactic Halo
+authors: Erika M. Holmbeck, Terese T. Hansen, Timothy C. Beers
+topic: This compilation is the fourth data release from the R-Process Alliance (RPA) search for r-process-enhanced stars, and the second release based on "snapshot" high-resolution (R~30,000) spectra collected with the du Pont 2.5m Telescope. In this data release, we propose a new delineation between the r-I and r-II stellar classes. Redefining the separation between r-I and r-II stars will aid in analysis of the possible progenitors of these two classes of stars and whether these signatures arise from separate astrophysical sources at all. Applying this redefinition to previous RPA data, the number of identified r-II and r-I stars changes to 51 and 121, respectively, from the initial set of data releases published thus far. In this data release.
+subjects: r-process, observations, techniques
+
+link: https://arxiv.org/abs/2007.00738
+title: Multilayer neutron stars with scalar mesons crossing term
+authors: Sebastian Kubis, Włodzimierz Wójcik, Noemi Zabari
+topic: It is shown that recently proposed RMF model with σ and δ meson interaction agrees with the observational data and presents an interesting structure with phase transition in the outer part of neutron star core.
+subjects: EOS, NS
+
 link: https://arxiv.org/abs/2007.00563
 title: FIRST J1419+3940 as the First Observed Radio Flare from a Neutron Star Merger
 authors: K.H. Lee, I. Bartos, G.C. Privon, J.C. Rose, P. Torrey
