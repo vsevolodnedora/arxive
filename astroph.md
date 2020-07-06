@@ -35,6 +35,30 @@ authors:
 topic:
 subjects: 
 
+link: https://arxiv.org/abs/2007.01664
+title: Experimental constraints on shallow heating in accreting neutron-star crusts
+authors: Nicolas Chamel, Anthea Francesca Fantina, Julian-Leszek Zdunik, Pawel Haensel
+topic: The observed thermal relaxation of transiently accreting neutron stars during quiescence periods in low-mass X-ray binaries suggests the existence of unknown heat sources in the shallow layers of neutron-star crust. Making use of existing experimental nuclear data, we estimate the maximum possible amount of heat that can be deposited in the outer crust of an accreting neutron star due to electron captures and pycnonuclear fusion reactions triggered by the burial of X-ray burst ashes.
+subjects: 
+
+link: https://arxiv.org/abs/2007.01616
+title: Periodic fast radio bursts from forcedly precessing neutron stars, anomalous torque, and internal magnetic field for FRB 180916.J0158+65 and FRB 121102
+authors: Denis Nikolaevich Sob'yanin 
+topic: We show that consideration of forced precession of a neutron star does not encounter the difficulty. This kind of precession takes place even if the neutron star is not deformed and is brought about by the anomalous moment of electromagnetic forces induced by stellar rotation and determined by non-corotational currents. Contrary to what is expected for the currents of corotation, the anomalous torque calculated by the direct method appears to be non-zero.
+subjects: NS, rotating, MF, FRB
+
+link: https://arxiv.org/abs/2007.01372
+title: Discriminating between Neutron Stars and Black Holes with Imperfect Knowledge of the Maximum Neutron Star Mass
+authors: Reed Essick, Philipe Landry
+topic: Constructing an explicit mixture model for the total rate density of merging compact objects, we develop a hierarchical Bayesian analysis to classify gravitational-wave sources according to the posterior odds that their component masses are drawn from different subpopulations. Accounting for current uncertainty in the maximum neutron star mass, and adopting different reasonable models for the total rate density, we examine two recent events from the LIGO-Virgo Collaboration's third observing run, GW190425 and GW190814. For population models with no overlap between the neutron star and black hole mass distributions, we typically find that there is a more or equal 70 \% chance that GW190425 was a binary neutron star merger rather than a neutron-star--black-hole merger.
+subjects: GW, NS, BH, observations, determination
+
+link: https://arxiv.org/abs/2007.01317
+title: Local starburst conditions and formation of GRB 980425 / SN 1998bw within a collisional ring
+authors: M. Arabsalmani, F. Renaud, S. Roychowdhury, V. Arumugam, E. Le Floc'h, F. Bournaud, D. Cormier, M. A. Zwaan, L. Christensen, E. Pian, S. Madden, A. Levan
+topic: We present the first spatially resolved study of molecular gas in the vicinity of a Gamma Ray Burst, using CO(2-1) emission line observations with the Atacama Large Millimetre Array (ALMA) at ~50 pc scales. The host galaxy of GRB 980425 contains a ring of high column density HI gas which is likely to have formed due to a collision between the GRB host and its companion galaxy, within which the GRB is located
+subjects: GRB, observation, ISM
+
 link: https://arxiv.org/abs/2007.01139
 title: Comment on "Tidal Love numbers of neutron and self-bound quark stars"
 authors: János Takátsy, Péter Kovács
