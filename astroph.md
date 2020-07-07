@@ -29,11 +29,35 @@ authors:
 topic:
 subjects: 
 
-link: 
-title: 
+link: https://arxiv.org/abs/2007.02889
+title: Wind-powered afterglows of gamma-ray bursts: flares, plateaus and steep decays
 authors: 
-topic:
+topic: Afterglows of gamma-ray bursts often show flares, plateaus, and sudden intensity drops: these temporal features are difficult to explain as coming from the forward shock. We calculate radiative properties of early GRB afterglows with the dominant contribution from the reverse shock (RS) propagating in an ultra-relativistic (pulsar-like) wind produced by the long-lasting central engine. RS emission occurs in the fast cooling regime - this ensures high radiative efficiency and allows fast intensity variations. We demonstrate that: (i) mild wind power, of the order of ∼1046 erg s−1, can reproduce the afterglows' plateau phase; (ii) termination of the wind can produce sudden steep decays; (iii) mild variations in the wind luminosity can produce short-duration afterglow flares.
+subjects: GRB, RS, plateo, observations, model
+
+link: https://arxiv.org/abs/2007.02748
+title: Turbulent, pinned superfluids in neutron stars and pulsar glitch recoveries
+authors: Brynmor Haskell, Danai Antonopoulou, Carlo Barenghi
+topic: Pulsar glitches offer an insight into the dynamics of superfluids in the high density interior of a neutron star. To model these phenomena, however, one needs to have an understanding of the dynamics of a turbulent array of superfluid vortices moving through a pinning lattice. In this paper we develop a theoretical approach to describe vortex mediated mutual friction in a pinned, turbulent and rotating superfluid. Our model is then applied to the study of the post glitch rotational evolution in the Vela pulsar and in PSR J0537-6910. We show that in both cases a turbulent model fits the evolution of the spin frequency derivative better than a laminar one. We also predict that the second derivative of the frequency after a glitch should be correlated with the waiting time since the previous glitch, which we find to be consistent with observational data for these pulsars. The main conclusion of this paper is that in the post-glitch rotational evolution of these two pulsars we are most likely observing the response to the glitch of a pinned turbulent region of the star (possibly the crust) and not the laminar response of a regular straight vortex array.
+subjects: NS, physcs, crust, model
+
+link: https://arxiv.org/abs/2007.02744
+title: The mass, spin and rotational energy of the remnant black holes from compact binary mergers
+authors: Can-Min Deng
+topic: Recently, many gravitational wave events from compact binary mergers have been detected by LIGO. Determining the final mass and spin of the remnant black holes (RBHs) is a fundamental issue and is also important in astrophysics. In this paper, unified models for predicting the final mass and spin of the RBHs from compact binary mergers is proposed. The models achieve a good accuracy within the parameter range of interest. In addition, the rotational energy of the RBHs is also studied which is relevant to the electromagnetic counterparts of the mergers. It is found the distribution of the rotational energy of the RBHs from different types of mergers of compact binary has its own characteristics, which might help identify the electromagnetic counterparts associated with the mergers.
 subjects: 
+
+link: https://arxiv.org/abs/2007.02513
+title: GW190814's secondary component with mass (2.50-2.67) Msun as a super-fast pulsar
+authors: Nai-Bo Zhang, Bao-An Li
+topic: Using Stergioulas's RNS code for investigating fast pulsars with Equation of States (EOSs) on the causality surface (where the speed of sound equals to that of light) of the high-density EOS parameter space satisfying all known constraints from both nuclear physics and astrophysics, we show that the GW190814's secondary component of mass (2.50−2.67) Msun can be a super-fast pulsar spinning faster than 971 Hz about 42\% below its Kepler frequency. There is a large and physically allowed EOS parameter space below the causality surface where pulsars heavier than 2.50 Msun are supported if they can rotate even faster with critical frequencies depending strongly on the high-density behavior of nuclear symmetry energy.
+subjects: NSBH, observations, EOS
+
+link: https://arxiv.org/abs/2007.02101
+title: Nickel clumps and light curve bumps: Light curves and spectra of models with macroscopic 56Ni clumps in the outer ejecta
+authors: M. R. Magee, K. Maguire
+topic: An excess of flux in the early light curves of type Ia supernovae has been observed in a few cases. Multiple scenarios have been proposed to explain this. Recently, it has been shown that for at least one object (SN 2018oh) the excess emission observed could be the result of a large-scale clump of 56Ni in the outer ejecta of ~0.03 Msun. We present model light curves and spectra for ejecta profiles containing 56Ni clumps of varying masses (0.01, 0.02, 0.03, and 0.04 Msun) and shapes. We find that even for our lowest mass 56Ni clump, an increase of less of eq 2 magnitudes is produced in the bolometric light curve at one day after explosion, relative to models without a 56Ni clump.
+subjects: lightcurve, SN, model
 
 link: https://arxiv.org/abs/2007.01664
 title: Experimental constraints on shallow heating in accreting neutron-star crusts
