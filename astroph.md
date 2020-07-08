@@ -29,6 +29,54 @@ authors:
 topic:
 subjects: 
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2007.03583
+title: Search for gravitational waves from high-mass-ratio compact-binary mergers of stellar mass and sub-solar mass black holes
+authors: Alexander Harvey Nitz, Yi-Fan Wang
+topic: We present the first search for gravitational waves from the coalescence of stellar mass and sub-solar mass black holes with masses between 20−100 Msun and 0.01−1 Msun (10 - 10^3 MJ), respectively. The observation of a single sub-solar mass black hole would establish the existence of primordial black holes and a possible component of dark matter. We search the ∼164 days of public LIGO data from 2015-2017 when LIGO-Hanford and LIGO-Livingston were simultaneously observing. We find no significant candidate gravitational-wave signals.
+subjects: GW, search, BBH
+
+link: https://arxiv.org/abs/2007.03128
+title: Neutron Star Extreme Matter Observatory: A kilohertz-band gravitational-wave detector in the global network
+authors: K. Ackley, V. B. Adya, P. Agrawal, P. Altin, G. Ashton, M. Bailes, E. Baltinas, A. Barbuio, D. Beniwal, C. Blair, D. Blair, G. N. Bolingbroke, V. Bossilkov, S. Shachar Boublil, D. D. Brown, B. J. Burridge, J. Calderon Bustillo, J. Cameron et al
+topic: The late inspiral is influenced by the presence of tides, which depend on the neutron star equation of state. Neutron star mergers are expected to often produce rapidly-rotating remnant neutron stars that emit gravitational waves. These will provide clues to the extremely hot post-merger environment. This signature of nuclear matter in gravitational waves contains most information in the 2-4 kHz frequency band, which is outside of the most sensitive band of current detectors. We present the design concept and science case for a neutron star extreme matter observatory (NEMO): a gravitational-wave interferometer optimized to study nuclear physics with merging neutron stars.
+subjects: GW, new detector proposal
+
+link: https://arxiv.org/abs/2007.03086
+title: Search for high energy gamma-rays from the direction of the candidate electromagnetic counterpart to the binary black hole merger gravitational-wave event S190521g
+authors: Egor Podlesnyi, Timur Dzhatdoev
+topic: The gravitational-wave event S190521g -- a likely binary black hole merger in the accretion disk of an active galactic nucleus -- was accompanied by an optical counterpart. Such dense environments around luminous energy release regions are favourable for high energy gamma-ray production. We report on a search for high energy gamma-rays from the direction of the candidate electromagnetic counterpart to the S190521g event using publicly-available data of the Fermi-LAT space gamma-ray telescope. No significant signal was found. We present upper limits on the spectral energy distribution of the source in the 100 MeV -- 300 GeV energy range. We discuss the importance of studying S190521g-like transients in the context of cosmic ray acceleration, gamma-ray and neutrino production in such sources.
+subjects: observations, gamma rays
+
+link: https://arxiv.org/abs/2007.03045
+title: RAPTOR II: Polarized radiative transfer in curved spacetime
+authors: Thomas Bronzwaer, Ziri Younsi, Jordy Davelaar, Heino Falcke
+topic: Accreting supermassive black holes are sources of polarized radiation that propagates through highly curved spacetime before reaching the observer. In order to help interpret observations of such polarized emission, accurate and efficient numerical schemes for polarized radiative transfer in curved spacetime are needed. In this manuscript we extend our publicly available radiative transfer code RAPTOR to include polarization. We provide a brief review of different codes and methods for covariant polarized radiative transfer available in the literature and existing codes, and present an efficient new scheme. For the spacetime-propagation aspect of the computation, we develop a compact, Lorentz-invariant representation of a polarized ray. For the plasma-propagation aspect of the computation, we perform a formal analysis of the stiffness of the polarized radiative-transfer equation with respect to our explicit integrator, and develop a hybrid integration scheme that switches to an implicit integrator in case of stiffness, in order to solve the equation with optimal speed and accuracy for all possible values of the local optical/Faraday thickness of the plasma. 
+subjects: radiative transfer, new code, polarisation, radiation, RTE
+
+link: https://arxiv.org/abs/2007.03436
+title: Why can hadronic stars convert into strange quark stars with larger radii
+authors: Alessandro Drago, Giuseppe Pagliara
+topic: The total binding energy of compact stars is the sum of the gravitational binding energy (BE)g and the nuclear binding energy (BE)n, the last being related to the microphysics of the interactions. While the first is positive (binding) both for hadronic stars and for strange quark stars, the second is large and negative for hadronic stars (anti-binding) and either small and negative (anti-binding) or positive (binding) for strange quark stars. A hadronic star can convert into a strange quark star with a larger radius because the consequent reduction of (BE)g is over-compensated by the large increase in (BE)n. Thus, the total binding energy increases due to the conversion and the process is exothermic.
+subjects: EOS, strange stars, nucleo
+
 link: https://arxiv.org/abs/2007.02889
 title: Wind-powered afterglows of gamma-ray bursts: flares, plateaus and steep decays
 authors: 
