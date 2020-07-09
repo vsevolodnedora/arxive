@@ -23,29 +23,29 @@ authors:
 topic:
 subjects: 
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.04175
+title: Asymmetric mass ratios for bright double neutron-star mergers
+authors: R. D. Ferdman (1), P. C. C. Freire (2), B. B. P. Perera (3), N. Pol (4 and 5), F. Camilo (6), S. Chatterjee (7 and 8), J. M. Cordes (7 and 8), F. Crawford (9), J. W. T. Hessels (10 and 11), V. M. Kaspi (12 and 13), M. A. McLaughlin (4 and 5), E. Parent (12 and 13), I. H. Stairs (14), J. van Leeuwen 
+topic: The discovery of a radioactively powered kilonova associated with the binary neutron star merger GW170817 was the first - and still only - confirmed electromagnetic counterpart to a gravitational-wave event. However, observations of late-time electromagnetic emission are in tension with the expectations from standard neutron-star merger models. Although the large measured ejecta mass is potentially explained by a progenitor system that is asymmetric in terms of the stellar component masses, i.e. with a mass ratio q of 0.7-0.8, the known Galactic population of merging double neutron star (DNS) systems (i.e. those that will coalesce within billions of years or less) has, until now, only consisted of nearly equal-mass (q>0.9) binaries.  Based on this detection, our population synthesis analysis implies that such asymmetric binaries represent between..
+subjects: population synthesis, DNS, model
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.03715
+title: Discovery of the optical afterglow and host galaxy of short GRB181123B at z=1.754: Implications for Delay Time Distributions
+authors: K. Paterson, W. Fong, A. Nugent, A. Rouco Escorial, J. Leja, T. Laskar, R. Chornock, A. A. Miller, J. Scharwächter, S. B. Cenko, D. Perley, N. R. Tanvir, A. Levan, A. Cucchiara, B. E. Cobb, K. De, E. Berger, G. Terreran, K. D. Alexander, M. Nicholl, P. K. Blanchard, D. Cornish
+topic: We present the discovery of the optical afterglow and host galaxy of the {\it Swift} short-duration gamma-ray burst, GRB\,181123B. Observations with Gemini-North starting.
+subjects: observations, GRB, sGRB
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.03686
+title: Is GW170817 a Multimessenger Neutron Star-Primordial Black Hole Merger?
+authors: Yu-Dai Tsai, Antonella Palmese, Stefano Profumo, Tesla Jeltema
+topic: We investigate the possibility of the gravitational-wave event GW170817 being a light, solar-mass black hole (BH) - neutron star (NS) merger. We explore two exotic scenarios involving primordial black holes (PBH) that could produce such an event, taking into account available observational information on NGC 4993. First, we entertain the possibility of dynamical NS-PBH binary formation where a solar-mass PBH and a NS form a binary through gravitational interaction. We find that while dynamical NS-PBH formation could account for the GW170817 event, the rate is highly dependent on unknown density contrast factors and could potentially be affected by galaxy mergers. 
+subjects: BNS, GW170817, interpretation, NSBH
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.03799
+title: GW190814: Impact of a 2.6 solar mass neutron star on nucleonic equations of state
+authors: F.J. Fattoyev, C.J. Horowitz, J. Piekarewicz, Brendan Reed
+topic:Is the secondary component of GW190814 the lightest black hole or the heaviest neutron star ever discovered in a double compact-object system? This is the central question animating this letter. Covariant density functional theory provides a unique framework to investigate both the properties of finite nuclei and neutron stars, while enforcing causality at all densities. By tuning existing energy density functionals we were able to: (a) account for a 2.6 Msun neutron star, (b) satisfy the original constraint on the tidal deformability of a 1.4 Msun neutron star, and (c) reproduce ground-state properties of finite nuclei.
+subjects: NSBH, EOS
 
 link: https://arxiv.org/abs/2007.03583
 title: Search for gravitational waves from high-mass-ratio compact-binary mergers of stellar mass and sub-solar mass black holes
