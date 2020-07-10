@@ -23,6 +23,43 @@ authors:
 topic:
 subjects: 
 
+link: https://arxiv.org/abs/2007.04797
+title: Particle acceleration in neutron star ultra-strong electromagnetic fields
+authors: Ivan Tomczak, Jérôme Pétri
+topic: In this paper, we discuss the results of a new particle pusher in realistic ultra-strong electromagnetic fields as those encountered around rotating neutron stars. After presenting results of this algorithm in simple fields and comparing them to expected exact analytical solutions, we present new simulations for a rotating magnetic dipole in vacuum for a millisecond pulsar by using Deutsch solution. Particles are injected within the magnetosphere, neglecting radiation reaction, interaction among them and their feedback on the fields. Our simulations are therefore not yet fully self-consistent because Maxwell equations are not solved according to the current produced by these particles. The code highlights the symmetrical behaviour of particles of opposite charge to mass ratio q/m with respect to the north and south hemispheres. 
+subjects: particles, NS, physics, MF
+
+link: https://arxiv.org/abs/2007.04775
+title: The Role of Magnetic Fields in Neutrino-Driven Supernovae
+authors: Bernhard Müller, Vishnu Varma
+topic: We study the impact of a small-scale dynamo in core-collapse supernovae using a 3D neutrino magnetohydrodynamics simulation of a 15Msun progenitor. The weak seed field is amplified exponentially in the gain region once neutrino-driven convection develops, and remains dominated by small-scale structures. About 250ms after bounce, the field energy in the gain region reaches ~50\% of kinetic equipartition. This supports the development of a neutrino-driven explosion with modest global anisotropy, which does not occur in a corresponding model without magnetic fields. Our results suggest that magnetic fields may play a beneficial subsidiary role in neutrino-driven supernovae even without rapid progenitor rotation. Further investigation into the nature of magnetohydrodynamic turbulence in the supernova core is required.
+subjects: MF, MHD, supenovae, SN, neutrino
+
+link: https://arxiv.org/abs/2007.04442
+title: Neutron Star Mergers as the Main Source of R-process: Natal Kicks And Inside-Out Evolution to The Rescue
+authors: Projjwal Banerjee, Meng-Ru Wu, Zhen Yuan
+topic: We investigate the effects of natal kicks received during the birth of neutron star binaries on the chemical evolution of \textsl{r}-process element Eu in the Milky Way by combining the results from the galactic dynamics code \textsc{galpy} with a one-zone Galactic chemical evolution model \textsc{omega}. We show that when key inputs from simulations of the inside-out disk evolution are combined with natal kicks, BNSMs can naturally reproduce the observed decreasing trend of [Eu/Fe] with [Fe/H] in the solar neighborhood without the need for modification to the DTD or additional \textsl{r}-process sources.
+subjects: r-process, cosmology, model, chemical evolution
+
+link: https://arxiv.org/abs/2007.04418
+title: Modeling Synchrotron Self-Compton and Klein-Nishina Effects in Gamma-Ray Burst Afterglows
+authors: Taylor Jacovich, Paz Beniamini, Alexander van der Horst
+topic: We present a self-consistent way of modeling synchrotron self-Compton (SSC) effects in gamma-ray burst afterglows, with and without approximated Klein-Nishina suppressed scattering. We provide an analytic approximation of our results, so that it can be incorporated into the afterglow modeling code \texttt{boxfit}, which is currently based on pure synchrotron emission. We discuss the changes in spectral shape and evolution due to SSC effects, and comment on how these changes affect physical parameters derived from broadband modeling. We show that SSC effects can have a profound impact on the shape of the X-ray light curve using simulations including these effects. This leads to data that cannot be simultaneously fit well in both the X-ray and radio bands when considering synchrotron-only fits, and an inability to recover the correct physical parameters, with some fitted parameters deviating orders of magnitude from the simulated input parameters. This may have a significant impact on the physical parameter distributions based on previous broadband modeling efforts.
+subjects: GRB, synch, SSC, model
+revelation: can be used to augment by GRB model
+
+link: https://arxiv.org/abs/2007.04359
+title: Analyzing clustering of astrophysical gravitational-wave sources: Luminosity-distance space distortions
+authors: Toshiya Namikawa
+topic: We present a formulation of the observed number density fluctuations of gravitational-wave (GW) sources in a three dimensional space. In GW observations, redshift identification for each GW source is a challenging issue, in particular, for high redshift sources. The use of observed luminosity distance as a distance indicator will be a simple yet optimal way for measuring the clustering signal. We derive the density fluctuations of GW sources estimated from observed luminosity distance and sky position of each source. The density fluctuations are distorted as similar to the so-called redshift space distortions in galaxy surveys but with several differences. We then show the two-point correlation function and multipole power spectrum in the presence of the distortion effect. 
+subjects: GW, cosmology
+
+link: https://arxiv.org/abs/2007.04427
+title: The Equation of State of Nuclear Matter : from Finite Nuclei to Neutron Stars
+authors: G. F. Burgio, I. Vidana (
+topic: We investigate possible correlations between neutron star observables and properties of atomic nuclei. Particularly, we explore how the tidal deformability of a 1.4 solar mass neutron star, M1.4, and the neutron skin thickness of 48Ca and 208Pb are related to the stellar radius and the stiffness of the symmetry energy. {\it Methods.} We examine a large set of nuclear equations of state based on phenomenological models (Skyrme, NLWM, DDM) and {\it ab-initio} theoretical methods (BBG, Dirac-Brueckner, Variational, Quantum Monte Carlo). {\it Results.} We find strong correlations between tidal deformability and NS radius, whereas a weaker correlation does exist with the stiffness of the symmetry energy. 
+subjects: EOS
+
 link: https://arxiv.org/abs/2007.04175
 title: Asymmetric mass ratios for bright double neutron-star mergers
 authors: R. D. Ferdman (1), P. C. C. Freire (2), B. B. P. Perera (3), N. Pol (4 and 5), F. Camilo (6), S. Chatterjee (7 and 8), J. M. Cordes (7 and 8), F. Crawford (9), J. W. T. Hessels (10 and 11), V. M. Kaspi (12 and 13), M. A. McLaughlin (4 and 5), E. Parent (12 and 13), I. H. Stairs (14), J. van Leeuwen 
