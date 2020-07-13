@@ -23,6 +23,42 @@ authors:
 topic:
 subjects: 
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2007.05526
+title: GW190814: Spin and equation of state of a neutron star companion
+authors: Antonios Tsokaros, Milton Ruiz, Stuart L. Shapiro
+topic: Here we explore some consequences of the assumption that the secondary was a neutron star (NS). We show with concrete examples of heretofore viable equations of state (EOSs) that rapid uniform rotation is certainly adequate to explain the existence of a stable ∼2.6Msun NS for moderately stiff EOS but may not be adequate for soft EOSs. Moreover, rotation may not even be necessary for sufficiently stiff ones. In particular, several soft EOSs favored by GW170817 and with maximum spherical masses of ∼2.1Msun \textit{cannot} be invoked to explain this object as a uniformly rotating NS. Absolute upper mass limits on the maximum spherical NS derived from GW170817 immediately suggest that this unknown compact companion can be a slowly or even a nonrotating NS. Stiff EOSs that can achieve this are neither rejected nor favored by GW170817, and they are in accord with the results of NICER.
+subjects: EOS, GW, NSBH
+
+link: https://arxiv.org/abs/2007.05000
+title: Core-collapse supernova neutrino emission and detection informed by state-of-the-art three-dimensional numerical models
+authors: Hiroki Nagakura, Adam Burrows, David Vartanyan, David Radice
+topic: Based on our recent three-dimensional core-collapse supernova (CCSN) simulations including both exploding and non-exploding models, we study the detailed neutrino signals in representative terrestrial neutrino observatories, Super-Kamiokande (Hyper-Kamiokande), DUNE, JUNO, and IceCube. We find that the physical origin of difference in the neutrino signals between 1D and 3D is mainly proto-neutron-star (PNS) convection. We study the temporal and angular variations of the neutrino signals and discuss the detectability of the time variations driven by the spiral Standing Accretion Shock Instability (spiral SASI) when it emerges for non-exploding models.
+subjects: neutrino, SN, CCSN, model
+
+link: https://arxiv.org/abs/2007.04998
+title: A search for optical and near-infrared counterparts of the compact binary merger GW190814
+authors: A. L. Thakur, S. Dichiara, E. Troja, E. A. Chase, R. Sanchez-Ramirez, L. Piro, C. L. Fryer, N. R. Butler, A. M. Watson, R. T. Wollaeger, E. Ambrosi, J. Becerra González
+topic: We report on our observing campaign of the compact binary merger GW190814, detected by the Advanced LIGO and Advanced Virgo detectors on August 14th, 2019. This signal has the best localisation of any observed gravitational wave (GW) source. and an estimated distance of ~ 240 Mpc.  Nearby galaxies within the high probability region were targeted with the Lowell Discovery Telescope (LDT), whereas promising candidate counterparts were characterized through multi-colour photometry with the Reionization and Transients InfraRed (RATIR) and spectroscopy with the Gran Telescopio de Canarias (GTC). We use our optical and near-infrared limits in conjunction with the upper limits obtained by the community to constrain the possible electromagnetic counterparts associated with the merger. A gamma-ray burst seen along its jet's axis is disfavoured by the multi-wavelength dataset, whereas the presence of a burst seen at larger viewing angles is not well constrained.
+subjects: 
+
+link: https://arxiv.org/abs/2007.05116
+title: Neutron star equation of state: QMF modeling and applications
+authors: A. Li, Z.-Y. Zhu, E.-P. Zhou, J.-M. Dong, J.-N. Hu, C.-J. Xia
+topic: Because of the development of many-body theories of nuclear matter, the long-standing, open problem of the equation of state (EOS) of dense matter may be understood in the near future through the confrontation of theoretical calculations with laboratory measurements of nuclear properties \& reactions and increasingly accurate observations in astronomy. In this review, we focus on the following six aspects: 1) providing a survey of the quark mean-field (QMF) model, which consistently describes a nucleon and many-body nucleonic system from a quark potential; 2) applying QMF to both nuclear matter and neutron stars; 3) extending QMF formalism to the description of hypernuclei and hyperon matter, as well as hyperon stars; 4) exploring the hadron-quark phase transition and hybrid stars by combining the QMF model with the quark matter model characterized by the sound speed; 5) constraining interquark interactions through both the gravitational wave signals and electromagnetic signals of binary merger event GW170817; and 6) discussing further opportunities to study dense matter EOS from compact objects, such as neutron star cooling and pulsar glitches.
+subjects: EOS, model, quantum
+
 link: https://arxiv.org/abs/2007.04797
 title: Particle acceleration in neutron star ultra-strong electromagnetic fields
 authors: Ivan Tomczak, Jérôme Pétri
