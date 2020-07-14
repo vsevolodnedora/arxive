@@ -35,6 +35,49 @@ authors:
 topic:
 subjects: 
 
+link: https://arxiv.org/abs/2007.06481
+title: GW190425 and GW190814: Two candidate mergers of primordial black holes from the QCD epoch
+authors: Sebastien Clesse, Juan Garcia-Bellido
+topic: The two recent gravitational-wave events GW190425 and GW190814 from the third observing run of LIGO/Virgo have both a companion which is unexpected if originated from a neutron star or a stellar black hole, with masses: [1.6−2.5] Msun  and [2.5−2.7] Msun. The possibility that these objects are Primordial Black Holes (PBHs) is investigated. The known thermal history of the Universe predicts that the PBH formation is boosted at the time of the QCD transition, inducing a peak in their distribution at this particular mass scale, and a bump around 30−50 M⊙. We find that the merging rates inferred from GW190425 and GW190814 are consistent with PBH binaries formed by capture in dense halos or before matter-radiation equality. 
+subjects: merger rate, BBH, primordial BH, GW
+
+link: https://arxiv.org/abs/2007.06307
+title: Probing Particle Acceleration through Broadband Early Afterglow Emission of MAGIC Gamma-Ray Burst GRB 190114C
+authors: Katsuaki Asano, Kohta Murase, Kenji Toma
+topic: Major Atmospheric Gamma Imaging Cherenkov Telescopes (MAGIC) detected the gamma-ray afterglow of GRB 190114C, which can constrain microscopic parameters of the shock-heated plasma emitting non-thermal emission. Focusing on the early afterglow of this event, we numerically simulate the spectrum and multi-wavelength light curves with constant and wind-like circumstellar medium using a time-dependent code. Our results show that the electron acceleration timescale at the highest energies is likely shorter than 20 times the gyroperiod to reproduce the GeV gamma-ray flux and its spectral index reported by {\it Fermi}. This gives an interesting constraint on the acceleration efficiency for Weibel-mediated shocks. 
+subjects: GRB, observations
+revelation: new model for the Non-thermal emission referenced.
+
+link: https://arxiv.org/abs/2007.06057
+title: On the nature of GW190814 and its impact on the understanding of supranuclear matter
+authors: Ingo Tews, Peter T. H. Pang, Tim Dietrich, Michael W. Coughlin, Sarah Antier, Mattia Bulla, Jack Heinzel, Lina Issa
+topic: The observation of a compact object with a mass of 2.50−2.67Msun on August 14, 2019, by the LIGO Scientific and Virgo collaborations (LVC) has the potential to improve our understanding of the supranuclear equation of state. While the gravitational-wave analysis of the LVC suggests that GW190814 likely was a binary black hole system, the secondary component could also have been the heaviest neutron star observed to date. We use our previously derived nuclear-physics--multi-messenger astrophysics framework to address the nature of this object. Based on our findings, we determine GW190814 to be a binary black hole merger with a probability of greater 99.9\%. 
+subjects: EOS, GW, analysis, constraints
+
+link: https://arxiv.org/abs/2007.05546
+title: International Coordination of Multi-Messenger Transient Observations in the 2020s and Beyond: Kavli-IAU White Paper
+authors: S. Bradley Cenko, Patricia A. Whitelock, Laura Cadonati, Valerie Connaughton, Roger Davies, Rob Fender, Paul J. Groot, Mansi M. Kasliwal, Tara Murphy, Samaya Nissanke, Alberto Sesana, Shigeru Yoshida, Binbin Zhang
+topic: This White Paper summarizes the discussions from a five-day workshop, involving 50 people from 18 countries, held in Cape Town, South Africa in February 2020. Convened by the International Astronomical Union's Executive Committee Working Group on Global Coordination of Ground and Space Astrophysics and sponsored by the Kavli Foundation, we discussed existing and potential bottlenecks for transient and multi-messenger astronomy, identifying eight broad areas of concern. Some of these are very similar to the challenges faced by many astronomers engaging in international collaboration, for example, data access policies, funding, theoretical and computational resources and workforce equity. Others, including, alerts, telescope coordination and target-of-opportunity implementation, are strongly linked to the time domain and are particularly challenging as we respond to transients. 
+subjects: white paper, mm, 
+
+link: https://arxiv.org/abs/2007.06553
+title: Radial oscillations and gravitational wave echoes of strange stars in various equation of states
+authors: Jyatsnasree Bora, Umananda Dev Goswami
+topic: We study the radial oscillations of non-rotating strange stars and their characteristic echo frequencies for three Equation of States (EoSs), viz., MIT Bag model EoS, linear EoS and polytropic EoS. The frequencies of radial oscillations of these compact stars are computed for these EoSs. 22 lowest radial frequencies for each of these three EoSs have been computed. First, for each EoS, we have integrated Tolman-Oppenheimer-Volkoff (TOV) equations numerically to calculate the radial and pressure perturbations of strange stars. Next, the mass-radius relationships for these stars are obtained using these three EoSs. Then the radial frequencies of oscillations for these EoSs are calculated. Further, the characteristic gravitational wave echo frequencies and the repetition of echo frequencies of strange stars are computed for these EoSs. Our numerical results show that the radial frequencies and also echo frequencies vastly depend on the model and on the value of the model parameter. 
+subjects: EOS, GW
+
+link: https://arxiv.org/abs/2007.06526
+title: Revisiting constraints on the maximum neutron star mass in light of GW190814
+authors: Yeunhwan Lim, Anirban Bhattacharya, Jeremy W. Holt, Debdeep Pati
+topic: We investigate the maximum neutron star mass based on constraints from low-energy nuclear physics, neutron star tidal deformabilities from GW170817, and simultaneous mass-radius measurements of PSR J0030+045 from NICER. Our prior distribution is based on a combination of nuclear modeling valid in the vicinity of normal nuclear densities together with the assumption of a maximally stiff equation of state at high densities. The transition density is treated as a model parameter with uniform prior. Bayesian likelihood functions involving measured neutron star tidal deformabilities and radii are subsequently used to generate equation of state posteriors. We demonstrate that a modification of the highly uncertain supra-saturation density equation of state allows for the support of 2.5−2.6Msun neutron stars without strongly modifying the properties
+subjects: 
+
+link: https://arxiv.org/abs/2007.05718
+title: Beyond moments: relativistic Lattice-Boltzmann methods for radiative transport in computational astrophysics
+authors: L. R. Weih, A. Gabbana, D. Simeoni, L. Rezzolla, S. Succi, R. Tripiccione
+topic: We present a new method for the numerical solution of the radiative-transfer equation (RTE) in multidimensional scenarios commonly encountered in computational astrophysics. The method is based on the direct solution of the Boltzmann equation via an extension of the Lattice Boltzmann (LB) methods and allows to model the evolution of the radiation field as it interacts with a background fluid, via absorption, emission, and scattering. As a first application of this method, we restrict our attention to a frequency independent (``grey'') formulation within a special-relativistic framework, which can be employed also for classical computational astrophysics. For a number of standard tests that consider the performance of the method in optically thin, optically thick and intermediate regimes with a static fluid, we show the ability of the LB method to produce accurate and convergent results matching the analytic solutions.
+subjects: physics, radiattion trasport, RTE, new method
+
 link: https://arxiv.org/abs/2007.05526
 title: GW190814: Spin and equation of state of a neutron star companion
 authors: Antonios Tsokaros, Milton Ruiz, Stuart L. Shapiro
