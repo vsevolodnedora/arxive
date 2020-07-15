@@ -1,21 +1,22 @@
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.06585
+title: Gravitational-wave selection effects using neural-network classifiers
+authors: Davide Gerosa, Geraint Pratten, Alberto Vecchio
+topic: We present a novel machine-learning approach to estimate selection effects in gravitational-wave observations. Using techniques similar to those commonly employed in image classification and pattern recognition, we train a series of neural-network classifiers to predict the LIGO/Virgo detectability of gravitational-wave signals from compact-binary mergers. We include the effect of spin precession, higher-order modes, and multiple detectors and show that their omission, as it is common in large population studies, tends to overestimate the inferred merger rate in selected regions of the parameter space. Although here we train our classifiers using a simple signal-to-noise ratio threshold, our approach is ready to be used in conjunction with full pipeline injections, thus paving the way toward including actual distributions of astrophysical and noise triggers into gravitational-wave population analyses.
+subjects: GW, neural net
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.06906
+title: Can we trust MHD jump conditions for collisionless shocks?
+authors: Antoine Bret
+topic: When applied to compute the density jump of a shock, the standard magnetohydrodynamic (MHD) formalism assumes, 1) that all the upstream material passes downstream, together with the momentum and energy it carries, and 2) that pressures are isotropic. In a collisionless shock, shock accelerated particles going back and forth around the front can invalid the first assumption. In addition, an external magnetic field can sustain stable pressure anisotropies, invaliding the second assumption. It is therefore unclear whether the density jump of a collisionless shock fulfils the MHD jump or not.
+Here we try to clarify this issue. A literature review is conducted on 68 articles dealing with Particle-In-Cell simulations of collisionless shocks. We analyze the factors triggering departure from the MHD density jump. In the strong field limit and for parallel shocks, the departure caused by the field saturates at a finite, negative, value. For perpendicular shocks, the departure goes to zero at small and high σ's so that we find here a departure window. The results obtained have to be checked against full 3D simulations.
+subjects: physics, MHD, shocks
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.06599
+title: Computational General Relativistic Force-Free Electrodynamics: II. Characterization of Numerical Diffusivity
+authors: J. F. Mahlmann, M. A. Aloy, V. Mewes, P. Cerdá-Durán
+topic: Scientific codes are an indispensable link between theory and experiment; in (astro-)plasma physics, such numerical tools are one window into the universe's most extreme flows of energy. The discretization of Maxwell's equations - needed to make highly magnetized (astro)physical plasma amenable to its numerical modeling - introduces numerical diffusion. It acts as a source of dissipation independent of the system's physical constituents. Understanding the numerical diffusion of scientific codes is the key to classify their reliability. It gives specific limits in which the results of numerical experiments are physical. We aim at quantifying and characterizing the numerical diffusion properties of our recently developed numerical tool for the simulation of general relativistic force-free electrodynamics, by calibrating and comparing it with other strategies found in the literature. Our code correctly models smooth waves of highly magnetized plasma. We evaluate the limits of general relativistic force-free electrodynamics in the context of current sheets and tearing mode instabilities.
+subjects: physics, numerics, MHD, dissipation
 
 link: 
 title: 
