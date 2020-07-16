@@ -1,4 +1,64 @@
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2007.07819
+title: Simulating jets from a neutron star companion hours after a core collapse supernova
+authors: Muhammad Akashi, Noam Soker 
+topic: We conduct three-dimensional hydrodynamical simulations to explore the interaction of jets that a neutron star (NS) companion to a type Ic or type Ib core collapse supernova (CCSN) launches few hours after explosion with the ejecta of the CCSN. We assume that a NS companion at 5Ro from the exploding star accretes mass from the slower inner ejecta through an accretion disk, and that the disk launches two opposite jets. Although the energy of the jets is only about one per cent of the total energy of the ejecta, it is comparable to the energy of the slower inner part of the ejecta. We find that the jets inflate one low-density hot bubble to one side of the ejecta, and that this bubble expands to influence ejecta gas up to expansion velocities of v(ej)=3500 km/s. The post-shock jets' material develops a large meridional flow and small vortexes. The boundary between the ejecta and jets' post-shock gases is unstable. The instabilities and vortexes mix jets' gas with the ejecta. We expect such a hot bubble to contribute to the light curve of CCSNe that are progenitors of binary NS systems, in particular to observers on the side of the bubble.
+subjects: binary, stellar, SN SN Ib, collapse, jet
+
+link: https://arxiv.org/abs/2007.07565
+title: Precise mass measurements for the double neutron star system J1829+2456
+authors: Henryk T. Haniewicz (1), Robert D. Ferdman (1), Paulo C. C. Freire (2), David J. Champion (2), Kaine A. Bunting (3), Duncan R. Lorimer (4, 5), Maura A. McLaughlin 
+topic: PSR J1829+2456 is a radio pulsar in a relativistic binary system with another neutron star. It has a rotational period of 41 ms and a mildly eccentric (e=0.14) 28-hr orbit. We have continued its observations with the Arecibo radio telescope and have now measured the individual neutron star masses of this system. We find the pulsar and companion masses to be 1.295 pm 0.011Msun and 1.310 pm 0.011 Msun
+subjects: observations, NS, mass
+
+link: https://arxiv.org/abs/2007.07325
+title: Inverse energy transfer in decaying, three dimensional, nonhelical magnetic turbulence due to magnetic reconnection
+authors: Pallavi Bhat, Muni Zhou, Nuno F. Loureiro
+topic: It has been recently shown numerically that there exists an inverse transfer of magnetic energy in decaying, nonhelical, magnetically dominated, magnetohydrodynamic turbulence in 3-dimensions (3D). We suggest that magnetic reconnection is the underlying physical mechanism responsible for this inverse transfer. In the two-dimensional (2D) case, the inverse transfer is easily inferred to be due to smaller magnetic islands merging to form larger ones via reconnection. We find that the scaling behaviour is similar between the 2D and the 3D cases, i.e., the magnetic energy evolves as t−1, and the magnetic power spectrum follows a slope of k−2.
+subjects: physics, MF, structure
+
+link: https://arxiv.org/abs/2007.07277
+title: Magnetic field transport in compact binaries
+authors: Nicolas Scepi, Geoffroy Lesur, Guillaume Dubus, Jonatan Jacquemin-Ide
+topic: Dwarf novae (DNe) and low mass X-ray binaries (LMXBs) show eruptions that are thought to be due to a thermal-viscous instability in their accretion disk. These eruptions provide constraints on angular momentum transport mechanisms. We explore the idea that angular momentum transport could be controlled by the dynamical evolution of the large scale magnetic field. We study the impact of different prescriptions for the magnetic field evolution on the dynamics of the disk. This is a first step in confronting the theory of magnetic field transport with observations. We develop a version of the disk instability model that evolves the density, the temperature and the large scale vertical magnetic flux together. We take into account the accretion driven by turbulence or by a magnetized outflow. To evolve the magnetic flux, we use a toy model with physically motivated prescriptions depending mainly on the local magnetization. We find that allowing magnetic flux to be advected inwards provides the best agreement with DNe lightcurves. 
+subjects: MF, physics, observations, model
+
+link: https://arxiv.org/abs/2007.07265
+title: What does FRB light-curve variability tell us about the emission mechanism?
+authors: Paz Beniamini, Pawan Kumar
+topic: Light-curve variability timescales, the small ratio of rise time of the flux to pulse duration, and the spectro-temporal correlations in the data constrain the compactness of the source and the mechanism responsible for the powerful radio emission. The constraints are strongest when radiation is produced far (less 1010cm) from the compact object. We describe different physical set-ups that can account for the observed despite having large emission radii. 
+subjects: FRB, variability
+
+link: https://arxiv.org/abs/2007.07261
+title: Gravitational Waves from Neutrino Asymmetries in Core-Collapse Supernovae
+authors: David Vartanyan, Adam Burrows
+topic: We present a broadband spectrum of gravitational waves from core-collapse supernovae (CCSNe) sourced by neutrino emission asymmetries for a series of full 3D simulations. The associated gravitational wave strain probes the long-term secular evolution of CCSNe and small-scale turbulent activity and provides insight into the geometry of the explosion. For non-exploding models, both the neutrino luminosity and the neutrino gravitational waveform will encode information about the spiral SASI. The neutrino memory will be detectable for a wide range of progenitor masses for a galactic event. Our results can be used to guide near-future decihertz and long-baseline gravitational-wave detection programs, including aLIGO, the Einstein Telescope, and DECIGO.
+subjects: GW, SN, neutrino
+
+link: https://arxiv.org/abs/2007.07257
+title: Near-infrared emission lines trace the state-independent accretion disc wind of the black hole transient MAXI J1820+070
+authors: Javier Sánchez-Sierras, Teo Muñoz-Darias
+topic: The black hole transient MAXI J1820+070 displayed optical P-Cyg profiles and other wind-related emission line features during the hard state of its discovery outburst. We present near-infrared (nIR) spectroscopy covering the different accretion states of the system during this event. Our 8-epoch data set (VLT/X-shooter) reveals strong variability in the properties of the nIR emission lines. This includes the presence of absorption troughs and extended emission line wings with kinetic properties that are remarkably similar to those inferred from the wind signatures observed in optical emission lines, indicating that they are most likely tracing the same accretion disc wind. Unlike the optical features, these nIR signatures are not exclusive of the hard state, as they are also witnessed across the soft state with similar observational properties. This supports the presence of a relatively steady outflow during the entire outburst of the system, and represents the first detection of an accretion disc wind in a black hole soft state at energies other than X-rays. We discuss the visibility of the wind as a function of the spectral band and the potential of nIR spectroscopy for wind studies, in particular during luminous accretion phases.
+subjects: observations, BH, disk, outflow
+
 link: https://arxiv.org/abs/2007.06585
 title: Gravitational-wave selection effects using neural-network classifiers
 authors: Davide Gerosa, Geraint Pratten, Alberto Vecchio
@@ -17,24 +77,6 @@ title: Computational General Relativistic Force-Free Electrodynamics: II. Charac
 authors: J. F. Mahlmann, M. A. Aloy, V. Mewes, P. Cerdá-Durán
 topic: Scientific codes are an indispensable link between theory and experiment; in (astro-)plasma physics, such numerical tools are one window into the universe's most extreme flows of energy. The discretization of Maxwell's equations - needed to make highly magnetized (astro)physical plasma amenable to its numerical modeling - introduces numerical diffusion. It acts as a source of dissipation independent of the system's physical constituents. Understanding the numerical diffusion of scientific codes is the key to classify their reliability. It gives specific limits in which the results of numerical experiments are physical. We aim at quantifying and characterizing the numerical diffusion properties of our recently developed numerical tool for the simulation of general relativistic force-free electrodynamics, by calibrating and comparing it with other strategies found in the literature. Our code correctly models smooth waves of highly magnetized plasma. We evaluate the limits of general relativistic force-free electrodynamics in the context of current sheets and tearing mode instabilities.
 subjects: physics, numerics, MHD, dissipation
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
 
 link: https://arxiv.org/abs/2007.06481
 title: GW190425 and GW190814: Two candidate mergers of primordial black holes from the QCD epoch
