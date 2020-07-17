@@ -1,4 +1,28 @@
 
+link: https://arxiv.org/abs/2007.08493
+title: GW190814 as a massive rapidly-rotating neutron star with exotic degrees of freedom
+authors: V. Dexheimer, R.O. Gomes, T. Klähn, S. Han, M. Salinas
+topic: In the context of the massive secondary object recently observed in the compact-star merger GW190814, we investigate the possibility of producing massive neutron stars from equation of state models that contain exotic degrees of freedom, such as hyperons and quarks. Our work shows that state-of-the-art relativistic mean field models can generate massive stars reaching geq 2.05 MSun, while being in good agreement with gravitational-wave events and x-ray pulsar observations, when quark vector interactions and higher-order self-vector interactions are introduced. When rapid rotation is added, our models generate stellar masses that approach, and in some cases surpass 2.5 MSun. We find that in such cases fast rotation does not necessarily suppress exotic degrees of freedom due to changes in stellar central density compared to non-rotating cases.
+subjects: EOS, NS, quarks
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
 link: 
 title: 
 authors: 
