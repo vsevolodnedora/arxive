@@ -1,45 +1,45 @@
 
+link: https://arxiv.org/abs/2007.08983
+title: On the challenges of Angular Momentum Transfer Mechanism of Pulsar Glitches
+authors: I. O. Eya, C. I. Eze, E. U. Iyida
+topic: The angular momentum transfer mechanism of pulsar glitches for over four decades now stands as standalone theory with regards to glitch sizes and inter-glitch time intervals. However, recent analyses both analytic and statistical are on the verge of suppressing the theory. In this paper, we overviewed the superfluid theory to highlight the efficacy of the angular momentum process and highlighted the theoretical and observational evidences that could not be explained by processes involving transfer of angular momentum.
+subjects: physics, angular momenum, single star, NS, pulsar
+
+link: https://arxiv.org/abs/2007.08531
+title: Bao-Minh Hoang, Smadar Naoz, Kyle Kremer
+authors: LIGO's third observing run (O3) has reported several neutron star-black hole (NSBH) merger candidates. From a theoretical point of view, NSBH mergers have received less attention in the community than either binary black holes (BBHs), or binary neutron stars (BNSs). Here we examine single-single (sin-sin) gravitational wave (GW) captures in different types of star clusters -- galactic nuclei (GN), globular clusters (GC), and young stellar clusters (YSC) -- and compare the merger rates from this channel to other proposed merger channels in the literature. There are currently large uncertainties associated with every merger channel, making a definitive conclusion about the origin of NSBH mergers impossible. However, keeping these uncertainties in mind, we find that sin-sin GW capture is unlikely to significantly contribute to the overall NSBH merger rate. In general, it appears that isolated binary evolution in the field or in clusters, and dynamically interacting binaries in triple configurations, may result in a higher merger rate.
+topic:
+subjects: GW, NSBH
+
+link: https://arxiv.org/abs/2007.09135
+title: The Sound of Clearing the Throat: Gravitational Waves from a Black Hole Orbiting in a Wormhole Geometry
+authors: James B. Dent, William E. Gabella, Kelly Holley-Bockelmann, Thomas W. Kephart
+topic: Current ground-based gravitational wave detectors are tuned to capture the collision of compact objects such as stellar origin black holes and neutron stars; over 20 such events have been published to date. Theoretically, however, more exotic compact objects may exist, collisions of which should also generate copious gravitational waves. In this paper, we model the inspiral of a stellar mass black hole into a stable, non-spinning, traversable wormhole, and find a characteristic waveform -- an anti-chirp and/or burst -- as the black hole emerges, i.e., outspirals, into our region of the Universe. This novel waveform signature may be useful in searches for wormholes in future gravitational wave data or used to constrain possible wormhole geometries in our Universe.
+subjects: GW
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
 link: https://arxiv.org/abs/2007.08493
 title: GW190814 as a massive rapidly-rotating neutron star with exotic degrees of freedom
 authors: V. Dexheimer, R.O. Gomes, T. Klähn, S. Han, M. Salinas
 topic: In the context of the massive secondary object recently observed in the compact-star merger GW190814, we investigate the possibility of producing massive neutron stars from equation of state models that contain exotic degrees of freedom, such as hyperons and quarks. Our work shows that state-of-the-art relativistic mean field models can generate massive stars reaching geq 2.05 MSun, while being in good agreement with gravitational-wave events and x-ray pulsar observations, when quark vector interactions and higher-order self-vector interactions are introduced. When rapid rotation is added, our models generate stellar masses that approach, and in some cases surpass 2.5 MSun. We find that in such cases fast rotation does not necessarily suppress exotic degrees of freedom due to changes in stellar central density compared to non-rotating cases.
 subjects: EOS, NS, quarks
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
 
 link: https://arxiv.org/abs/2007.07819
 title: Simulating jets from a neutron star companion hours after a core collapse supernova
