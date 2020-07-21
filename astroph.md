@@ -1,4 +1,58 @@
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2007.10158
+title: Detection capabilities of the Athena X-IFU for the warm-hot intergalactic medium using gamma-ray burst X-ray afterglows
+authors: S. Walsh, S. McBreen, A. Martin-Carrillo, T. Dauser, N. Wijers, J. Wilms, J. Schaye, D. Barret
+topic: At low redshifts, the observed baryonic density falls far short of the total number of baryons predicted. Cosmological simulations suggest that these baryons reside in filamentary gas structures, known as the warm-hot intergalactic medium (WHIM). As a result of the high temperatures of these filaments, the matter is highly ionised such that it absorbs and emits far-UV and soft X-ray photons. Athena, the proposed European Space Agency X-ray observatory, aims to detect the `missing' baryons in the WHIM up to redshifts of z=1 through absorption in active galactic nuclei and gamma-ray burst afterglow spectra, allowing for the study of the evolution of these large-scale structures of the Universe. This work simulates WHIM filaments in the spectra of GRB X-ray afterglows with Athena using the SImulation of X-ray TElescopes (SIXTE) framework. We investigate the feasibility of their detection with the X-IFU instrument, through O VII 
+subjects: GRB, observations, model, spectra
+
+link: https://arxiv.org/abs/2007.10069
+title: Constraining dense matter physics using f-mode oscillations in neutron stars
+authors: Sukrit Jaiswal, Debarati Chatterjee
+topic: In this undergraduate project, f-mode oscillations in neutron stars are used to constrain the equation of state of dense matter. For the first time, a systematic investigation of the role of nuclear saturation parameters on the mode oscillations is performed. It is found that the uncertainty in the determination of effective nucleon mass plays the most significant role in controlling the f-mode frequencies. Correlations of the frequencies with astrophysical observables relevant for asteroseismology are also investigated. Future detection of f-mode frequencies could then provide a unique way of constraining nuclear empirical parameters and therefore the behaviour of dense matter.
+subjects: density modes NS, thesis
+
+link: https://arxiv.org/abs/2007.09683
+title: Confronting GW190814 with hyperonization in dense matter and hypernuclear compact stars
+authors: Armen Sedrakian, Fridolin Weber, Jia-Jie LI
+topic: We examine the possibility that the light companion in the highly asymmetric binary compact object coalescence event GW190814 is a hypernuclear star. We use density functional theory with functionals that have been tuned to the properties of Lambda hypernuclei as well as astrophysical constraints placed by the masses of the most massive millisecond pulsars, the mass-radius range inferred from the NICER experiment, and the binary neutron star merger event GW170817. We compute general-relativistic static and maximally rotating Keplerian configurations of purely nucleonic and hypernuclear stars. We find that while nucleonic stars are broadly consistent with a neutron star being involved in GW190814, this would imply no new degrees of freedom in the dense matter up to 6.5 times the nuclear saturation density. Allowing for hyperonization of dense matter, we find that the maximal masses of hypernuclear stars, even for maximal rapidly rotating configurations, are inconsistent with a stellar nature interpretation of the light companion in GW190814, implying that this event involved two black holes rather than a neutron star and a black hole.
+subjects: NSBH, EOS, model
+
+link: https://arxiv.org/abs/2007.10239
+title: Structure of Quark Star: A Comparative Analysis of Bayesian Inference and Neural Network based modelling
+authors: Silvia Traversi, Prasanta Char
+topic: In this work, we compare two powerful parameter estimation methods namely Bayesian inference and Neural Network based learning to study the quark matter equation of state with constant speed of sound parametrization and the structure of the quark stars within the two-family scenario. We use the mass and radius estimations from several X-ray sources and also the mass and tidal deformability measurements from gravitational wave events to constrain the parameters of our model. The results found from the two methods are consistent. The predicted speed of sound is compatible with the conformal limit.
+subjects: EOS, meothod, NN
+
+link: https://arxiv.org/abs/2007.09797
+title: Anisotropic Neutron Stars Modelling: Constraints in Krori-Barua Spacetime
+authors: Zacharias Roupas, Gamal G. L. Nashed
+topic: Dense nuclear matter is expected to be anisotropic due to effects such as solidification, superfluidity, strong magnetic fields, hyperons, pion-condesation. Therefore an anisotropic pulsars core seems more realistic than an ideally isotropic one. We model anisotropic neutron stars working in the Krori-Barua (KB) ansatz without preassuming an equation of state. We show that the physics of general KB solutions is encapsulated in the compactness. Imposing physical and stability requirements yields a maximum allowed compactness. We further input observational data from numerous pulsars and calculate the boundary density. We focus especially on data from the LIGO/Virgo collaboration as well as recent independent measurements of mass and radius of miilisecond pulsars with white dwarf companions by the \textit{Neutron Star Interior Composition Explorer} (NICER). 
+subjects: EOS, geometry, stability, NS
+
 link: https://arxiv.org/abs/2007.08983
 title: On the challenges of Angular Momentum Transfer Mechanism of Pulsar Glitches
 authors: I. O. Eya, C. I. Eze, E. U. Iyida
@@ -16,24 +70,6 @@ title: The Sound of Clearing the Throat: Gravitational Waves from a Black Hole O
 authors: James B. Dent, William E. Gabella, Kelly Holley-Bockelmann, Thomas W. Kephart
 topic: Current ground-based gravitational wave detectors are tuned to capture the collision of compact objects such as stellar origin black holes and neutron stars; over 20 such events have been published to date. Theoretically, however, more exotic compact objects may exist, collisions of which should also generate copious gravitational waves. In this paper, we model the inspiral of a stellar mass black hole into a stable, non-spinning, traversable wormhole, and find a characteristic waveform -- an anti-chirp and/or burst -- as the black hole emerges, i.e., outspirals, into our region of the Universe. This novel waveform signature may be useful in searches for wormholes in future gravitational wave data or used to constrain possible wormhole geometries in our Universe.
 subjects: GW
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
 
 link: https://arxiv.org/abs/2007.08493
 title: GW190814 as a massive rapidly-rotating neutron star with exotic degrees of freedom
