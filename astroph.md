@@ -23,6 +23,37 @@ authors:
 topic:
 subjects: 
 
+link: https://arxiv.org/abs/2007.10690
+title: Jet Propagation in Expanding Medium for Gamma-Ray Bursts
+authors: Hamid Hamidani, Kunihito Ioka
+topic: The binary neutron star (BNS) merger event GW170817 clearly shows that a BNS merger launches a short Gamma-Ray Burst (sGRB) jet. Unlike collapsars, where the ambient medium is static, in BNS mergers the jet propagates through the merger ejecta that is expanding outward at substantial velocities (∼0.2c). Here, we present semi-analytic and analytic models to solve the propagation of GRB jets through their surrounding media. We also perform a series of 2D numerical simulations of jet propagation in BNS mergers and in collapsars to test our models. Our models are consistent with numerical simulations in every aspect (the jet head radius, the cocoon's lateral width, the jet opening angle including collimation, the cocoon pressure, and the jet-cocoon morphology). The energy composition of the cocoon is found to be different depending on whether the ambient medium is expanding or not; in the case of BNS merger jets, the cocoon energy is dominated by kinetic energy, while it is dominated by internal energy in collapsars. Our model will be useful for estimating electromagnetic counterparts to gravitational waves.
+subjects: GRB, jet, model, sGRB
+revelation: VERY VERY relevant for GRB project
+
+link: https://arxiv.org/abs/2007.10424
+title: Thermodynamical description of hot rapidly rotating neutron stars and neutron stars merger remnant
+authors: P.S. Koliogiannis, Ch.C. Moustakidis
+topic: The prediction of the equation of state of hot dense nuclear matter is one of the most complicated and interesting problems in Nuclear Astrophysics. At the same time, its knowledge is the basic ingredient for some of the most interesting studies. In the present work we concentrate our study on the construction of the equation of state of hot dense nuclear matter, related mainly to the interior of the neutron star core. We employ a theoretical nuclear model, which includes momentum dependent interaction among the nucleons, along with the \textit{state-of-the-art} microscopic calculations. Thermal effects are introduced in a self-consistent way and a set of isothermal equations of state are predicted. 
+subjects: EOS, new EOS, hot EOS
+
+link: https://arxiv.org/abs/2007.10372
+title: The distant, galaxy cluster environment of the short GRB 161104A at z sim 0.8 and a comparison to the short GRB host population
+authors: Anya E. Nugent, Wen-fai Fong, Yuxin Dong, Antonella Palmese, Joel Leja, Alicia Rouco Escorial, Peter K. Blanchard, Kerry Paterson, Ryan Chornock, Andrew Monson, Matt Nicholl, Edo Berger
+topic: We present Magellan observations of the Swift short GRB 161104A...
+subjects: observations, GRB, parent galaxies
+
+link: https://arxiv.org/abs/2007.10679
+title: Secondary component of gravitational-wave signal GW190814 as an anisotropic neutron star
+authors: Zacharias Roupas
+topic: The gravitational-wave signal GW190814 involves a compact object with mass (2.50−2.67)Msun within the so-called low mass gap. As yet, a general consensus on its nature, being a black hole, a neutron star or an exotic star, has not been achieved. We investigate the possibility this compact object to be an anisotropic neutron star. Anisotropies in a neutron star core arise naturally by effects such as superfluidity, hyperons, strong magnetic fields and allow the maximum mass to exceed that of the ideally isotropic stars. We consider the Krori-Barua ansatz to model an anisotropic core and constrain the equation of state with LIGO/Virgo observations GW170817 and GW190814.
+subjects: EOS, GW, NSBH, high mass, anysotropy
+
+link: https://arxiv.org/abs/2007.10615
+title: Massive neutron stars with multiquark cores
+authors: Sitthichai Pinkanjanarod, Piyabut Burikham
+topic: In the core of NS, it is possible that the density and pressure become so large that the nuclear matter undergoes phase transition into a deconfined phase, consisting of quarks and gluons and their colour bound states. Even though the quark-gluon plasma has been observed in ultra-relativistic heavy-ion collisions\cite{Gyulassy, Andronic}, it is still unclear whether exotic quark matter exists inside neutron stars. Recently the result from the combination of various perturbative theoretical calculations with astronomical observations\cite{Demorest, Antoniadis} shows that (exotic) quark matter could exist inside the cores of neutron stars above 2.0 solar masses (Msun)~\cite{Annala:2019puf} However, due to the nonperturbative characteristic of interactions between quarks and gluons in the deconfined phase, perturbative QCD~(pQCD) has limitation due to the possibly large coupling of the quark-gluon soup in such dense environment. We revisit the holographic model in Ref.~\cite{bch, bhp} and implement the equation of states~(EoS) of multiquark nuclear matter interpolating from the high-density pQCD EoS and matching with the nuclear EoS known at low densities.
+subjects: EOS, quarks
+
 link: https://arxiv.org/abs/2007.10158
 title: Detection capabilities of the Athena X-IFU for the warm-hot intergalactic medium using gamma-ray burst X-ray afterglows
 authors: S. Walsh, S. McBreen, A. Martin-Carrillo, T. Dauser, N. Wijers, J. Wilms, J. Schaye, D. Barret
