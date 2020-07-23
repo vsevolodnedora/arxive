@@ -23,6 +23,48 @@ authors:
 topic:
 subjects: 
 
+link: https://arxiv.org/abs/2007.11035
+title: Three-dimensional heat transfer effects in external layers of a magnetized neutron star
+authors: Ilya A. Kondratyev, Sergey G. Moiseenko, Gennady S. Bisnovatyi-Kogan, Maria V. Glushikhina
+topic: Determination of a magnetic field structure on a neutron star (NS) surface is an important problem of a modern astrophysics. In a presence of strong magnetic fields a thermal conductivity of a degenerate matter is anisotropic. In this paper we present 3D anisotropic heat transfer simulations in outer layers of magnetized NSs, and construct synthetic thermal light curves. We have used a different from previous works tensorial thermal conductivity coefficient of electrons, derived from the analytical solution of the Boltzmann equation by the Chapman-Enskog method. We have obtained a NS surface temperature distribution in presence of dipole-plus-quadrupole magnetic fields. We consider a case, in which magnetic axes of a dipole and quadrupole components of the magnetic field are not aligned.
+subjects: NS, physics, MF, structure
+
+link: https://arxiv.org/abs/2007.10999
+title: On the maximum mass of neutron stars and GW190814
+authors: Daniel A. Godzieba, David Radice, Sebastiano Bernuzzi
+topic: Motivated by the recent discovery of a compact object with mass in the range 2.5−2.67M⊙ in the binary merger GW190814, we revisit the question of the maximum mass of neutron stars (NSs). We use a Markov Chain Monte Carlo approach to generate about 2 million phenomenological equations of state with and without first order phase transitions. We fix the crust equation of state and only assume causality at higher densities. We derive strict upper bounds on the maximum mass of NSs that depend on bulk properties of NSs, such as the radii and the tidal deformabilities of reference NSs. We find that the presence of a NS in GW190814 is not inconsistent with present astronomical constraints on the NS equation of state, but could be ruled out with near-future NICER and/or LIGO/Virgo observations.
+subjects: GW, EOS
+
+link: https://arxiv.org/abs/2007.11504
+title: Alfvén wave mode conversion in pulsar magnetospheres
+authors: Yajie Yuan, Yuri Levin, Ashley Bransgrove, Alexander Philippov
+topic: The radio emission anomaly coincident with the 2016 glitch of the Vela pulsar may be caused by a star quake that launches Alfvén waves into the magnetosphere, disturbing the original radio emitting region. To quantify the lifetime of the Alfvén waves, we investigate a possible energy loss mechanism, the conversion of Alfvénwaves into fast magnetosonic waves. Using axisymmetric force-free simulations, we follow the propagation of Alfvén waves launched from the stellar surface with small amplitude into the closed zone of a force-free dipolar pulsar magnetosphere. We observe mode conversion happening in the ideal force-free regime. The conversion efficiency during the first passage of the Alfvén wave through the equator can be large, for waves that reach large amplitudes as they travel away from the star, or propagate on the field lines passing close to the Y-point.
+subjects: MF, pulsar, radio emission
+
+link: https://arxiv.org/abs/2007.11458
+title: Nuclear pasta in hot and dense matter and its influence on the equation of state for astrophysical simulations
+authors: Fan Ji, Jinniu Hu, Shishao Bao, Hong Shen
+topic: We explore the properties of nuclear pasta appearing in supernova matter, i.e., matter at finite temperature with a fixed proton fraction. The pasta phases with a series of geometric shapes are studied using the compressible liquid-drop (CLD) model, where nuclear matter separates into a dense liquid phase of nucleons and a dilute gas phase of nucleons and α particles. The equilibrium conditions for two coexisting phases are derived by minimization of the total free energy including the surface and Coulomb contributions, which are clearly different from the Gibbs conditions for phase equilibrium due to the finite-size effects. Compared to the results considering only spherical nuclei, the inclusion of pasta phases can delay the transition to uniform matter and enlarge the region of nonuniform matter in the phase diagram. The thermodynamic quantities obtained in the present calculation with the CLD model are consistent with those in the realistic equation of state table for astrophysical simulations using the Thomas--Fermi approximation.
+subjects: physics, EOS, quarks, composition, NS
+
+link: https://arxiv.org/abs/2007.11423
+title: The different flavors of extragalactic jets: the role of relativistic flow deceleration
+authors: P. Rossi, G. Bodo, S. Massaglia, A. Capetti
+topic: We perform three-dimensional numerical simulations of relativistic (with a Lorentz factor of 10), non magnetized jets propagating in a uniform density environment, in order to study the effect of the entrainment and the consequent deceleration. Our simulations investigate the jet propagation inside the galaxy core, where, most likely, the deceleration occurs more efficiently. We compare cases with different density and pressure ratios with respect to the ambient medium finding that low density jets are efficiently decelerated and reach a quasi steady state in which, over a length of 600 jet radii, slow down from highly to sub-relativistic velocities. At the opposite, denser jets keep highly relativistic velocity over the same length. We discuss these results in relation to the Faranoff Riley (FR) radio-sources classification. We infer that lower density jets can give rise to FR 0 and FR I radio-sources, while higher density jets may be connected to FR II radio-sources.
+subjects: cosmology, jets, RHD, 3D, models
+
+link: https://arxiv.org/abs/2007.11226
+title: Primordial black hole origin for thermal gamma-ray bursts
+authors: Oscar del Barco
+topic: A binary black hole (BH) astrophysical scenario where a mass-constrained primordial black hole (PBH) undergoes a spiral fall onto its heavier component (such as a supermassive black hole (SMBH)) is described as an intense gamma-ray emission event. As the infalling BH approaches the Schwarschild surface of its companion, the PBH evaporation rate becomes more strongly enhanced due to the PBH blueshifted emission towards the SMBH, until a complete evaporation occurs before reaching the central BH horizon. Accordingly, our numerically calculated PBH flux density F(nu) and nuF(nu)ν fluence spectrum show an increasing Planck-like spectral dependence consistent with the first instants of thermal-dominant gamma-ray bursts (GRBs), providing a plausible confirmation of such low-mass primordial ultracompact objects.
+subjects: BBH, primodrica, GRB, exotic
+
+link: https://arxiv.org/abs/2007.11148
+title: A Measurement of the Hubble Constant using Gravitational Waves from the Neutron-Star Black-Hole Candidate GW190814
+authors: Sergiy Vasylyev, Alex Filippenko
+topic: We present a test of the statistical method introduced by Bernard F. Shutz in 1986 using only gravitational waves to infer the Hubble constant (H0) from GW190814, the first first high-probability neutron-star--black-hole (NS-BH) merger candidate detected by the Laser Interferometer Gravitational Wave Observatory (LIGO) and the Virgo interferometer. We apply a baseline test of this method to the binary neutron star (BNS) merger GW170817 and find [large uncertanty] demonstrating the improvement on constraints when using multiple gravitational wave events. We also confirm the results of other works that adopt this method, showing that increasing the LB threshold enhances the posterior structure and slightly shifts the distribution's peak to higher H0 values.
+subjects: cosmology, GW, Hubble
+
 link: https://arxiv.org/abs/2007.10690
 title: Jet Propagation in Expanding Medium for Gamma-Ray Bursts
 authors: Hamid Hamidani, Kunihito Ioka
