@@ -23,6 +23,25 @@ authors:
 topic:
 subjects: 
 
+link: https://arxiv.org/abs/2007.12110
+title: AT2018kzr: the merger of an oxygen-neon white dwarf and a neutron star or black hole
+authors: James H. Gillanders, Stuart A. Sim, Stephen J. Smartt
+topic: We present detailed spectroscopic analysis of the extraordinarily fast-evolving transient AT2018kzr. The transient's observed lightcurve showed a rapid decline rate, comparable to the kilonova AT2017gfo. We calculate a self-consistent sequence of radiative transfer models (using TARDIS) and determine that the ejecta material is dominated by intermediate-mass elements (O, Mg and Si), with a photospheric velocity of ∼12000-14500km/s. The early spectra have the unusual combination of being blue but dominated by strong FeII and FeIII absorption features. We show that this combination is only possible with a high Fe content (3.5%). This implies a high Fe/(Ni+Co) ratio.
+subjects: radiation transport, TARDIS, model, SN
+
+link: https://arxiv.org/abs/2007.11720
+title: Superfluid vortex-mediated mutual friction in non-homogeneous neutron star interiors
+authors: Marco Antonelli, Brynmor Haskell
+topic: Understanding the average motion of a multitude of superfluid vortices in the interior of a neutron star is a key ingredient for most theories of pulsar glitches. In this paper we propose a kinetic approach to compute the mutual friction force that is responsible for the momentum exchange between the normal and superfluid components in a neutron star, where the mutual friction is extracted from a suitable average over the motion of many vortex lines. As a first step towards a better modelling of the repinning and depinning processes of many vortex lines in a neutron star, we consider here only straight and non-interacting vortices: we adopt a minimal model for the dynamics of an ensemble of point vortices in two dimensions immersed in a non-homogeneous medium that acts as a pinning landscape.
+subjects: NS, interior model, turbulence
+
+link: https://arxiv.org/abs/2007.11590
+title: The structure of weakly-magnetized gamma-ray burst jets
+authors: Ore Gottlieb, Omer Bromberg, Chandra B. Singh, Ehud Nakar
+topic: The interaction of gamma-ray burst (GRB) jets with the dense media into which they are launched promote the growth of local hydrodynamic instabilities along the jet boundary. In a companion paper (Gottlieb2020b) we study the evolution of hydrodynamic (unmagnetized) jets, finding that mixing of jet-cocoon material gives rise to an interface layer, termed jet-cocoon interface (JCI), which contains a significant fraction of the system energy. We find that the angular structure of the jet + JCI, when they reach the homologous phase, can be approximated by a flat core (the jet) + a power-law function (the JCI) with indices that depend on the degree of mixing. In this paper we examine the effect of subdominant toroidal magnetic fields on the jet evolution and morphology. We find that weak fields can stabilize the jet against local instabilities. The suppression of the mixing diminishes the JCI and thus reshapes the jet's post-breakout structure. 
+subjects: GRB, model, jet, cocoon
+revelation: important for GRB project.
+
 link: https://arxiv.org/abs/2007.11035
 title: Three-dimensional heat transfer effects in external layers of a magnetized neutron star
 authors: Ilya A. Kondratyev, Sergey G. Moiseenko, Gennady S. Bisnovatyi-Kogan, Maria V. Glushikhina
