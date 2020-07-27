@@ -17,11 +17,30 @@ authors:
 topic:
 subjects: 
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.12624
+title: Convective turbulent viscosity acting on equilibrium tidal flows: new frequency scaling of the effective viscosity
+authors: Craig D. Duguid, Adrian J. Barker, Chris A. Jones
+topic: Turbulent convection is thought to act as an effective viscosity (νE) in damping tidal flows in stars and giant planets. However, the efficiency of this mechanism has long been debated, particularly in the regime of fast tides, when the tidal frequency (ω) exceeds the turnover frequency of the dominant convective eddies (ωc). We present the results of hydrodynamical simulations to study the interaction between tidal flows and convection in a small patch of a convection zone. These simulations build upon our prior work by simulating more turbulent convection in larger horizontal boxes, and here we explore a wider range of parameters. 
+subjects: convection, physics
+
+link: https://arxiv.org/abs/2007.12400
+title: Does elasticity stabilise a magnetic neutron star?
+authors: Prasanta Bera, D. I. Jones, Nils Andersson
+topic: The configuration of the magnetic field in the interior of a neutron star is mostly unknown from observations. Theoretical models of the interior magnetic field geometry tend to be oversimplified to avoid mathematical complexity and tend to be based on axisymmetric barotropic fluid systems. These static magnetic equilibrium configurations have been shown to be unstable on a short time scale against an infinitesimal perturbation. Given this instability, it is relevant to consider how more realistic neutron star physics affects the outcome. In particular, it makes sense to ask if elasticity, which provides an additional restoring force on the perturbations, may stabilise the system. It is well-known that the matter in the neutron star crust forms an ionic crystal. The interactions between the crystallized nuclei can generate shear stress against any applied strain. To incorporate the effect of the crust on the dynamical evolution of the perturbed equilibrium structure, we study the effect of elasticity on the instability of an axisymmetric magnetic star. In particular we determine the critical shear modulus required to prevent magnetic instability and consider the corresponding astrophysical consequences.
+subjects: NS. FM, confuguration, NS stability, model
+
+link: https://arxiv.org/abs/2007.12245
+title: The Fate of the Merger Remnant in GW170817 and its Imprint on the Jet Structure
+authors: Ariadna Murguia-Berthier, Enrico Ramirez-Ruiz, Fabio De Colle, Agnieszka Janiuk, Stephan Rosswog, William H. Lee
+topic: The first neutron star binary merger detected in gravitational waves, GW170817 and the subsequent detection of its emission across the electromagnetic spectrum showed that these systems are viable progenitors of short gamma-ray bursts (sGRB). The afterglow signal of GW170817 has been found to be consistent with a structured GRB jet seen off-axis, requiring significant amounts of relativistic material at large angles. This trait can be attributed to the interaction of the relativistic jet with the external wind medium. Here we perform numerical simulations of relativistic jets interacting with realistic wind environments in order to explore how the properties of the wind and central engine affect the structure of successful jets. We find that the angular energy distribution of the jet depends primarily on the ratio between the lifetime of the jet and the time it takes the merger remnant to collapse. We make use of these simulations to constrain the time it took for the merger remnant in GW170817 to collapse into a black hole based on the angular structure of the jet as inferred from afterglow observations. We conclude that the lifetime of the merger remnant in GW170817 was ≈0.8−0.9s, which, after collapse, triggered the formation of the jet.
+subjects: GRB, jet, model
+revelation: important motivation for GRB project and a connection to NR
+
+link: https://arxiv.org/abs/2007.12195
+title: Multi-Frequency General Relativistic Radiation-Hydrodynamics with M1 Closure
+authors: Peter Anninos, P. Chris Fragile
+topic: We report on recent upgrades to our general relativistic radiation-magnetohydrodynamics code, Cosmos++, which expands the two-moment, M1, radiation treatment from grey to multi-frequency transport, including Doppler and gravitational frequency shifts. The solver accommodates either photon (Bose-Einstein) or neutrino (Fermi-Dirac) statistical distribution functions with absorption, emission, and elastic scattering processes. An implicit scheme is implemented to simultaneously solve the primitive inversion problem together with the radiation-matter coupling source terms, providing stability over a broad range of opacities and optical depths where the interactions terms can be stiff. We discuss our formulations and numerical methods, and validate our methods against a wide variety of test problems spanning optically thin to thick regimes in flat, weakly curved, and strongly curved spacetimes.
+subjects: neutrinos, M1, new code
 
 link: https://arxiv.org/abs/2007.12110
 title: AT2018kzr: the merger of an oxygen-neon white dwarf and a neutron star or black hole
