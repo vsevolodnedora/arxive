@@ -17,6 +17,25 @@ authors:
 topic:
 subjects: 
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2007.13246
+title: A targeted search for repeating fast radio bursts associated with gamma-ray bursts
+authors: Nipuni T. Palliyaguru, Devansh Agarwal, Golnoosh Golpayegani, Ryan Lynch, Duncan R. Lorimer, Benjamin Nguyen, Alessandra Corsi, Sarah Burke-Spolaor
+topic: The origin of fast radio bursts (FRBs) still remains a mystery, even with the increased number of discoveries in the last three years. Growing evidence suggests that some FRBs may originate from magnetars. Large, single-dish telescopes such as Arecibo Observatory (AO) and Green Bank Telescope (GBT) have the sensitivity to detect FRB~121102-like bursts at gigaparsec distances. Here we present searches using AO and GBT that aimed to find potential radio bursts at 11 sites of past γ--ray bursts that show evidence for the birth of a magnetar. We also performed a search towards GW170817, which has a merger remnant whose nature remains uncertain
+subjects: observations, frb
+
+link: https://arxiv.org/abs/2007.13116
+title: Diverse Jet Structures Consistent with the Off-axis Afterglow of GRB 170817A
+authors: Kazuya Takahashi, Kunihito Ioka
+topic: The jet structure of short gamma-ray bursts (GRBs) has been controversial after the detection of GRB 170817A as the electromagnetic counterparts to the gravitational wave event GW170817. Different authors use different jet structures for calculating the afterglow light curves. We formulated a method to inversely reconstruct the jet structure uniquely from a given off-axis GRB afterglow, without assuming any functional form of the structure. By systematically applying our inversion method, we find that more diverse jet structures are consistent with the observed afterglow of GRB 170817A within errors: such as hollow-cone, spindle, Gaussian, and power-law jet structures. In addition, the total energy of the reconstructed jet is arbitrary, proportional to the ambient density n0, with keeping the same jet shape if the parameters satisfy the degeneracy combination
+subjects: GRB, get, EVENT
+revelation: important for GRB project
+
 link: https://arxiv.org/abs/2007.12624
 title: Convective turbulent viscosity acting on equilibrium tidal flows: new frequency scaling of the effective viscosity
 authors: Craig D. Duguid, Adrian J. Barker, Chris A. Jones
