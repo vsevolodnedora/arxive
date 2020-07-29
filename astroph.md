@@ -1,9 +1,9 @@
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2007.13937
+title: Magnetic field fluctuations in anisotropic, supersonic turbulence
+authors: James R. Beattie, Christoph Federrath, Amit Seta
+topic: The rich structure that we observe in molecular clouds is due to the interplay between strong magnetic fields and supersonic (turbulent) velocity fluctuations. The velocity fluctuations interact with the magnetic field, causing it too to fluctuate. Using numerical simulations, we explore the nature of such magnetic field fluctuations  over a wide range of turbulent Mach numbers (i.e., from weak to strong compressibility), and Alfven Mach numbers (i.e., from strong to weak magnetic mean fields, B0) We derive a compressible quasi-static fluctuation model from the magnetohydrodynamical (MHD) equations and show that velocity gradients parallel to the mean magnetic field give rise to compressible modes in sub-Alfvénic flows, which prevents the flow from becoming two-dimensional, as is the case in incompressible MHD turbulence. 
+subjects: MF, turbulence, MHD, physics
 
 link: 
 title: 
