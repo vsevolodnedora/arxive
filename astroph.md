@@ -1,27 +1,45 @@
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2007.14609
+title: Magnetic fields in late-stage proto-neutron stars
+authors: S. K. Lander, P. Haensel, B. Haskell, J. L. Zdunik, M. Fortin
+topic: We explore the thermal and magnetic-field structure of a late-stage proto-neutron star. We find the dominant contribution to the entropy in different regions of the star, from which we build a simplified equation of state for the hot neutron star. With this, we numerically solve the stellar equilibrium equations to find a range of models, including magnetic fields and rotation up to Keplerian velocity. We argue that the equation of state is effectively barotropic for this problem. For fixed magnetic-field strength, the induced ellipticity increases with temperature; we give quantitative formulae for this. The Keplerian velocity is considerably lower for hotter stars, which may set a de-facto maximum rotation rate for non-recycled NSs well below 1 kHz. The qualitative magnetic-field structure is similar for hot and cold stars, with the poloidal field component dominating over the toroidal one; we argue this result may be universal. We show that truncating magnetic-field solutions at low multipoles leads to serious inaccuracies, especially for models with rapid rotation or a strong toroidal-field component.
+subjects: MF, NS, configurations, physics
+
+link: https://arxiv.org/abs/2007.14403
+title: Gravitational wave background from extreme mass ratio inspirals
+authors: Matteo Bonetti, Alberto Sesana
+topic: Extreme mass ratio inspirals (EMRIs), i.e. binary systems comprised by a compact stellar-mass object orbiting a massive black hole, are expected to be among the primary gravitational wave (GW) sources for the forthcoming LISA mission. The astrophysical processes leading to the formation of such systems still remain poorly understood, resulting into large uncertainties in the predicted cosmic rate of these sources, spanning at least three orders of magnitude. As LISA can individually resolve mostly EMRIs up to z≳1, the ensemble of signals below its detection threshold will add up incoherently forming an unresolved confusion noise, which can be formally described as a stochastic background. We perform an extensive study of this background by considering a collection of astrophysically motivated EMRI formation scenarios, spanning current uncertainties. We find that in fiducial EMRI models -- predicting hundreds of EMRI detections during mission operations -- a significant background comparable to the LISA noise emerges, affecting the performance of the instrument around 3 mHz. In extreme cases, this background can even "erase" the whole LISA sensitivity bucket in the 2-10 mHz frequency range
+subjects: GW, high-q, prediction, LISA
+
+link: https://arxiv.org/abs/2007.14401
+title: A coupled guiding center-Boris particle pusher for magnetized plasmas in compact-object magnetospheres
+authors: Fabio Bacchini, Bart Ripperda, Alexander A. Philippov, Kyle Parfrey
+topic: We present a novel numerical scheme for simulating the motion of relativistic charged particles in magnetospheres of compact objects, typically filled with highly magnetized collisionless plasmas. The new algorithm is based on a dynamic switch between the full system of equations of motion and a guiding center approximation. The switch between the two formulations is based on the magnetization of the plasma particles, such that the dynamics are accurately captured by the guiding center motion even when the gyro-frequency is under-resolved by the time step. For particles with a large gyro-radius, due to acceleration in, e.g., reconnecting current sheets, the algorithm adaptively switches to solve the full equations of motion instead. The new scheme is directly compatible with standard Particle-in-Cell codes, and is readily applicable in curved spacetimes via a dedicated covariant formulation.
+subjects: particles in MF, model, new code
+
 link: https://arxiv.org/abs/2007.13937
 title: Magnetic field fluctuations in anisotropic, supersonic turbulence
 authors: James R. Beattie, Christoph Federrath, Amit Seta
 topic: The rich structure that we observe in molecular clouds is due to the interplay between strong magnetic fields and supersonic (turbulent) velocity fluctuations. The velocity fluctuations interact with the magnetic field, causing it too to fluctuate. Using numerical simulations, we explore the nature of such magnetic field fluctuations  over a wide range of turbulent Mach numbers (i.e., from weak to strong compressibility), and Alfven Mach numbers (i.e., from strong to weak magnetic mean fields, B0) We derive a compressible quasi-static fluctuation model from the magnetohydrodynamical (MHD) equations and show that velocity gradients parallel to the mean magnetic field give rise to compressible modes in sub-Alfvénic flows, which prevents the flow from becoming two-dimensional, as is the case in incompressible MHD turbulence. 
 subjects: MF, turbulence, MHD, physics
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
-
-link: 
-title: 
-authors: 
-topic:
-subjects: 
 
 link: https://arxiv.org/abs/2007.13246
 title: A targeted search for repeating fast radio bursts associated with gamma-ray bursts
