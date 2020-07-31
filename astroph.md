@@ -17,6 +17,30 @@ authors:
 topic:
 subjects: 
 
+link: 
+title: 
+authors: 
+topic:
+subjects: 
+
+link: https://arxiv.org/abs/2007.15586
+title: Updated predictions for gravitational waves produced in a strongly supercooled phase transition
+authors: John Ellis, Marek Lewicki, Ville Vaskonen
+topic: We update predictions for the gravitational wave (GW) signal from a strongly supercooled phase transition in an illustrative classically conformal U(1)B−L model. We implement prop gamma^2 scaling of the friction on the bubble wall and update the estimates for the efficiency factors for GW production from bubble collisions and plasma-related sources. We take into account the fact that a small decay rate of the symmetry-breaking field may lead to brief matter-dominated era after the transition, as the field oscillates around its minimum before decaying.  We find that a strong bubble collision signal occurs in a significant part of the parameter space, and that the modified redshift of the modes that re-enter the horizon during the matter-dominated period generates a characteristic tilted `plateau' in the spectrum.
+subjects: EOS, GW, quantum
+
+link: https://arxiv.org/abs/2007.15443
+title: Confirmed width-Eiso and width-Liso relations in GRB: comparison with the Amati and Yonetoku relations
+authors: Zhao-Yang Peng, Yue Yin, Ting Li, Hui Wu, Dao-Zhou Wang
+topic: In this paper, we select a sample including 141 BEST time-integrated F spectra and 145 BEST peak flux P spectra observed by the Konus-Wind with known redshift to recheck the connection between the spectral width and Eiso as well as Liso. We define six types of absolute spectral widths. It is found that all of the rest-frame absolute spectral widths are strongly positive correlated with Eiso as well as Liso for the long burst for both the F and P spectra. All of the short bursts are the outliers for width-Eiso relation and most of the short bursts are consistent with the long bursts for the width-Liso relation for both F and P spectra. 
+subjects: GRB, statistics
+
+link: https://arxiv.org/abs/2007.15099
+title: Gravitational-wave signal of a core-collapse supernova explosion of a 15 Solar mass star
+authors: Anthony Mezzacappa, Pedro Marronetti, Ryan E. Landfield, Eric J. Lentz, Konstantin N. Yakunin, Stephen W. Bruenn, W. Raphael Hix, O.E. Bronson Messer, Eirik Endeve, John M. Blondin, J. Austin Harris
+topic: We report on the gravitational wave signal computed in the context of a three-dimensional simulation of a core collapse supernova explosion of a 15 Solar mass star. The simulation was performed with our neutrino hydrodynamics code Chimera. We detail the gravitational wave strains as a function of time, for both polarizations, and discuss their physical origins. We also present the corresponding spectral signatures. Gravitational wave emission in our model has two key features: low-frequency emission (less 200 Hz) emanates from the gain layer as a result of neutrino-driven convection and the SASI and high-frequency emission (> 600 Hz) emanates from the proto-neutron star due to Ledoux convection within it. The high-frequency emission dominates the gravitational wave emission in our model and emanates largely from the convective layer itself, not from the convectively stable layer above it, due to convective overshoot. Moreover, the low-frequency emission emanates from the gain layer itself, not from the proto-neutron star, due to accretion onto it. We provide evidence of the SASI in our model and demonstrate that the peak of our low-frequency gravitational wave emission spectrum corresponds to it. 
+subjects: GW, SN, model
+
 link: https://arxiv.org/abs/2007.14609
 title: Magnetic fields in late-stage proto-neutron stars
 authors: S. K. Lander, P. Haensel, B. Haskell, J. L. Zdunik, M. Fortin
