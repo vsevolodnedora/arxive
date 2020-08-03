@@ -23,6 +23,27 @@ authors:
 topic:
 subjects: 
 
+link: https://arxiv.org/abs/2007.15742
+title: High-Energy Neutrinos and Gamma-Rays from Non-Relativistic Shock-Powered Transients
+authors: Ke Fang, Brian D. Metzger, Indrek Vurm, Elias Aydi, Laura Chomiuk
+topic: Shock interaction has been argued to play a role in powering a range of optical transients, including supernovae (particularly the superluminous class), classical novae, stellar mergers, tidal disruption events, and fast blue optical transients. These same shocks can accelerate relativistic ions, generating high-energy neutrino and gamma-ray emission via hadronic pion production. The recent discovery of time-correlated optical and gamma-ray emission in classical novae has revealed the important role of radiative shocks in powering these events, enabling an unprecedented view of the properties of ion acceleration, including its efficiency and energy spectrum, under similar physical conditions to shocks in extragalactic transients. Here we introduce a model for connecting the radiated optical fluence of non-relativistic transients to their maximal neutrino and gamma-ray fluence. We apply this technique to a wide range of extragalactic transient classes in order to place limits on their contributions to the cosmological high-energy gamma-ray and neutrino backgrounds. 
+subjects: EM, gamma ray, neutrino, shock, physics
+
+link: https://arxiv.org/abs/2007.15701
+title: MHD accretion-ejection: jets launched by a non-isotropic accretion disk dynamo. I. Validation and application of selected dynamo tensorial components
+authors: Giancarlo Mattia, Christian Fendt
+topic: Astrophysical jets are launched from strongly magnetized systems that host an accretion disk surrounding a central object. The origin of the jet launching magnetic field is one of the open questions for modeling the accretion-ejection process. Here we address the question how to generate the accretion disk magnetization and field structure required for jet launching. Applying the PLUTO code, we present the first resistive MHD simulations of jet launching including a non-scalar accretion disk mean-field alpha^2Omega-dynamo in the context of large scale disk-jet simulations. Essentially, we find the alpha-phi-dynamo component determining the amplification of the poloidal magnetic field, which is strictly related to the disk magnetization (and, as a consequence, to the jet speed, mass and collimation), while the αR and αθ-dynamo components trigger the formation of multiple, anti-aligned magnetic loops in the disk, with strong consequences on the stability and dynamics of the disk-jet system. In particular, such loops trigger the formation of dynamo inefficient zones, which are characterized by a weak magnetic field, and therefore a lower value of the magnetic diffusivity. The jet mass, speed and collimation are strongly affected by the formation of the dynamo inefficient zones. 
+subjects: accretion, jet, physics, models, MF
+
+link: https://arxiv.org/abs/2007.16022
+title: Low mass strange stars and the compact star 1E1207.4-5209
+authors: 
+topic: We study the anomalous mass defects in the first (ascendant) branch of stellar sequences of static strange stars.
+We employ the nonperturbative equation of state derived in the framework of the Field Correlator Method to describe the hydrostatic equilibrium of the strange matter.
+The large distance static qq¯ potential V1 and the gluon condensate G2 are the model parameters that characterize the equation of state.
+An attempt is made to determine, from the surface gravitational redshift measurements, the ratio (P/E)C at the center of strange stars.
+subjects: EOS, strange stars, physics
+
 link: https://arxiv.org/abs/2007.15586
 title: Updated predictions for gravitational waves produced in a strongly supercooled phase transition
 authors: John Ellis, Marek Lewicki, Ville Vaskonen
