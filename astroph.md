@@ -23,6 +23,30 @@ authors:
 topic:
 subjects: 
 
+link: https://arxiv.org/abs/2008.00968
+title: Additivity of relative magnetic helicity in finite volumes
+authors: Gherardo Valori, Pascal Démoulin, Etienne Pariat, Anthony Yeates, Kostas Moraitis, Luis Linan
+topic: Relative magnetic helicity is conserved by magneto-hydrodynamic evolution even in the presence of moderate resistivity. For that reason, it is often invoked as the most relevant constraint to the dynamical evolution of plasmas in complex systems, such as solar and stellar dynamos, photospheric flux emergence, solar eruptions, and relaxation processes in laboratory plasmas. However, such studies often indirectly imply that relative magnetic helicity in a given spatial domain can be algebraically split into the helicity contributions of the composing subvolumes, i.e., that it is an additive quantity. A limited number of very specific applications have shown that this is not the case. Progress in understanding the non-additivity of relative magnetic helicity requires removal of restrictive assumptions in favour of a general formalism that can be used both in theoretical investigations as well as in numerical applications. We derive the analytical gauge-invariant expression for the partition of relative magnetic helicity between contiguous finite-volumes, without any assumptions on either the shape of the volumes and interface, or the employed gauge. 
+subjects: MF, plasma, physics
+
+link: https://arxiv.org/abs/2008.00772
+title: MHD accretion-ejection: jets launched by a non-isotropic accretion disk dynamo. II. A dynamo tensor defined by the disk Coriolis number
+authors: Giancarlo Mattia, Christian Fendt
+topic: Astrophysical jets are launched from strongly magnetized systems that host an accretion disk surrounding a central object. Here we address the question how to generate the accretion disk magnetization and field structure required for jet launching. We continue our work from Paper I (Mattia & Fendt 2020a), considering a non-scalar accretion disk mean-field alpha2Omega-dynamo in the context of large scale disk-jet simulations. We now investigate a disk dynamo that follows analytical solutions of mean-field dynamo theory, essentially based only on a single parameter, the Coriolis number. We thereby confirm the anisotropy of the dynamo tensor acting in accretion disks, allowing to relate both the resistivity and mean-field dynamo to the disk turbulence. Our new model recovers previous simulations applying a purely radial initial field, while allowing for a more stable evolution for seed fields with a vertical component. We also present correlations between the strength of the disk dynamo coefficients and the dynamical parameters of the jet that is launched, and discuss their implication for observed jet quantities.
+subjects: jet, accretion, MF, physics
+
+link: https://arxiv.org/abs/2008.00008
+title: Constraining the Kilonova Rate with Zwicky Transient Facility Searches Independent of Gravitational Wave and Short Gamma-ray Burst Triggers
+authors: Igor Andreoni, Erik C. Kool, Ana Sagues Carracedo, Mansi M. Kasliwal, Mattia Bulla, Tomas Ahumada, et al
+topic: To date, no compelling kilonova has been found during optical surveys of the sky, independent of gravitational-wave triggers. In this work, we searched the first 23 months of the Zwicky Transient Facility (ZTF) data stream for candidate kilonovae in the form of rapidly evolving transients. We combined ZTF alert queries with forced point-spread-function photometry and nightly flux stacking to increase our sensitivity to faint and fast transients. Automatic queries yielded >11,200 candidates, 24 of which passed quality checks and strict selection criteria based on a grid of kilonova models tailored for both binary neutron star and neutron star-black hole mergers. None of the candidates in our sample was deemed a possible kilonova after thorough vetting, catalog cross-matching, and study of their color evolution. The sources that passed our selection criteria are dominated by Galactic cataclysmic variables. In addition, we identified two fast transients at high Galactic latitude, one of which is the confirmed afterglow of long-duration GRB190106A, and the other is a possible cosmological afterglow. Using a survey simulation code, we constrained the kilonova rate for a range of models including top-hat and linearly decaying light curves and synthetic light curves obtained with radiative transfer simulations. 
+subjects: GRB, kilonova, search, observations, population synthesis
+
+link: https://arxiv.org/abs/2008.00213
+title: Proto-neutron stars with heavy baryons and universal relations
+authors: Adriana R. Raduta, Micaela Oertel, Armen Sedrakian
+topic: We use covariant density functional theory to obtain the equation of state (EoS) of matter in compact stars at non-zero temperature, including the full baryon octet.  Universal relations between the moment of inertia, quadrupole moment, tidal deformability, and compactness of compact stars are established.
+subjects: EOS
+
 link: https://arxiv.org/abs/2007.15742
 title: High-Energy Neutrinos and Gamma-Rays from Non-Relativistic Shock-Powered Transients
 authors: Ke Fang, Brian D. Metzger, Indrek Vurm, Elias Aydi, Laura Chomiuk
