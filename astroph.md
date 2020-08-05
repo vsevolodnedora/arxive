@@ -2,26 +2,44 @@
 link: 
 title: 
 authors: 
-topic:
+topic: 
 subjects: 
 
 link: 
 title: 
 authors: 
-topic:
+topic: 
 subjects: 
 
 link: 
 title: 
 authors: 
-topic:
+topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic:
-subjects: 
+link: https://arxiv.org/abs/2008.01716
+title: The permanent ellipticity of the neutron star in PSR J1023+0038
+authors: Sudip Bhattacharyya
+topic: A millisecond pulsar having an ellipticity, that is an asymmetric mass distribution around its spin-axis, could emit continuous gravitational waves, which have not been detected so far. An indirect way to infer such waves is to estimate the contribution of the waves to the spin-down rate of the pulsar. The transitional pulsar PSR J1023+0038 is ideal and unique for this purpose, because this is the only millisecond pulsar for which the spin-down rate has been measured in both accreting and non-accreting states. Here we infer, from our formalism based on the complete torque budget equations and the pulsar magnetospheric origin of observed γ-rays in the two states, that PSR J1023+0038 should emit gravitational waves due to a permanent ellipticity of the pulsar.
+subjects: NS, singme, GW, eccentric
+
+link: https://arxiv.org/abs/2008.01582
+title: Hint of a tension between Nuclear physics and Astrophysical observations
+authors: Bhaskar Biswas, Prasanta Char, Rana Nandi, Sukanta Bose
+topic: Observations of neutron stars by the LIGO-Virgo and NICER collaborations have provided us reasonably precise measurements of their various macroscopic properties. In this letter, within a fully Bayesian framework, we combine them to put joint constraints on the properties of neutron stars based on an empirical parameterization of nuclear matter. These values imply a somewhat stiffer equation of state for neutron stars in comparison to those found in other studies that were based on spectral or piecewise polytropic parameterization, which are agnostic to nuclear physics constraints. This indicates a tension between nuclear physics inputs and astrophysical observations. Specifically, we show that this empirically parameterized nuclear equation of state disfavors the softness found in astrophysical observations at a statistically significant level.
+subjects: MM, statistic, constraints
+
+link: https://arxiv.org/abs/2008.01117
+title: Radiative Emission Mechanisms of Tidal Disruption Events
+authors: Nathaniel Roth, Elena M. Rossi, Julian H. Krolik, Tsvi Piran, Brenna Mockler, Daniel Kasen
+topic: We describe how the various outcomes of stellar tidal disruption give rise to observable radiation. We separately consider the cases where gas circularizes rapidly into an accretion disc, as well as the case when shocked debris streams provide the observable emission without having fully circularized. For the rapid circularization case, we describe how outflows, absorption by reprocessing layers, and Comptonization can cause the observed radiation to depart from that of a bare disc, possibly giving rise to the observed optical/UV emission along with soft X-rays from the disc. If, instead, most of the debris follows highly eccentric orbits for a significant time, many properties of the observed optical/UV emission can be explained by the scale of those eccentric orbits and the shocks embedded in the debris flow near orbital apocenter. In this picture, soft X-ray emission at early times results from the smaller amount of debris mass deflected into a compact accretion disc by weak shocks near the stellar pericenter. A general proposal for the near-constancy of the ultraviolet/optical color temperatures is provided, by linking it to incomplete thermalization of radiation in the atmosphere of the emitting region. We also briefly discuss the radio signals from the interaction of unbound debris and jets with the black hole environment.
+subjects: accretion, physics, tidal disruption
+
+link: https://arxiv.org/abs/2008.01114
+title: Fast Radio Burst Breakouts from Magnetar Burst Fireballs
+authors: Kunihito Ioka
+topic: The recent discovery of a Mega-Jansky radio burst simultaneously with short X-ray bursts from the Galactic magnetar (strongly-magnetized neutron star (NS)) SGR 1935+2154 is a smoking gun for the hypothesis that some cosmological fast radio bursts (FRBs) arise from magnetar bursts. We argue that the X-ray bursts with high temperature T∼80 keV entail an electron-positron (e plus minus) outflow from a trapped-expanding fireball, polluting the NS magnetosphere before the FRB emission. The e-(plus minus) outflow is opaque to induced Compton scatterings of FRB photons, and is strongly Compton-dragged by the X-ray bursts. Nevertheless the FRB photons can break out the e± outflow with radiation forces if the FRB emission radius is larger than a few tens of NS radii. A FRB is chocked if the FRB is weaker or X-ray bursts are stronger, possibly explaining no FRBs with giant flares and no detectable X-ray bursts with weak FRBs. We also speculate that the e (plus minus) outflow may be needed to generate FRBs, solving why the FRBs occur only with the high-T X-ray bursts. The breakout physics is important for constraining the emission mechanism and electromagnetic counterparts to future FRBs.
+subjects: FRB, magnatar, mechanism
 
 link: https://arxiv.org/abs/2008.00968
 title: Additivity of relative magnetic helicity in finite volumes
