@@ -17,6 +17,36 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2008.02105
+title: PIC methods in astrophysics: PIC simulations of relativistic jets
+authors: Kenichi Nishikawa, Ioana Dutan, Christoph Kohn, Yosuke Mizuno
+topic: The Particle-In-Cell (PIC) method has been developed by Oscar Buneman, Charles Birdsall, Roger W. Hockney, and John Dawson in the 1950s and, with the advances of computing power, has been further developed for several fields such as astrophysical, magnetospheric as well as solar plasmas and recently also for atmospheric and laser physics. Currently more than 15 semi-public PIC codes are available. Its applications have grown extensively with increasing computing power available on high performance computing facilities around the world. These systems allow the study of various topics of astrophysical plasmas, such as magnetic reconnection, pulsars and black hole.
+subjects: code, PIC, jet
+
+link: https://arxiv.org/abs/2008.01763
+title: The infancy of core-collapse supernova remnants
+authors: Michael Gabler, Annop Wongwathanarat, Hans-Thomas Janka
+topic: We present 3D hydrodynamic simulations of neutrino-driven supernovae (SNe) with the Prometheus-HotB code, evolving the asymmetrically expanding ejecta from shock breakout until they reach the homologous expansion phase after roughly one year. Our calculations continue the simulations for two red supergiant (RSG) and two blue supergiant (BSG) progenitors by Wongwathanarat et al., who investigated the growth of explosion asymmetries produced by hydrodynamic instabilities during the first second of the explosion and their later fragmentation by Rayleigh-Taylor instabilities. We focus on the late time acceleration and inflation of the ejecta caused by the heating due to the radioactive decay of 56Ni to 56Fe and by a new outward-moving shock, which forms when the reverse shock from the He/H-shell interface compresses the central part of the ejecta. The mean velocities of the iron-rich ejecta increase between 100 km/s and 350 km/s (sim 8-30\%), and the fastest one percent of the iron accelerates by up to sim 1000 km/s (sim 20-25percent). This `Ni-bubble effect', known from 1D models, accelerates the bulk of the nickel in our 3D models and causes an inflation of the initially overdense Ni-rich clumps, which leads to underdense, extended fingers, enveloped by overdense skins of compressed surrounding matter.
+subjects: SN, remnant, nu-wind
+
+link: https://arxiv.org/abs/2008.01762
+title: Magnetohydrodynamic waves excited by a coupling between gravitational waves and a strongly magnetized plasma in binaries of neutron stars
+authors: Adam S. Gontijo, Oswaldo D. Miranda
+topic: Coalescence of binary neutron stars (BNSs) is one of the sources of gravitational waves (GWs) able to be detected by ground-based interferometric detectors. The event GW170817 was the first observed in the gravitational and electromagnetic spectra, showing through this joint analysis a certain compatibility with the models of short gamma-ray bursts (sGRBs) to explain the signature of this system. Due to the intense magnetic fields of the neutron stars, the plasma magnetosphere stays strongly magnetized and the propagation of the GW through plasma can excite magnetohydrodynamic (MHD) modes such as Alfvén and magnetosonic waves. The MHD modes carry energy and momentum through the plasma, suggesting a mechanism to accelerate the matter during the coalescence of the binaries, explaining some characteristics of the fireball model of the sGRBs. We present a semianalytical formalism to determine the energy transferred by the GW-MHD interaction during the inspiral phase of the stars
+subjects: BNS, GW, MF, GW
+
+link: https://arxiv.org/abs/2008.01750
+title: Arepo-MCRT: Monte Carlo Radiation Hydrodynamics on a Moving Mesh
+authors: Aaron Smith, Rahul Kannan, Benny T.-H. Tsang, Mark Vogelsberger, Ruediger Pakmor
+topic: We present Arepo-MCRT, a novel Monte Carlo radiative transfer (MCRT) radiation hydrodynamics (RHD) solver for the unstructured moving-mesh code Arepo. Our method is designed for general multiple scattering problems in both optically-thin and -thick conditions. We incorporate numerous efficiency improvements and noise reduction schemes to help overcome efficiency barriers that typically inhibit convergence. These include continuous absorption and energy deposition, photon weighting and luminosity boosting, local packet merging and splitting, path-based statistical estimators, conservative (face-centered) momentum coupling, adaptive convergence between time-steps, Implicit Monte Carlo (IMC) for thermal emission, and discrete diffusion Monte Carlo (DDMC) for unresolved scattering, including a novel advection scheme. We primarily focus on the unique aspects of our implementation and discussions of the advantages and drawbacks of our methods in various astrophysical contexts. Finally, we consider several test applications including the levitation of an optically thick layer of gas by trapped IR radiation. We find the initial acceleration phase and revitalized second wind are connected via self-regulation of the RHD coupling, such that the RHD method accuracy and simulation resolution each leave important imprints on the long-term behavior of the gas.
+subjects: MC, radiation trasport, RHD
+
 link: https://arxiv.org/abs/2008.01716
 title: The permanent ellipticity of the neutron star in PSR J1023+0038
 authors: Sudip Bhattacharyya
