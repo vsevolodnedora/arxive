@@ -17,11 +17,24 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2008.02743
+title: Magnetic Energy Release, Plasma Dynamics and Particle Acceleration during Relativistic Turbulent Magnetic Reconnection
+authors: Fan Guo, Xiaocan Li, William Daughton, Hui Li, Patrick Kilian, Yi-Hsin Liu, Qile Zhang, Haocheng Zhang
+topic: In strongly magnetized astrophysical plasma systems, magnetic reconnection is believed to be the primary process during which explosive energy release and particle acceleration occur, leading to significant high-energy emission. Past years have seen active development of kinetic modeling of relativistic magnetic reconnection, supporting this magnetically dominated scenario. A much less explored issue in studies of relativistic reconnection is the consequence of three-dimensional dynamics, where turbulent structures are naturally generated as various types of instabilities develop. This paper presents a series of large-scale, three-dimensional, fully-kinetic simulations of relativistic turbulent magnetic reconnection (RTMR) in positron-electron plasmas. Our simulations start from a force-free current sheet with several different modes of long wavelength magnetic field perturbations, which drive additional turbulence in the reconnection region. Because of this, the current layer breaks up and the reconnection region quickly evolves into a turbulent layer filled with coherent structures such as flux ropes and current sheets. We find that plasma dynamics in RTMR is vastly different from their 2D counterparts in many aspects.
+subjects: MF, reconnection, physics, models
+
+link: https://arxiv.org/abs/2008.02605
+title: Formation of disks with long-lived spiral arms from violent gravitational dynamics
+authors: Francesco Sylos Labini, Luis Diego Pinto, Roberto Capuzzo-Dolcetta
+topic: By means of simple dynamical experiments we study the combined effect of gravitational and gas dynamics in the evolution of an initially out-of-equilibrium, uniform and rotating massive over-density thought as in isolation. The rapid variation of the system mean field potential makes the point-like particles (PP), that interact only via Newtonian gravity, to form a quasi-stationary thick disk dominated by rotational motions surrounded by far out-of-equilibrium spiral arms. On the other side, the gas component is subjected to compression shocks and radiative cooling so to develop a much flatter disk, where rotational motions are coherent and the velocity dispersion is smaller than that of PP. Around such gaseous disk long-lived, but non-stationary, spiral arms form: these are made of gaseous particles that move coherently because have acquired a specific phase-space correlation during the gravitational collapse phase. Such a phase-space correlation represents a signature of the violent origin of the arms and implies both the motion of matter and the transfer of energy.
+subjects: disk, dynamics, Galaxies, physics
+
+link: https://arxiv.org/abs/2008.02445
+title: GRB 140423A: A Case of Stellar Wind to Interstellar Medium Transition in the Afterglow
+authors: Long Li, Xiang-Gao Wang, WeiKang Zheng, Alexei S. Pozanenko, Alexei V. Filippenko, et al
+topic: We present very early ground-based optical follow-up observations of GRB~140423A, which was discovered by \emph{Swift}/BAT and by {\it Fermi}/GBM. Its broadband afterglow was monitored by {\it Swift}/XRT and ground-based optical telescopes from T0+70.96~s to 4.8~d after the {\it Swift}/BAT trigger. This is one more case of prompt optical emission observation. The temporal and spectral joint fit of the multiwavelength light curves of GRB 140423A reveals that achromatic behavior is consistent with the external shock model including a transition from a stellar wind to the interstellar medium (ISM) and energy injection. In terms of the optical light curves, there is an onset bump in the early afterglow , with a steeper to flatter "transition" . he observed X-ray afterglow reflects an achromatic behavior, as does the optical light curve. There is no obvious evolution of the spectral energy distribution between the X-ray and optical afterglow, with an average value of the photon index, Gamma = 2. This "transition" is consistent with an external shock model having the circumburst medium transition from a wind to the ISM, by introducing a long-lasting energy injection with a Lorentz factor stratification of the ejecta.
+subjects: GRB, observations, models
+revelation: might be important for GRB project
 
 link: https://arxiv.org/abs/2008.02105
 title: PIC methods in astrophysics: PIC simulations of relativistic jets
