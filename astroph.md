@@ -17,6 +17,25 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2008.02958
+title: New quasi-universal relations for static and rapid rotating neutron stars
+authors: Wenjie Sun, Dehua Wen, Jue Wang
+topic: In the last few decades, lots of universal relations between different global physical quantities of neutron stars have been proposed to constrain the unobservable or hard to be observed properties of neutron stars. But few of them are related to the gravitational redshift or the gravitational binding energy, especially for the fast rotating neutron stars. Here we will focus on the universal relations related to these two quantities. Based on 11 equations of state (EOSs) from the predictions of microscopic nuclear many-body theories for normal or hybrid neutron stars, we proposed a set of new quasi-universal relations under three rotating cases: static, general rotating and Keplerian rotating. These new quasi-universal relations provide a potential way to constrain or estimate the unobservable or hard to be observed properties of neutron stars.
+subjects: EOS
+
+link: https://arxiv.org/abs/2008.02955
+title: Constraining the nuclear symmetry energy and properties of neutron star from GW170817 by Bayesian analysis
+authors: Yuxi Li, Houyuan Chen, Dehua Wen, Jing Zhang
+topic: Based on the distribution of tidal deformabilities and component masses of binary neutron star merger GW170817, the parametric equation of states (EOS) are employed to probe the nuclear symmetry energy and the properties of neutron star. To obtain a proper distribution of the parameters of the EOS that is consistent with the observation, Bayesian analysis is used and the constraints of causality and maximum mass are considered. From this analysis, it is found that the symmetry energy at twice the saturation density of nuclear matter can be constrained within ...
+MeV at 90 percent credible level. Moreover, the constraints on the radii and dimensionless tidal deformabilities of canonical neutron stars are also demonstrated through this analysis, and the corresponding constraints are 10.80 k
+subjects: EOS, statistics
+
 link: https://arxiv.org/abs/2008.02743
 title: Magnetic Energy Release, Plasma Dynamics and Particle Acceleration during Relativistic Turbulent Magnetic Reconnection
 authors: Fan Guo, Xiaocan Li, William Daughton, Hui Li, Patrick Kilian, Yi-Hsin Liu, Qile Zhang, Haocheng Zhang
