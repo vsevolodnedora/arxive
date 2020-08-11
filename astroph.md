@@ -23,6 +23,57 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2008.04288
+title: An early warning system for electromagnetic follow-up of gravitational-wave events
+authors: Surabhi Sachdev, Ryan Magee, Chad Hanna, Kipp Cannon, Leo Singer, Javed Rana SK, Debnandini Mukherjee, Sarah Caudill, Chiwai Chan, et al
+topic: Binary neutron stars (BNSs) will spend ≃10 -- 15 minutes in the band of Advanced LIGO and Virgo detectors at design sensitivity. Matched-filtering of gravitational-wave (GW) data could in principle accumulate enough signal-to-noise ratio (SNR) to identify a forthcoming event tens of seconds before the companions collide and merge. Here we report on the design and testing of an early warning gravitational-wave detection pipeline. 
+subjects: observations, prospects, GW
+
+link: https://arxiv.org/abs/2008.04266
+title: On The Development of Multidimensional Progenitor Models For Core-collapse Supernovae
+authors: C. E. Fields, S. M. Couch
+topic: Multidimensional hydrodynamic simulations of shell convection in massive stars suggest the development of aspherical perturbations that may be amplified during iron core-collapse. These perturbations have a crucial and qualitative impact on the delayed neutrino-driven core-collapse supernova explosion mechanism by increasing the total stress behind the stalled shock. In this paper, we investigate the properties of a 15 \msun model evolved in 1-,2-, and 3-dimensions (3D) for the final ∼424 seconds before gravitational instability and iron core-collapse using MESA and the FLASH simulation framework. We find that just before collapse, our initially perturbed fully 3D model reaches angle-averaged convective velocity magnitudes... 
+subjects: projenitors, stellar, models
+
+link: https://arxiv.org/abs/2008.04064
+title: Time dependence of advection dominated accretion flow around a rotating compact object
+authors: Fahimeh Habibi
+topic: Time evolution of advection-dominated accretion flow (ADAF) around a rotating compact object is presented. The equations of time-dependent of fluid including the Coriolis force along with the centrifugal and pressure gradient forces are derived. In this research, it is assumed that angular momentum transport is due to viscous turbulence and the {\alpha}-prescription is used for the kinematic coefficient of viscosity. Moreover, the general relativistic effects are neglected. In order to solve the equations, we have used a self-similar solution. The solutions show that the behaviour of the physical quantities in a dynamical ADAF is different from that for a steady accretion flow. Our results indicate that the physical quantities are dependent of rotation parameter which is defined as the ratio of the intrinsic angular velocity of the central body to the angular velocity of disc. Also, the effect of rotation parameter on these quantities is different for co and counter-rotating flows.
+subjects: physics, rotation, avdection, viscosity
+
+link: https://arxiv.org/abs/2008.03842
+title: Modeling the Galactic Compact Binary Neutron Star Population and Studying the Double Pulsar System
+authors: Nihan Pol
+topic: In this dissertation, we estimate the population of different classes of BNS systems that are visible to gravitational-wave observatories. Given that no ultra-compact BNS systems have been discovered in pulsar radio surveys, we place a 95 percent confidence upper limit of ~850 and ~1100 ultra-compact neutron star--white dwarf and double neutron star (DNS) systems respectively. We show that among all of the current radio pulsar surveys, the ones at the Arecibo radio telescope have the best chance of detecting an ultra-compact BNS system. We also show that adopting a survey integration time of tint~1~min will maximize the signal-to-noise ratio, and thus, the probability of detecting an ultra-compact BNS system.
+subjects: projenitors, population, 
+
+link: https://arxiv.org/abs/2008.03779
+title: Magnetorotational core collapse of possible GRB progenitors. II. Formation of protomagnetars and collapsars
+authors: Miguel-Ángel Aloy (1), Martin Obergaulinger 
+topic: We assess the variance of the post-collapse evolution remnants of compact, massive, low-metallicity stars, under small changes in the degrees of rotation and magnetic field of selected pre-supernova cores. These stellar models are commonly considered progenitors of long gamma-ray bursts. The fate of the proto-neutron star (PNS) formed after collapse, whose mass may continuously grow due to accretion, critically depends on the poloidal magnetic field strength at bounce. Should the poloidal magnetic field be sufficiently weak, the PNS collapses to a black hole (BH) within a few seconds. Models on this evolutionary track contain promising collapsar engines. Poloidal magnetic fields smooth over large radial scales (e.g. dipolar fields) or slightly augmented with respect to the original pre-supernova core yield long-lasting PNSs. In these models, BH formation is avoided or staved off for a long time, hence, they may produce proto-magnetars (PMs). Some of our PM candidates have been run for ≲10s after core bounce, but they have not entered the Kelvin-Helmholtz phase yet. 
+subjects: lGRB, GRB, projenitor models
+revelation: A big study on MR supernovae, but no GRB lightcurves
+
+link: https://arxiv.org/abs/2008.03659
+title: Searching for the radio remnants of short duration gamma-ray bursts
+authors: Roberto Ricci, Eleonora Troja, Gabriele Bruni, Tatsuya Matsumoto,
+topic: Neutron star mergers produce a substantial amount of fast-moving ejecta, expanding outwardly for years after the merger. The interaction of these ejecta with the surrounding medium may produce a weak isotropic radio remnant, detectable in relatively nearby events. We use late-time radio observations of short duration gamma-ray bursts (sGRBs) to constrain this model. Two samples of events were studied: four sGRBs that are possibly in the local (less 200 Mpc) universe were selected to constrain the remnant non-thermal emission from the sub-relativistic ejecta, whereas 17 sGRBs at cosmological distances were used to constrain the presence of a proto-magnetar central engine, possibly re-energezing the merger ejecta. We consider the case of GRB~170817A/GW170817, and find that in this case the early radio emission may be quenched by the jet blast-wave.
+subjects: GRB, observations, ejecta, radio, observations
+revelation: very important for radio emission from decelerating ejecta
+
+link: https://arxiv.org/abs/2008.03634
+title: Multi-Wavelength Constraints on the Outflow Properties of the Extremely Bright Millisecond Radio Bursts from the Galactic Magnetar SGR 1935+2154
+authors: Shotaro Yamasaki (HUJI), Kazumi Kashiyama (U. Tokyo), Kohta Murase (PSU)
+topic: Recently, a bright coherent radio burst with millisecond duration, reminiscent of cosmological fast radio bursts (FRBs), was co-detected with an anomalously-hard X-ray burst from a Galactic magnetar SGR 1935+2154. We investigate the possibility that the event was triggered by a deposition of a magnetic energy in a localized region of the magnetosphere, thereby producing a so-called trapped fireball (FB) and simultaneously launching relativistic outflows. We show that the thermal component of the X-ray burst spectrum is consistent with a trapped FB with an average temperature of a few hundred keV and a size of. Meanwhile, the non-thermal component of the X-ray burst and the coherent radio burst may arise from relativistic outflows. We calculate the dynamical evolution of the outflow, launched with an energy budget  comparable to that of the trapped FB.
+subjects: radio, observations, model, magnetar
+
+link: https://arxiv.org/abs/2008.03335
+title: MeV Gamma Rays from Fission: A Distinct Signature of Actinide Production in Neutron Star Mergers
+authors: Xilu Wang, Nicole Vassh, Trevor Sprouse, Matthew Mumpower, Ramona Vogt, Jorgen Randrup, Rebecca Surman
+topic: Neutron star mergers (NSMs) are the first verified site of rapid neutron capture (r-process) nucleosynthesis, and could emit gamma rays from the radioactive isotopes synthesized in the neutron-rich ejecta. These MeV gamma rays may provide a unique and direct probe of the NSM environment as well insight into the nature of the r process, just as observed gammas from the 56Ni radioactive decay chain provide a window into supernova nucleosynthesis. In this work, we include the photons from fission processes for the first time in estimates of the MeV gamma-ray signal expected from a NSM event. We consider NSM ejecta compositions with a range of neutron richness and find a dramatic difference in the predicted signal depending on whether or not fissioning nuclei are produced. 
+subjects: counterpart, EM, nucleo, r-process
+reveleation: important for Kilonva, GRB
+
 link: https://arxiv.org/abs/2008.02958
 title: New quasi-universal relations for static and rapid rotating neutron stars
 authors: Wenjie Sun, Dehua Wen, Jue Wang
