@@ -17,11 +17,35 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2008.04710
+title: Testing jet geometries and disk-jet coupling in the neutron star LMXB 4U 0614+091 with the internal shocks model
+authors: A. Marino, J. Malzac, M. Del Santo, S. Migliari, R. Belmont, T. Di Salvo, D. M. Russell, J. Lopez Miralles, M. Perucho, R. Iaria, L. Burderi
+topic: Multi-wavelength spectral energy distributions of Low Mass X-ray Binaries in the hard state are determined by the emission from a jet, for frequencies up to mid-infrared, and emission from the accretion flow in the optical to X-ray range. In the last years, the flat radio-to-mid-IR spectra of Black Hole (BH) X-ray binaries was described using the internal shocks model, which assumes that the fluctuations in the velocity of the ejecta along the jet are driven by the fluctuations in the accretion flow, described by the X-ray Power Density Spectrum (PDS). In this work we attempt to apply this model for the first time to a Neutron Star (NS) LMXB, i.e. 4U 0614+091. We used the multi-wavelength data set obtained in 2006, comprising data from radio to X-ray, and applied a model which includes an irradiated disc model for the accretion flow and an updated version of the internal shocks code for the ejection. The new version of the code allows to change the geometry of the jet for the case of non-conical jets.
+subjects: observatioms, model, NS, jet, LMXB
+
+link: https://arxiv.org/abs/2008.04661
+title: Analytic properties of electromagnetic field of binary compact stars and electromagnetic precursors to gravitational waves
+authors: Tomoki Wada, Masaru Shibata, Kunihito Ioka
+topic: We analytically study the properties of the electromagnetic field in vacuum around close binary compact stars containing at least one neutron star. We show that the orbital motion of the neutron star induces high multipole modes of the electromagnetic field just before the merger. These modes are superimposed to form a spiral arm configuration and its edge is found to be a likely site for magnetic reconnection. These modes also enhance the total Poynting flux from neutron star binaries by a factor of 2--4. We also indicate that the electric field induced by the orbital motion lead to a magnetosphere around binaries and estimate its plasma density, which has a different parameter dependence than Goldreich-Julian density. With these properties, we discuss possible electromagnetic counterparts to gravitational wave events, and identify radio precursors, such as fast radio bursts, as the most promising observational targets.
+subjects: MF, inspiral, precursor, EM 
+
+link: https://arxiv.org/abs/2008.04508
+title: Self-similar Evolutionary Solutions for Accreting Magneto-fluid around a Compact Object with Finite Electrical Conductivity
+authors: F. Habibi, R. Pazhouhesh, M. Shaghaghian
+topic: In this paper, we investigate the time evolution an accreting magneto-fluid with finite conductivity. For the case of a thin disk, the fluid equations along with Maxwell equations are derived in a simplified, one-dimensional model that neglects the latitudinal dependence of the flow. The finite electrical conductivity is taken into account for the plasma through Ohm law; however, the shear viscous stress is neglected, as well as the self-gravity of the disk. In order to solve the integrated equations that govern the dynamical behaviour of the magneto-fluid, we have used a self-similar solution. We introduce two dimensionless variables, S0 and epssilon_ρ, which show the magnitude of electrical conductivity and the density behaviour with time, respectively. The effect of each of these on the structure of the disk is studied. While the pressure is obtained simply by solving an ordinary differential equation, the density, the magnetic field, the radial velocity and the rotational velocity are presented analytically.
+subjects: physics, resistive MHD, accretion, NS
+
+link: https://arxiv.org/abs/2008.04444
+title: The Effects of Resolution on Black Hole Accretion Simulations of Jets
+authors: Christopher J. White, Fiona Chrystal 
+topic: We perform three general-relativistic magnetohydrodynamic simulations of black hole accretion designed to test how sensitive results are to grid resolution in the jet region. The cases differ only in numerics, modelling the same physical scenario of a radiatively inefficient, geometrically thick, magnetically arrested flow onto a rapidly spinning black hole. Properties inferred with the coarsest grid generally agree with those found with higher resolutions, including total jet power and its decomposition into different forms, velocity structure, nonaxisymmetric structure, and the appearance of resolved millimetre images. Some measures of variability and magnetization are sensitive to resolution. We conclude that most results obtained by limiting resolution near the jet for computational expediency should still be reliable, at least insofar as they would not be improved with a finer grid.
+subjects: jet, BH, accretion, models, GRMHD
+
+link: https://arxiv.org/abs/2008.04491
+title: The possibility of the secondary object in GW190814 as a neutron star
+authors: Kaixuan Huang, Jinniu Hu, Ying Zhang, Hong Shen
+topic: A compact object was observed with a mass 2.50−2.67 Msun by LIGO Scientific and Virgo collaborations (LVC) in GW190814, which provides a great challenge to the investigations into the supranuclear matter. To study this object, properties of neutron star are systematically calculated within the latest density-dependent relativistic mean-field (DDRMF) parameterizations, which are determined by the ground state properties of spherical nuclei. The maximum masses of neutron star calculated by DD-MEX and DD-LZ1 sets can be around 2.55 Msun with quite stiff equations of state generated by their strong repulsive contributions from vector potentials at high densities. 
+subjects: GW, NSBH, EOS
 
 link: https://arxiv.org/abs/2008.04288
 title: An early warning system for electromagnetic follow-up of gravitational-wave events
