@@ -17,6 +17,33 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/pdf/2008.05745.pdf
+title: Interpreting the X-ray afterglows of gamma-ray bursts
+with radiative losses and millisecond magnetars
+authors: Nikhil Sarin, Paul D. Lasky, Gregory Ashton
+topic: The spin-down energy of millisecond magnetars has been invoked to explain X-ray afterglow observations of a significant fraction of short and long gamma-ray bursts. Here, we extend models previously introduced in the literature, incorporating radiative losses with the spin down of a magnetar central engine through an arbitrary braking index. Combining this with a model for the tail of the prompt emission, we show that our model can better explain the data than millisecond-magnetar models without radiative losses or those that invoke spin down solely through vacuum dipole radiation. We find that our model predicts a subset of X-ray flares seen in some gamma-ray bursts. We can further explain the diversity of X-ray plateaus by altering the radiative efficiency and measure the braking index of newly-born millisecond magnetars. We measure the braking index of GRB061121 as n=4.85+0.11-0.15 suggesting the millisecond-magnetar born in this gamma-ray burst spins down predominantly through gravitational-wave emission.
+subjects: GRB, model, remnant, model, results
+revelation: might be of importance for GRB project
+
+link: https://arxiv.org/abs/2008.05627
+title: A scalable random forest regressor for combining neutron-star equation of state measurements: A case study with GW170817 and GW190425
+authors: Francisco Hernandez Vivanco, Rory Smith, Eric Thrane, Paul D. Lasky
+topic: Gravitational-wave observations of binary neutron star coalescences constrain the neutron-star equation of state by enabling measurement of the tidal deformation of each neutron star. This deformation is determined by the tidal deformability parameter Λ, which was constrained using the first binary neutron star gravitational-wave observation, GW170817. Now, with the measurement of the second binary neutron star, GW190425, we can combine different gravitational-wave measurements to obtain tighter constraints on the neutron-star equation of state. In this paper, we combine data from GW170817 and GW190425 to place constraints on the neutron-star equation of state. To facilitate this calculation, we derive interpolated marginalized likelihoods for each event using a machine learning algorithm. These likelihoods, which we make publicly available, allow for results from multiple gravitational-wave signals to be easily combined. 
+subjects: GW, EOS, constraints
+
+link: https://arxiv.org/abs/2008.05565
+title: The surface of rapidly-rotating neutron stars: implications to neutron star parameter estimation
+authors: Hector O. Silva, George Pappas, Nicolás Yunes, Kent Yagi
+topic: The Neutron star Interior Composition Explorer (NICER) is currently observing the x-ray pulse profiles emitted by hot spots on the surface of rotating neutron stars allowing for an inference of their radii with unprecedented precision. A critical ingredient in the pulse profile model is an analytical formula for the oblate shape of the star. These formulas require a fitting over a large ensemble of neutron star solutions, which cover a wide set of equations of state, stellar compactnesses and rotational frequencies. However, this procedure introduces a source of systematic error, as (i) the fits do not describe perfectly the surface of all stars in the ensemble and (ii) neutron stars are described by a single equation of state, whose influence on the surface shape is averaged out during the fitting procedure. Here we perform a first study of this systematic error, finding evidence that it is subdominant relative to the statistical error in the radius inference by NICER. We also find evidence that the formula currently used by NICER can be used in the inference of the radii of rapidly rotating stars, outside of the formula's domain of validity. Moreover, we employ an accurate enthalpy-based method to locate the surface of numerical solutions of rapidly rotating neutron stars and a new highly-accurate formula to describe their surfaces.
+subjects: observations, moderl, NS, surface, EOS
+
+link: https://arxiv.org/abs/2008.05495
+title: Simulations of early kilonova emission from neutron star mergers
+authors: Smaranika Banerjee, Masaomi Tanaka, Kyohei Kawaguchi, Daiji Kato, Gediminas Gaigalas
+topic: We present radiative transfer simulations for blue kilonovae hours after neutron star (NS) mergers by performing detailed opacity calculations for the first time. We calculate atomic structures and opacities of highly ionized elements (up to the tenth ionization) with atomic number Z = 20 - 56. We find that the bound-bound transitions of heavy elements are the dominant source of the opacities in the early phase (t less 1 day after the merger), and that the ions with a half-closed electron shell provide the highest contributions. The Planck mean opacity for lanthanide-free ejecta (with electron fraction of Ye = 0.30 - 0.40) can only reach around kappa similar 0.5 - 1 cm^2 g^-1 at t = 0.1 day, whereas that increases up to kappa ~ 5 - 10 cm^2 g^-1 at t = 1 day. The spherical ejecta model with an ejecta mass of Mej = 0.05Msun gives the bolometric luminosity of similar 2 x 10^42 erg s^-1 at t similar to 0.1 day. We confirm that the existing bolometric and multi-color data of GW170817 can be naturally explained by the purely radioactive model.
+subjects: kilonova, radiation transfer, models, BNS
+revelation: important for Kilonova project
+
 link: https://arxiv.org/abs/2008.05330
 title: Search for radio remnants of nearby off-axis Gamma-Ray Bursts in a sample of Swift/BAT events
 authors: C. Grandorf, J. McCarty, P. Rajkumar, H. Harbin, K.H. Lee, A. Corsi, I. Bartos, Z. Marka, A. Balasubramanian, S. Marka
