@@ -11,11 +11,18 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/2008.06459
+title: Delta baryons and diquark formation in the cores of neutron stars
+authors: German Malfatti, Milva G. Orsaria, Ignacio F. Ranea-Sandoval, Gustavo A. Contrera, Fridolin Weber
+topic: We investigate the hadron-quark phase transition in cold neutron stars in light of (i) the observed limits on the maximum-mass of heavy pulsars, (ii) constraints on the tidal properties inferred from the gravitational waves emitted in binary neutron-star mergers, and (iii) mass and radius constraints derived from the observation of hot spots on neutron star observed with NICER. Special attention is directed to the possible presence of Delta(1232) baryons in neutron star matter. Our results indicate that this particle could make up a large fraction of the baryons in neutron stars and thus have a significant effect on the properties of such objects, particularly on their radii. This is partially caused by the low density appearance of Δs for a wide range of theoretically defensible sets of meson-hyperon, SU(3) ESC08 model, and meson-Delta coupling constants. The transition of hadronic matter to quark matter, treated in the 2SC+s condensation phase, is found to occur only in neutron stars very close to the mass peak.
 subjects: 
+
+link: https://arxiv.org/abs/2008.06078
+title: Heavy elements form short and long gamma-ray bursts
+authors: Daniel M. Siegel
+topic: The gravitational-wave detectors LIGO and Virgo together with their electromagnetic partner facilities have transformed the modus operandi in which we seek information about the Universe. The first ever-observed neutron-star merger---GW170817---confirmed the association of short gamma-ray bursts with neutron-star mergers and the production of heavy (r-process) elements. Based on recent theoretical and observational developments, I briefly present and discuss a conjecture, namely that compact accretion disks in both short and long gamma-ray bursts synthesize most of the heavy r-process elements in the Universe. The upcoming era of multi-messenger astronomy may allow us to verify or falsify this conjecture.
+subjects: GRB, BNS, short review, nucleo, r-process
+revelations: important for motivation for GRB and nucle combined.
 
 link: https://arxiv.org/pdf/2008.05745.pdf
 title: Interpreting the X-ray afterglows of gamma-ray bursts
