@@ -11,6 +11,36 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2008.07420
+title: Measuring the Hubble Constant with a sample of kilonovae
+authors: Michael W. Coughlin, Sarah Antier, Tim Dietrich, Ryan J. Foley, Jack Heinzel, Mattia Bulla, Nelson Christensen, David A. Coulter, Lina Issa, Nandita Khetan
+topic: Kilonovae produced by the coalescence of compact binaries with at least one neutron star are promising standard sirens for an independent measurement of the Hubble constant (H0). Through their detection via follow-up of gravitational-wave (GW), short gamma-ray bursts (sGRBs) or optical surveys, a large sample of kilonovae (even without GW data) can be used for H0 contraints. Here, we show measurement of H0 using light curves associated with four sGRBs, assuming these are attributable to kilonovae, combined with GW170817. Including a systematic uncertainty on the models that is as large as the statistical ones, we find H0=73.8+6.3−5.8\,km s−1 Mpc−1 and H0=71.2+3.2−3.1\,km s−1 Mpc−1 for two different kilonova models that are consistent with the local and inverse-distance ladder measurements. For a given model, this measurement is about a factor of 2-3 more precise than the standard-siren measurement for GW170817 using only GWs.
+subjects: cosmology, application, GRB, kilonova
+
+link: https://arxiv.org/abs/2008.07205
+title: Magnetorotational core collapse of possible GRB progenitors. III. Three-dimensional models
+authors: Martin Obergaulinger (1 and 2), Miguel-Ángel Aloy
+topic: We explore the influence of non-axisymmetric modes on the dynamics of the collapsed core of rotating, magnetised high-mass stars in three-dimensional simulations of a rapidly rotating star with an initial mass of MZAMS=35Msun endowed with four different pre-collapse configurations of the magnetic field, ranging from moderate to very strong field strength and including the field predicted by the stellar evolution model. The model with the weakest magnetic field achieves shock revival due to neutrino heating in a gain layer characterised by a large-scale, hydrodynamic m=1 spiral mode. Later on, the growing magnetic field of the proto neutron star launches weak outflows into the early ejecta. Their orientation follows the evolution of the rotational axis of the proto neutron star, which starts to tilt from the original orientation due to the asymmetric accretion flows impinging on its surface. The models with stronger magnetisation generate mildly relativistic, magnetically driven polar outflows propagating over a distance of 104 km within a few 100 ms. These jets are stabilised against disruptive non-axisymmetric instabilities by their fast propagation and by the shear of their toroidal magnetic field. Within the simulation times of around 1 s, the explosions reach moderate energies and the growth of the proto neutron star masses ceases at values substantially below the threshold for black hole formation, which, in combination with the high rotational energies, might suggest a possible later proto-magnetar activity.
+subjects: RGB projenoitor, MHD, model, SN
+
+link: https://arxiv.org/abs/2008.06511
+title: Short gamma-ray bursts and the decompression of neutron star matter in tidal streams
+authors: C. J. Nixon, E. R. Coughlin, J. E. Pringle
+topic: Short gamma-ray bursts (sGRBs) are generally thought to result from the merger of two neutron stars or the merger of a neutron star with a black hole. It is becoming standard practise to model these mergers with hydrodynamical simulations that employ equations of state that are derived, for example, for determining the behaviour of matter in core-collapse supernovae (CCSNe), and which therefore make use of the assumption that the matter is hot and in nuclear statistical equilibrium (NSE). In this Letter we draw attention to the fact that the hydrodynamical timescale (roughly the gravitational timescale of the neutron star) may be several orders of magnitude shorter than the timescale on which such equilibrium can be re-established in the tidal debris ejected during a sGRB, and that on the initial decompression timescales the unshocked tidal ejecta may remain sufficiently cool that the employed equations of state are not appropriate for modelling the dynamics of this part of the flow. On timescales short compared with the timescale on which NSE can be (re)established, the equation of state can remain relatively stiff and thus the stream of tidal debris can remain narrow and vulnerable to gravitational instability, as has recently been suggested. These findings suggest that estimates of the type and abundances of heavy elements formed in short gamma-ray bursts need to be revisited. We suggest that the most direct method of testing the physical and dynamical properties of tidal ejecta in sGRBs will come from modelling of their light curves, which provides the cleanest source of information on the system dynamics.
+subjects: EOS, ejecta, conditions, sGRB
+
 link: https://arxiv.org/abs/2008.06459
 title: Delta baryons and diquark formation in the cores of neutron stars
 authors: German Malfatti, Milva G. Orsaria, Ignacio F. Ranea-Sandoval, Gustavo A. Contrera, Fridolin Weber
