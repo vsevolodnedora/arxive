@@ -23,6 +23,19 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2008.07565
+title: Accretion discs with non-zero central torque
+authors: C. J. Nixon, J. E. Pringle
+topic: We present analytical and numerical solutions for accretion discs subject to a non-zero central torque. We express this in terms of a single parameter, f, which is the ratio of outward viscous flux of angular momentum from the inner boundary to the inward advected flux of angular momentum there. The standard "accretion" disc, where the central boundary condition is zero-torque, is represented by f=0. A "decretion" disc, where the radial velocity at the inner boundary is zero, is represented by f goes to infinity. For f greater then 0 a torque is applied to the disc at the inner boundary, which feeds both angular momentum and energy into the disc. This can arise, for example, in the case of a circumbinary disc where resonances transfer energy and angular momentum from the binary to the disc orbits, or where the disc is around a rotating magnetic star which can allow the disc orbits to be accelerated outwards at the magnetospheric radius. We present steady-state solutions to the disc structure as a function of f, and for arbitrary kinematic viscosity ν.
+subjects: physics, disk, accretion, mass-shedding
+revelation: mechansim of the spiral-wave wind
+
+link: https://arxiv.org/abs/2008.07544
+title: Identifying black hole central engines in gamma-ray bursts
+authors: Vidushi Sharma, Shabnam Iyyani, Dipankar Bhattacharya
+topic: The nature of the gamma-ray burst (GRB) central engine still remains an enigma. Entities widely believed to be capable of powering the extreme jets are magnetars and black holes. The maximum rotational energy that is available in a millisecond magnetar to form a jet is ~10^52 erg. We identify 8 long GRBs whose jet opening angle corrected energetics of the prompt emission episode are >10^52 erg with high confidence level and therefore, their central engines are expected to be black holes. Majority of these GRBs present significant emission in sub-GeV energy range. The X-ray afterglow light curves of these bursts do not show any shallow decay behaviour such as a plateau, however, a few cases exhibit flares and multiple breaks instead of a single power-law decay. For a minimum mass of the black hole (~2 Msun), we find the efficiency of producing a jet from its rotational energy to range between 2\%-270\%. Highly energetic jets requiring high efficiencies implies that either the mass of these black holes are much larger or there are, in addition, other sources of energy which power the jet. By considering the Blandford-Znajek mechanism of jet formation, we estimate the masses of these black holes to range between ~2-60 Msun.
+subjects: GRB, BH, accretion, mechanism, observations, models
+
 link: https://arxiv.org/abs/2008.07420
 title: Measuring the Hubble Constant with a sample of kilonovae
 authors: Michael W. Coughlin, Sarah Antier, Tim Dietrich, Ryan J. Foley, Jack Heinzel, Mattia Bulla, Nelson Christensen, David A. Coulter, Lina Issa, Nandita Khetan
