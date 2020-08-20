@@ -23,6 +23,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2008.08089
+title: Monte-Carlo neutrino transport in neutron star merger simulations
+authors: Francois Foucart, Matthew D. Duez, Francois Hebert, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel
+topic: Gravitational waves and electromagnetic signals from merging neutron star binaries provide valuable information about the the properties of dense matter, the formation of heavy elements, and high-energy astrophysics. To fully leverage observations of these systems, we need numerical simulations that provide reliable predictions for the properties of the matter unbound in these mergers. An important limitation of current simulations is the use of approximate methods for neutrino transport that do not converge to a solution of the transport equations as numerical resolution increases, and thus have errors that are impossible to quantify. Here, we report on a first simulation of a binary neutron star merger that directly solves the transport equations using Monte-Carlo techniques. We demonstrate that a computationally cheap Monte-Carlo transport can be implemented without ill effects from sampling noise. We apply Monte-Carlo transport to an unequal mass neutron star binary merger up to 5ms past merger, and report on the properties of the matter and neutrino outflows. Finally, we compare our results to the output of our best approximate `M1' transport scheme, demonstrating that an M1 scheme that carefully approximates the neutrino energy spectrum only leads to ~10\% uncertainty in the composition and velocity of the ejecta
+subjects: physics, models, new menthod, bns, radiation trasport, monte carlo
+
+link: https://arxiv.org/abs/2008.08083
+title: Returning radiation in strong gravity around black holes: Reverberation from the accretion disc
+authors: D.R. Wilkins, J.A. García, T. Dauser, A.C. Fabian
+topic: We study reflected X-ray emission that returns to the accretion disc in the strong gravitational fields around black holes using General Relativistic ray tracing and radiative transfer calculations. Reflected X-rays that are produced when the inner regions of the disc are illuminated by the corona are subject to strong gravitational light bending, causing up to 47 per cent of the reflected emission to be returned to the disc around a rapidly spinning black hole, depending upon the scale height of the corona. The iron K line is enhanced relative to the continuum by 25 per cent, and the Compton hump by up to a factor of three. Additional light travel time between primary and secondary reflections increases the reverberation time lag measured in the iron K band by 49 per cent, while the soft X-ray lag is increased by 25 per cent and the Compton hump response time is increased by 60 per cent. Measured samples of X-ray reverberation lags are shown to be consistent with X-rays returning to the accretion disc in strong gravity. Understanding the effects of returning radiation is important in interpreting reverberation observations to probe black holes. Reflected X-rays returning to the disc can be uniquely identified by blueshifted returning iron K line photons that are Compton scattered from the inner disc, producing excess, delayed emission in the 3.5-4.5keV energy range that will be detectable with forthcoming X-ray observatories, representing a unique test of General Relativity in the strong field limit.
+subjects: physics, models, disk, BH, radiation trasport
+
 link: https://arxiv.org/abs/2008.07565
 title: Accretion discs with non-zero central torque
 authors: C. J. Nixon, J. E. Pringle
