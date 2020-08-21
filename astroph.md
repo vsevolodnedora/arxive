@@ -17,11 +17,11 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2008.08593
+title: The Broad-band Counterpart of the Short GRB 200522A at z=0.5536: A Luminous Kilonova or a Collimated Outflow with a Reverse Shock?
+authors: W. Fong (Northwestern/CIERA), T. Laskar, J. Rastinejad, A. Rouco Escorial, G. Schroeder, J. Barnes, C. D. Kilpatrick, K. Paterson, E. Berger, B. D. Metzger, et al
+topic: We present the discovery of the radio afterglow and near-infrared (NIR) counterpart of the Swift short GRB 200522A, located at a small projected offset of ≈1 kpc from the center of a young, star-forming host galaxy at z=0.5536. The radio and X-ray luminosities of the afterglow are consistent with those of on-axis cosmological short GRBs. The NIR counterpart, revealed by our HST observations at a rest-frame time of approx 2.3 days, has a luminosity of sim (1.3−1.7) times 10 to the power of 42 erg s−1. This is substantially lower than on-axis short GRB afterglow detections, but is a factor of ≈8-17 more luminous than the kilonova of GW170817, and significantly more luminous than any kilonova candidate for which comparable observations exist. The combination of the counterpart's color (i−y=-0.08 pm 0.21; rest-frame) and luminosity cannot be explained by standard radioactive heating alone. We present two scenarios to interpret the broad-band behavior of GRB 200522A: a synchrotron forward shock with a luminous kilonova (potentially boosted by magnetar energy deposition), or forward and reverse shocks from alpha approx 14deg, relativistic (Gamma0 greater 80) jet. Models which include a combination of enhanced radioactive heating rates, low-lanthanide mass fractions, or additional sources of heating from late-time central engine activity may provide viable alternate explanations.
+subjects: GRB, Kilonova, model, observations
 
 link: https://arxiv.org/abs/2008.08089
 title: Monte-Carlo neutrino transport in neutron star merger simulations
