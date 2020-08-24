@@ -17,6 +17,24 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2008.09328
+title: Hydrodynamical modeling of the light curves of core collapse supernovae with HYPERION. I. The mass range 13-25 Msun, the metallicities -3<=[Fe/H]<=0 and the case of SN1999em
+authors: Marco Limongi, Alessandro Chieffi
+topic: We present the last version of {\scshape{Hyperion}} (HYdrodynamic Ppm Explosion with Radiation diffusION), a hydrodynamic code designed to calculate the explosive nucleosynthesis, remnant mass and light curve associated to the explosion of a massive star. By means of this code we compute the explosion of a subset of red supergiant models, taken from the database published by \cite{lc18}, for various explosion energies in the range ~0.20−2.00 1051 erg. The main outcomes of these simulations, i.e., remnant mass, 56Ni synthesized, luminosity and length of the plateau of the bolometric light curve, are analyzed as a function of the initial parameters of the star (mass and metallicity) and of the explosion energy. As a first application of {\scshape{Hyperion}} we estimated the mass and the metallicity of the progenitor star of SN 1999em, a well studied SN IIP, by means of the light curve fitting.
+subjects: SN, EM, hydro, model, population synthesis
+
+link: https://arxiv.org/abs/2008.09267
+title: The Synchrotron Polarization in Decaying Magnetic Field in Gamma-Ray Bursts
+authors: K.F. Cheng, X.H. Zhao, J.M. Bai
+topic: Polarization can serve as a probe of the radiation mechanism and magnetic field (MF) configuration in gamma-ray bursts (GRBs). In the case of constant MF, the synchrotron polarization in the prompt phase of GRBs has been widely studied. In this paper, we consider the case of the decaying MF. We calculate the time-averaged and instantaneous synchrotron polarizations in a pulse for different viewing angles and for the large-scale decaying MF model, which can explain the so-called Band spectrum. We find that the on-axis time-averaged polarization degree (PD) in the energy band of 50-500 keV for the decaying large-scale MF model (~0.6 for typical parameters) is higher than that in the constant MF model (~0.5). An interesting result is the instantaneous PD in the off-axis case will experience a turnover, i.e., the PD will evolve from a positive value to a negative one. This suggests the polarization angle (PA) change by an angle of 90[deg]. Such a result is roughly consistent with the discovery of the PA evolution within a pulse in some bursts, such as GRB 170114A and GRB 160821A. Our result implies at least a part of bursts (off-axis bursts) should have the PA evolution in a pulse.
+subjects: GRB, MF, polarisation, model
+
 link: https://arxiv.org/abs/2008.08593
 title: The Broad-band Counterpart of the Short GRB 200522A at z=0.5536: A Luminous Kilonova or a Collimated Outflow with a Reverse Shock?
 authors: W. Fong (Northwestern/CIERA), T. Laskar, J. Rastinejad, A. Rouco Escorial, G. Schroeder, J. Barnes, C. D. Kilpatrick, K. Paterson, E. Berger, B. D. Metzger, et al
