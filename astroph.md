@@ -23,6 +23,30 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2008.10943
+title: Finding quark content of neutron stars in light of GW170817
+authors: Rana Nandi, Subrata Pal
+topic: The detection of gravitational waves from GW170817 has provided a new opportunity to constrain the equation of state (EOS) of neutron stars. In this article, we investigate the possible existence of quarks inside the neutron star core in the context of GW170817. The nucleon phase is treated within the relativistic nuclear mean-field approach where we have employed a fully comprehensive set of available models, and the quark phase is described in the Bag model. We show that the nucleonic EOSs which are inconsistent with the tidal deformability bound become consistent when phase transition to quark matter via Gibbs construction is allowed. We find that several nucleonic EOSs support the presence of pure quark matter core with a small mass not more than 0.17Msun confined within a radius of 0.9 km. We also find that the strong correlation between tidal deformability and neutron star radii observed for pure nucleonic stars does persist even with a nucleon-quark phase transition and provides an upper limit on the radius of R1.4 less or eq 12.9 km for a 1.4Msun neutron star.
+subjects: NS, EOS, quarks
+
+link: https://arxiv.org/abs/2008.10746
+title: Polarization of GRB Prompt Emission and its Application to POLAR's Data
+authors: Mi-Xiang Lan, Xue-Feng Wu, Zi-Gao Dai
+topic: Synchrotron emission polarization is very sensitive to the magnetic field configuration. Recently, polarization of synchrotron emission with a mixed (SM) magnetic field in Gamma-ray burst (GRB) afterglow phase had been developed. Here, we apply these SM models to GRB prompt phase and compare their polarization properties with that of synchrotron emission in purely ordered (SO) magnetic field. We find that the polarization properties in a SM model are very similar to these in a corresponding SO model (e.g., synchrotron emission in a mixed magnetic field with an aligned ordered part (SMA) and synchrotron emission with a purely ordered aligned magnetic field (SOA)), only with a lower polarization degree (PD). We also discuss the statistical properties of the models. We find PDs of the simulated bursts are concentrated around 25percent for both SOA and synchrotron emission in a purely ordered toroidal magnetic field (SOT), while they can range from 0percent to 25percent for SMA and synchrotron emission in a mixed magnetic field with a toroidal ordered part (SMT), depending on Xi_B value, i.e., the ratio of magnetic reduction of the ordered magnetic field over that of random magnetic field. From statistics, if PDs of majority GRBs are non-zero, then it favours SO and SM models.
+subjects: 
+
+link: https://arxiv.org/abs/2008.10729
+title: GRB Spectrum from Gradual Dissipation in a Magnetized Outflow
+authors: Ramandeep Gill, Jonathan Granot, Paz Beniamini
+topic: Modeling of gamma-ray burst (GRB) prompt emission spectra sometimes requires a (quasi-) thermal spectral component in addition to the Band function. In photospheric emission models, a prominent thermal component broadened by sub-photospheric dissipation is expected to be released at the photospheric radius, rph∼10^12cm. We consider an ultra-relativistic strongly magnetized outflow with a striped-wind magnetic-field structure undergoing gradual and continuous magnetic energy dissipation at R less Rs that heats and accelerates the flow, leading to a bulk Lorentz factor where typically Rph less Rs. Similar dynamics and energy dissipation rates are also expected in highly-variable magnetized outflows without stripes/field-reversals. Two modes of particle energy injection are considered: (a) power-law electrons, e.g. accelerated by magnetic reconnection, and (b) continuous distributed heating of all electrons (and e±-pairs), e.g. due to MHD instabilities. Time-resolved energy spectra are obtained using a numerical code that evolves coupled kinetic equations for a photon-electron-positron plasma. We find that (i) the thermal component peaks at.
+subjects: GRB, photosphere, models, EM, physics
+
+link: https://arxiv.org/abs/2008.10624
+title: Impact of the ISM magnetic field on GRB afterglow polarization
+authors: O. Teboul, N. Shaviv
+topic: Linear polarization has been measured in several GRB afterglows. After a few days, polarization arises from the forward shock emission which depends on the post-shock magnetic field. The latter can originate both from compression of existing fields, here the ISM magnetic field, and from shock generated instabilities. For short GRBs, previous modelling of the polarization arising from the forward shock considered a random field fully or partially confined to the shock plane. However, the ISM magnetic field likely consists of both random and ordered components. Here we study the impact of a more realistic magnetic field having both ordered and random components. We present our semi-analytical model and compute polarization curves arising for different magnetic field configurations. We find that the presence of an ordered component, even significantly weaker than the random one, has distinct signatures that could be detectable. In the presence of an ordered component not in the observer plane, we show that: i) for an observer inside the jet, the polarization angle, either remains constant during all the afterglow phase or exhibits variations smaller than the 90degrees swing expected from a random component solely, ii) for an observer outside the jet, the polarization angle evolves from.
+subjects: GRB, polarisation, sGRB, model
+
 link: https://arxiv.org/abs/2008.09328
 title: Hydrodynamical modeling of the light curves of core collapse supernovae with HYPERION. I. The mass range 13-25 Msun, the metallicities -3<=[Fe/H]<=0 and the case of SN1999em
 authors: Marco Limongi, Alessandro Chieffi
