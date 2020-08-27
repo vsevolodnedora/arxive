@@ -17,11 +17,11 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2008.11338
+title: Curvature-slope correlation of nuclear symmetry energy and its imprints on the crust-core transition, radius and tidal deformability of canonical neutron stars
+authors: Bao-An Li, Macon Magno
+topic: Background: Nuclear symmetry energy Esym(ρ) encoding information about the energy necessary to make nuclear systems more neutron-rich is poorly known especially at supra-saturation densities but has broad impacts on properties of neutron stars. While its slope parameter L at the saturation density ρ0 of nuclear matter has been relatively well constrained by recent astrophysical observations and terrestrial nuclear experiments, its curvature Ksym characterizing the Esym(ρ) around 2ρ0 remains largely unconstrained. Over 520 calculations for Esym(ρ) using various nuclear theories and interactions in the literature have predicted several significantly different Ksym−L correlations. Purpose: If a unique Ksym−L correlation of Esym(ρ) can be firmly established, it will enable us to progressively better constrain the high-density behavior of Esym(ρ) using the available constraints on its slope parameter L. We investigate if and by how much the different Ksym−L correlations may affect neutron star observables. Method: A meta-model of nuclear Equation of States (EOSs) with three representative Ksym−L correlation functions is used to generate multiple EOSs for neutron stars. 
+subjects: EOS, NS
 
 link: https://arxiv.org/abs/2008.10943
 title: Finding quark content of neutron stars in light of GW170817
