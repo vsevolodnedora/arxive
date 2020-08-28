@@ -1,4 +1,3 @@
-
 link: 
 title: 
 authors: 
@@ -11,11 +10,11 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2008.12294
+title: Direct evidence of two-component ejecta in supernova 2016gkg from nebular spectroscopy
+authors: Hanindyo Kuncarayakti, Gaston Folatelli, Keiichi Maeda, Luc Dessart, Anders Jerkstrand, Joseph P. Anderson, Kentaro Aoki, Melina C. Bersten, Lucia Ferrari, et al
+topic: The narrow component appears also in other lines, and is conspicuous in [O I]. This indicates the presence of multiple distinct kinematic components of material at low and high velocities. The low-velocity components are likely to be produced by a dense, slow-moving emitting region near the center, while the broad components are emitted over a larger volume. These observations suggest an asymmetric explosion, supporting the idea of two-component ejecta that influence the resulting late-time spectra and light curves. SN 2016gkg thus presents striking evidence for significant asymmetry in a standard-energy SN explosion. The presence of material at low velocity, which is not predicted in 1D simulations, emphasizes the importance of multi-dimensional explosion modeling of SNe.
+subjects: spectroscopy, observations, SN, ejecta, geometry
 
 link: https://arxiv.org/abs/2008.11338
 title: Curvature-slope correlation of nuclear symmetry energy and its imprints on the crust-core transition, radius and tidal deformability of canonical neutron stars
