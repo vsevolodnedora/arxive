@@ -1,3 +1,4 @@
+
 link: 
 title: 
 authors: 
@@ -9,6 +10,42 @@ title:
 authors: 
 topic: 
 subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2008.12752
+title: GRB 200415A: magnetar giant flare or short gamma-ray burst?
+authors: Pavel Minaev, Alexei Pozanenko
+topic: A detailed analysis of the GBM/Fermi experiment data is carried out to classify GRB 200415A. It is shown that, on the one hand, this event exhibits typical for type I (short) gamma-ray bursts (GRBs) properties, such as duration, variability, and the character of spectral evolution (lag). On the other hand, the localization of the event source on the celestial plane, obtained by the triangulation method (IPN), indicates the nearby (DL = 3.5 Mpc) galaxy NGC 253 (Sculptor) as a possible host galaxy for this burst. It introduces significant restrictions on the energetics of the event (Eiso ~ 1046 erg) and gives an alternative interpretation of GRB 200415A as a giant flare (GF) of a soft gamma repeater (SGR). This interpretation is supported by the atypically hard energy spectrum.
+subjects: GRB, observations, mechanism
+
+link: https://arxiv.org/abs/2008.12657
+title: LOFAR early-time search for coherent radio emission from Short GRB 181123B
+authors: A. Rowlinson, R.L.C. Starling, K. Gourdji, G.E. Anderson, S. ter Veen, S. Mandhai, R.A.M.J. Wijers, T.W. Shimwell, A.J. van der Horst
+topic: The mergers of two neutron stars are typically accompanied by broad-band electromagnetic emission from either a relativistic jet or a kilonova. It has also been long predicted that coherent radio emission will occur during the merger phase or from a newly formed neutron star remnant, however this emission has not been seen to date. This paper presents the deepest limits for this emission from a neutron star merger folowing triggered LOFAR observations of the short gamma-ray burst (SGRB) 181123B, starting 4.4 minutes after the GRB occurred. During the X-ray plateau phase, a signature of ongoing energy injection, we detect no radio emission to a 3σ limit of 153 mJy at 144 MHz, which is significantly fainter to the predicted emission from a standard neutron star. Snapshot images were made of the radio observation on a range of timescales, targeting short duration radio flashes similar to fast radio bursts (FRBs). No emission was detected in the snapshot images at the location of GRB 181123B enabling constraints to be placed on the prompt coherent radio emission model and emission predicted to occur when a neutron star collapses to form a black hole.
+subjects: GRB, sGRB, observations, constraints, radio, precoursor
+
+link: https://arxiv.org/abs/2008.12381
+title: Lense-Thirring Precession of Misaligned Discs I
+authors: Sergei Dyda, Christopher S. Reynolds
+topic: We study Lense-Thirring precession of inviscid and viscous misaligned alpha-discs around a black hole using a gravitomagnetic term in the momentum equation. For weak misalignments, i \leq 10~deg, the discs behave like rigid bodies, undergoing the full suite of classical harmonic oscillator dynamics including, weak and critically damped motion (due to viscosity), precession (due to Lense-Thirring torque) and nutation (due to apsidal precession). For strong misalignments, i \geq 30~deg, we find sufficiently thin, h/r \leq 0.05 discs break, form a gap and the inner and outer sub-discs evolve quasi independently apart from slow mass transfer. Assuming the sound speed sets the communication speed of warps in the disc, we can estimate the breaking radius by requiring that the inner sub-disc precesses like a rigid body. We explicitly show for the first time using a grid code that an Einstein potential is needed to reproduce the analytic properties of the inner disc edge and find disc breaking. At large inclination angles we find multiple disc breaks, consistent with recent GRMHD simulations of highly inclined discs. Our results suggest that the inclusion of a gravitomagnetic term and appropriate pseudo-Newtonian potential captures the important quantitative features of misaligned discs.
+subjects: physics, accretion disk, BH
+
+link: https://arxiv.org/abs/2008.12318
+title: Neutrino Counterparts of Fast Radio Bursts
+authors: Brian D. Metzger, Ke Fang, Ben Maraglit
+topic: The discovery of a luminous radio burst, FRB 200428, with properties similar to those of fast radio bursts (FRB), in coincidence with an X-ray flare from the Galactic magnetar SGR 1935+2154, supports magnetar models for cosmological FRBs. The burst's X-ray to radio fluence ratio, as well as the X-ray spectral shape and peak energy, are consistent with FRB 200428 being the result of an ultra-relativistic shock (powered, e.g., by an ejected plasmoid) propagating into a magnetized baryon-rich external medium; the shock simultaneously generates X-ray/gamma-rays via thermal synchrotron emission from electrons heated behind the shock, and coherent radio emission via the synchrotron maser mechanism. Here, we point out that a unique consequence of this baryon-loaded shock scenario is the generation of a coincident burst of high-energy neutrinos, generated by photo-hadronic interaction of relativistic ions - heated or accelerated at the shock - with thermal synchrotron photons. We estimate the properties of these neutrino burst FRB counterparts and find that a fraction ~1e-8-1e-5 of the flare energy (or ~1e-4-0.1 of the radio isotropic energy) is channeled into production of neutrinos with typical energies ~ TeV-PeV. We conclude by discussing prospects for detecting this signal with IceCube and future high-energy neutrino detectors.
+subjects: FRB, GRB, magnetar, radio, EM, model, observations
+
+link: https://arxiv.org/abs/2008.12308
+title: Kinetic Simulations of Cosmic-Ray-Modified Shocks I: Hydrodynamics
+authors: Colby C. Haggerty, Damiano Caprioli
+topic: Collisionless plasma shocks are efficient sources of non-thermal particle acceleration in space and astrophysical systems. We use hybrid (kinetic ions -- fluid electrons) simulations to examine the non-linear feedback of the self-generated energetic particles (cosmic rays, CRs) on the shock hydrodynamics. When CR acceleration is efficient, we find evidence of both an upstream precursor, where the inflowing plasma is compressed and heated, and a downstream postcursor, where the energy flux in CRs and amplified magnetic fields play a dynamical role. For the first time, we assess how non-linear magnetic fluctuations in the postcursor preferentially travel away from the shock at roughly the local Alfvén speed with respect to the downstream plasma. The drift of both magnetic and CR energy with respect to the thermal plasma substantially increases the shock compression ratio with respect to the standard prediction, in particular exceeding 4 for strong shocks. Such modifications also have implications for the spectrum of the particles accelerated via diffusive shock acceleration, a significant result detailed in a companion paper.
+subjects: physics, shock, MF, CR, HRD model
 
 link: https://arxiv.org/abs/2008.12294
 title: Direct evidence of two-component ejecta in supernova 2016gkg from nebular spectroscopy
