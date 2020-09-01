@@ -17,6 +17,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2008.12817
+title: Combining Electromagnetic and Gravitational-Wave Constraints on Neutron-Star Masses and Radii
+authors: Mohammad Al-Mamun, Andrew W. Steiner, Joonas Nattila, Jacob Lange, Richard O'Shaugnessy, Ingo Tews, Stefano Gandolfi, Craig Heinke, Sophia Han
+topic: We perform a joint Bayesian inference of neutron-star mass and radius constraints based on GW170817, observations of quiescent low-mass X-ray binaries (QLMXBs), photospheric radius expansion X-ray bursts (PREs), and X-ray timing observations of J0030+0451. With this data set, the form of the prior distribution still has an impact on the posterior mass-radius (MR) curves and equation of state (EOS), but this impact is smaller than recently obtained when considering QLMXBs alone. We analyze the consistency of the electromagnetic data by including an "intrinsic scattering" contribution to the uncertainties, and find only a slight broadening of the posteriors. This suggests that the gravitational-wave and electromagnetic observations of neutron-star structure are providing a consistent picture of the neutron-star mass-radius curve and the EOS.
+subjects: MM, EOS, BNS
+
+link: https://arxiv.org/abs/2008.12931
+title: Introduction to Numerical Relativity
+authors: Carlos Palenzuela
+topic: Numerical Relativity is a multidisciplinary field including relativity, magneto-hydrodynamics, astrophysics and computational methods, among others, with the aim of solving numerically highly-dynamical, strong-gravity scenarios where no other approximations are available. Here we describe some of the foundations of the field, starting from the covariant Einstein equations and how to write them as a well-posed system of evolution equations, discussing the different formalisms, coordinate conditions and numerical methods commonly employed nowadays for the modeling of gravitational wave sources
+subjects: physiscs, review, GR, teaching
+
 link: https://arxiv.org/abs/2008.12752
 title: GRB 200415A: magnetar giant flare or short gamma-ray burst?
 authors: Pavel Minaev, Alexei Pozanenko
