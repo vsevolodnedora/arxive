@@ -11,11 +11,12 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2009.00579
+title: GRB 160625B: Evidence for a Gaussian-Shaped Jet
+authors: Virginia Cunningham, S. Bradley Cenko, Geoffrey Ryan, Stuart N. Vogel, Alessandra Corsi, Antonino Cucchiara, Andrew S. Fruchter, Assaf Horesh, Tuomas Kangas, Daniel Kocevski, Daniel A. Perley, Judith Racusin
+topic: We present multiwavelength modeling of the afterglow from the long gamma-ray burst GRB 160625B using Markov Chain Monte Carlo (MCMC) techniques of the afterglowpy Python package. GRB 160625B is an extremely bright burst with a rich set of observations spanning from radio to gamma-ray frequencies. These observations range from ~0.1 days to >1000 days, thus making this event extremely well-suited to such modeling. In this work we compare top-hat and Gaussian jet structure types in order to find best fit values for the GRB jet collimation angle, viewing angle, and other physical parameters. We find that a Gaussian-shaped jet is preferred (2.7-5.3 sigma) over the traditional top-hat model. Our estimate for the opening angle of the burst ranges from 1.26 to 3.90 degrees, depending on jet shape model. We also discuss the implications that assumptions on jet shape, viewing angle, and particularly the participation fraction of electrons have on the final estimation of GRB intrinsic energy release and the resulting energy budget of the relativistic outflow. 
+subjects: GRB, model, statistics
+revelation: afterglow emission is modelled using package: afterglowpy 
 
 link: https://arxiv.org/abs/2008.12817
 title: Combining Electromagnetic and Gravitational-Wave Constraints on Neutron-Star Masses and Radii
