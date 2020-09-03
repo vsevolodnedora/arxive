@@ -11,6 +11,24 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.01190
+title: Properties and astrophysical implications of the 150 Msun binary black hole merger GW190521
+authors: The LIGO Scientific Collaboration, the Virgo Collaboration
+topic: The gravitational-wave signal GW190521 is consistent with a binary black hole merger source at redshift 0.8 with unusually high component masses, 85+21-14Msun and 66+17-18Msun, compared to previously reported events, and shows mild evidence for spin-induced orbital precession. The primary falls in the mass gap predicted by (pulsational) pair-instability supernova theory, in the approximate range 65−120Msun. The probability that at least one of the black holes in GW190521 is in that range is 99.0%. The final mass of the merger (142+28-16Msun) classifies it as an intermediate-mass black hole. Under the assumption of a quasi-circular binary black hole coalescence, we detail the physical properties of GW190521's source binary and its post-merger remnant, including component masses and spin vectors. Three different waveform models, as well as direct comparison to numerical solutions of general relativity, yield consistent estimates of these properties. Tests of strong-field general relativity targeting the merger-ringdown stages of coalescence indicate consistency of the observed signal with theoretical predictions. We estimate the merger rate. We discuss the astrophysical implications of GW190521 for stellar collapse, and for the possible formation of black holes in the pair-instability mass gap through various channels: via (multiple) stellar coalescence, or via hierarchical merger of lower-mass black holes in star clusters or in active galactic nuclei. We find it to be unlikely that GW190521 is a strongly lensed signal of a lower-mass black hole binary merger. We also discuss more exotic possible sources for GW190521, including a highly eccentric black hole binary, or a primordial black hole binary.
+subjects: GW, BBH, observations, model, summary, GW190521 
+
+link: https://arxiv.org/abs/2009.00942
+title: GW190814: Circumstantial Evidence for Up-Down Quark Star
+authors: Zheng Cao, Lie-Wen Chen, Peng-Cheng Chu, Ying Zhou
+topic: Within a confining quark matter model which considers phenomenologically the quark confinement and asymptotic freedom as well as the chiral symmetry restoration and quark deconfinement at high baryon density, we find that if the up-down quark matter (udQM) is more stable than nuclear matter and strange quark matter (SQM), the maximum mass of static quark stars with udQM is 2.77Msun under agreement with both the constraints on star tidal deformability from gravitational wave signal GW170817 and the mass-radius of PSR J0030+045 measured simultaneously by NICER. In contrast, the conventional strange quark star with SQM has a maximum static mass of only 2.05Msun and its radius significantly deviates from NICER's constraint. Our results thus provide circumstantial evidence suggesting the recently reported GW190814's secondary component with a mass of 2.59+0.08-0.09Msun could be an up-down quark star.
+subjects: GW, EOS, NSBH, GW190814 
+
+link: https://arxiv.org/abs/2009.01213
+title: Beyond the Standard Model Explanations of GW190521
+authors: Jeremy Sakstein, Djuna Croon, Samuel D. McDermott, Maria C. Straight, Eric J. Baxter
+topic: The LIGO/Virgo collaboration has recently announced the detection of a heavy binary black hole merger, with component masses that cannot be explained by standard stellar structure theory. In this letter we propose several explanations based on models of new physics, including new light particle losses, modified gravity, large extra dimensions, and a small magnetic moment of the neutrino. Each of these affect the physics of the pair-instability differently, leading to novel mechanisms for forming black holes inside the black hole mass gap.
+subjects: GW, NSBH, GW190521
+
 link: https://arxiv.org/abs/2009.00579
 title: GRB 160625B: Evidence for a Gaussian-Shaped Jet
 authors: Virginia Cunningham, S. Bradley Cenko, Geoffrey Ryan, Stuart N. Vogel, Alessandra Corsi, Antonino Cucchiara, Andrew S. Fruchter, Assaf Horesh, Tuomas Kangas, Daniel Kocevski, Daniel A. Perley, Judith Racusin
