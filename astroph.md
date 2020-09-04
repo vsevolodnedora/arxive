@@ -11,6 +11,37 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.01773
+title: Short duration gamma-ray bursts and their outflows in light of GW170817
+authors: Davide Lazzati
+topic: The detection of GW170817, it's extensive multi-wavelength follow-up campaign, and the large amount of theoretical development and interpretation that followed, have resulted in a significant step forward in the understanding of the binary neutron star merger phenomenon as a whole. One of its aspects is seeing the merger as a progenitor of short gamma-ray bursts (SGRB), which will be the subject of this review. On the one hand, GW170817 observations have confirmed some theoretical expectations, exemplified by the confirmation that binary neutron star mergers are the progenitors of SGRBs. In addition, the multimessenger nature of GW170817 has allowed for gathering of unprecedented data, such as the trigger time of the merger, the delay with which the gamma-ray photons were detected, and the brightening afterglow of an off-axis event. All together, the incomparable richness of the data from GW170817 has allowed us to paint a fairly detailed picture of at least one SGRB. I will detail what we learned, what new questions have arisen, and the perspectives for answering them when a sample of GW170817-comparable events have been studied.
+subjects: GRB, overwview, short, summary, sGRB, GW170817
+revelation: very important for GRB project
+
+link: https://arxiv.org/abs/2009.01728
+title: The GW190521 Mass Gap Event and the Primordial Black Hole Scenario
+authors: V. De Luca, V. Desjacques, G. Franciolini, P. Pani, A. Riotto
+topic: The LIGO/Virgo Collaboration has recently observed GW190521, the first binary black hole merger with at least the primary component mass in the mass gap predicted by the pair-instability supernova theory. This observation disfavors the standard stellar-origin formation scenario for the heavier black hole, motivating alternative hypotheses. We show that GW190521 cannot be explained within the Primordial Black Hole (PBH) scenario if PBHs do not accrete during their cosmological evolution, since this would require an abundance which is already in tension with current constraints. On the other hand, GW190521 may have a primordial origin if PBHs accrete efficiently before the reionization epoch.
+subjects: GW, BBH, origin, GW190521
+
+link: https://arxiv.org/abs/2009.01566
+title: The influence of line opacity treatment in STELLA on supernova light curves
+authors: Alexandra Kozyreva, Luke Shingles, Alexey Mironov, Petr Baklanov, Sergey Blinnikov
+topic: We systematically explore the effect of the treatment of line opacity on supernova light curves. We find that it is important to consider line opacity for both scattering and absorption (i.e. thermalisation which mimics the effect of fluorescence.) We explore the impact of degree of thermalisation on three major types of supernovae: Type Ia, Type II-peculiar, and Type II-plateau. For that we use radiative transfer code STELLA and analyse broad-band light curves in the context of simulations done with the spectral synthesis code ARTIS and in the context a few examples of observed supernovae of each type. We found that the plausible range for the ratio between absorption and scattering in the radiation hydrodynamics code STELLA is (0.8-1):(0.2-0), i.e. the recommended thermalisation parameter is 0.9.
+subjects: EM, radiation transfer, opacity, KN
+
+link: https://arxiv.org/abs/2009.01238
+title: Convectively Driven Three Dimensional Turbulence in Massive Star Envelopes: I. A 1D Implementation of Diffusive Radiative Transport
+authors: William Schultz, Lars Bildsten, Yan-Fei Jiang
+topic: Massive (M>30Msun) stars exhibit luminosities that are near the Eddington-limit for electron scattering causing the increase in opacity associated with iron at T≈180,000K to trigger supersonic convection in their outer envelopes. Three dimensional radiative hydrodynamics simulations by Jiang and collaborators with the Athena++ computational tool have found order of magnitude density and radiative flux fluctuations in these convective regions, even at optical depths >> 100. We show here that radiation can diffuse out of a parcel during the timescale of convection in these optically thick parts of the star, motivating our use of a "pseudo" Mach number to characterize both the fluctuation amplitudes and their correlations. In this first paper, we derive the impact of these fluctuations on the radiative pressure gradient needed to carry a given radiative luminosity. This implementation leads to a remarkable improvement between 1D and 3D radiative pressure gradients, and builds confidence in our path to an eventual 1D implementation of these intrinsically 3D envelopes. However, simply reducing the radiation pressure gradient is not enough to implement a new 1D model. 
+subjects: radiation transfer, stellar physics, outer layers
+
+link: https://arxiv.org/abs/2009.01814
+title: The importance of charged particle reactions in the r-process on supernovae and neutron stars
+authors: Pedro V. Guillaumon, Iuda D. Goldman
+topic: We propose a (p,xn) mechanism with dynamic production as a new set of nuclear reactions that could produce high density neutrons and explain the r- and rp-elements. We calculate the rate of thorium and uranium produced by our proposed mechanism and show that it is compatible with different stellar conditions found in explosive events at an initial temperature of T geq 3*109K with a "freeze-out" by a neutrino-driven wind. We show that charged particle reactions could explain the discrepancies in the abundances of 232Th and 235,238U nucleochronometers. We extend the endpoint of the rapid proton (rp) process far beyond the previous work by showing that (p,xn) reactions could contribute to the nucleosynthesis of heavy stable neutron deficient nuclides. This implies in a broader definition of the rp-process and has important consequences for the nucleosynthesis of heavy elements. We show that we did not need to assume an extreme condition for the drip line of super neutron-rich nuclei.
+subjects: nucleo, r-process, model, physics
+
 link: https://arxiv.org/abs/2009.01190
 title: Properties and astrophysical implications of the 150 Msun binary black hole merger GW190521
 authors: The LIGO Scientific Collaboration, the Virgo Collaboration
