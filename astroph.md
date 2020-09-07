@@ -11,6 +11,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.01843
+title: Multi-Dimensional Solution of Fast Neutrino Conversions in Binary Neutron Star Merger Remnants
+authors: Ian Padilla-Gay, Shashank Shalgar, Irene Tamborra 
+topic: Fast pairwise conversions of neutrinos are predicted to be ubiquitous in neutron star merger remnants with potentially major implications on the nucleosynthesis of the elements heavier than iron. We present the first sophisticated numerical solution of the neutrino flavor evolution above the remnant disk within a (2+1+1) dimensional setup: two spatial coordinates, one angular variable, and time. We look for a steady-state flavor configuration above the remnant disk. Albeit the linear stability analysis predicts flavor instabilities at any location above the remnant disk, our simulations in the non-linear regime show that fast pairwise conversions lead to minimal neutrino mixing (less 1 percent) ; flavor equilibration is never achieved in our models. Importantly, fast neutrino conversions are more prominent within localized regions near the edges of the (anti)neutrino decoupling surfaces and almost negligible in the polar region of the remnant. Our findings on the role of fast pairwise conversions should be interpreted with caution because of the approximations intrinsic to our setup and advocate for further work within a more realistic framework.
+subjects: BNS, disk, neutrino, model, physics
+
 link: https://arxiv.org/abs/2009.01773
 title: Short duration gamma-ray bursts and their outflows in light of GW170817
 authors: Davide Lazzati
