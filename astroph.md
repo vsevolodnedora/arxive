@@ -11,6 +11,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2009.03854
+title: GW190521 and the GWTC-1 Events: Implication on the Black Hole Mass Function of Coalescing Binary Black Hole Systems
+authors: Yuan-Zhu Wang (1), Shao-Peng Tang (1 and 2), Yun-Feng Liang (3), Ming-Zhe Han (1 and 2), Xiang Li (1 and 2), Zhi-Ping Jin (1 and 2), Yi-Zhong Fan (1 and 2), Da-Ming Wei (1 and 2) 
+topic: With the black hole mass function (BHMF; assuming an exponential cutoff at a mass of 40Msun) of coalescing binary black hole systems constructed with the events detected in the O1 run of the advanced LIGO/Virgo network, Liang et al.(2017) predicted that the birth of the lightest intermediate mass black holes (LIMBHs; with a final mass of less 100Msun) is very likely to be caught by the advanced LIGO/Virgo detectors in their O3 run. The O1 and O2 observation run data, however, strongly favor a cutoff of the BHMF much sharper than the exponential one. In this work we show that a power-law function followed by a sudden drop at 40Msun by a factor of a few tens and then a new power-law component extending to less 100Msun are consistent with the O1 and O2 observation run data. With this new BHMF, quite a few LIMBH events can be detected in the O3 observation run of advanced LIGO/Virgo. The first LIMBH born in GW190521, an event detected in the early stage of the O3 run of advanced LIGO/Virgo network, provides additional motivation for our hypothesis.
+subjects: GW, BBH, projenitors
+
+link: https://arxiv.org/abs/2009.03550
+title: Statistical study of gamma-ray bursts with jet break feature in multi-wavelength afterglow emissions
+authors: Wen Zhao, Jia-Chang Zhang, Qing-Xiang Zhang, Jian-Tong Liang, Xiao-Hang Luan, Qi-Qi Zhou, Shuang-Xi Yi, Fei-Fei Wang, Shao-Tong Zhang
+topic: It is generally supposed that a transition from the normal decay phase (decay slope -1) to a steeper phase (decay slope -2) could be suggested as a jet break. The jet opening angle Theta jet is then calculated from the jet break time of the afterglow light curve. This allows the derivation of the collimation-corrected energy E jet of those GRBs. We extensively searched for the GRBs with jet break features from multi-wavelength afterglow light curves, and 138 GRBs with significant breaks were collected. The jet break times of those GRBs mainly range from 1000 s to 106 s, and the distribution of the collimation-corrected energy Ejet peaks at 10 to the power 50 erg.
+subjects: GRB, statustics, jeat break
+
+link: https://arxiv.org/abs/2009.03497
+title: GWOPS: A VO-technology Driven Tool to Search for the Electromagnetic Counterpart of Gravitational Wave Event
+authors: Yunfei Xu, Dong Xu, Chenzhou Cui, Dongwei Fan, Zipei Zhu, Bangyao Yu, Changhua Li, Jun Han, Linying Mi, Shanshan Li, Boliang He, Yihan Tao, Hanxi Yang, Sisi Yang
+topic: The search and follow-up observation of electromagnetic (EM) counterparts of gravitational waves (GW) is a current hot topic of GW cosmology. Due to the limitation of the accuracy of the GW observation facility at this stage, we can only get a rough sky-localization region for the GW event, and the typical area of the region is between 200 and 1500 square degrees. Since GW events occur in or near galaxies, limiting the observation target to galaxies can significantly speedup searching for EM counterparts. Therefore, how to efficiently select host galaxy candidates in such a large GW localization region, how to arrange the observation sequence, and how to efficiently identify the GW source from observational data are the problems that need to be solved. International Virtual Observatory Alliance has developed a series of technical standards for data retrieval, interoperability and visualization. Based on the application of VO technologies, we construct the GW follow-up Observation Planning System (GWOPS).
+subjects: observations, pipeline, EM counterpart
+
+link: https://arxiv.org/abs/2009.03447
+title: Connections between Non-Rotating, Slowly Rotating, and Rapidly Rotating Turbulent Convection Transport Scalings
+authors: Jonathan M. Aurnou, Susanne Horn, Keith Julien
+topic: Buoyancy-driven convection is likely the dominant driver of turbulent motions in the universe, and thus, is widely studied by physicists, engineers, geophysicists and astrophysicists. Maybe unsurprisingly, these different communities discuss the gross convective behaviors in different ways, often without significant cross-talk existing between them. Here, we seek to draw connections between these communities. We do so by carrying out a set of basic scale estimations for how heat and fluid momentum transport should behave in non-rotating, slowly rotating and rapidly rotating buoyancy-driven convective environments. We find that slowly and rapidly rotating scalings can be inter-related via one parameter, the so-called convective Rossby number dissipation-free parameter measuring the importance of buoyancy driving relative to rotation. Further, we map between non-flux-based and the flux-based, buoyancy-driven scalings used by different groups. In doing so, these scalings show that there are clean connections between the different communities' approaches and that a number of the seemingly different scalings are actually synonymous with one another.
+subjects: convection, fluid, physics
+
+link: https://arxiv.org/abs/2009.03342
+title: As a matter of tension -- kinetic energy spectra in MHD turbulence
+authors: Philipp Grete, Brian W. O'Shea, Kris Beckwith
+topic: Magnetized turbulence is ubiquitous in many astrophysical and terrestrial systems but no complete, uncontested theory even in the simplest form, magnetohydrodynamics (MHD), exists. Many theories and phenomenologies focus on the joint (kinetic and magnetic) energy fluxes and spectra. We highlight the importance of treating kinetic and magnetic energies separately to shed light on MHD turbulence dynamics. We conduct an implicit large eddy simulation of subsonic, super-Alfvenic MHD turbulence and analyze the scale-wise energy transfer over time. Our key finding is that the kinetic energy spectrum develops a scaling in the stationary regime as the kinetic energy cascade is suppressed by magnetic tension. This motivates a reevaluation of existing MHD turbulence theories with respect to a more differentiated modeling of the energy fluxes.
+subjects: MHD, formalism, physics
+
 link: https://arxiv.org/abs/2009.01843
 title: Multi-Dimensional Solution of Fast Neutrino Conversions in Binary Neutron Star Merger Remnants
 authors: Ian Padilla-Gay, Shashank Shalgar, Irene Tamborra 
