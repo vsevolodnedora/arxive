@@ -11,6 +11,25 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.04952
+title: Deformed crystals and torsional oscillations of neutron star crust
+authors: A. A. Kozhberov, D. G. Yakovlev
+topic: We study breaking stress of deformed Coulomb crystals in a neutron star crust, taking into account electron plasma screening of ion-ion interaction; calculated breaking stress is fitted as a function of electron screening parameter. We apply the results for analyzing torsional oscillation modes in the crust of a non-magnetic star. We present exact analytic expression for the fundamental frequencies of such oscillations and show that the frequencies of all torsional oscillations are insensitive to the presence of the outer neutron star crust. The results can be useful in theoretical modeling of processes involving deformed Coulomb crystals in the crust of neutron stars, such as magnetic field evolution, torsional crustal or thermo-elastic quasi-periodic oscillations of flaring soft gamma-ray repeaters, pulsar glitches. The applicability of the results to soft gamma-ray repeaters is discussed.
+subjects: NS, structure, crust, physics
+
+link: https://arxiv.org/abs/2009.04771
+title: GW190521: orbital eccentricity and signatures of dynamical formation in a binary black hole merger signal
+authors: Isobel M. Romero-Shaw, Paul D. Lasky, Eric Thrane, Juan Calderon Bustillo
+topic: Pair instability supernovae are thought to restrict the formation of black holes in the mass range -50 - 135 solar masses. However, black holes with masses within this "high mass gap" are expected to form as the remnants of binary black hole mergers. These remnants can merge again dynamically in densely populated environments such as globular clusters. The hypothesis that the binary black hole merger GW190521 formed dynamically is supported by its high mass. Orbital eccentricity can also be a signature of dynamical formation, since a binary that merges quickly after becoming bound may not circularize before merger. In this work, we measure the orbital eccentricity of GW190521. 
+subjects: projenitor, formation channel, cluster, BBH
+
+link: https://arxiv.org/abs/2009.04735
+title: Constraining the Jet Launching Time of GRB 170817A by Utilizing the Baryon Loading
+authors: Jia Ren, Da-Bin Lin, Lu-lu Zhang, Kai Wang, Xiao-yan Li, Xiang-Gao Wang, En-Wei Liang
+topic: The observed delay of GRB 170817A relative to GW170817 carries significant information about gamma-ray burst (GRB) physics and is subject to intense debate. In this letter, we put forward an approach to discuss the major source of this time delay. First of all, we use the structured jet model to fit the X-ray/optical/radio afterglows of GRB 170817A together with superluminal motion measured by the Very Long Baseline Interferometry. Our structured jet is modelled with angle-dependent energy and baryon loading. It is found that our model can well fit the afterglows of GRB 170817A. After that, the baryon loading in the jet is inferred based on our fitting results. By comparing the baryon loading to the mass outflow in different stages, we infer that the time lag of the jet launch relative to the merger is less than hundreds or tens of milliseconds. It suggests that the time delay of GRB 170817A relative to GW170817 is defined mostly by the spreading time of the jet propagating to its dissipation radius.
+subjects: Jet, GRB, GW170807, model, afterglow
+revelation: Very important for the GRB project -- also what I wanted to do... 
+
 link: https://arxiv.org/abs/2009.04427
 title: Multi-messenger parameter estimation of GW170817: from jet structure to the Hubble constant
 authors: Hao Wang, Dimitrios Giannios
