@@ -11,6 +11,36 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.05472
+title: Don't fall into the gap: GW190521 as a straddling binary
+authors: Maya Fishbach, Daniel E. Holz
+topic: black holes cannot be born with masses in the range 50Msun less m less 120Msun. The reported mass of GW190521's primary black hole, falls squarely within this mass gap. We consider the more conservative alternative that GW190521's secondary BH belongs to the population of BHs previously observed by LIGO/Virgo With this prior on m2, we automatically find that the mass of the primary BH has. This is because the total mass of the system is better constrained than the individual masses. As long as the prior odds for a double-mass-gap BBH are smaller than ~1:15, it is more likely that GW190521 straddles the PISN gap.
+subjects: GW, statistics, BBH 
+
+link: https://arxiv.org/abs/2009.05461
+title: GW190521 as a Highly Eccentric Black Hole Merger
+authors: V. Gayathri, J. Healy, J. Lange, B. O'Brien, M. Szczepanczyk, I. Bartos, M. Campanelli, S. Klimenko, C. Lousto, R. O'Shaughnessy
+topic: The stellar-mass black hole merger GW190521 is the heaviest system discovered by LIGO/Virgo so far, with masses unexpected from stellar evolution. The system underwent precession due to its black hole spin orientation, a signature of binaries formed through gravitational capture. Capture through close encounters can also lead to eccentric binary orbits, but this feature is currently difficult to identify due to the lack of suitable gravitational waveforms. No eccentric merger has been reported to date. Here we show that GW190521 is the most consistent with a highly eccentric black hole merger. We carried out 325 numerical relativity simulations to generate an effective ~3x10^4 gravitational waveforms to compare to the observed data, much greater than previously available at high eccentricities. We find that GW190521 is best explained by a high-eccentricity, precessing model with e~0.7. All properties of GW190521 point to its origin being the repeated gravitational capture of black holes, making GW190521 the first of LIGO/Virgo's discoveries whose formation channel is identified.
+subjects: BBH, GW, models, statistics
+
+link: https://arxiv.org/abs/2009.05065
+title: On the Origin of GW190521-like events from repeated black hole mergers in star clusters
+authors: Giacomo Fragione, Abraham Loeb, Frederic A. Rasio
+topic: LIGO and Virgo have reported the detection of GW190521, from the merger of a binary black hole (BBH) with a total mass around 150 Msun. While current stellar models limit the mass of any black hole (BH) remnant to about 40-50 Msun, more massive BHs can be produced dynamically through repeated mergers in the core of a dense star cluster. The process is limited by the recoil kick (due to anisotropic emission of gravitational radiation) imparted to merger remnants, which can escape the parent cluster, thereby terminating growth. We study the role of the host cluster metallicity and escape speed in the buildup of massive BHs through repeated mergers. Almost independent of host metallicity, we find that a BBH of about 150 Msun could be formed dynamically in any star cluster 
+subjects: BBH, GW, clusters, formation
+
+link: https://arxiv.org/abs/2009.05376
+title: The (ultra) light in the dark: A potential vector boson of 8.7x10-13 eV from GW190521
+authors: Juan Calderón Bustillo, Nicolas Sanchis-Gual, Alejandro Torres-Forné, José A. Font, Avi Vajpeyi, Rory Smith, Carlos Herdeiro, Eugen Radu, Samson H. W. Leong
+topic: dvanced LIGO-Virgo reported a short gravitational-wave signal (GW190521) interpreted as a quasi-circular merger of black holes, one populating the pair-instability supernova gap, forming a remnant black hole of Mf~142Msun at a luminosity distance of dL~5.3 Gpc. With barely visible pre-merger emission, however, GW190521 merits further investigation of the pre-merger dynamics and even of the very nature of the colliding objects. We show that GW190521 is consistent with numerically simulated signals from head-on collisions of two (equal mass and spin) horizonless vector boson stars (aka Proca stars), forming a final black hole with Mf=231+13-17Msun, located at a distance of dL=571+348-181 Mpc. The favoured mass for the ultra-light vector boson constituent of the Proca stars is muV=8.72+0.73-0.82x10-13 eV. This provides the first demonstration of close degeneracy between these two theoretical models, for a real gravitational-wave event. Confirmation of the Proca star interpretation, which we find statistically slightly preferred, would provide the first evidence for a long sought dark matter particle.
+subjects: BBH-NS collision, GW
+
+link: https://arxiv.org/abs/2009.05181
+title: Hyperon Bulk Viscosity in Neutron Star Mergers
+authors: Mark G. Alford, Alexander Haber
+topic: In this paper we present a computation of bulk viscosity arising from hyperonic processes in matter at densities and temperatures typical of neutron star mergers. To deal with the high temperatures in this environment we go beyond the Fermi surface approximation in our rate calculations and numerically evaluate the full phase space integral. We include processes where quarks move between baryons via meson exchange: these have been largely omitted in previous analyses but provide the dominant contribution to the bulk viscosity. We obtain the dissipation times for harmonic oscillations at the frequencies seen in merger simulations, and find that hyperon bulk viscosity can be highly relevant at densities just below the onset of the first hyperon species and temperatures up to T=5 MeV, with dissipation times as fast as τdiss approx 9 ms.
+subjects: EOS, NS, viscosity, model
+
 link: https://arxiv.org/abs/2009.04952
 title: Deformed crystals and torsional oscillations of neutron star crust
 authors: A. A. Kozhberov, D. G. Yakovlev
