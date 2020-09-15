@@ -11,6 +11,30 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.06585
+title: Is GW190521 the merger of black holes from the first stellar generations?
+authors: Eoin J. Farrell, Jose H. Groh, Raphael Hirschi, Laura Murphy, Etienne Kaiser, Sylvia Ekström, Cyril Georgy, Georges Meynet
+topic: GW190521 challenges our understanding of the late-stage evolution of massive stars and the effects of the pair-instability in particular. We discuss the possibility that stars at low or zero metallicity could retain most of their hydrogen envelope until the pre-supernova stage, avoid the pulsational pair-instability regime and produce a black hole with a mass in the mass gap by fallback. Models with a metallicity in the range 0-0.0004 have three properties which favour higher BH masses as compared to higher metallicity models. These are (i) lower mass-loss rates during the post-MS phase, (ii) a more compact star disfavouring binary interaction and (iii) possible H-He shell interactions which lower the CO core mass. We conclude that it is possible that GW190521 may be the merger of black holes produced directly by massive stars from the first stellar generations. 
+subjects: GW, GW190521, BBH, projenitors, MP stars, stellar
+
+link: https://arxiv.org/abs/2009.06322
+title: The Sobolev approximation for radiation transport with line overlap and continuous opacity
+authors: Aleksandr Nesterenok
+topic: The radiation transport problem in the plane-parallel medium with the large velocity gradient is considered. The Sobolev approximation is used. The effects of continuum absorption and line overlap are taken into account. The photon loss probability functions are calculated and tabulated. Two calculations are performed - for the Gaussian spectral line profile and for the rectangular profile. It is shown that at particular choice of the rectangular profile width the results of the calculations are very close. The evaluated photon loss probability functions may be used in the calculations of energy level populations of OH molecule in the interstellar gas flows.
+subjects: radiation transport, physics, lines
+
+link: https://arxiv.org/abs/2009.06165
+title: Merging strangeon stars: the ejecta and light curves
+authors: X. Y. Lai, C. J. Xia, Y. W. Yu, R. X. Xu
+topic: This paper gives the first qualitative description about the evolution of ejecta and find that the ejecta could end up with two components. In the hot environment of the merger, the strangeon nuggets ejected by tidal disruption and hydrodynamical squeezing would suffer from evaporation, in which process particles, such as strangeons, neutrons and protons, are emitted. Taking into account both the evaporation of strangeon nuggets and the decay of strangeons, most of the ejected strangeon nuggets would turn into neutrons and protons within 10 ms, and the dependence of evaporation rate on temperature leads to the two-component ejecta. Light curves are derived for both high and low opacity components, where the former would be ejected from the directions around the equatorial plane, and the latter would be ejected in a broad range of angular directions.
+subjects: EOS, strange stars, BNS, merger, model, ejeta, KN
+
+link: https://arxiv.org/abs/2009.06441
+title: Limiting masses and radii of neutron stars and their implications
+authors: Christian Drischler, Sophia Han, James M. Lattimer, Madappa Prakash, Sanjay Reddy, Tianqi Zhao
+topic: We combine equation of state of dense matter up to twice nuclear saturation density (nsat=0.16fm-3) obtained using chiral effective field theory (xEFT), and recent observations of neutron stars to gain insights about the high-density matter encountered in their cores. A key element in our study is the recent Bayesian analysis of correlated EFT truncation errors based on order-by-order calculations up to next-to-next-to-next-to-leading order in the χEFT expansion. We refine the bounds on the maximum mass imposed by causality at high densities, and provide stringent limits on the maximum and minimum radii of ~1.4Msun and ~2.0Msun stars.
+subjects: EOS, quantum, model, statistics, NS parameters,
+
 link: https://arxiv.org/abs/2009.05472
 title: Don't fall into the gap: GW190521 as a straddling binary
 authors: Maya Fishbach, Daniel E. Holz
