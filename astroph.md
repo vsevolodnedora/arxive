@@ -11,6 +11,43 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.07210
+title: Optical follow-up of the neutron star-black hole mergers S200105ae and S200115j
+authors: Shreya Anand, Michael W. Coughlin, Mansi M. Kasliwal, Mattia Bulla, Tomás Ahumada, Ana Sagués Carracedo, Mouza Almualla et al
+topic: We present state-of-the-art KN models tailored to NSBH systems that place constraints on the ejecta properties of these NSBH mergers. We show that with depths of mAB=22 mag, attainable in meter-class, wide field-of-view survey instruments, strong constraints on ejecta mass are possible, with the potential to rule out low mass ratios, high BH spins, and large neutron star radii.
+subjects: KN, EM, constraints, methods, observations
+
+link: https://arxiv.org/abs/2009.07019
+title: On the torque exerted by a warped, magnetically threaded accretion disk
+authors: Chang Liu, Xiang-Dong Li
+topic: Most astrophysical accretion disks are likely to be warped. In X-ray binaries the spin evolution of an accreting neutron star is critically dependent on the interaction between the neutron star magnetic field and the accretion disk. There have been extensive investigations on the accretion torque exerted by a coplanar disk that is magnetically threaded by the magnetic field lines from the neutron stars, but relevant works on warped/tilted accretion disks are still lacking. In this paper we develop a simplified two-component model, in which the disk is comprised of an inner coplanar part and an outer, tilted part. Based on standard assumption on the formation and evolution of the toroidal magnetic field component, we derive the dimensionless torque and show that a warped/titled disk is more likely to spin up the neutron star compared with a coplanar disk.We also discuss the possible influence of various initial parameters on the torque.
+subjects: disk, accretion, physics
+
+link: https://arxiv.org/abs/2009.06922
+title: Formation of Binary Black Hole Similar to GW190521 with a Total Mass of ~150Msun from Population III Binary Star Evolution 
+authors: Tomoya Kinugawa, Takashi Nakamura, Hiroyuki Nakano
+topic: n case of zero metal (population III) stars, we show that total mass of binary black holes from binary population III star evolution can be ~150Msun, which agrees with mass of a binary black hole, GW190521 recently discovered by LIGO/Virgo. The event rate of such binary black hole mergers is estimated as 0.13--0.66 yr-1 Gpc-3, which is consistent with the observed value of 0.02--0.43 yr-1 Gpc-3.
+subjects: SSE, stellar, projenitors, BBH
+
+link: https://arxiv.org/abs/2009.06868
+title: Model Light Curves for Type Ib and Ic Supernovae
+authors: Stan Woosley, Tuguldur Sukhbold, Daniel Kasen
+topic: Using the Monte Carlo code, SEDONA, multiband photometry and spectra are calculated for supernovae derived from stripped helium stars with presupernova masses from 2.2 to 10.0 Msun. The models are representative of evolution in close binaries. A subset, those with presupernova masses in the range, have many properties in common with observed Type Ib and Ic supernovae, including a median ejected mass near... These limits are fainter than some allegedly typical Type Ib and Ic supernovae and could reflect problems in our models or the observational analysis. Helium stars with lower and higher masses also produce interesting transients that may have been observed including fast, faint, blue transients and long, red, faint Type Ic supernovae. New models are specifically presented for SN 2007Y, SN 2007gr, SN 2009jf, LSQ13abf, SN 2008D, and SN 2010X.
+subjects: SN, EM, models
+
+link: https://arxiv.org/abs/2009.06740
+title: On the investigation of the closure relations for Gamma-Ray Bursts observed by Swift in the post-plateau phase and the GRB fundamental plane
+authors: Gokul Prem Srinivasaragavan, Maria Giovanna Dainotti, Nissim Fraija, Xavier Hernandez, Shigehiro Nagataki, Luke Bowden, Robert Wagner, Aleksander Lenart
+topic: Gamma-Ray Bursts (GRBs) are the most explosive phenomena in the Universe after the Big Bang. A large fraction of GRB lightcurves (LCs) shows X-ray plateaus. We perform the most comprehensive analysis of all GRBs (with known and unknown redshifts) with plateau emission observed by The Neil Gehrels Swift Observatory from its launch until August 2019. We fit 455 LCs showing a plateau and explore whether these LCs follow closure relations, relations between the temporal and spectral indices of the afterglow, corresponding to 2 distinct astrophysical environments and cooling regimes within the external forward shock (ES) model, and find that the ES model works for the majority of cases. The most favored environments are a constant density interstellar or wind medium with slow cooling. We also confirm the existence of the fundamental plane relation between the rest-frame time and luminosity at the end of the plateau emission and the peak prompt luminosity for this enlarged sample, and test this relation on groups corresponding to the astrophysical environments of our known redshift sample. The plane becomes a crucial discriminant corresponding to these environments in terms of the best fitting parameters and dispersions. Most GRBs for which the closure relations are fulfilled with respect to astrophysical environments have an intrinsic scatter sigma compatible within 1 sigma of that of the Gold GRBs, a subset of long GRBs with relatively flat plateaus. We also find that GRBs satisfying closure relations indicating a fast cooling regime have a lower sigma than ever previously found in literature.
+subjects: GRB, models, general, statistics
+revelation: might be important for other GRB applications, and broader context
+
+link: https://arxiv.org/abs/2009.06655
+title: Black hole - neutron star mergers: the first mass gap and kilonovae
+authors: P. Drozda, K. Belczynski, R. O'Shaughnessy, T. Bulik, C.L. Fryer
+topic: Observations of X-ray binaries indicate a dearth of compact objects in the mass range from ~2-5 Msun and the existence of this (first mass) gap has been used to advance our understanding of the engines behind core-collapse supernovae. LIGO/Virgo observations provide an independent measure of binary compact remnant masses and several candidate first mass gap objects (either NS or BH) were observed in the O3 science run. We study the formation of BH-NS mergers in the framework of isolated classical binary evolution. We use population synthesis method to evolve binary stars (Population I and II) across cosmic time. We find that with appropriate constraints on the (delayed) supernova engine ~30-40% of LIGO/Virgo BH-NS mergers may host at least one compact object in the gap. The uncertainties in the processes behind compact object formation imply that the fraction of BH-NS systems ejecting mass during the merger is ~0-9%. In our reference we find that only ~0.2% of BH-NS mergers will have any mass ejection, and about the same percentage would produce kilonova bright enough to have a chance to be detected even with a large (Subaru-class) 8m telescope. Interestingly, all these mergers will have both BH and NS in the first mass gap.
+subjects: projenitors, BBH, stellar evolution
+
 link: https://arxiv.org/abs/2009.06585
 title: Is GW190521 the merger of black holes from the first stellar generations?
 authors: Eoin J. Farrell, Jose H. Groh, Raphael Hirschi, Laura Murphy, Etienne Kaiser, Sylvia Ekström, Cyril Georgy, Georges Meynet
