@@ -11,6 +11,32 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2009.07733
+title: Impact of magnetic field on neutrino-matter interactions in core-collapse supernova
+authors: Takami Kuroda
+topic: We explore the impact of magnetic field on neutrino-matter interactions in core-collapse supernova. We first derive the modified source terms for neutrino-nucleon scattering and neutrino absorption and emission processes in the moment formalism. Then we perform full relativistic three-dimensional, magnetorotational core-collapse supernova simulations of a 20 Msun star with spectral neutrino transport. Our simulations treat self-consistently the parity violation effects of magnetic field on the lepton number, energy, and momentum exchanges. The result shows a clear global asymmetry with respect to the equatorial plane in each exchange rate. The asymmetric property arises from two factors: the angle between the neutrino flux and magnetic field and the term, which is parallel to the magnetic field and is also proportional to the deviation of distribution function of neutrinos from thermal equilibrium. The typical correction value amounts to ~1 % relative to the total neutrino-matter interaction rate for the magnetic field strength of ~10 15-16 G
+subjects: SN, neutrhino, MF, physics
+
+link: https://arxiv.org/abs/2009.07507
+title: Neutron conversion-diffusion: a new model for structured short gamma-ray burst jets compatible with GRB 170817
+authors: Edwan Préau, Kunihito Ioka, Peter Mészáros
+topic: We present a generic theoretical model for the structuring of a relativistic jet propagating through the ejecta of a binary neutron star merger event, introducing the effects of the neutron conversion-diffusion, which provides a baryon flux propagating transversely from the ejecta towards the jet axis. This results naturally in an increased baryon load structure of the outer jet with the approximate isotropic energy distribution Eiso(theta)prop to theta^-4, which is compatible with the first gravitational wave and short gamma-ray burst event GW170817/GRB 170817A observed at an off-axis angle of the jet.
+subjects: GRB, jet, physics, model
+revelation: very important for GRB model, as an input for afterglow
+
+link: https://arxiv.org/abs/2009.06669
+title: Turbulent magnetic-field amplification in the first 10 milliseconds after a binary neutron star merger: comparing high-resolution and large eddy simulations
+authors: Ricard Aguilera-Miret, Daniele Viganò, Federico Carrasco, Borja Miñano, Carlos Palenzuela
+topic: The detection of binary neutron star mergers represents one of the most important and complex astrophysical discoveries of the recent years. One of the unclear aspects of the problem is the turbulent magnetic field amplification, initially triggered by the Kelvin-Helmholtz instability at much smaller scales than any reachable numerical resolution nowadays. Here we present numerical simulations of the first ten milliseconds of a binary neutron star merger. First, we confirm in detail how the simulated amplification depends on the numerical resolution and is distributed on a broad range of scales, as expected from turbulent MHD theory. We find that an initial large-scale magnetic field of 10^11G inside each star is amplified in the remnant to root-mean-square values above 1016G within the first 5 milliseconds for our highest-resolution run. Then, we run large eddy simulations, exploring the performance of the subgrid-scale gradient model, already tested successfully in previous turbulent box simulations. We show that the addition of this model is especially important in the induction equation, since it leads to an amplification of the magnetic field comparable to a higher-resolution run, but with a greatly reduced computational cost. In the first 10 milliseconds, there is no clear hint for an ordered, large-scale magnetic field, which should indeed occur in longer timescales through magnetic winding and the magneto-rotational instability.
+subjects: BNS, nurbulence, MF, model, phsyics
+revelation: might be important for BNS project
+
 link: https://arxiv.org/abs/2009.07210
 title: Optical follow-up of the neutron star-black hole mergers S200105ae and S200115j
 authors: Shreya Anand, Michael W. Coughlin, Mansi M. Kasliwal, Mattia Bulla, Tomás Ahumada, Ana Sagués Carracedo, Mouza Almualla et al
