@@ -11,11 +11,18 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2009.08300
+title: Evolution of inspiralling neutron star binaries: effects of tidal interactions and orbital eccentricities
+authors: Jie-Shuang Wang, Dong Lai
+topic: Neutron star (NS) binaries formed dynamically may have significant eccentricities while emitting gravitational waves (GWs) in the LIGO/VIRGO band. We study tidal effects in such eccentric inspiralling NS binaries using a set of hybrid equations. The NS is modelled as a compressible ellipsoid, which can deform nonlinearly due to tidal forces, while the orbit evolution is treated with the post-Newtonian (PN) theory up to 2.5-PN order. We find that in general, the tidal interaction can accelerate the inspiral, and cause orbital frequency and phase shifts. For circular inspirals, our calculations reproduce previous linear result at large binary separations, but incorporate the dynamical response of the NS at small separations. For eccentric inspirals, the frequency and phase shifts oscillate considerably near pericenter passages, and the oscillating amplitudes increase with eccentricities. 
+subjects: GW, PN, BNS, eccentric
+
+link: https://arxiv.org/abs/2009.08057
+title: Persistent mysteries of jet engines, formation, propagation, and particle acceleration: have they been addressed experimentally?
+authors: Eric G. Blackman, Sergey V. Lebedev
+topic: The physics of astrophysical jets can be divided into three regimes: (i) engine and launch (ii) propagation and collimation, (iii) dissipation and particle acceleration. Since astrophysical jets comprise a huge range of scales and phenomena, practicality dictates that most studies of jets intentionally or inadvertently focus on one of these regimes, and even therein, one body of work may be simply boundary condition for another. We first discuss long standing persistent mysteries that pertain the physics of each of these regimes, independent of the method used to study them. This discussion makes contact with frontiers of plasma astrophysics more generally. While observations theory, and simulations, and have long been the main tools of the trade, what about laboratory experiments? Jet related experiments have offered controlled studies of specific principles, physical processes, and benchmarks for numerical and theoretical calculations. We discuss what has been done to date on these fronts. Although experiments have indeed helped us to understand certain processes, proof of principle concepts, and benchmarked codes, they have yet to solved an astrophysical jet mystery on their own
+subjects: review, jet, physics
+revelattion: might be improt for jet discussion and introduction
 
 link: https://arxiv.org/abs/2009.07733
 title: Impact of magnetic field on neutrino-matter interactions in core-collapse supernova
