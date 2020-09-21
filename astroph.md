@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2009.08516
+title: Particle acceleration by relativistic magnetic reconnection driven by kink instability turbulence in Poynting flux dominated jets
+authors: Tania E. Medina-Torrejon, Elisabete M. de Gouveia Dal Pino, Luis H.S. Kadowaki, Grzegorz Kowal, Chandra B. Singh, Yosuke Mizuno
+topic: Particle acceleration in magnetized relativistic jets still puzzles theorists, specially when one tries to explain the highly variable emission observed in blazar jets or gamma-ray bursts putting severe constraints on current models. In this work we investigate the acceleration of particles injected in a three-dimensional relativistic magnetohydrodynamical jet subject to current driven kink instability (CDKI), which drives turbulence and fast magnetic reconnection. Test protons injected in the nearly stationary snapshots of the jet, experience an exponential acceleration up to a maximum energy. The simulations also reveal a clear association of the accelerated particles with the regions of fast reconnection. In the early stages of the development of the non-linear growth of CDKI in the jet, when there are still no sites of fast reconnection, injected particles are also efficiently accelerated, but by magnetic curvature drift in the wiggling jet spine. However, they have to be injected with an initial energy much larger than that required for particles to accelerate in reconnection sites. Finally, we have also obtained from the simulations an acceleration time due to reconnection with a weak dependence on the particles energy E.
+subjects: jet, MHD, models, magnetic, reconnections, injection
+
 link: https://arxiv.org/abs/2009.08300
 title: Evolution of inspiralling neutron star binaries: effects of tidal interactions and orbital eccentricities
 authors: Jie-Shuang Wang, Dong Lai
