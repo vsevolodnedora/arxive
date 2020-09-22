@@ -1,4 +1,3 @@
-
 link: 
 title: 
 authors: 
@@ -11,11 +10,50 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2009.08982
+title: Magnetic Ergostars, Jet Formation and Gamma-Ray Bursts: Ergoregions versus Horizons
+authors: Milton Ruiz, Antonios Tsokaros, Stuart L. Shapiro, Kyle C. Nelli, Sam Qunell
+topic: We perform the first fully general relativistic, magnetohydrodynamic simulations of dynamically stable hypermassive neutron stars with and without ergoregions to assess the impact of ergoregions on launching magnetically--driven outflows. The hypermassive neutron stars are modeled by a compressible and causal equation of state and are initially endowed with a dipolar magnetic field extending from the stellar interior into its exterior. We find that, after a few Alfvén times, magnetic field lines in the ergostar (star that contains ergoregions) and the normal star have been tightly wound in both cases into a helical funnel within which matter begins to flow outward. The maximum Lorentz factor in the outflow is Gamma = 2.5, while the force-free parameter holds at B2/8pi prho 0 leq 10. These values are incompatible with highly relativistic, magnetically-driven outflows (jets) and short γ-ray bursts. We compare these results with those of a spinning black hole surrounded by a magnetized, massless accretion disk that launches a bona fide jet. Our simulations suggest that the Blandford-Znajek mechanism for launching relativistic jets only operates when a black hole is present, though the Poynting luminosity in all cases is comparable. Therefore, one cannot distinguish a magnetized, accreting black hole from a magnetized hypermassive neutron star in the so-called mass-gap based solely on the value of the observed Poynting luminosity.
+subjects: GRB, jet, launching, accretion, MHD, GRMHD, model
+revelation: might be important for jet launching 
+
+link: https://arxiv.org/abs/2009.08988
+title: Production of very light elements in kilonovae
+authors: A. Perego, D. Vescovi, A. Fiore, S. Benetti, S. Bernuzzi, M. Branchesi, S. Cristallo, E. Cappellaro, D. Radice
+topic: We study the production of light elements (Z less 20) in the ejecta of binary neutron star mergers by combining detailed nucleosynthesis calculations with the outcome of numerical relativity merger simulations. We explore different microphysical equations of state and binary mass ratios, and find that hydrogen and helium are the most abundant light elements. For both elements, the decay of free neutrons is the driving nuclear reaction. Hydrogen is produced in extremely fast expanding ejecta while helium is synthesized in association with heavy r-process elements. By computing synthetic spectra, we find that the possibility of detecting hydrogen and helium features in kilonova spectra is very unlikely.
+subjects: nucleo, r-process, kilonova, models
+
+link: https://arxiv.org/abs/2009.09046
+title: Rank-3 Moment Closures in General Relativistic Neutrino Transport
+authors: Sherwood Richers
+topic: Many modern simulations of accretion disks use moment-based methods for radiation transport to determine the thermal evolution of the disk and the properties of the ejected matter. The popular M1 scheme evolves the rank-0 and rank-1 moments requires an analytic approximation for the rank-2 and higher tensors. We present the open-source Monte Carlo steady-state general-relativistic neutrino transport code SedonuGR, which we use to asses fundamental analytic closure assumptions, quantify proposed closure errors, and test an extension of the MEFD closure to the rank-3 moment. We demonstrate that the fundamental assumptions employed in all analytic closures are strongly violated. This violation is most evident at the interface between the equatorial disk and the evacuated polar regions. Finally, we calculate the neutrino momentum and energy deposition rate from neutrino pair annihilation, and demonstrate that a moment-based annihilation power calculation is accurate to at most ~20% if the rank-2 and higher moments are neglected.
+subjects: neutrinos, model, physics, schemes
+
+link: https://arxiv.org/abs/2009.09320
+title: Formation of GW190521 via gas accretion onto Population III stellar black hole remnants born in high-redshift minihalos
+authors: Mohammadtaher Safarzadeh, Zoltán Haiman
+topic: The recent gravitational wave merger event, GW190521, has challenged our understanding of the stellar-mass black hole (BH) formation. The primary and secondary BH are both inferred to fall inside the pair-instability (PI) mass gap. Here we propose that the formation of such binaries is possible through gas accretion onto the BH remnants of Population III (Pop~III) stars born in high-redshift (z greater 10) minihalos. Once the parent halo has grown to the atomic-cooling limit, even brief episodes of gas accretion in the dense central regions of the halo can increase the masses of Pop~III remnant BHs above the PI limit. Starting with a BBH with an initial mass of O(100) Msun we find that it would only need to spend about 100~Myr in the inner few pc of an atomic-cooling halo to accrete about 50~Msun of material and resemble a system similar to GW190521. The dynamical friction timescale for the binary to sink to the dense inner region of its parent halo is comparable or shorter than the accretion timescale required to increase their mass above the PI limit. Once in the core of the halo, the binary can enter a phase of hyper-Eddington accretion, where it would only take a few thousand years to exceed the PI limit through accretion.
+subjects: BH, production channel, BBH, projenitor, IMBH
+
+link: https://arxiv.org/abs/2009.09534
+title: Neutron stars mergers in a stochastic chemical evolution model: impact of time delay distributions
+authors: L. Cavallo, G. Cescutti, F. Matteucci
+topic: We study the evolution of the [Eu/Fe] ratio in the Galactic halo by means of a stochastic chemical evolution model considering merging neutron stars as polluters of europium. We improved our previous stochastic chemical evolution model by adding a time delay distribution for the coalescence of the neutron stars, instead of constant delays. The stochastic chemical evolution model can reproduce the trend and the observed spread in the [Eu/Fe] data with neutron star mergers as unique producers if we assume: i) a delay time distribution per event, iii) progenitors of neutron stars in the range 9-50Msun and iv) a constant fraction of massive stars in the initial mass function (0.02) that produce neutron star mergers. Our best model is obtained by relaxing point iv) and assuming a fraction that varies with metallicity. We confirm that the mixed scenario with both merging neutron stars and supernovae as europium producers can provide a good agreement with the data relaxing the constraints on the distribution time delays for the coalescence of neutron stars. Adopting our best model, we also reproduce the dispersion of [Eu/Fe] at a given metallicity, which depends on the fraction of massive stars that produce neutron star mergers. Future high-resolution spectroscopic surveys, such as 4MOST and WEAVE, will produce the necessary statistics to constrain at best this parameter.
+subjects: chemical evolution, BNS
+revelation: might be important for the thesis
+
+link: https://arxiv.org/abs/2009.09714
+title: 3D magnetised jet break-out from neutron-star binary merger ejecta: afterglow emission from the jet and the ejecta
+authors: Antonios Nathanail, Ramandeep Gill, Oliver Porth, Christian M. Fromm, Luciano Rezzolla
+topic: We perform three-dimensional (3D) general-relativistic magnetohydrodynamic simulations to model the jet break-out from the ejecta expected to be produced in a binary neutron-star merger. The structure of the relativistic outflow from the 3D simulation confirms our previous results from 2D simulations, namely, that a relativistic magnetized outflow breaking out from the merger ejecta exhibits a hollow core of Theta core eq 4 deg, an opening angle of Theta jet geq 10deg, and is accompanied by a wind of ejected matter that will contribute to the kilonova emission. We also compute the non-thermal afterglow emission of the relativistic outflow and fit it to the panchromatic afterglow from GRB170817A, together with the superluminal motion reported from VLBI observations
+subjects: GRB, jet, GRMHD, model
+revelation: important for GRB project
+
+link: https://arxiv.org/abs/2009.08990
+title: Relativistic radiation hydrodynamics in a reference-metric formulation
+authors: Thomas W. Baumgarte, Stuart L. Shapiro
+topic: We adopt a two-moment formalism, together with a reference-metric approach, to express the equations of relativistic radiation hydrodynamics in a form that is well-suited for numerical implementations in curvilinear coordinates. We illustrate the approach by employing a gray opacity in an optically thick medium. As numerical demonstrations we present results for two test problems, namely stationary, slab-symmetric solutions in flat spacetimes, including shocks, and heated Oppenheimer-Snyder collapse to a black hole. For the latter, we carefully analyze the transition from an initial transient to a post-transient phase that is well described by an analytically-known diffusion solution. We discuss the properties of the numerical solution when rendered in moving-puncture coordinates.
+subjects: physics, radaition, HD
 
 link: https://arxiv.org/abs/2009.08516
 title: Particle acceleration by relativistic magnetic reconnection driven by kink instability turbulence in Poynting flux dominated jets
