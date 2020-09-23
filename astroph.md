@@ -1,3 +1,4 @@
+
 link: 
 title: 
 authors: 
@@ -9,6 +10,32 @@ title:
 authors: 
 topic: 
 subjects: 
+
+link: https://arxiv.org/abs/2009.10082
+title: On the formation of GW190814
+authors: Wenbin Lu, Paz Beniamini, Clément Bonnerot
+topic: The LIGO-Virgo collaboration recently reported a puzzling event, GW190814, with component masses of 23 and 2.6 solar masses. Motivated by the relatively small rate of such a coalescence and the fact that the mass of the secondary is close to the total mass of known binary neutron star (bNS) systems, we propose that GW190814 was a second-generation merger from a hierarchical triple system, i.e., the remnant from the bNS coalescence was able to merge again with the 23 Msun black hole (BH) tertiary. We show that this occurs at a sufficiently high probability provided that the semimajor axis of the outer orbit is less than a few AU at the time of bNS coalescence. It remains to be explored whether the conditions for the formation of such tight triple systems are commonly realized in the Universe, especially in low metallicity (less than 0.1 solar) environments. Our model provides a number of predictions. (1) The spin of the secondary in GW190814-like systems is 0.6 to 0.7. (2) The component mass distribution from a large sample of LIGO sources should have a narrow peak between 2.5 and ~3.5 Msun, whereas the range between ~3.5 and ~5 Msun stays empty (provided that stellar evolution does not generate such BHs in the "mass gap"). (3) About 90% (10%) of GW190814-like events have an eccentricity
+subjects: GW, production channel, formation, BBH, IMBH
+
+link: https://arxiv.org/abs/2009.10475
+title: Simulating the dynamics and non-thermal emission of relativistic magnetised jets I. Dynamics
+authors: Dipanjan Mukherjee, Gianluigi Bodo, Andrea Mignone, Paola Rossi, Bhargav Vaidya
+topic: We have performed magneto-hydrodynamic simulations of relativistic jets from supermassive blackholes over a few tens of kpc for a range of jet parameters. One of the primary aims were to investigate the effect of different MHD instabilities on the jet dynamics and their dependence on the choice of jet parameters. We find that two dominant MHD instabilities affect the dynamics of the jet, small scale Kelvin- Helmholtz (KH) modes and large scale kink modes, whose evolution depend on internal jet parameters like the Lorentz factor, the ratio of the density and pressure to the external medium and the magnetisation and hence consequently on the jet power. Low power jets are susceptible to both instabilities, kink modes for jets with higher central magnetic field and KH modes for lower magnetisation. Moderate power jets do not show appreciable growth of kink modes, but KH modes develop for lower magnetisation. Higher power jets are generally stable to both instabilities. Such instabilities decelerate and decollimate the jet while inducing turbulence in the cocoon, with consequences on the magnetic field structure. We model the dynamics of the jets following a generalised treatment of the Begelman-Cioffi relations which we present here.
+subjects: jet, AGN, model, MHD
+
+link: https://arxiv.org/abs/2009.10478
+title: Plasma kinetic effects in relativistic radiation mediated shocks
+authors: Amir Levinson
+topic: Fast shocks that form in optically thick media are mediated by Compton scattering and, if relativistic, pair creation. Since the radiation force acts primarily on electrons and positrons, the question arises of how the force is mediated to the ions which are the dominant carriers of the shock energy. It has been widely thought that a small charge separation induced by the radiation force generates electric field inside the shock that decelerates the ions. In this paper we argue that, while this is true in sub-relativistic shocks which are devoid of positrons, in relativistic radiation mediated shocks (RRMS), which are dominated by newly created e+e− pairs, additional coupling is needed, owing to the opposite electric force acting on electrons and positrons. Specifically, we show that dissipation of the ions energy must involve collective plasma interactions. By constructing a multi-fluid model for RRMS that incorporates friction forces, we estimate that momentum transfer between electrons and positrons (and/or ions) via collective interactions on scales of tens to thousands proton skin depths
+subjects: physics, shock, radiation
+revelation: might be important to mention in GRB shock propagation model
+
+link: https://arxiv.org/abs/2009.10488
+title: Can we constrain the aftermath of binary neutron star mergers with short gamma-ray bursts?
+authors: Barbara Patricelli, Maria Grazia Bernardini
+topic: The joint observation of GW170817 and GRB170817A proved that binary neutron star (BNS) mergers are progenitors of short Gamma-ray Bursts (SGRB): this established a direct link between the still unsettled SGRB central engine and the outcome of BNS mergers, whose nature depends on the equation of state (EOS) and on the masses of the NSs. We propose a novel method to probe the central engine of SGRBs based on this link. We produce an extended catalog of BNS mergers by combining recent theoretically predicted BNS merger rate as a function of redshift and the NS mass distribution inferred from measurements of Galactic BNSs. We use this catalog to predict the number of BNS systems ending as magnetars (stable or Supramassive NS) or BHs (formed promptly or after the collapse of a hypermassive NS) for different EOSs, and we compare these outcomes with the observed rate of SGRBs. Despite the uncertainties mainly related to the poor knowledge of the SGRB jet structure, we find that for most EOSs the rate of magnetars produced after BNS mergers is sufficient to power all the SGRBs, while scenarios with only BHs as possible central engine seems to be disfavoured.
+subjects: GRb, statistics, engine
+revelation: might be important for thesis and GRB project
 
 link: https://arxiv.org/abs/2009.08982
 title: Magnetic Ergostars, Jet Formation and Gamma-Ray Bursts: Ergoregions versus Horizons
