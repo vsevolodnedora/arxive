@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2009.10925
+title: Screening Effects on Electron Capture Rates and Type Ia Supernova Nucleosynthesis
+authors: Kanji Mori, Toshio Suzuki, Michio Honma, Michael A. Famiano, Toshitaka Kajino, Motohiko Kusakabe, Baha A. Balantekin
+topic: Type Ia supernovae (SNe Ia) are believed to be a thermonuclear explosion of a white dwarf, but the mass of their progenitors is still an open problem. In near-Chandrasekhar-mass (near-M_Ch) models of SNe Ia, the central density reaches >10^9 g cm^{-3}. The electron chemical potential becomes higher than the Q-values of electron capture (EC) transitions between fp-shell nuclei, so a portion of the available electrons is captured by iron group elements and thus neutron-rich isotopes are formed. Since EC reaction rates are sensitive to the density, the degree of neutronization is a key to distinguish near- and sub-M_Ch models. In order to compare observations and theoretical models, an accurate treatment of EC reactions is necessary. In previous theoretical works, however, effects of electron screening on ECs are ignored. Screening lowers EC rates and thus leads to a higher electron fraction. We implement electron screening on ECs to calculate explosive SN Ia nucleosynthesis in a near-M_Ch single degenerate model. 
+subjects: nucleo, SN
+
 link: https://arxiv.org/abs/2009.10082
 title: On the formation of GW190814
 authors: Wenbin Lu, Paz Beniamini, Clément Bonnerot
