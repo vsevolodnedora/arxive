@@ -11,11 +11,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2009.11447
+title: The Population III origin of GW190521
+authors: Boyuan Liu, Volker Bromm
+topic: We explore the possibility that the recently detected black hole binary (BHB) merger event GW190521 originates from the first generation of massive, metal-free, so-called Population III (Pop III), stars. Based on improved binary statistics derived from N-body simulations of Pop III star clusters, we calculate the merger rate densities of Pop III BHBs similar to GW190521, in two evolution channels: classical binary stellar evolution and dynamical hardening in high-redshift nuclear star clusters. Both channels can explain the observed rate density. But the latter is favoured by better agreement with observation and less restrictions on uncertain parameters. Our analysis also indicates that given the distinct features of the two channels, future observation of BHB mergers similar to GW190521 with third-generation gravitational wave detectors will greatly improve our knowledge of the evolution of Pop III BHBs, especially for their dynamics during cosmic structure formation.
+subjects: PIII, stars, projenitors of BH
+
+link: https://arxiv.org/abs/2009.11735
+title: Confronting the Magnetar Interpretation of Fast Radio Bursts Through Their Host Galaxy Demographics
+authors: Mohammadtaher Safarzadeh, J. Xavier Prochaska, Kasper E. Heintz, Wen-fai Fong
+topic: We explore the prompt magnetar progenitor scenario in the context of fast radio burst (FRB) host galaxies demographics and offset distributions. Magnetars are neutron stars with strong magnetic fields on the order of 1015 G with a short decay lifetime of less than 104 years. Due to their extremely short lifetimes, magnetars should follow the demographics of galaxies according to their current star-formation rate (SFR). Moreover, we hypothesize that magnetars should follow the SFR profile within galaxies, which we assume to follow an exponential profile. We construct a simple model for the host galaxies of magnetars assuming these events track SFR in all galaxies and compare it to observed properties from a sample of  secure FRB hosts. We find the distribution of observed SFRs is inconsistent with the model at 95% c.l. The offset distribution is consistent with this scenario; however, this could be due to the limited sample size and the seeing limited estimates for the effective radii of the FRB host galaxies.
+subjects: FRB, magnetar, cosmology
 
 link: https://arxiv.org/abs/2009.10925
 title: Screening Effects on Electron Capture Rates and Type Ia Supernova Nucleosynthesis
