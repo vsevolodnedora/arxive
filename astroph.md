@@ -11,6 +11,24 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.12142
+title: Cosmological Insights into the Early Accretion of \textit{r}-Process-Enhanced stars. I. A Comprehensive Chemo-dynamical Analysis of LAMOST J1109+0754
+authors: Mohammad K. Mardini, Vinicius M. Placco, Yohai Meiron, Marina Ishchenko, Branislav Avramov, Matteo Mazzarini, Peter Berczik, Manuel Arca Sedda, Timothy C. Beers, Anna Frebel, Ali Taani, Mashhoor A. Al-Wardat, Gang Zhao
+topic: This study presents a comprehensive chemo-dynamical analysis of LAMOST J1109+0754, a bright (V = 12.8), extremely metal-poor (\abund{Fe}{H} = -3.17) star, with a strong \textit{r}-process enhancement (\abund{Eu}{Fe} = +0.94 pm 0.12) We obtain chemical abundances of 31 elements (from lithium to thorium). The abundance ratios (\abund{X}{Fe}) of the light-elements (Z less 30) suggest a massive Population III progenitor in the 13.4-29.5 ,Msun mass range. The heavy-element (30 less Z less 90) abundance pattern of J1109+075 agrees extremely well with the scaled-Solar \textit{r}-process signature. We have developed a novel approach to trace the kinematic history and orbital evolution of J1109+0754 with a c\textbf{O}smologically pived varying Galactic textbftential (the ORIENT) constructed from snapshots of a simulated Milky-Way analog taken from the \texttt{Illustris-TNG} simulation. The orbital evolution within this Milky Way-like galaxy, along with the chemical-abundance pattern implies that J1109+0754 likely originated in a low-mass dwarf galaxy located sim 60\,kpc from the center of the Galaxy, which was accreted ~ 6 - 7\,Gyr ago, and that the star now belongs to the outer-halo population.
+subjects: r-process, observations, MP stars
+
+link: https://arxiv.org/abs/2009.12255
+title: Mergers of binary neutron star systems: a multi-messenger revolution
+authors: Elena Pian
+topic: On 17 August 2017, less than two years after the direct detection of gravitational radiation from the merger of two ~30 Msun black holes, a binary neutron star merger was identified as the source of a gravitational wave signal of ~100 s duration that occurred at less than 50 Mpc from Earth. A short GRB was independently identified in the same sky area by the Fermi and INTEGRAL satellites for high energy astrophysics, which turned out to be associated with the gravitational event. Prompt follow-up observations at all wavelengths led first to the detection of an optical and infrared source located in the spheroidal galaxy NGC4993 and, with a delay of ~10 days, to the detection of radio and X-ray signals. This paper revisits these observations and focusses on the early optical/infrared source, which was thermal in nature and powered by the radioactive decay of the unstable isotopes of elements synthesized via rapid neutron capture during the merger and in the phases immediately following it. The far-reaching consequences of this event for cosmic nucleosynthesis and for the history of heavy elements formation in the Universe are also illustrated.
+subjects: review, BNS, MM
+
+link: https://arxiv.org/abs/2009.12353
+title: The special point on the hybrid star mass--radius diagram and its multi--messenger implications
+authors: Mateusz Cierniak, David Blaschke
+topic: We show the existence and investigate the location of the special point (SP) in which hybrid neutron star mass-radius (M-R) curves have to cross each other when they belong to a class of hybrid equation of state (EoS) constructed with generic constant--speed--of--sound (CSS) quark matter models for which the onset deconfinement is varied. We demonstrate that for a three-parameter CSS model the position of the SP in the M-R diagram is largely independent of the choice of the hadronic EoS, but in dependence on the stiffness of the quark matter EoS it spans a region that we identify. We find that the difference between the maximum mass and the SP mass depends on the mass at the onset of deconfinement so that an upper limit of 0.19 Msun for this difference is obtained from which a lower limit on the radius of hybrid stars is deduced.For neutron stars with M less 2.4 Msun this lies within a more constraining lower limit of the neutron star radius from multi-messenger observations. Together with a lower limit on the radius of hadronic stars we identify a region in the M-R diagram which can be occupied only by hybrid stars. Accordingly, we suggest that a NICER radius measurement on the massive pulsar PSR J0740+6620 in the range of 10.7-11.8 km would indicate that this pulsar is a hybrid neutron star with deconfined quark matter in the inner core.
+subjects: EOS, quark
+
 link: https://arxiv.org/abs/2009.11447
 title: The Population III origin of GW190521
 authors: Boyuan Liu, Volker Bromm
