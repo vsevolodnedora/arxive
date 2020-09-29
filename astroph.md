@@ -11,6 +11,39 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2009.12553
+title: Constraining neutron superfluidity with r-mode physics
+authors: Elena M. Kantor, Mikhail E. Gusakov, Vasiliy A. Dommes
+topic: We constrain the parameters of neutron superfluidity in the cores of neutron stars making use of the recently proposed effect of resonance stabilization of r-modes. To this end, we, for the first time, calculate the finite-temperature r-mode spectra for realistic models of rotating superfluid neutron stars, accounting for both muons and neutron-proton entrainment in their interiors. We find that the ordinary (normal) r-mode exhibits avoided crossings with superfluid r-modes at certain stellar temperatures and spin frequencies. Near the avoided crossings, the normal r-mode dissipates strongly, which leads to substantial suppression of the r-mode instability there. The extreme sensitivity of the positions of avoided crossings to the neutron superfluidity model allows us to constrain the latter by confronting the calculated spectra with observations of rapidly rotating neutron stars in low-mass X-ray binaries.
+subjects: physics, NS, instabilities
+
+link: https://arxiv.org/abs/2009.12571
+title: Constraints from LIGO/Virgo and NICER on quark star equation of state
+authors: Ang Li, Jin-Liang Jiang, Shao-Peng Tang, Zhi-Qiang Miao, En-Ping Zhou, Ren-Xin Xu
+topic: We investigate the quark star equation of state within the Bayesian statistical approach using the widely-used bag model, assuming the strange quark matter is in the color-flavor locked phase. Three types of filters are employed for the posterior distribution: Normal atomic nuclei should not decay into nonstrange quark matter, bulk strange quark matter should be more stable than the most bound atomic nuclei, and the lower limit on the maximum mass MTOV. The likelihood functions incorporate observational constraints from the tidal deformability measurement of the GW170817 binary merger by LIGO/Virgo and the measurements of PSR J0030+0451s mass and radius by NICER. The 90% posterior credible boundary around the most probable values of the quark star maximum mass is found to be MTOV=2.15+0.16-0.12Msum, with the radius and tidal deformability of a canonical 1.4Msun star being R1.4=11.52+0.51-0.46km and Λ1.4=670+230−160, respectively. Nevertheless, the color superconductivity gap is poorly constrained by those observed global star properties, and no clear evidence about the sound speed behavior in strange quark matter is manifested. A possible probe of the quark pairing gap through future tidal deformability measurement of massive quark stars (close to MTOV) is also discussed.
+subjects: EOS, statistics, quarks
+
+link: https://arxiv.org/abs/2009.12609
+title: LOC program for line radiative transfer
+authors: M. Juvela
+topic: Radiative transfer modelling is part of many astrophysical numerical simulations. It is also used by itself, to make synthetic observations based on models and to assist direct analysis of observations.
+Our aim is to provide a line radiative transfer (RT) program that makes good use of multi-core CPUs and GPUs. Parallelisation is essential to speed up computations and to enable the tackling of large modelling tasks with personal computers.
+The program LOC is based on ray-tracing (i.e. not Monte Carlo) and uses standard accelerated lambda iteration (ALI) methods for faster convergence. The program works on 1D and 3D grids. The 1D version makes use of symmetries to speed up the RT calculations. The 3D version works with octree grids and, to enable calculations with large models, is optimised for low memory usage.
+Tests show that LOC gives results that are in agreement with other RT codes to within ~2%. This is typical of code-to-code differences, which often are related to different interpretations of the model set-up. LOC run times compare favourably especially with those of Monte Carlo codes. In 1D tests, LOC runs were by up to a factor ~20 faster on a GPU than on a single CPU core. In spite of the complex path calculations, up to ~10 speed-up was observed also for 3D models using octree discretisation. Modern GPUs enable calculations of models with up to hundreds of millions of cells.
+subjects: radiation trasport, model, new, code
+
+link: https://arxiv.org/abs/2009.13138
+title: On the delay times of merging double neutron stars
+authors: Laura Greggio, Paolo Simonetti, Francesca Matteucci
+topic: The merging rate of double neutron stars (DNS) has a great impact on many astrophysical issues, including the interpretation of gravitational waves signals, of the short Gamma Ray Bursts (GRBs), and of the chemical properties of stars in galaxies. Such rate depends on the distribution of the delay times (DDT) of the merging events. In this paper we derive a theoretical DDT of merging DNS following from the characteristics of the clock controlling their evolution. We show that the shape of the DDT is governed by a few key parameters, primarily the lower limit and the slope of the distribution of the separation of the DNS systems at birth. With a parametric approach we investigate on the observational constraints on the DDT from the cosmic rate of short GRBs and the Europium to Iron ratio in Milky Way stars, taken as tracer of the products of the explosion. We find that the local rate of DNS merging requires that about 1 percent of neutron stars progenitors live in binary systems which end their evolution as merging DNS within a Hubble time. The redshift distribution of short GRBs does not yet provide a strong constraint on the shape of the DDT, although the best fitting models have a shallow DDT. The chemical pattern in Milky Way stars requires an additional source of Europium besides the products from merging DNS, which weakens the related requirement on the DDT. At present both constraints can be matched with the same DDT for merging DNS.
+subjects: GRB, BNS, projenitors, cosmology, delay
+
+link: https://arxiv.org/abs/2009.12613
+title: Effect of Inner Crust EoS on Neutron star Mass and Radii
+authors: Ishfaq Ahmad Rather, Anisul Ain Usmani, Suresh Kumar Patra
+topic: The neutron star maximum mass and the radius are investigated within the framework of relativistic mean-field (RMF) model. The variation in the radius at the canonical mass, R1.4, using different inner crust equation of state (EoS) with different symmetry energy slope parameter is also studied. It is found that although the NS maximum mass and the corresponding radius do not vary much with different slope parameter inner crust EoS, the radius at 1.4Msun follows a linear correlation with the symmetry energy slope parameter for all core parameter sets.
+subjects: EOS, NS, radius
+
 link: https://arxiv.org/abs/2009.12142
 title: Cosmological Insights into the Early Accretion of \textit{r}-Process-Enhanced stars. I. A Comprehensive Chemo-dynamical Analysis of LAMOST J1109+0754
 authors: Mohammad K. Mardini, Vinicius M. Placco, Yohai Meiron, Marina Ishchenko, Branislav Avramov, Matteo Mazzarini, Peter Berczik, Manuel Arca Sedda, Timothy C. Beers, Anna Frebel, Ali Taani, Mashhoor A. Al-Wardat, Gang Zhao
