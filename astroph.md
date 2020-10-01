@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2009.14274
+title: Hybrid stars in the light of the merging event GW170817
+authors: Alessandro Parisi, C. Vásquez Flores, C. Henrique Lenzi, Chian-Shu Chen, Germán Lugones
+topic: We study quark-hadron hybrid stars with sharp phase transitions assuming that phase conversions at the interface are slow. Hadronic matter is described by a set of equations of state (EoS) based on the chiral effective field theory and quark matter by a generic bag model. Due to slow conversions at the interface, there is an extended region of stable hybrid stars with central densities above the density of the maximum mass star. We explore systematically the role of the transition pressure and the energy-density jump Δϵ at the interface on some global properties of hybrid stars. ... We also find that the LIGO/Virgo constrain (at 90% level) and the 2Msun requirement can be simultaneously fulfilled in a scenario where all hybrid configurations have masses larger than 1.6Msun and the hadronic EoS is not too stiff, such as several of our hybrid models involving a hadronic EoS of intermediate stiffness. In such scenario hybrid stars may exist in Nature but both objects in GW170817 were hadronic stars.
+subjects: EOS, BNS, models, quarks
+
 link: https://arxiv.org/abs/2009.13614
 title: Modelling the prompt optical emission of GRB 180325A: the evolution of a spike from the optical to gamma-rays
 authors: Rosa L. Becerra, Fabio De Colle, Jorge Cantó, Susana Lizano et al
