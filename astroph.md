@@ -11,11 +11,11 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2010.00337
+title: Gamma-Ray Bursts with Extended Emission: Classifications, Energy Correlations and Radiation Properties
+authors: X. L. Zhang, C. T. Zhang, X. J. Li, F. F. S, X. F. Dong, H. Y. Chang, Z. B. Zhang
+topic: Thanks to more and more gamma-ray bursts with measured redshift and extended emission detected by the recent space telescopes, it is urgent and possible to check whether those previous energy correlations still satisfy for the particular sample involving only the bursts accompanied by tail radiations. Using 20 long and 22 short bursts with extended emission, we find that the popular gamma-ray energy correlations of the intrinsic peak energy versus the isotropic energy (Amati relation) and the intrinsic peak energy versus the peak luminosity (Yonetoku relation) do exist in either short or long bursts. However, these gamma-ray bursts with extended emissions are much better to be reclassified into two subgroups of E-I and E-II that make the above energy correlations more tight. As proposed by Zhang et al. (2018), the energy correlations can be utilized to distinguish these kinds of gamma-ray bursts in the plane of bolometric fluence versus peak energy as well. Interestingly, the peculiar short GRB 170817A belongs to the E-I group in the fluence versus peak energy plane, but it is an outlier of both Amati and Yonetoku relations even though the off-axis effect has been corrected.
+subjects: GRB, statistics
 
 link: https://arxiv.org/abs/2009.14274
 title: Hybrid stars in the light of the merging event GW170817
