@@ -11,6 +11,25 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2010.00625
+title: The impact of turbulent mixing on the galactic r-process enrichment by binary neutron star mergers across the entire metallicity range
+authors: Irina Dvorkin, Frédéric Daigne, Stéphane Goriely, Elisabeth Vangioni, Joseph Silk
+topic: We study the enrichment of the interstellar medium with rapid neutron capture (r-process) elements produced in binary neutron star (BNS) mergers using a semi-analytic model of the evolution of a Milky-Way-like galaxy in which we implemented merger rates and time delay distributions of BNS mergers consistent with the latest population synthesis models. In order to study the dispersion of the relative abundances of r-process elements and iron, we applied a turbulent mixing scheme, where the freshly synthesized elements are gradually dispersed in the interstellar medium. We show that within our model the abundances observed in Milky-Way stars, in particular the scatter at low metallicities, can be entirely explained by BNS mergers. Our results suggest that binary neutron star mergers could be the dominant source of r-process elements in low-metallicity environments, and can potentially also be the main source of r-process elements in disk stars at solar metallicity.
+subjects: r-process, source, galactic chemical evolution, model
+revelation: might be important for the thesis
+
+link: https://arxiv.org/abs/2010.00699
+title: MHD Turbulence: A Biased Review
+authors: Alexander A. Schekochihin (Oxford)
+topic: This review puts the developments of the last few years in the context of the canonical time line (Kolmogorov to Iroshnikov-Kraichnan to Goldreich-Sridhar to Boldyrev). It is argued that Beresnyak's objection that Boldyrev's alignment theory violates the RMHD rescaling symmetry can be reconciled with alignment if the latter is understood as an intermittency effect. Boldyrev's scalings, recovered in this interpretation, are thus an example of a physical theory of intermittency in a turbulent system. Emergence of aligned structures brings in reconnection physics, so the theory of MHD turbulence intertwines with the physics of tearing and current-sheet disruption. Recent work on this by Loureiro, Mallet et al. is reviewed and it is argued that we finally have a reasonably complete picture of MHD cascade all the way to the dissipation scale. This picture appears to reconcile Beresnyak's Kolmogorov scaling of the dissipation cutoff with Boldyrev's aligned cascade. 
+subjects: large review, MHD, physics
+
+link: https://arxiv.org/abs/2010.00869
+title: Spin-polarized β-stable neutron star matter: the nuclear symmetry energy and GW170817 constraint
+authors: Ngo Hai Tan, Dao T. Khoa, Doan Thi Loan
+topic: Magnetic field of rotating pulsar might be so strong that the equation of state (EOS) of neutron star (NS) matter is significantly affected by the spin polarization of baryons. In the present work, the EOS of the spin-polarized nuclear matter is investigated in the nonrelativistic Hartree-Fock formalism, using a realistic density dependent nucleon-nucleon interaction with its spin and spin-isospin dependence accurately adjusted to the Brueckner-Hartree-Fock results for the spin-polarized nuclear matter. The nuclear symmetry energy and proton fraction are found to increase significantly with the increasing spin polarization of baryons, leading to a larger probability of the direct Urca process in the cooling of magnetar. 
+subjects: EOS, GW
+
 link: https://arxiv.org/abs/2010.00337
 title: Gamma-Ray Bursts with Extended Emission: Classifications, Energy Correlations and Radiation Properties
 authors: X. L. Zhang, C. T. Zhang, X. J. Li, F. F. S, X. F. Dong, H. Y. Chang, Z. B. Zhang
