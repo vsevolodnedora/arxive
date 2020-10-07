@@ -11,6 +11,25 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2010.02227
+title: Nucleosynthesis in magneto-rotational supernovae
+authors: Moritz Reichert, Martin Obergaulinger, Marius Eichler, Miguel-Ángel Aloy, Almudena Arcones
+topic: We present the nucleosynthesis from magneto-rotational supernovae (MR-SN) including neutrino-driven and magneto-rotational-driven ejecta based, for the first time, on two-dimensional simulations with accurate neutrino transport. The models analysed here have different rotation and magnetic fields, allowing us to explore the impact of these two key ingredients. The accurate neutrino transport of the simulations is critical to analyse the slightly neutron rich and proton rich ejecta that are similar to the, also neutrino-driven, ejecta in standard supernovae. In the model with strong magnetic field, the r-process produces heavy elements up to the third r-process peak (A~195), in agreement with previous works. This model presents a jet-like explosion with proton-rich jets surrounded by neutron rich material where the r-process occurs. We have estimated a lower limit for 56Ni of 2.5*10-2Msun, which is still well below the expected hypernova value. Longer simulations including the accretion disk evolution are required to get a final prediction. In addition, we have found that the late evolution is critical in a model with weak magnetic field in which lately ejected neutron rich matter produces elements up to the second r-process peak. Even if we cannot yet provide conclusions for hypernova nucleosynthesis, our results agree with observations of old stars and radioactive isotopes in supernova remnants. This makes MR-SNe a good additional scenario to neutron star mergers for the synthesis of heavy elements and brings us closer to understand their origin and the role of MR-SNe in the early galaxy nucleosynthesis.
+subjects: r-process, SN, CCSN, magnetic, MHD, GRMHD, radiation transport
+revelation: might be important for thesis
+
+link: https://arxiv.org/abs/2010.02454
+title: Energy-momentum tensor of special relativistic fluids and Connection of relativistic and non-relativistic fluids in the new scaling
+authors: Mahboobe Moeen Moghaddas
+topic: In this paper, the relativistic fluids with the negligible magnetic field in the flat metric are studied. The iso-dimension scale in introduced, in this scale, all similar components of a variable have the same dimension. Also, the components of shear, bulk and heat flux tensors and the components of energy-momentum tensors are calculated in the cylindrical and spherical coordinate systems, all these components are derived in the iso-dimension scale. The non-relativistic shear, bulk and heat flux tensors and the components of energy-momentum tensor are derived in the limit of the relativistic fluids. Also, the connection of relativistic and non-relativistic fluids are seen. So, some distinctions of relativistic and non-relativistic fluids are displayed, for example in the relativistic fluids, the time derivative of velocity is created the shear stress tensor and derivative of velocity and temperature is created the heat flux energy-momentum tensor, etc.
+subjects: physics, fluid, HD, special relativity
+
+link: https://arxiv.org/abs/2010.02563
+title: Properties of the remnant disk and the dynamical ejecta produced in low-mass black hole-neutron star mergers
+authors: Kota Hayashi, Kyohei Kawaguchi, Kenta Kiuchi, Koutarou Kyutoku, Masaru Shibata
+topic: We systematically perform numerical-relativity simulations for low-mass black hole-neutron star mergers for the models with seven mass ratios Q=MBH/MNS ranging from 1.5 to 4.4, and three neutron-star equations of state, focusing on properties of matter remaining outside the black hole and ejected dynamically during the merger. We pay particular attention to the dependence on the mass ratio of the binaries. It is found that the rest mass remaining outside the apparent horizon after the merger depends only weakly on the mass ratio for the models with low mass ratios. It is also clarified that the rest mass of the ejecta has a peak at Q~3, and decreases steeply as the mass ratio decreases for the low mass-ratio case. We present a novel analysis method for the behavior of matter during the merger, focusing on the matter distribution in the phase space of specific energy and specific angular momentum. Then we model the matter distribution during and after the merger. Using the result of the analysis, we discuss the properties of the ejecta.
+subjects: NSBH, model, GRHD, ejecta
+
 link: https://arxiv.org/abs/2010.01338
 title: A Possible kilonova powered by magnetic wind from a newborn black hole
 authors: Shuai-Bing Ma, Wei Xie, Bin Liao, Bin-Bin Zhang, Hou-Jun Lü, Yu Liu, Wei-Hua Lei
