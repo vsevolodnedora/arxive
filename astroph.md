@@ -11,6 +11,19 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2010.03668
+title: Modeling Kilonova Light Curves: Dependence on Nuclear Inputs
+authors: Y. L. Zhu, K. Lund, J. Barnes, T. M. Sprouse, N. Vassh, G. C. McLaughlin, M. R. Mumpower, R. Surman
+topic: The mergers of binary neutron stars, as well as black hole-neutron star systems, are expected to produce an electromagnetic counterpart that can be analyzed to infer the element synthesis that occurred in these events. We investigate one source of uncertainties pertinent to lanthanide-rich outflows: the nuclear inputs to rapid neutron capture nucleosynthesis calculations. We begin by examining thirty-two different combinations of nuclear inputs: eight mass models, two types of spontaneous fission rates, and two types of fission daughter product distributions. We find that such nuclear physics uncertainties typically generate at least one order of magnitude uncertainty in key quantities such as the nuclear heating (one and a half orders of magnitude at one day post-merger), the bolometric luminosity (one order of magnitude at five days post-merger), and the inferred mass of material from the bolometric luminosity (factor of eight when considering the eight to ten days region). Since particular nuclear processes are critical for determining the electromagnetic signal, we provide tables of key nuclei undergoing β-decay, α-decay, and spontaneous fission important for heating at different times, identifying decays that are common among the many nuclear input combinations.
+subjects: kilonova, nucleo, r-process
+revelation: very important for the thesis
+
+link: https://arxiv.org/abs/2010.04047
+title: Gravitational wave friction in light of GW170817 and GW190521
+authors: S. Mastrogiovanni, L. Haegel, C. Karathanasis, I. Magana-Hernandez, D. A. Steer
+topic: We use the gravitational wave (GW) events GW170817 and GW190521, together with their proposed electromagnetic counterparts, to constrain cosmological parameters and theories of gravity beyond General Relativity (GR). In particular we consider models with a time-varying Planck mass, large extra-dimensions, and a phenomenological parametrization covering several beyond-GR theories. In all three cases, this introduces a friction term into the GW propagation equation, effectively modifying the GW luminosity distance. We set constraints on LambdaCDM parameters and GR deviation parameters using two sets of priors on the Hubble constant and matter energy density. With priors set to the measured Planck's mission values, we find that with the inclusion of GW190521, the two GR deviation parameters constraints improves by a factor ∼10, we report a number of spacetime dimensions compatible with 4 with an precision of 2.5% (at 95\% CL) and an upper limit to the variation of Netwon's constant at the epoch of GW170817 les20%. With wide priors on the Hubble constant and matter energy density, we show that it is still possible to constrain the lambdaCDM parameters and GR deviation parameters conjointly from GW170817 and GW190521 obtaining constraints on GR deviation parameters which are a factor 2−6 worse than the results using restricted priors on LambdaCDM parameters.
+subjects: EM, GW, cosmology 
+
 link: https://arxiv.org/abs/2010.02227
 title: Nucleosynthesis in magneto-rotational supernovae
 authors: Moritz Reichert, Martin Obergaulinger, Marius Eichler, Miguel-Ángel Aloy, Almudena Arcones
