@@ -11,6 +11,71 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2010.05232
+title: Formation of spiral structure from the violent relaxation of self-gravitating disks
+authors: Tirawut Worrakitpoonpon 
+topic: We present the numerical study of the formation of spiral structure in the context of violent relaxation. Initial conditions are the out-of-equilibrium disks of self-gravitating particles in rigid rotation. By that mechanism, robust and non-stationary spiral arms can be formed within a few free-fall times by the shearing of the mass ejection following the collapse. With a closer look, we find different properties of the arms in connection with the initial configuration. The winding degree tends to increase with initial angular speed provided that a disk is thin. If disk surface is circular, both number and position of arms are governed by the Poissonian density fluctuations that produce more arms as more particles are introduced. On the contrary, if the surface ellipticity is imposed, the number of arms and their placement are effectively controlled. Otherwise, the increase of thickness leads to a complicated outcome since the number of arms and winding degree are less effectively controlled. We speculate that this complexity is caused by a strong non-axisymmetric field during the violent relaxation that disorganizes the pre-collapse motion and the concentration of particles.
+subjects: physics, disk, accretion
+
+link: https://arxiv.org/abs/2010.05128
+title: GRB 200415A: A Short Gamma-Ray Burst from a Magnetar Giant Flare?
+authors: Jun Yang, Vikas Chand, Bin-Bin Zhang, Yu-Han Yang, Jin-Hang Zou, Yi-Si Yang, Xiao-Hong Zhao, Lang Shao, Shao-Lin Xiong, Qi Luo, Xiao-Bo Li, Shuo Xiao, Cheng-Kui Li, Cong-Zhan Liu, Jagdish C. Joshi, Vidushi Sharma, Manoneeta Chakraborty, Ye Li, Bing Zhang
+topic: The giant flares of soft gamma-ray repeaters (SGRs) have long been proposed to contribute to at least a subsample of the observed short gamma-ray bursts (GRBs). In this paper, we perform a comprehensive analysis of the high-energy data of the recent bright short GRB 200415A, which was located close to the Sculptor galaxy. Our results suggest that a magnetar giant flare provides the most natural explanation for most observational properties of GRB 200415A, including its location, temporal and spectral features, energy, statistical correlations, and high-energy emissions. On the other hand, the compact star merger GRB model is found to have difficulty reproducing such an event in a nearby distance. Future detections and follow-up observations of similar events are essential to firmly establish the connection between SGR giant flares and a subsample of nearby short GRBs.
+subjects: sGRB, observations, interpretation, magnetar
+
+link: https://arxiv.org/abs/2010.05588
+title: Effect of the crust on neutron star empirical relations
+authors: Márcio Ferreira, Constança Providência
+topic: We analyze how the crust equation of state affects several neutron star properties and how it impacts on possible constraints inferred from astrophysical observations. Using three distinct crusts, we generate three sets of model-independent equations of state describing stellar matter from a Taylor expansion around saturation density. The equations of state are thermodynamically consistent, causal, and compatible with astrophysical observations. The relations between the tidal deformability Lmabda and compactness C, Love number k2 and radius of neutron star with mass M are studied, and the effect of the crust equation of state on these relations analyzed. In most of the relations, the impact of the crust equation of state is not larger that 2\%. If, however, a fixed neutron star mass is considered, the relation between the tidal deformability and the radius depends on the crust. We have found that the relation LmabdaMi=[eq] becomes almost exact and crust independent for massive neutron stars. It is shown that it is possible to determine the tidal deformability of an 1.4Msun star from the GW179817 effective tidal deformability Lmabda~ with an accuracy of at least ≈10%. A high correlation between Lmabda~ and the radius of the most massive star of the neutron star binary was confirmed, however, it was demonstrated that the crust has an effect of 14% on this relation. We have found that the relation Lmabda1/Lmabda2=qa depends on Mchirp as..
+subjects: EOS, NS, crust
+
+link: https://arxiv.org/abs/2010.05040
+title: Oscillations of hypermassive compact stars with gravitational radiation and viscosity
+authors: Peter B. Rau, Armen Sedrakian
+topic: Binary neutron star mergers, such as the multimessenger GW170817 event, may produce hypermassive compact objects which are supported against collapse by the internal circulation of the fluid within the star. We compute their unstable modes of oscillations driven by gravitational wave radiation and shear viscosity, modeling them as triaxial Riemann ellipsoids. We work in a perturbative regime, where the gravitational radiation reaction force is taken into account at 2.5-post-Newtonian order and find unstable modes with dissipation timescales larger 1 ms which are relevant to the transient state of a hypermassive remnant of a merger. We show that the secular instabilities are dominated by gravitational wave radiation. If the shear viscosity is included, it can increase the growth times or even stabilize the unstable modes, but it must have values several orders of magnitude larger than predicted for cold neutron stars.
+subjects: physics, viscosity, oscillations, NS
+revelation: might be important for thesis
+
+link: https://arxiv.org/abs/2010.05706
+title: Stringent Search for Precursor Emission in Short GRBs from Fermi/GBM data and Physical Implications
+authors: Jie-Shuang Wang, Zong-Kai Peng, Jin-Hang Zou, Bin-Bin Zhang, Bing Zhang
+topic: We perform a stringent search for precursor emission of short gamma-ray bursts (SGRBs) from the Fermi/GBM data and find 16 precursor events with greater 4.5 sigma significance. We find that the durations of the main SGRB emission (TGRB) and the precursor emission (Tpre), as well as the waiting time (Twt) in between, are roughly comparable to each other, with Twt≈2.8T1.2GRB approximately satisfied for most cases except one significant outlier. We also perform spectral analyses to the precursors and SGRBs, and find that the spectra of precursor emission can be fitted with the blackbody, non-thermal cutoff power law and/or power law models. We consider several possible models for precursor emission in SGRBs and find that the luminosity and spectral shape may be explained by the the shock breakout or the photospheric radiation of a fireball launched after the merger for thermal precursors, or magnetospheric interaction between two NSs prior to the merger for non-thermal precursors. For the fireball photospheric model, a matter-dominated jet is preferred and a constraint on the fireball Lorentz factor can be placed as Gamma~30. For the magnetospheric interaction model, jet launching mechanism may be constrained.
+subjects: GRB, Precursor, sGRB, model, statistics
+revelation: might be usefull for GRB project
+
+link: https://arxiv.org/abs/2010.05615
+title: A Consistent Modeling of Neutrino-driven Wind with Accretion Flow onto a Protoneutron Star and its Implications for Ni Production
+authors: Ryo Sawada (Kyoto Sangyo Univ.), Yudai Suwa (Kyoto Sangyo Univ. & YITP, Kyoto Univ.)
+topic: Details of the explosion mechanism of core-collapse supernovae (CCSNe) are not yet fully understood. There is now an increasing number of successful examples of reproducing explosions in the first-principles simulations, which have shown a slow increase of explosion energy. However, it was recently pointed out that the growth rates of the explosion energy of these simulations are insufficient to produce enough 56Ni mass to account for observations. We refer to this issue as the `nickel mass problem' (Ni problem, hereafter) in this paper. The neutrino-driven wind is suggested as one of the most promising candidates for the solution to the Ni problem, in literature. In this paper, we first built a consistent model of the neutrino-driven wind with an accretion flow onto a protoneutron star (PNS), by connecting a steady-state solution of the neutrino-driven wind and a phenomenological mass accretion model. Our conclusion is that it is difficult to solve the Ni problem, by continuous injection of 56Ni by the neutrino-driven wind. We suggest that the total amount of synthesized 56Ni can be estimated robustly if simulations are followed up to ~2 seconds.
+subjects: NS, nucleo, model, neutrino wind
+revaltion: might be usefuill to cite it in the thesis
+
+link: https://arxiv.org/abs/2010.04356
+title: Gravitational Waves from Core-Collapse Supernovae
+authors: Ernazar Abdikamalov, Giulia Pagliaroli, David Radice
+topic: We summarize our current understanding of gravitational wave emission from core-collapse supernovae. We review the established results from multi-dimensional simulations and, wherever possible, provide back-of-the-envelope calculations to highlight the underlying physical principles. The gravitational waves are predominantly emitted by protoneutron star oscillations. In slowly rotating cases, which represent the most common type of the supernovae, the oscillations are excited by multi-dimensional hydrodynamic instabilities, while in rare rapidly rotating cases, the protoneutron star is born with an oblate deformation due to the centrifugal force. The gravitational wave signal may be marginally visible with current detectors for a source within our galaxy, while future third-generation instruments will enable more robust and detailed observations. The rapidly rotating models that develop non-axisymmetric instabilities may be visible up to a megaparsec distance with the third-generation detectors. Finally, we discuss strategies for multi-messenger observations of supernovae.
+subjects: SN, GW, review
+revelation: might be of use for thesis [questions]
+
+link: https://arxiv.org/abs/2010.04461
+title: Systematics of prompt black-hole formation in neutron star mergers
+authors: Andreas Bauswein, Sebastian Blacker, Georgios Lioutas, Theodoros Soultanis, Vimal Vijayan, Nikolaos Stergioulas
+topic: This study addresses the collapse behavior of neutron star (NS) mergers expressed through the binary threshold mass Mthres for prompt black hole (BH) formation, which we determine by relativistic hydrodynamical simulations for a set of 40 equation of state (EoS) models. Mthres can be well described by various fit formulae involving stellar parameters of nonrotating NSs. Using these relations we compute which constraints on NS radii and the tidal deformability are set by current and future merger detections revealing information about the merger product. We systematically investigate the impact of the binary mass ratio q=M1/M2 and assemble different fits, which may be applicable in different situations. We find fit formulae for Mthres including an explicit q dependence, which are valid in a broad range of 0.7<=q<=1 and which are nearly as tight as relations for fixed mass ratios. For most EoS models except for some extreme cases the threshold mass of asymmetric mergers is equal or smaller than the one of equal-mass binaries. Generally, the impact of the binary mass asymmetry on M_thres becomes stronger with more extreme mass ratios, while Mthres is approximately constant for small deviations from q=1, i.e. for 0.85<=q<=1.
+subjects: EOS, BNS, collapse, BH
+revelation: might be important to reference in thesis
+
 link: https://arxiv.org/abs/2010.03668
 title: Modeling Kilonova Light Curves: Dependence on Nuclear Inputs
 authors: Y. L. Zhu, K. Lund, J. Barnes, T. M. Sprouse, N. Vassh, G. C. McLaughlin, M. R. Mumpower, R. Surman
