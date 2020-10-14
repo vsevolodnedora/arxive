@@ -17,11 +17,12 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2010.06234
+title: The maximum energy of shock-accelerated electrons in a microturbulent magnetic field
+authors: Donald C. Warren, Catherine A. A. Beauchemin, Maxim V. Barkov, Shigehiro Nagataki
+topic: Relativistic shocks propagating into a medium with low magnetization are generated and sustained by small-scale but very strong magnetic field turbulence. This so-called "microturbulence" modifies the typical shock acceleration process, and in particular that of electrons. In this work we perform Monte Carlo (MC) simulations of electrons encountering shocks with microturbulent fields. The simulations cover a three-dimensional parameter space in shock speed, acceleration efficiency, and peak magnetic field strength. From these, a Markov Chain Monte Carlo (MCMC) method was employed to estimate the maximum electron momentum from the MC-simulated electron spectra. Having estimated this quantity at many points well-distributed over an astrophysically relevant parameter space, an MCMC method was again used to estimate the parameters of an empirical formula that computes the maximum momentum of a Fermi-accelerated electron population anywhere in this parameter space. The maximum energy is well-approximated as a broken power-law in shock speed, with the break occurring when the shock decelerates to the point where electrons can begin to escape upstream from the shock.
+subjects: phsyics, shocks, low B field, model, MHD
+revelation: important physicsl update for GRB project
 
 link: https://arxiv.org/abs/2010.05232
 title: Formation of spiral structure from the violent relaxation of self-gravitating disks
