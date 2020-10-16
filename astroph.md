@@ -11,11 +11,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2010.07673
+title: Magnetic field evolution timescales in superconducting neutron stars
+authors: Mikhail E. Gusakov, Elena M. Kantor, Dmitry D. Ofengeim
+topic: The self-consistent approach to the magnetic field evolution in neutron star cores, developed recently, is generalised to the case of superfluid and superconducting neutron stars. Applying this approach to the cold matter of neutron star cores composed of neutrons, protons, electrons, and muons we find that, similarly to the case of normal matter, an arbitrary configuration of the magnetic field may result in generation of macroscopic particle velocities, strongly exceeding their diffusive (relative) velocities. This effect substantially accelerates evolution of the magnetic field in the stellar core. An hierarchy of timescales of such evolution at different stages of neutron star life is proposed and discussed. It is argued that the magnetic field in the core cannot be considered as frozen or vanishing and that its temporal evolution should affect the observational properties of neutron stars.
+subjects: physics, MF, NS, cold
+
+link: https://arxiv.org/abs/2010.07796
+title: FRB 181112 as a Rapidly-Rotating Massive Neutron Star just after a Binary Neutron Star Merger?: Implications for Future Constraints on Neutron Star Equations of State
+authors: Shotaro Yamasaki (HUJI), Tomonori Totani (U. Tokyo), Kenta Kiuchi (AEI)
+topic: The light curve of the fast radio burst (FRB) 181112 is resolved into four successive pulses, and the time interval (~0.8 ms) between the first and third pulses coincides with that between the second and fourth pulses, which can be interpreted as a neutron star (NS) spinning at a period of about 0.8 ms. Although this period is shorter than the most rapidly rotating pulsar currently known (1.4 ms), it is typical for a simulated massive NS formed immediately after the coalescence of binary neutron stars (BNS). Therefore, a BNS merger is a good candidate for the origin of this FRB if the periodicity is real. We discuss the future implications that can be obtained if such a periodicity is detected from FRBs simultaneously with gravitational waves (GW). The remnant spin period Prem inferred from the FRB observation is unique information which is not readily obtained by current GW observations at the post-merger phase. If combined with the mass of the merger remnant Mrem inferred from GW data, it would set a new constraint on the equation of state of nuclear matter. Furthermore, the post-merger quantity Prem/Mrem, or the tidal deformability of the merger remnant, is closely related to the binary tidal deformability parameter Lambda of NSs before they merge, and a joint FRB-GW observation will establish a new limit on Lambda. Thus, if Lambda is also well measured by GW data, a comparison between these two will provide further insights into the nature of nuclear matter and BNS mergers.
+subjects: FRB, observations, movel, interpretations, BNS
 
 link: https://arxiv.org/abs/2010.06234
 title: The maximum energy of shock-accelerated electrons in a microturbulent magnetic field
