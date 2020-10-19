@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2010.08041
+title: Kilonova rates from spherical and axisymmetrical models
+authors: József Kóbori, Zsolt Bagoly, Lajos G. Balázs
+topic: Detecting the thermal emission from double neutron star merger events is a challenging task because of the quick fading of the observed flux. In order to create an efficient observing strategy for their observing method it is crucial to know their intrinsic rate. Unfortunately, the numerous models existing today predict this rate on a vary wide range. Hence, our goal in this paper is to investigate the effect of different level of approximations on the relative rate predictions. Also, we study the effect of distinct ejecta mass lay-outs on the light curve. We find that the ratio of the expected kilonova detections of the spherical to axisymmetrical models is 6:1 (or 2:1, depending on the input parameter set applied in our work). Nevertheless, the light curve shape is only slightly affected by the various ejecta alignments. This means that different ejecta layouts can produce light curves with similar shapes making it a challenging task to infer the structure of the matter outflow. Thus, we conclude that the uncertainty in the rate predictions arising from the various ejecta mass distribution models is negligible compared to the errors present in other input parameters (e.g. binary neutron star merger rate). In addition, we show that up to moderate redshifts (z less 0.2) the redshift distribution type (observed or uniform in volume) does not affect the expected relative rate estimations.
+subjects: kilonova, statistics, observations forecast
+
+link: https://arxiv.org/abs/2010.08282
+title: Self-modulation of Fast Radio Bursts
+authors: Emanuele Sobacchi, Yuri Lyubarsky, Andrei M. Beloborodov, Lorenzo Sironi
+topic: Fast Radio Bursts (FRBs) are extreme astrophysical phenomena entering the realm of non-linear optics, a field developed in laser physics. A classical non-linear effect is self-modulation. We examine the propagation of FRBs through the circumburst environment using the idealised setup of a monochromatic linearly-polarised GHz wave propagating through a uniform plasma slab of density N at distance R from the source. We find that self-modulation occurs if the slab is located within a critical radius Rcrit~1017(N/102cm-3)(L/1042ergs-1)cm, where L is the isotropic equivalent of the FRB luminosity. Self-modulation breaks the burst into pancakes transverse to the radial direction. When R less Rcrit, the transverse size of the pancakes is smaller than the Fresnel scale. The pancakes are strongly diffracted as the burst exits the slab, and interference between the pancakes produces a frequency modulation of the observed intensity with a sub-GHz bandwidth. When R~Rcrit, the transverse size of the pancakes becomes comparable with the Fresnel scale, and the effect of diffraction is weaker. The observed intensity is modulated on a timescale of ten microseconds, which corresponds to the radial width of the pancakes. Our results suggest that self-modulation may cause the temporal and frequency structure observed in FRBs.
+subjects: physics, FRB, radio, modulations 
+
 link: https://arxiv.org/abs/2010.07673
 title: Magnetic field evolution timescales in superconducting neutron stars
 authors: Mikhail E. Gusakov, Elena M. Kantor, Dmitry D. Ofengeim
