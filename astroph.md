@@ -11,6 +11,17 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2010.10101
+title: A unified accreting magnetar model for long-duration gamma-ray bursts and some stripped-envelope supernovae
+authors: W. L. Lin, X. F. Wang, L. J. Wang, Z. G. Dai
+topic: Both the long-duration gamma-ray bursts (LGRBs) and the Type I superluminous supernovae (SLSNe~I) have been proposed to be primarily powered by central magnetars. A correlation, proposed between the initial spin period (P0) and the surface magnetic field (B) of the magnetars powering the X-ray plateaus in LGRB afterglows, indicates a possibility that the magnetars have reached an equilibrium spin period due to the fallback accretion. For the SLSNe~I and a fraction of engine-powered normal type Ic supernovae (SNe~Ic) and broad-lined subclass (SNe~Ic-BL), the magnetars could also reach an accretion-induced spin equilibrium, but the corresponding B-P0 distribution suggests a different accretion rate range. Considering the effect of fallback accretion, magnetars with relatively weak fields are responsible for the SLSNe~I, while those with stronger magnetic fields could lead to SNe~Ic/Ic-BL. Some SLSNe~I in our sample could arise from compact progenitor stars, while others that require longer-term accretion may originate from the progenitor stars with more extended envelopes or circumstellar medium.
+subjects: SN, magnetars, formation
+
+link: https://arxiv.org/abs/2010.10234
+title: On the deceleration of Fanaroff-Riley Class I jets: mass loading of magnetized jets by stellar winds
+authors: Andreu Anglés-Castillo, Manel Perucho, José María Martí, Robert A. Laing
+topic: In this paper we present steady-state RMHD simulations that include a mass-load term to study the process of jet deceleration. The mass-load mimics the injection of a proton-electron plasma from stellar winds within the host galaxy into initially pair plasma jets. The spatial jet evolution covers ~500pc from jet injection in the grid at 10~pc from the jet nozzle. Our simulations use a relativistic gas equation of state and a pressure profile for the ambient medium. We compare these simulations with previous dynamical simulations of relativistic, non-magnetised jets. Our results show that toroidal magnetic fields can prevent fast jet expansion and the subsequent embedding of further stars via magnetic tension. In this sense, magnetic fields avoid a runaway deceleration process. Furthermore, when the mass-load is large enough to increase the jet density and produce fast, differential jet expansion, the conversion of magnetic energy flux into kinetic energy flux (i.e., magnetic acceleration), helps to delay the deceleration process with respect to non-magnetised jets. We conclude that the typical stellar population in elliptical galaxies cannot explain jet deceleration in classical FRI radio galaxies. However, we observe a significant change in the jet composition, thermodynamical parameters and energy dissipation along its evolution, even for moderate values of the mass-load.
+subjects: AGN, jets, physics, models
 
 link: https://arxiv.org/abs/2010.08553
 title: Sleeping beasts: strong toroidal magnetic field in quiescent magnetars explains their large pulsed fraction
