@@ -11,6 +11,19 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2010.14084
+title: Nucleosynthesis imprints from different Type Ia Supernova explosion scenarios and implications for galactic chemical evolution
+authors: F. Lach, F. K. Roepke, I. R. Seitenzahl, B. Coté , S. Gronow, A. J. Ruiter 
+topic: We analyze the nucleosynthesis yields of various Type Ia supernova explosion simulations including pure detonations in sub- Chandrasekhar mass white dwarfs, double detonations and pure helium detonations of sub-Chandrasekhar mass white dwarfs with an accreted helium envelope, a violent merger model of two white dwarfs and deflagrations as well as delayed detonations in Chandrasekhar mass white dwarfs. We focus on the iron peak elements Mn, Zn and Cu. To this end, we also briefly review the different burning regimes and production sites of these elements as well as the results of abundance measurements and several galactic chemical evolution studies. We find that super-solar values of [Mn/Fe] are not restricted to Chandrasekhar mass explosion models. Scenarios including a helium detonation can significantly contribute to the production of Mn, in particular the models proposed for calcium-rich transients. Although Type Ia supernovae are often not accounted for as production sites of Zn and Cu, our models involving helium shell detonations can produce these elements in super-solar ratios relative to Fe. Our results suggest a re-consideration of Type Ia supernova yields in galactic chemical evolution models. A detailed comparison with observations can provide new insight into the progenitor and explosion channels of these events.
+subjects: nucleo, SN, light elements
+
+link: https://arxiv.org/abs/2010.14470
+title: Analytical Solution of Magnetically Dominated Astrophysical Jets/Winds
+authors: Liang Chen, Bing Zhang
+topic: We present an analytical solution of a highly magnetized jet/wind flow. The left-hand of the general force-free jet/wind equation (the "pulsar" equation) is separated into a rotating and a non-rotating term. The two equations with either term can be solved analytically and the two solutions match each other very well. Therefore, we obtain a general approximate solution of a magnetically dominated jet/wind, which covers from the non-relativistic to relativistic regimes, with the drift velocity well matching the cold plasma velocity. The acceleration of a jet includes three stages. 1. The jet flow is located within the Alfven critical surface (i.e. the light cylinder), has a non-relativistic speed, and is dominated by toroidal motion. 2. The jet is beyond the Alfven critical surface where the flow is dominated by poloidal motion and becomes relativistic. The total velocity in these two stages follows the same law vGamma=OmegaR. 3. The evolution law is replaced by vGammaΓ = 1/(Theta sqrt(2-nu)), where Theta is the half opening angle of the jet and Theta less nu less 2 is a free parameter determined by the magnetic field configuration. This is because the earlier efficient acceleration finally breaks the causality connection between different parts in the jet, preventing a global solution. The jet has to carry local charges and currents to support an electromagnetic balance. This approximate solution is consistent with known theoretical results and numerical simulations and it is more convenient to directly compare with observations. This theory may be used to constrain the spin of black holes in astrophysical jets.
+subjects: jet, acceleration, physics
+revelation: might be important for GRB project
+
 link: https://arxiv.org/abs/2010.12749
 title: How are gamma-ray burst radio afterglows populated?
 authors: K.Zhang, Z.B.Zhang, Y.F.Huang, L.M.Song, S.J.Zheng, X.J.Li
