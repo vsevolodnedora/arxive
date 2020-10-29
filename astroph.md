@@ -11,6 +11,24 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2010.15035
+title: On the Torque Reversals of Accreting Neutron Stars
+authors: Unal Ertan
+topic: We have extended the analytical model proposed earlier to estimate the inner disk radius of accreting neutron stars in the strong-propeller (SP) phase, and the conditions for the transitions between the strong and weak propeller (WP) phases (Ertan 2017, 2018) to the WP (accretion with spin-down) and the spin-up (SU) phases, and the torque reversals during the WP/SU transitions. The model can account for some basic observed properties of these systems that are not expected in conventional models: (1) accretion on to the star at low X-ray luminosities and the transitions to the SP phase (no accretion) at critical accretion rates much lower than the rate required for the spin-up/spin-down transition, (2) ongoing accretion throughout a large range of accretion rates while the source is spinning down (WP phase), and (3) transitions between the spin-up and spin-down phases with comparable torque magnitudes, without substantial changes in the mass-flow rate. Our results indicate that the magnitudes of the torques on either side of the torque reversal have a ratio similar for different systems independently of their spin periods, magnetic dipole moments and accretion rates during the transitions. Estimated torque reversal properties in our model are in agreement with the observed torque reversals of 4U 1626--67.
+subjects: NS, accretion, analytic
+
+link: https://arxiv.org/abs/2010.15026
+title: Urca Nuclide Production in Type-I X-ray Bursts and Implications for Nuclear Physics Studies
+authors: Grant Merz, Zach Meisel
+topic: The thermal structure of accreting neutron stars is affected by the presence of urca nuclei in the neutron star crust. Nuclear isobars harboring urca nuclides can be produced in the ashes of Type I X-ray bursts, but the details of their production have not yet been explored. Using the code {\tt MESA}, we investigate urca nuclide production in a one-dimensional model of Type I X-ray bursts using astrophysical conditions thought to resemble the source GS 1826-24. We find that high-mass (A geq 55) urca nuclei are primarily produced late in the X-ray burst, during hydrogen-burning freeze-out that corresponds to the tail of the burst light curve. The ~0.4--0.6~GK temperature relevant for nucleosynthesis of these urca nuclides is much lower than the ~1~GK temperature most relevant for X-ray burst light curve impacts by nuclear reaction rates involving high-mass nuclides. The latter temperature is often assumed for nuclear physics studies. Therefore, our findings alter the excitation energy range of interest in compound nuclei for nuclear physics studies of urca nuclide production. We demonstrate that for some cases this will need to be considered in planning for nuclear physics experiments. Additionally, we show that the lower temperature range for urca nuclide production explains why variations of some nuclear reaction rates in model calculations impacts the burst light curve but not local features of the burst ashes.
+subjects: nucleo, stellar physics, heavy elements
+
+link: https://arxiv.org/abs/2010.15042
+title: The JAGWAR Prowls LIGO/Virgo O3 Paper I: Radio Search of a Possible Multi-Messenger Counterpart of the Binary Black Hole Merger Candidate S191216ap
+authors: D. Bhakta, K. P. Mooley, A. Corsi, A. Balasubramanian, D. Dobie, D. A. Frail, G. Hallinan, D. L. Kaplan, S. T. Myers, L. P. Singer
+topic: We present a sensitive search with the Karl G. Jansky Very Large Array (VLA) for the radio counterpart of the gravitational wave candidate S191216ap, classified as a binary black hole merger, and suggested to be a possible multi-messenger event, based on the detection of a high energy neutrino and a TeV photon. We carried out a blind search at C band (4--8 GHz) over 0.3 deg2 of the gamma-ray counterpart of S191216ap reported by the High-Altitude Water Cherenkov Observatory (HAWC).
+subjects: observations, radio counterparts
+
 link: https://arxiv.org/abs/2010.14084
 title: Nucleosynthesis imprints from different Type Ia Supernova explosion scenarios and implications for galactic chemical evolution
 authors: F. Lach, F. K. Roepke, I. R. Seitenzahl, B. Coté , S. Gronow, A. J. Ruiter 
