@@ -5,11 +5,12 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2010.15837
+title: Collapsar R-Process Yields Can Reproduce [Eu/Fe] Abundance Scatter in Metal-Poor Stars
+authors: Kaley Brauer, Alexander P. Ji, Maria R. Drout, Anna Frebel
+topic: It is unclear if neutron star mergers can explain the observed r-process abundances of metal-poor stars. Collapsars, defined here as rotating massive stars whose collapse results in a rapidly accreting disk around a black hole that can launch jets, are a promising alternative. We find that we can produce a self-consistent model in which a population of collapsars with stochastic europium yields synthesizes all of the r-process material in metal-poor ([Fe/H] less -2.5) stars. Our model reproduces the observed scatter and evolution of scatter of [Eu/Fe] abundances. We find that if collapsars are the dominant r-process site for metal-poor stars, r-process synthesis may be linked to supernovae that produce long gamma-ray bursts. Our results also allow for the possibility that core-collapse supernovae beyond those that launch gamma-ray bursts also produce r-process material (e.g., potentially a subset of Type Ic-BL supernovae). Furthermore, we identify collapsar jet properties (isotropic energy, engine luminosity, or engine time) which may trace r-process yield and verify that the amount of r-process yield produced per collapsar in our model (~0.07 Msun) is consistent with other independent estimates. In the future, achieving 0.05 dex precision on distribution scatter or a reliable selection function would further constrain our probe of r-process production. Our model would also hold for another prompt r-process site with a power-law yield, and work is needed to determine if, for example, fast-merging neutron stars can also explain abundance scatter.
+subjects: r-process, collapsars, alternative source
+revelatiopn: might be good to reference in thesis
 
 link: https://arxiv.org/abs/2010.15136
 title: Non-thermal neutrinos created by shock acceleration in successful and failed core-collapse supernova
