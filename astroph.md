@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2011.01495
+title: Heavy double neutron stars: birth, mid-life and death
+authors: Shanika Galaudage, Christian Adamcewicz, Xing-Jiang Zhu, Eric Thrane
+topic: Radio pulsar observations probe the lives of Galactic double neutron-star (DNS) systems while gravitational waves enable us to study extragalactic DNS in their final moments. By combining measurements from radio and gravitational-wave astronomy, we seek to gain a more complete understanding of DNS from formation to merger. We analyse the recent gravitational-wave binary neutron star mergers GW170817 and GW190425 in the context of other DNS known from radio astronomy. By employing a model for the birth and evolution of DNS, we measure the mass distribution of DNS at birth, at mid-life (in the radio), and at death (in gravitational waves). We consider the hypothesis that the high-mass gravitational-wave event GW190425 is part of a subpopulation formed through unstable case BB mass transfer, which quickly merge in ~10−100 Myr. We find mild evidence to support this hypothesis and that GW190425 is not a clear outlier from the radio population as previously claimed. If there are fast-merging binaries, we estimate that they constitute 8-79% of DNS at birth (90% credibility). We estimate the typical delay time between the birth and death of fast-merging binaries to be =5-401 Myr (90% credibility). We discuss the implications for radio and gravitational-wave astronomy.
+subjects: formation, DNS, channels, pulsars
+
 link: https://arxiv.org/abs/2011.00124
 title: Magnetized thick accretion disc around distorted static black hole
 authors: Shokoufe Faraji, Audrey Trova
