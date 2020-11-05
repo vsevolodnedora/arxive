@@ -17,6 +17,25 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2011.02419
+title: i-process nucleosynthesis: observational evidences from CEMP stars
+authors: Partha Pratim Goswami, Aruna Goswami
+topic: The surface chemical compositions of a large fraction of Carbon-Enhanced Metal-Poor (CEMP) stars, the so-called CEMP-r/s stars, are known to exhibit enhancement of both s- and r-process elements. For these stars, the heavy element abundances cannot be explained either by s-process or r-process nucleosynthesis alone, as the production sites of s- and r-process elements are very different, and these two processes produce distinct abundance patterns. Thus, the observational evidence of the double enhancement seen in CEMP-r/s stars remains a puzzle as far as the origin of the elements is concerned. In this work, we have critically analysed the observed abundances of heavy elements in a sample of eight CEMP-r/s stars from literature, to trace the origin of the observed double enhancement. Towards this, we have conducted a parametric-model based analysis to delineate the contributions of s- and r-process nucleosynthesis to the observed elemental abundances. We have further examined if the i-process (intermediate process) nucleosynthesis, that occurs at a high neutron-density (n~1015 cm-3 ) produced during proton-ingestion from a H-rich envelope to the intershell region of an AGB star, that is capable of producing both r- and s-process elements in a single stellar site, could explain the observed abundance patterns of the sample stars. Our analysis shows that the observed abundance patterns of the selected sample of CEMP-r/s stars could be fairly well reproduced using the i-process model yields.
+subjects: i-process, nucle, MP, starts
+revelation: might be usefull to reference in the thesis
+
+link: https://arxiv.org/abs/2011.02204
+title: Effect of hyperons on f-mode oscillations in Neutron Stars
+authors: Bikram Keshari Pradhan, Debarati Chatterjee
+topic: As the densities in the interior of neutron stars exceed those of terrestrial nuclear experiments, they provide a scope for studying the nature of dense matter under extreme conditions. The composition of the inner core of neutron stars is highly uncertain, and it is speculated that exotic forms of matter such as hyperons may appear there. Gravitational waves emitted by unstable oscillation modes in neutron stars contain information about their interior composition and therefore allow us to probe the interior directly. Recently, a systematic investigation of f-mode oscillations in neutron stars revealed the role of the uncertainty in nuclear saturation parameters, particularly the effective nucleon mass, on its frequency. In this work, we study the influence of the appearance of hyperons on f-mode oscillation frequencies and therefore on the emission of gravitational waves. We also speculate whether a future detection of f-mode frequencies could provide a possibility of probing the presence of hyperons in the neutron star core.
+subjects: GW, NS, EOS, structure
+
+link: https://arxiv.org/abs/2011.02209
+title: Merged white dwarfs and nucleosynthesis
+authors: Simon Jeffery, Xianfei Zhang
+topic: Orbital decay mechanisms argue that double white dwarf mergers are inevitable, but extremely rare. Whilst some mergers result in explosions, the survivors re-ignite helium and burn brightly for tens of thousands or millions of years. Candidate survivors include extreme helium stars, R CrB variables and various classes of helium-rich subluminous star. Nuclear waste on the survivors' surfaces provides evidence of the stars' nuclear history prior to and their nucleosynthesis during the merger. Extensive and deep spectroscopic surveys offer rich prospects for future discoveries.
+subjects: WD, off topic
+
 link: https://arxiv.org/abs/2011.01495
 title: Heavy double neutron stars: birth, mid-life and death
 authors: Shanika Galaudage, Christian Adamcewicz, Xing-Jiang Zhu, Eric Thrane
