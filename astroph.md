@@ -11,11 +11,31 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2011.02717
+title: Kilonova Emission From Black Hole-Neutron Star Mergers. II. Luminosity Function and Implications for Target-of-opportunity Observations of Gravitational-wave Triggers and Blind Searches
+authors: Jin-Ping Zhu, Shichao Wu, Yuan-Pei Yang, Bing Zhang, He Gao, Yun-Wei Yu, Zhuo Li, Zhoujian Cao, Liang-Duan Liu, Yan Huang, Xing-Han Zhang
+topic: We present detailed simulations of kilonova (KN) and GRB afterglow emission originating from BH-NS mergers. We present KN luminosity function and discuss the detectability of KN and GRB afterglow in connection with GW detections, GW-triggered ToO observations, and blind searches in time-domain survey observations. The predicted absolute magnitude of the BH-NS merger KNe at 0.5day after the merger falls in the range of [−10,−15.5]. The simulated luminosity function contains the viewing angle distribution information of the anisotropic KN emission. We simulate the GW detection rates, detectable distances and signal duration, for the future networks of 2nd, 2.5th, and 3rd generation GW detectors. BH-NS mergers produce brighter KNe and afterglows if the primary BH has a high aligned-spin, and the NS is less-massive with a stiff EoS. The detectability of KN emission is sensitive to the BH spin. If primary BHs typically have a low spin, the EM counterpart of BH-NSs are hard to discover. For the 2nd generation GW detector networks, a limiting magnitude of mlimit~23-24mag is required to detect the KNe even if BH high spin is assumed. This could provide a plausible explanation for the lack of KN detection from BH-NS candidates during O3: either there is no EM counterpart, or the current follow-up observations are too shallow. These observations may still have the chance to detect the on-axis jet afterglow associated with a sGRB or an orphan afterglow. In future GW detection eras, more remote GW signals can be detected, but their associated KNe are more difficult to detect. Follow up observations can in any case detect possible associated sGRB afterglows, from which KN signatures may be studied. For time-domain survey observations, a high-cadence search in redder filters is recommended to detect more BH-NS KNe and afterglows.
+subjects: MM, kilonova, sGRB, models
+revelation: worth looking into for GRB - thesis connection
+
+link: https://arxiv.org/abs/2011.02841
+title: Some properties of doubly-degenerate stars
+authors: Shin'ichirou Yoshida, Junya Tanaka
+topic: We investigate critical masses of and circular geodesics around doubly-degenerate stars (DDSs) which are composed of cold nuclear matter as well as cold Fermionic dark matter (DM). We here consider asymmetric dark Fermion with self-interaction as a DM candidate. These stars have core-envelope structures and are categorized into baryon-enveloped and DM-enveloped, according to the composition of their envelope. It is seen that the baryon-enveloped and DM-enveloped classes have their own critical masses determined mainly by the dominant component in their envelope. For a typical parameter sets, we see that a balanced mixture of two species may lead to smaller masses than if the either of the species is dominant.
+We also show that for a highly DM-enveloped case circular orbits in the vacuum region terminates at the innermost stable circular orbit (ISCO) in vacuum, but circular orbits of smaller radius are possible in the DM-envelope forming a gap between the ISCO and the inner orbits.
+subjects: EOS, quantum
+
+link: https://arxiv.org/abs/2011.02898
+title: A study of radial self-similar non-relativistic MHD outflow models: parameter space exploration and application to the water fountain W43A
+authors: C. Ceccobello, M.H.M. Heemskerk, Y. Cavecchi, W.H.T. Vlemmings, D. Tafoya
+topic: Outflows, spanning a wide range of dynamical properties and spatial extensions, have now been associated with a variety of accreting astrophysical objects, from supermassive black holes at the core of active galaxies to young stellar objects. The role of such outflows is key to the evolution of the system that generates them, for they extract a fraction of the orbiting material and angular momentum from the region close to the central object and release them in the surroundings. The details of the launching mechanism and their impact on the environment are fundamental to understand the evolution of individual sources and the similarities between different types of outflow-launching systems. We solve semi-analytically the non-relativistic, ideal, magnetohydrodynamics (MHD) equations describing outflows launched from a rotating disk threaded with magnetic fields using our new numerical scheme. We present here a parameter study of a large sample of new solutions. We study the different combinations of forces that lead to a successfully launched jet and discuss their global properties. We show how these solutions can be applied to the outflow of the water fountain W43A for which we have observational constraints on magnetic field, density and velocity of the flow at the location of two symmetrical water maser emitting regions.
+subjects: physics, MHD, non-relativistic, self-similar, jet
+
+link: https://arxiv.org/abs/2011.02973
+title: A backscattering dominated prompt emission model for the prompt phase of Gamma ray bursts
+authors: Mukesh K Vyas, Asaf Pe'er, David Eichler
+topic: As gamma-ray burst (GRB) jet drills its way through the collapsing star, it traps a baryonic cork ahead of it. Here we explore a prompt emission model for GRBs in which the jet does not cross the cork, but rather photons that are emitted deep in the flow are scattered inside the expanding cork and escape largely from the back end of it as they push it from behind. Due to the relativistic motion of the cork, these photons are easily seen by an observer close to the jet axis peaking at. We show that this model naturally explains several key observational features including: (1) Low energy spectral slope, and high energy power law index with an intermediate thermal spectral region; (2)decay of the prompt emission light curve as ; (3) Delay of soft photons; (4) peak energy - isotropic energy (the so-called Amati) correlation, with, resulting from different viewing angles. At low luminosities, our model predicts an observable turn off in the Amati relation with. (4) An anti-correlation between the spectral FWHM and time as. (5) Temporal evolution, with increase of the high energy spectral slope with time. (6) Distribution of peak energies  in the observed GRB population. We discuss the consequence of our model in view of the current and future prompt emission observations.
+subjects: GRB, novel method, propt emission
 
 link: https://arxiv.org/abs/2011.02419
 title: i-process nucleosynthesis: observational evidences from CEMP stars
