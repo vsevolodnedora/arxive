@@ -5,11 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2011.03239
+title: Evolution of magnetic deformation in neutron star crust
+authors: Yasufumi Kojima, Shota Kisaka, Kotaro Fujisawa
+topic: In this study, we examine the magnetic field evolution occurring in a neutron star crust. Beyond the elastic limit, the lattice ions are assumed to act as a plastic flow. The Ohmic dissipation, Hall drift, and bulk fluid velocity driven by the Lorentz force are considered in our numerical simulation. A magnetically induced quadrupole deformation is observed in the crust during the evolution. Generally, the ellipticity decreases as the magnetic energy decreases. In a toroidal-field-dominated model, the sign of the ellipticity changes. Namely, the initial prolate shape tends to become oblate. This occurs because the toroidal component decays rapidly on a smaller timescale than the poloidal dipole component. We find that the magnetic dipole component does not change significantly on the Hall timescale of ~1Myr for the considered simple initial models. Thus, a more complex initial model is required to study the fast decay of surface dipoles on the abovementioned timescale.
+subjects: NS, MF, physics
+
+link: https://arxiv.org/abs/2011.03500
+title: The Physical Mechanisms of Fast Radio Bursts
+authors: Bing Zhang
+topic: Fast radio bursts are mysterious millisecond-duration transients prevalent in the radio sky. Rapid accumulation of data in recent years has facilitated an understanding of the underlying physical mechanisms of these events. Knowledge gained from the neighboring fields of gamma-ray bursts and radio pulsars also offered insight. Here I review developments in this fast-moving field. Two generic categories of radiation model invoking either magnetospheres of compact objects (neutron stars or black holes) or relativistic shocks launched from such objects have been much debated. The recent detection of a Galactic fast radio burst in association with a soft gamma-ray repeater suggests that magnetar engines can produce at least some, and probably all, fast radio bursts. Other engines that could produce fast radio bursts are not required, but are also not impossible.
+subjects: FRB, phsics, review
+
+link: https://arxiv.org/abs/2011.03508
+title: Relativistic effective action of dynamical gravitomagnetic tides for slowly rotating neutron stars
+authors: Pawan Kumar Gupta, Jan Steinhoff, Tanja Hinderer
+topic: Gravitomagnetic quasi-normal modes of neutron stars are resonantly excited by tidal effects during a binary inspiral, leading to a potentially measurable effect in the gravitational wave signal. We take an important step towards incorporating these effects in waveform models by developing a relativistic effective action for the gravitomagnetic dynamics that clarifies a number of subtleties. Working in the slow-rotation limit, we first consider the post-Newtonian approximation and explicitly derive the effective action from the equations of motion. We demonstrate that this formulation opens a novel way to compute mode frequencies, yields insights into the relevant matter variables, and elucidates the role of a shift symmetry of the fluid properties under a displacement of the gravitomagnetic mode amplitudes. We then construct a fully relativistic action based on the symmetries and a power counting scheme. This action involves four coupling coefficients that depend on the internal structure of the neutron star and characterize the key matter parameters imprinted in the gravitational waves. We show that, after fixing one of the coefficients by normalization, the other three directly involve the two kinds of gravitomagnetic Love numbers (static and irrotational), and the mode frequencies. We discuss several interesting features and dynamical consequences of this action. Our results provide the foundation for deriving precision predictions of gravitomagnetic effects, and the nuclear physics they encode, for gravitational-wave astronomy.
+subjects: GW, EOS, BNS
 
 link: https://arxiv.org/abs/2011.02717
 title: Kilonova Emission From Black Hole-Neutron Star Mergers. II. Luminosity Function and Implications for Target-of-opportunity Observations of Gravitational-wave Triggers and Blind Searches
