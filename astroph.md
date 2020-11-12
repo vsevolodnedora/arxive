@@ -11,6 +11,19 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2011.05945
+title: Magnetized tori in the background of a deformed compact object
+authors: Shokoufe Faraji, Audrey Trova
+topic: In this paper, we studied the relativistic accretion thick disc model raised by a deformed compact object up to the quadrupole moment. The goal of this work is to study the space-time and the effects of quadrupole moments via studying the properties of these equilibrium sequences of magnetized, non-self-gravitating discs in this space-time. We employed different angular momentum distributions and discussed the procedure of building this toroidal disc model based on a combination of approaches previously considered in the literature. We have shown the properties of this relativistic accretion disc model and its dependence on the initial parameters. Besides, this theoretical model can serve as the initial data for numerical simulations.
+subjects: phisics, disk, model, angular momentum
+
+
+link: https://arxiv.org/abs/2011.05527
+title: Polarized Radiation Transfer in Neutron Star Surface Layers
+authors: Joseph A. Barchas, Kun Hu, Matthew G. Baring
+topic: The study of polarized radiation transfer in the highly-magnetized surface locales of neutron stars is of great interest to the understanding of accreting X-ray pulsars, rotation-powered pulsars and magnetars. This paper explores scattering transport in the classical magnetic Thomson domain that is of broad applicability to these neutron star classes. The development of a Monte Carlo simulation for the polarized radiative transfer is detailed: it employs an electric field vector formalism to enable a breadth of utility in relating linear, circular and elliptical polarizations. The simulation can be applied to any neutron star surface locale, and is adaptable to accretion column and magnetospheric problems. Validation of the code for both intensity and Stokes parameter determination is illustrated in a variety of ways. Representative results for emergent polarization signals from surface layers are presented for both polar and equatorial magnetic locales, exhibiting contrasting signatures between the two regions. There is also a strong dependence of these characteristics on the ratio of the frequency of a photon to the cyclotron frequency. Polarization signatures for high opacity domains are presented, highlighting compact analytic approximations for the Stokes parameters and anisotropy relative to the local field direction for an extended range of frequencies. These are very useful in defining injection conditions deep in the simulation slab geometries, expediting the generation of emission signals from highly opaque stellar atmospheres. The results are interpreted throughout using the polarization characteristics of the magnetic Thomson differential cross section.
+subjects: radiation trasport, polarisation, monte-carlo
+
 link: https://arxiv.org/abs/2011.03563
 title: The first five years of gravitational-wave astrophysics
 authors: Salvatore Vitale
