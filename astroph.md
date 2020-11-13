@@ -11,6 +11,19 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2011.05990
+title: The Non Relativistic Interiors of Ultra-Relativistic Explosions: Extension to the Blandford McKee Solutions
+authors: Tamar Faran, Re'em Sari
+topic: The hydrodynamics of an ultrarelativistic flow, enclosed by a strong shock wave, are described by the well known Blandford-McKee solutions in spherical geometry. These solutions, however, become inaccurate at a distance ~R/2 behind the shock wave, where R is the shock radius, as the flow approaches Newtonian velocities. In this work we find a new self-similar solution which is an extension to the Blandford-McKee solutions, and which describes the interior part of the blast wave, where the flow reaches mildly relativistic to Newtonian velocities. We find that the velocity profile of the internal part of the flow does not depend on the value of the shock Lorentz factor, Gamma, and is accurate from r=0 down to a distance of R/Gamma2 behind the shock. Despite the fact that the shock wave is in causal contact with the entire flow behind it, a singular point appears in the equations. Nevertheless, the solution is not required to pass through the singular point: for ambient density that decreases slowly enough, rho prop to r-k with, a secondary shock wave forms with an inflow at the origin.
+subjects: GRB, phsycs, shock
+revelation: important for GRB project
+
 link: https://arxiv.org/abs/2011.05945
 title: Magnetized tori in the background of a deformed compact object
 authors: Shokoufe Faraji, Audrey Trova
