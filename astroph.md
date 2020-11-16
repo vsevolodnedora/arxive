@@ -5,17 +5,24 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2011.06607
+title: X-ray and Radio Bursts from the Magnetar 1E1547.0-5408
+authors: G.L. Israel, M. Burgay, N. Rea, P. Esposito, A. Possenti, S. Dall'Osso, L. Stella, M. Pilia, A. Tiengo, A. Ridnaia, A.Y. Lien, D.D. Frederiks, F. Bernardini
+topic: We report on simultaneous radio and X-ray observations of the radio-emitting magnetar 1E1547.0-5408 on 2009 January 25 and February 3, with the 64-m Parkes radio telescope and the Chandra and XMM-Newton X-ray observatories. The magnetar was observed in a period of intense X-ray bursting activity and enhanced X-ray emission. We report here on the detection of two radio bursts from 1E1547.0-5408, reminiscent of Fast Radio Bursts (FRBs). One of the radio bursts was anticipated by ~1s (about half a rotation period of the pulsar) by a bright SGR-like X-ray burst, resulting in a []. Radio pulsations were not detected during the observation showing the FRB-like radio bursts, while they were detected in the previous radio observation. We also found that the two radio bursts are neither aligned with the latter radio pulsations nor with the peak of the X-ray pulse profile (phase shift of ~0.2). Comparing the luminosity of these FRB-like bursts and those reported from SGR1935+2154, we find that the wide range in radio efficiency and/or luminosity of magnetar bursts in the Galaxy may bridge the gap between "ordinary" pulsar radio bursts and the extragalactic FRB phenomenon.
+subjects: magnetar, FRB, observation
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2011.06826
+title: Model of heat diffusion in the outer crust of bursting neutron stars
+authors: D. G. Yakovlev, A. D. Kaminker, A. Y. Potekhin, P. Haensel
+topic: We study heat diffusion after an energy release in a deep spherical layer of the outer neutron star crust. We demonstrate that this layer possesses specific heat-accumulating properties, absorbing heat and directing it mostly inside the star. It can absorb up to about [] due to its high heat capacity, until its temperature exceeds []K and triggers a rapid neutrino cooling. A warm layer with []K can serve as a good heat reservoir, which is thermally decoupled from the inner crust and the stellar core for a few months. We present a toy model to explore the heat diffusion within the heat-accumulating layer, and we test this model using numerical simulations. We formulate some generic features of the heat propagation which can be useful, for instance, for the interpretation of superbursts in accreting neutron stars. We present a self-similar analysis of late afterglow after such superbursts, which can be helpful to estimate properties of bursting stars.
+subjects: NS. structure, crust, model, physics
+
+link: https://arxiv.org/abs/2011.06729
+title: What determines the structure of short gamma-ray burst jets?
+authors: Gerardo Urrutia, Fabio De Colle, Ariadna Murguia-Berthier, Enrico Ramirez-Ruiz
+topic: The discovery of GRB 170817A, the first unambiguous off-axis short gamma-ray burst arising from a neutron star merger, has challenged our understanding of the angular structure of relativistic jets. The late afterglow of GRB 170817A has been described by a structured jet seen slightly off-axis (at an observer angle of 20-30deg). Studies of the jet dynamics and propagation usually assume that the jet is ejected from the central engine with a top-hat structure and its final structure, which determines the observed light curve and spectra, is primarily regulated by the interaction with the nearby environment. However, relativistic jets are expected to be produced with a structure that is more complex than a simple top-hat, as shown by global accretion simulations. In this work, we present results of numerical simulations of short GRBs launched with a wide range of initial structures, durations, luminosities, and ejection time histories. We follow the interaction of the jet with the pre-collapse, merger remnant wind and compute its final structure at distances 10to11~cm from the central engine. We show that the final jet structure, as well as the resulting afterglow emission (at much larger distances), depend strongly on the initial structure of the jet, its luminosity and duration. We find that the initial structure at the jet is preserved for long-lasting sGRBs, while it is strongly modified for jets barely making their way through the wind. This illustrates the importance of combining the results of global simulations with propagation studies in order to better predict the expected afterglow signatures from neutron star mergers. Structured jets provide a reasonable description of the GRB 170817A afterglow emission with an off-axis angle θobs=22.5∘ while top-hat jets do not.
+subjects: sGRB, jet, launching, MHD, models
+revelation: very importnat for GRB project, its future
 
 link: https://arxiv.org/abs/2011.05990
 title: The Non Relativistic Interiors of Ultra-Relativistic Explosions: Extension to the Blandford McKee Solutions
