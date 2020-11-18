@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2011.08428
+title: Binary Neutron Star Mergers in AGN Accretion Disks: Cocoon and Ejecta Shock Breakouts
+authors: Jin-Ping Zhu, Bing Zhang, Yun-Wei Yu, He Gao
+topic: Compact binary coalescences are believed to occur in accretion disks around supermassive black holes. Here we show that a putative jet launched from the merger of a binary neutron star (BNS) or a neutron star--black hole (NSBH) binary occurred at the migration trap in an active galactic nucleus (AGN) disk would be choked. The jet energy is deposited within the disk materials to power a hot cocoon. The cocoon is energetic enough to break out from the AGN disk and produce a bright X-ray shock breakout transient peaking at ~0.15d after the merger. The peak luminosity is estimated as ~1046ergs−1, which can be discovered by Einstein Probe from zless0.5. Later on, the non-relativistic ejecta launched from the merger would break out the disk, powering an X-ray/UV flare peaking at ~0.5d after the merger. This second shock breakout signal may be detected by UV transient searches. The cocoon cooling emission and kilonova emission are outshone by the disk emission. Future joint observations of gravitational waves from BNS/NSBH mergers and associated two shock breakout signatures can provide a strong support for the compact binary coalescence formation channel in AGN disks.
+subjects: AGN, BNS
+
 link: https://arxiv.org/abs/2011.07469
 title: s-Processing in AGB Stars Revisited. III. Neutron captures from MHD mixing at different metallicities and observational constraints
 authors: Maurizio Busso, Diego Vescovi, Sara Palmerini, Sergio Cristallo, Vincenzo Antonuccio Delogu
