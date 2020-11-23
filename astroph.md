@@ -5,6 +5,61 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2011.10417
+title: The interaction between shocks and plasma turbulence: phase space transport
+authors: Domenico Trotta, Francesco Valentini, David Burgess, Sergio Servidio
+topic: The interaction of collisionless shocks with fully developed plasma turbulence is numerically investigated. Hybrid kinetic simulations, where a turbulent jet is slammed against an oblique shock, are employed to address the role of upstream turbulence on plasma transport. A novel technique, using coarse-graining of the Vlasov equation, is proposed, showing that the transport properties strongly depend on upstream turbulence strength, with turbulent structures-modulated patterns. These results might be relevant for the understanding of acceleration and heating processes in space plasmas.
+subjects: phsycis, shocks, models
+
+link: https://arxiv.org/abs/2011.10557
+title: Axisymmetric models for neutron star merger remnants with realistic thermal and rotational profiles
+authors: Giovanni Camelio, Tim Dietrich, Stephan Rosswog, Brynmor Haskell
+topic: Merging neutron stars are expected to produce hot, metastable remnants in rapid differential rotation, which subsequently cool and evolve into rigidly rotating neutron stars or collapse to black holes. Studying this metastable phase and its further evolution is essential for the prediction and interpretation of the electromagnetic, neutrino, and gravitational signals from such a merger. In this work, we model binary neutron star merger remnants and propose new rotation and thermal laws that describe post-merger remnants. Our framework is capable to reproduce quasi-equilibrium configurations for generic equations of state, rotation and temperature profiles, including nonbarotropic ones. We demonstrate that our results are in agreement with numerical relativity simulations concerning bulk remnant properties like the mass, angular momentum, and the formation of a massive accretion disk. Because of the low computational cost for our axisymmetric code compared to full 3+1-dimensional simulations, we can perform an extensive exploration of the binary neutron star remnant parameter space studying several hundred thousand configurations for different equation of states.
+subjects: BNS, postmerger, remnant, models, non-conventional
+
+link: https://arxiv.org/abs/2011.10499
+title: Gravitational-wave Signals From Three-dimensional Supernova Simulations With Different Neutrino-Transport Methods
+authors: Haakon Andresen, Robert Glas, H-Thomas Janka 
+topic: We compare gravitational-wave (GW) signals from eight three-dimensional simulations of core-collapse supernovae from Glas et al. (2019), using two different progenitors with zero-age main sequence masses of 9 and 20 solar masses. The collapse of each progenitor was simulated four times, at two different grid resolutions and with two different neutrino transport methods, using the Aenus-Alcar code. The main goal of this study is to assess the validity of recent concerns that the so-called "Ray-by-Ray+" (RbR+) approximation is problematic in core-collapse simulations and can adversely affect theoretical GW predictions. Therefore, signals from simulations using RbR+ are compared to signals from corresponding simulations using a fully multidimensional (FMD) transport scheme. The 9 solar-mass progenitor successfully explodes, whereas the 20 solar-mass model does not. Both the standing accretion shock instability and hot-bubble convection develop in the postshock layer of the non-exploding models. In the exploding models, neutrino-driven convection in the postshock flow is established around 100 ms after core bounce and lasts until the onset of shock revival. We can, therefore, judge the impact of the numerical resolution and neutrino transport under all conditions typically seen in non-rotating core-collapse simulations. We find excellent qualitative agreement in all GW features and mostly very satisfactory quantitative agreement between simulations using the different transport schemes. Overall, resolution-dependent differences in the hydrodynamic behaviour of low-resolution and high-resolution models turn out to have a greater impact on the GW signals than consequences of the different transport methods. Furthermore, increasing the resolution decreases the discrepancies between models with different neutrino transport.
+subjects: SN, GW, neutrino scheme, tests
+
+link: https://arxiv.org/abs/2011.10421
+title: Towards regular serendipitous detections of kilonovae by wide-field surveys
+authors: Mouza Almualla, Shreya Anand, Michael W. Coughlin, Tim Dietrich, Nidhal Guessoum, Ana Sagués Carracedo, Tomás Ahumada, Igor Andreoni, Sarah Antier, Eric C. Bellm, Mattia Bulla, Leo P. Singer
+topic: The rise of multi-messenger astronomy has brought with it the need to exploit all available data streams and learn more about the astrophysical objects that fall within its breadth. One possible avenue is the search for serendipitous electromagnetic counterparts of gamma-ray bursts (GRBs) and gravitational-wave signals, known as kilonovae. With surveys such as the Zwicky Transient Facility (ZTF), which observes the sky with a cadence of ~ three days, the existing counterpart locations are likely to be observed; however, due to the significant amount of sky to explore, it is difficult to search for these fast-evolving candidates. It is thus beneficial for the survey cadence to be optimized to find and identify transients of this type such that further photometric and spectroscopic observations can be made. We explore how to improve the cadence of wide field-of-view surveys like ZTF to enable such identifications. We show that with improved observational choices, e.g., the adoption of a ~ nightly cadence and the prioritization of redder photometric bands, detection rates improve by about a factor of two relative to the nominal cadence. These results demonstrate how an optimal use of ZTF increases the likelihood of kilonova discovery independent of gravitational waves or GRBs, thereby allowing for a sensitive search with less interruption of its nominal cadence through Target of Opportunity programs.
+subjects: observations 
+
+link: https://arxiv.org/abs/2011.09921
+title: "Slow" Radio Bursts from Galactic Magnetars?
+authors: Bing Zhang
+topic: Recently, one fast radio burst, FRB 200428, was detected from the Galactic magnetar SGR J1935+2154 during one X-ray burst. This suggests that magnetars can make FRBs. On the other hand, the majority of X-ray bursts from SGR J1935+2154 are not associated with FRBs. One possible reason of such rarity of FRB-SGR-burst associations is that the FRB emission is much more narrowly beamed than SGR burst emission. If such an interpretation is true, one would expect to detect radio bursts with viewing angle somewhat outside the narrow emission beam. These "slow" radio bursts (SRBs) would have broader widths and lower flux densities due to the smaller Doppler factor involved. The 2.2-s long, 111 MHz radio burst detected from SGR J1935+2154 by the BSA LPI radio telescope may be such an SRB if the spectral slope is positive. If the FRB beam is narrow, there should be many more SRBs than FRBs from Galactic magnetars. Non-detection of these SRBs would disfavor the assumption that all SGR bursts are associated with narrow-beam FRBs.
+subjects: FRB, magnetar
+
+link: https://arxiv.org/abs/2011.09762
+title: The evolution of a newborn millisecond magnetar with a propeller-recycling disk
+authors: Shao-Ze Li, Yun-Wei Yu, He Gao, Bing Zhang
+topic: A rapidly rotating and highly magnetized neutron star (NS) could be formed from the explosive phenomena such as superluminous supernovae and gamma-ray bursts. This newborn NS can substantially influence the emission of these explosive transients through its spin-down. The spin-down evolution of the NS can sometimes be affected by fallback accretion, although it is usually regulated by the magnetic dipole radiation and gravitational wave radiation of the NS. Under appropriate conditions, the accreting material can be firstly ejected and subsequently recycled back, so that the accretion disk can keep in a quasi-steady state for a long time. Here we describe the interaction of the NS with such a propeller-recycling disk and their co-evolution. Our result shows that, the spin-down of the NS can be initially dominated by the propeller, which prevents the disk material from falling onto the NS until hundreds or thousands of seconds later. It is suggested that the abrupt fall of the disk material onto the NS could significantly suppress the magnetic dipole radiation and then convert the NS from a normal magnetar to a low-field magnetar. This evolution behavior of the newborn NS can help to understand the very different influence of the NS on the early GRB afterglows and the late supernova/kilonova emission.
+subjects: NS, disk, magnetar
+
+link: https://arxiv.org/abs/2011.09354
+title: Heat release in accreting neutron stars
+authors: Mikhail E. Gusakov, Andrey I. Chugunov
+topic: Observed thermal emission from accreting neutron stars (NSs) in a quiescent state is believed to be powered by nonequilibrium nuclear reactions that heat the stellar crust (deep crustal heating paradigm). We derive a simple universal formula for the heating efficiency, assuming that an NS has a fully accreted crust. We further show that, within the recently proposed thermodynamically consistent approach to the accreted crust, the heat release can be parametrized by the only one parameter -- the pressure Poi at the outer-inner crust interface (as we argue, this pressure should not necessarily coincide with the neutron-drip pressure). We discuss possible values of Poi for a selection of nuclear models that account for shell effects, and determine the net heat release and its distribution in the crust as a function of Poi. We conclude that the heat release should be reduced by a factor of few in comparison to previous works.
+subjects: NS, structure, crust
+
+link: https://arxiv.org/abs/2011.08863
+title: Black hole-neutron star coalescence: effects of the neutron star spin on jet launching and dynamical ejecta mass
+authors: Milton Ruiz, Vasileios Paschalidis, Antonios Tsokaros, Stuart L. Shapiro
+topic: Black hole-neutron star (BHNS) mergers are thought to be sources of gravitational waves (GWs) with coincident electromagnetic (EM) counterparts. To further probe whether these systems are viable progenitors of short gamma-ray bursts (sGRBs) and kilonovae, and how one may use (the lack of) EM counterparts associated with LIGO/Virgo candidate BHNS GW events to sharpen parameter estimation, we study the impact of neutron star spin in BHNS mergers. Using dynamical spacetime magnetohydrodynamic simulations of BHNSs initially on a quasicircular orbit, we survey configurations that differ in the BH spin, and the binary mass ratio. The general trend we find is that increasing the NS prograde spin increases both the rest mass of the accretion disk onto the remnant black hole, and the rest mass of dynamically ejected matter. a magnetically--driven jet is launched only for q=3:1 regardless of the initial NS spin. The lifetime of the jets 1.5s. and their outgoing Poynting luminosity are consistent with typical sGRBs luminosities and expectations from the Blandford-Znajek mechanism. By the time we terminate our simulations, we do not observe either an outflow or a large-scale magnetic field collimation for the other systems we considered. 
+subjects: GRB, NSBH, models
+revelation: might be important for GRB/thesis project
+
 link: https://arxiv.org/abs/2011.08428
 title: Binary Neutron Star Mergers in AGN Accretion Disks: Cocoon and Ejecta Shock Breakouts
 authors: Jin-Ping Zhu, Bing Zhang, Yun-Wei Yu, He Gao
