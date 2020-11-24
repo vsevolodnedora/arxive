@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2011.10612
+title: Equilibrium sequences of differentially rotating stars with post-merger-like rotational profiles
+authors: Panagiotis Iosif, Nikolaos Stergioulas
+topic: We present equilibrium sequences of rotating relativistic stars, constructed with a new rotation law that was proposed by Uryu et al. (2017). We choose rotational parameters motivated by simulations of binary neutron star merger remnants, but otherwise adopt a cold, relativistic N=1 polytropic EOS, in order to perform a detailed comparison to published equilibrium sequences that used the Komatsu, Eriguchi and Hachisu (1989) rotation law. We find a small influence of the choice of rotation law on the mass of the equilibrium models and a somewhat larger influence on their radius. The versatility of the new rotation law allows us to construct models that have a similar rotational profile and axis ratio as observed for merger remnants, while at the same time being quasi-spherical. While our models are highly accurate solutions of the fully general relativistic structure equations, we demonstrate that for models relevant to merger remnants the IWM-CFC approximation still maintains an acceptable accuracy.
+subjects: NS, cold, rotating, physics
+
+link: https://arxiv.org/abs/2011.10940
+title: QCD equations of state and speed of sound in neutron stars
+authors: Toru Kojo
+topic: Neutron stars are cosmic laboratories to study dense matter in Quantum Chromodynamics (QCD). The observable mass-radius relations of neutron stars are determined by QCD equations of state, and can reflect the properties of QCD phase transitions. In the last decade there have been historical discoveries in neutron stars, the discoveries of two-solar mass neutron stars and neutron star merger events, which have imposed tight constraints on equations of state. While a number of equations of state are constructed to satisfy these constraints, a theoretical challenge is how to reconcile those constructions with the microphysics expected from the hadron physics and in-medium calculations. In this short article we briefly go over recent observations and discuss their implications for dense QCD matter, referring to QCD constraints in the low and high density limits, QCD-like theories, and lattice QCD results for baryon-baryon interactions.
+subjects: EOS, quantum, physics
+
 link: https://arxiv.org/abs/2011.10417
 title: The interaction between shocks and plasma turbulence: phase space transport
 authors: Domenico Trotta, Francesco Valentini, David Burgess, Sergio Servidio
