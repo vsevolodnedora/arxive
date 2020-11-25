@@ -11,6 +11,30 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2011.11934
+title: R-mode Stability of GW190814's Secondary Component as a Supermassive and Superfast Pulsar
+authors: Xia Zhou, Ang Li, Bao-An Li
+topic: The nature of GW190814's secondary component m2 of mass (2.50-2.67)Msun in the mass gap between the currently known maximum mass of neutron stars and the minimum mass of black holes is currently under hot debate. Among the many possibilities proposed in the literature, the m2 was suggested as a superfast pulsar while its r-mode stability against the run-away gravitational radiation through the Chandrasekhar-Friedman-Schutz mechanism is still unknown. Using those fulfilling all currently known astrophysical and nuclear physics constraints among a sample of 33 unified equation of states (EOSs) constructed previously by Fortin (2016) using the same nuclear interactions from the crust to the core consistently, we compare the minimum frequency required for the m2 to rotationally sustain a mass higher than 2.50Msun with the critical frequency above which the r-mode instability occurs. We use two extreme damping models assuming the crust is either perfectly rigid or elastic. Using the stability of 19 observed low-mass x-ray binaries as an indication that the rigid crust damping of the r-mode dominates within the models studied, we find that the m2 is r-mode stable while rotating with a frequency higher than 870.2 Hz (0.744 times its Kepler frequency of 1169.6 Hz) as long as its temperate is lower than about 3.9x107K, further supporting the proposal that GW190814's secondary component is a supermassive and superfast pulsar.
+subjects: NS, stability, supramassive
+
+link: https://arxiv.org/abs/2011.11921
+title: On the evolution of compact binary black holes
+authors: G. G. Adamian, N. V. Antonenko, H. Lenske, V. V. Sargsyan
+topic: Based on the consideration of potential energy of the di-black-hole as a function of mass asymmetry (transfer) collective coordinate, the possibility of matter transfer between the black holes in a binary system is investigated. The sensitivity of the calculated results is studied to the value of the total mass of binary system. The conditions for the merger of two black holes are analyzed in the context of gravitational wave emission.
+subjects: BBH
+
+link: https://arxiv.org/abs/2011.11889
+title: Astromers in the radioactive decay of r-process nuclei
+authors: G. Wendell Misch, T. M. Sprouse, M. R. Mumpower
+topic: We study the impact of astrophysically relevant nuclear isomers (astromers) in the context of the rapid neutron capture process (r-process) nucleosynthesis. We compute thermally mediated transition rates between long-lived isomers and the corresponding ground states in neutron-rich nuclei. We calculate the temperature-dependent beta-decay feeding factors which represent the fraction of material going to each of the isomer and ground state daughter species from the beta-decay parent species. We simulate nucleosynthesis by including as separate species nuclear excited states with measured terrestrial half-lives greater than 100 microseconds. We find a variety of isomers throughout the chart of nuclides are populated, and we identify those most likely to be influential. We comment on the capacity of isomer production to alter radioactive heating in an r-process environment.
+subjects: nucleo, r-process, theory
+
+link: https://arxiv.org/abs/2011.11737
+title: The Radio Luminosity-Risetime Function of Core-Collapse Supernovae
+authors: Michael F. Bietenholz, N. Bartel, M. Argo, R. Dua, S. Ryder, A. Soderberg
+topic: We assemble a large set of 2-10 GHz radio flux density measurements and upper limits of 294 different supernovae (SNe), from the literature and our own and archival data. Only 31% of the SNe were detected. We characterize the SN lightcurves near the peak using a two-parameter model, with tpk being the time to rise to a peak and Lpk the spectral luminosity at that peak. Over all SNe in our sample at 
+subjects: SN, observations, compilation
+
 link: https://arxiv.org/abs/2011.10612
 title: Equilibrium sequences of differentially rotating stars with post-merger-like rotational profiles
 authors: Panagiotis Iosif, Nikolaos Stergioulas
