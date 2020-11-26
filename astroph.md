@@ -5,10 +5,10 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/2011.12939
+title: Simulations of neutrino and gamma-ray production from relativistic black-hole microquasar jets
+authors: Th. V. Papavasileiou, O. T. Kosmas, J. Sinatkas
+topic: Recently, microquasar jets have aroused the interest of many researchers focusing on the astrophysical plasma outflows and various jet ejections. In this work, we concentrate on the investigation of electromagnetic radiation and particle emissions from the jets of stellar black hole binary systems characterized by their hadronic content in their jets. Such emissions are reliably described within the context of the relativistic magneto-hydrodynamics. Our model calculations are based on the Fermi acceleration mechanism through which the primary particles (mainly protons) of the jet are accelerated. As a result, a small portion of thermal protons of the jet acquire relativistic energies, through shock-waves generated into the jet plasma. From the inelastic collisions of fast (non-thermal) protons with the thermal (cold) ones, secondary charged and neutral particles (pions, kaons, muons, η-particles, etc.) are created as well as electromagnetic radiation from the radio wavelength band, to X-rays and even to very high energy γ-ray emission. 
 subjects: 
 
 link: https://arxiv.org/abs/2011.11934
