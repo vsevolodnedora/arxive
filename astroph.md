@@ -5,11 +5,36 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2011.14953
+title: Neutron tunneling: A new mechanism to power explosive phenomena in neutron stars, magnetars, and neutron star mergers
+authors: Carlos A. Bertulani, Ronaldo V. Lobato
+topic: Neutron tunneling between neutron-rich nuclei in inhomogeneous dense matter encountered in neutron star crusts can release enormous energy on a short-timescale to power explosive phenomena in neutron stars. In this work we clarify aspects of this process that can occur in the outer regions of neutron stars when oscillations or cataclysmic events increase the ambient density. We use a time-dependent Hartree-Fock-Bogoliubov formalism to determine the rate of neutron diffusion and find that large amounts of energy can be released rapidly. The role of nuclear binding, the two-body interaction and pairing, on the neutron diffusion times is investigated. We consider a one-dimensional quantum diffusion model and extend our analysis to study the impact of diffusion in three-dimensions. We find that these novel neutron transfer reactions can generate energy at the amount of 
+subjects: NS, crust, new physics
+
+link: https://arxiv.org/abs/2011.14892
+title: Production of Heavy Elements During the Explosion of a Low-Mass Neutron Star in a Close Binary
+authors: I.V. Panov, A.V. Yudin
+topic: The nucleosynthesis of heavy elements in the scenario for the evolution of a close binary of neutron stars differing greatly in mass is considered. In contrast to the scenario for the merger of two neutron stars of comparable masses considered repeatedly in the literature, the evolution of such a binary at the final stage consists in a rapid mass transfer to the more massive star and an explosive disruption of the low-mass component. We provide the details of the explosion and calculate the abundances of the heavy elements produced in this process for various initial conditions.
+subjects: r-process, nucleo, BNS
+
+link: https://arxiv.org/abs/2011.14557
+title: Constraints on Nuclear Saturation Properties from Terrestrial Experiments and Astrophysical Observations of Neutron Stars
+authors: Soonchul Choi, Tsuyoshi Miyatsu, Myung-Ki Cheoun, Koichi Saito
+topic: Taking into account the terrestrial experiments and the recent astrophysical observations of neutron stars and gravitational-wave signals, we impose restrictions on the equation of state (EoS) for isospin-asymmetric nuclear matter. Using the relativistic mean-field model with SU(3) flavor symmetry, we investigate the impacts of effective nucleon mass, nuclear incompressibility, and slope parameter of nuclear symmetry energy on the nuclear and neutron-star properties. It is found that the astrophysical information of massive neutron stars and tidal deformabilities as well as the nuclear experimental data plays an important role to restrict the EoS for neutron stars. Especially, the softness of the nuclear EoS due to the existence of hyperons in the core gives stringent constraints on those physical quantities. Furthermore, it is possible to put limits on the curvature parameter of nuclear symmetry energy by means of the nuclear and astrophysical calculations.
+subjects: nucleo, EOS, NS, merger, connection
+
+link: https://arxiv.org/abs/2011.14905
+title: The scattering order problem in Monte Carlo radiative transfer
+authors: A. Krieger, S. Wolf
+topic: Radiative transfer simulation is an important tool that allows us to generate synthetic images of various astrophysical objects. In the case of complex three-dimensional geometries, a Monte Carlo-based method that simulates photon packages as they move through and interact with their environment is often used. Previous studies have shown, in the regime of high optical depths, that the required number of simulated photon packages strongly rises and estimated fluxes may be severely underestimated. In this paper we identify two problems that arise for Monte Carlo radiative transfer simulations that hinder a proper determination of flux: first, a mismatch between the probability and weight of the path of a photon package and second, the necessity of simulating a wide range of high scattering orders. Furthermore, we argue that the peel-off method partly solves these problems, and we additionally propose an extended peel-off method. Our proposed method improves several shortcomings of its basic variant and relies on the utilization of precalculated sphere spectra. We then combine both peel-off methods with the Split method and the Stretch method and numerically evaluate their capabilities as opposed to the pure Split&Stretch method in an infinite plane-parallel slab setup. We find that the peel-off method greatly enhances the performance of these simulations; in particular, at a transverse optical depth of taumax=75 our method achieved a significantly lower error than previous methods while simultaneously saving more 95% computation time. Finally, we discuss the inclusion of polarization and Mie-scattering in the extended peel-off method, and argue that it may be necessary to equip future Monte Carlo radiative transfer simulations with additional advanced pathfinding techniques.
+subjects: codes, radiation transport, tests
+
+link: https://arxiv.org/abs/2011.14782
+title: Magnetic outflows from turbulent accretion disks: I. Vertical structure & secular evolution
+authors: J. Jacquemin-Ide, G. Lesur, J. Ferreira
+topic: Astrophysical disks are likely embedded in an ambient vertical magnetic field. This ambient field is known to drive magneto-rotational turbulence in the disk bulk but is also responsible for the launching of magnetized outflows at the origin of astrophysical jets. The vertical structure and long-term (secular) evolution of such a system lack quantitative predictions. It is nevertheless this secular evolution that is proposed to explain time variability in many accreting systems such as X-ray binaries. We compute and analyze global 3D ideal-MHD simulations of an accretion disk threaded by a large-scale magnetic field. We evaluate the role of the turbulent terms in the equilibrium of the system. We then compute the transport of mass, angular momentum, and magnetic fields in the disk to characterize its secular evolution. We perform a parameter survey to characterize the influence of disk properties on secular transport.
+We find that weakly magnetized disks drive jets that carry away a small fraction of the disk angular momentum. The mass-weighted accretion speed remains subsonic although, there is always an upper turbulent atmospheric region where transonic accretion takes place. We show that a strongly magnetized version of the magneto-rotational instability drives this turbulence. The disk structure is drastically different from the conventional hydrostatic picture. The magnetic field is always dragged inwards in the disk, at a velocity that increases with the disk magnetization. Beyond a threshold on the latter, the disk undergoes a profound radial readjustment. It leads to the formation of an inner accretion-ejection region with a supersonic mass-weighted accretion speed and where the magnetic field distribution becomes steady, near equipartition with the thermal pressure. This inner structure shares many properties with the Jet Emitting Disk model described by Ferreira (1997).
+subjects: MHD, disk, nonGR, hydro
 
 link: https://arxiv.org/abs/2011.13797
 title: A numerical approach for radiative cooling in relativistic outflows
