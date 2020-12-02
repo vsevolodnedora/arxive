@@ -5,6 +5,20 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2012.00026
+title: A tale of two mergers: constraints on kilonova detection in two short GRBs at z~0.5
+authors: B. O'Connor, E. Troja, S. Dichiara, E. A. Chase, G. Ryan, S. B. Cenko, C. L. Fryer, R. Ricci, F. Marshall, C. Kouveliotou, R. T. Wollaeger, C. J. Fontes, O. Korobkin, P. Gatkine, A. Kutyrev, S. Veilleux, N. Kawai, T. Sakamoto
+topic: We present a detailed multi-wavelength analysis of two short Gamma-Ray Bursts (sGRBs) detected by the Neil Gehrels Swift Observatory: GRB 160624A at z=0.483 and GRB 200522A at z=0.554. These sGRBs demonstrate very different properties in their observed emission and environment. GRB 160624A is associated to a late-type galaxy with an old stellar population (approx 3 Gyr) and moderate on-going star formation (approx 1 Msun yr-1). Hubble and Gemini limits on optical/nIR emission from GRB 160624A are among the most stringent for sGRBs, leading to tight constraints on the allowed kilonova properties. In particular, we rule out any kilonova brighter than AT2017gfo, disfavoring large masses of wind ejecta (less 0.03 Msun).
+In contrast, observations of GRB 200522A uncovered a luminous (LF125W=1042 erg s-1 at 2.3~d) and red (r-H=1.3 mag) counterpart. The red color can be explained either by bright kilonova emission powered by the radioactive decay of a large amount of wind ejecta (0.03 Msun less M less 0.1 Msun) or moderate extinction, E(B-V)=0.1-0.2 mag, along the line of sight. The location of this sGRB in the inner regions of a young (=0.1 Gyr) star-forming (-2-4 Msun yr-1) galaxy and the limited sampling of its counterpart do not allow us to rule out dust effects as contributing, at least in part, to the red color.
+subjects: kilonova, GRB, statistics, cosmology
+revelation: important for thesis
+
 link: https://arxiv.org/abs/2011.14953
 title: Neutron tunneling: A new mechanism to power explosive phenomena in neutron stars, magnetars, and neutron star mergers
 authors: Carlos A. Bertulani, Ronaldo V. Lobato
