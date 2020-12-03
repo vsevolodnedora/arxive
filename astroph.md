@@ -5,11 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2012.00846
+title: Inference of proto-neutron star properties from gravitational-wave data in core-collapse supernovae
+authors: Marie-Anne Bizouard, Patricio Maturana-Russel, Alejandro Torres-Forné, Martin Obergaulinger, Pablo Cerdá-Durán, Nelson Christensen, José A. Font, Renate Meyer
+topic: The eventual detection of gravitational waves from core-collapse supernovae (CCSN) will help improve our current understanding of the explosion mechanism of massive stars. The stochastic nature of the late post-bounce gravitational wave signal due to the non-linear dynamics of the matter involved and the large number of degrees of freedom of the phenomenon make the source parameter inference problem very challenging. In this paper we take a step towards that goal and present a parameter estimation approach which is based on the gravitational waves associated with oscillations of proto-neutron stars (PNS). Numerical simulations of CCSN have shown that buoyancy-driven g-modes are responsible for a significant fraction of the gravitational wave signal and their time-frequency evolution is linked to the physical properties of the compact remnant through universal relation. We use a set of 1D CCSN simulations to build a model that relates the evolution of the PNS properties with the frequency of the dominant g-mode, which is extracted from the gravitational-wave data using a new algorithm we have developed for our study. The model is used to infer the time evolution of a combination of the mass and the radius of the PNS. The performance of the method is estimated employing simulations of 2D CCSN waveforms covering a progenitor mass range between 11 and 40 solar masses and different equations of state. Considering signals embedded in Gaussian gravitational wave detector noise, we show that it is possible to infer PNS properties for a galactic source using Advanced LIGO and Advanced Virgo data at design sensitivities. Third generation detectors such as Einstein Telescope and Cosmic Explorer will allow to test distances
+subjects: CCSNe, GW
+
+link: https://arxiv.org/abs/2012.00775
+title: Morphological evolution of supermassive black hole merger hosts and multimessenger signatures
+authors: Colin DeGraf, Debora Sijacki, Tiziana Di Matteo, Kelly Holley-Bockelmann, Greg Snyder, Volker Springel
+topic: With the expectation that projects like LISA and Pulsar Timing Arrays will detect gravitational waves from supermassive black hole mergers in the near future, it is key that we understand what we can expect those detections to be, and maximize what we can learn from them. To address this, we study the mergers of supermassive black holes in the Illustris simulation, looking at both the overall rate of mergers, and the correlation between merging black holes and the galaxies which host them. We find that these mergers take place in typical galaxies along the MBH-Msun relation, and that between LISA and PTA detections we can expect to probe the full range of galaxy masses. As galaxy mergers can trigger increased star formation, we do find that galaxies hosting low-mass black hole mergers tend to show a slight increase in star formation rates compared to a mass-matched sample. However, high-mass merger hosts have typical star formation rates, due to a combination of low gas fractions and powerful AGN feedback. Although minor black hole mergers do not correlate with disturbed morphologies, major mergers (especially between high-mass black holes) tend to show morphological evidence of a recent galaxy merger which survives for ~500 Myr. However, this typical timescale is of the same order of magnitude as the infall/hardening time of the merging black holes, suggesting that electromagnetic followups to gravitational wave signals may not be able to observe this correlation. We further find that incorporating a realistic timescale delay for the black hole mergers could shift the distribution of merger masses toward higher-mass mergers, decreasing the rate of LISA detections while increasing the rate of PTA detections.
+subjects: cosmology, AGN 
+
+link: https://arxiv.org/abs/2012.01048
+title: The dissipation of toroidal magnetic fields and spin-down evolution of young and strongly magnetized pulsars
+authors: Zhi-Fu Gao, Hao Shan, Hui Wang
+topic: Magnetars are a kind of pulsars powered mainly by superhigh magnetic fields. They are popular sources with many unsolved issues in themselves, but also linked to various high energy phenomena, such as QPOs, giant flares, fast radio bursts and super-luminous supernovae. In this work, we first review our recent works on the dissipation of toroidal magnetic fields in magnetars and rotationally powered pulsars, then review the spin-down evolution of young and strongly magnetized pulsars, especially of magnetars. We present an interesting and important relation between the magnetization parameter, and magnetic field in the magnetar crust. Finally, we introduce our two works in progress: to explain the magnetar "anti-gltich" events in the thermal plastic flow model and to revisit the expression of braking index n, which is independent of the second derivative of spin frequency of a pulsar and give some proposals for our future work.
+subjects: magnetar, model, physics
 
 link: https://arxiv.org/abs/2012.00026
 title: A tale of two mergers: constraints on kilonova detection in two short GRBs at z~0.5
