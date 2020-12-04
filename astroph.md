@@ -5,6 +5,25 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2012.01430
+title: Elevated r-process enrichment in Gaia Sausage and Sequoia
+authors: David S. Aguado et al
+topic: The Gaia Sausage and the Sequoia represent the major accretion events that formed the stellar halo of the Milky Way. A detailed chemical study of these main building blocks provides a pristine view of the early steps of the Galaxy's assembly. We present the results of the analysis of the UVES high-resolution spectroscopic observations at the 8.2m VLT of 9 Sausage/Sequoia members selected kinematically using Gaia DR2. We season this set of measurements with archival data from Nissen & Schuster (2011) and GALAH DR3 (2020). Here, we focus on the neutron-capture process by analysing Sr, Y, Ba and Eu behavior. We detect clear enhancement in Eu abundance ([Eu/Fe]~0.6-0.7) indicative of large prevalence of r-process in the stellar n-capture makeup. We are also able to trace the evolution of the heavy element production across a wide range of metallicity. Barium to europium ratio changes from a tight, flat sequence with [Ba/Eu]=-0.7 reflecting dominant core-collapse SNe contribution, to a clear upturn at higher iron abundances, betraying the onset of contamination from asymptotic giant branch (AGB) ejecta. Additionally, we discover two clear sequences in [Fe/H]-[Ba/Fe] plane likely caused by distinct levels of s-process pollution and mixing within the GS progenitor.
+subjects: nucleo, r-process
+
+link: https://arxiv.org/abs/2012.01798
+title: A first-principle simulation of blast wave emergence at the photosphere of a neutron star merger
+authors: Christoffer Lundman, Andrei Beloborodov
+topic: We present the first ab initio simulation of a radiation-mediated shock emerging at the photosphere of a relativistic outflow. The simulation is performed using our code radshock that follows fluid dynamics coupled to time-dependent radiative transfer, calculated with the Monte-Carlo method. We use the code to examine the radiative blast wave emerging from neutron star merger GW~170817. It was previously proposed that the merger ejected a dark, relativistically expanding, homologous envelope, and then an explosion inside the envelope produced the observed gamma-ray burst GRB~170817A. Our simulation demonstrates how the shock wave generates radiation as it propagates through the envelope, approaches its photosphere, releases the radiation, and collapses, splitting into two collisionless shocks of a microscopic thickness. We find the light curve and the spectral evolution of the produced gamma-ray burst; both are similar to the observed GRB~170817A.
+subjects: GRB, shock, hydro, radiation
+revelation: moght be important for GRB
+
 link: https://arxiv.org/abs/2012.00846
 title: Inference of proto-neutron star properties from gravitational-wave data in core-collapse supernovae
 authors: Marie-Anne Bizouard, Patricio Maturana-Russel, Alejandro Torres-Forné, Martin Obergaulinger, Pablo Cerdá-Durán, Nelson Christensen, José A. Font, Renate Meyer
