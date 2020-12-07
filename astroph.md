@@ -11,6 +11,30 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2012.02641
+title: In situ evidence of ion acceleration between consecutive reconnection jet fronts
+authors: Filomena Catapano, Alessandro Retino, Gaetano Zimbardo, et al
+topic: Processes driven by unsteady reconnection can efficiently accelerate particles in many astrophysical plasmas. An example are the reconnection jet fronts in an outflow region. We present evidence of suprathermal ion acceleration between two consecutive reconnection jet fronts observed by the Magnetospheric Multiscale mission in the terrestrial magnetotail. An earthward propagating jet is approached by a second faster jet. Between the jets, the thermal ions are mostly perpendicular to magnetic field, are trapped and are gradually accelerated in the parallel direction up to 150 keV. Observations suggest that ions are predominantly accelerated by a Fermi-like mechanism in the contracting magnetic bottle formed between the two jet fronts. The ion acceleration mechanism is presumably efficient in other environments where jet fronts produced by variable rates of reconnection are common and where the interaction of multiple jet fronts can also develop a turbulent environment, e.g. in stellar and solar eruptions.
+subjects: physics, MHD, jet
+
+link: https://arxiv.org/abs/2012.02786
+title: Two populations of LIGO-Virgo black holes
+authors: Gert Hütsi, Martti Raidal, Ville Vaskonen, Hardi Veermäe
+topic: We analyse the LIGO-Virgo data, including the recently released GWTC-2 dataset, to test a hypothesis that the data contains more than one population of black holes. We perform a maximum likelihood analysis including a population of astrophysical black holes with a truncated power-law mass function whose merger rate follows from star formation rate, and a population of primordial black holes for which we consider log-normal and critical collapse mass functions. We find that primordial black holes alone are strongly disfavoured by the data, while the best fit is obtained for the template combining astrophysical and primordial merger rates. Alternatively, the data may hint towards two different astrophysical black hole populations. We also update the constraints on primordial black hole abundance from LIGO-Virgo observations finding that in the 2-400Msun mass range, they must comprise less than 0.2% of dark matter.
+subjects: BBH, observation, statisitcs
+
+link: https://arxiv.org/abs/2012.02274
+title: The role of core-collapse physics in the observability of black-hole neutron-star mergers as multi-messenger sources
+authors: Jaime Román-Garza, Simone S. Bavera, Tassos Fragos, Emmanouil Zapartas, Devina Misra, Jeff Andrews, Scotty Coughlin, Aaron Dotter, Konstantinos Kovlakas, Juan Gabriel Serra, Ying Qin, Kyle A. Rocha, Nam Hai Tran
+topic: Recent detailed 1D core-collapse simulations have brought new insights on the final fate of massive stars, which are in contrast to commonly used parametric prescriptions. In this work, we explore the implications of these results to the formation of coalescing black-hole (BH) - neutron-star (NS) binaries, such as the candidate event GW190426152155 reported in GWTC-2. Furthermore, we investigate the effects of natal kicks and the NS's radius on the synthesis of such systems and potential electromagnetic counterparts linked to them. Synthetic models based on detailed core-collapse simulations result in an increased merger detection rate of BH-NS systems (~2.3 yr-1), 5 to 10 times larger than the predictions of "standard" parametric prescriptions. This is primarily due to the formation of low-mass BH via direct collapse, and hence no natal kicks, favored by the detailed simulations. The fraction of observed systems that will produce an electromagnetic counterpart, with the detailed supernova engine, ranges from 2-25%, depending on uncertainties in the NS equation of state. Notably, in most merging systems with electromagnetic counterparts, the NS is the first-born compact object, as long as the NS's radius is less 12km. Furthermore, core-collapse models that predict the formation of low-mass BHs with negligible natal kicks increase the detection rate of GW190426152155-like events to ~0.6yr-1; with an associated probability of electromagnetic counterpart less 10% for all supernova engines. However, increasing the production of direct-collapse low-mass BHs also increases the synthesis of binary BHs, over-predicting their measured local merger density rate. In all cases, models based on detailed core-collapse simulation predict a ratio of BH-NSs to binary BHs merger rate density that is at least twice as high as other prescriptions.
+subjects: population, SNe, 1D Hydro models, NSBH, BHNS rates
+
 link: https://arxiv.org/abs/2012.01430
 title: Elevated r-process enrichment in Gaia Sausage and Sequoia
 authors: David S. Aguado et al
