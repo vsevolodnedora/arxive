@@ -11,11 +11,43 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2012.03591
+title: Accretion induced black hole spin up in magnetized collapsars
+authors: Agnieszka Janiuk, Dominika Król
+topic: We study the gravitational collapse and formation of the Kerr black hole from the rotating progenitor star. We follow the evolution of black hole spin, coupled with its increasing mass. We study the effect of different level of rotation endowed in the progenitor's envelope, and we out some constraints on the final black hole parameters. Our method is based on semi-analytical computations that involve stellar-evolution models of different progenitors. We also follow numerically the black hole evolution and spacetime metric changes during the collapse, via General Relativistic MHD modeling. (abridged)
+subjects: stellar physics, GRMHD, BH, spin
+
+link: https://arxiv.org/abs/2012.03232
+title: Properties of Rotating Neutron Star in Density-dependent Relativistic Mean-field Models
+authors: Rashid Riahi, Seyed Zafarollah Kalantari
+topic: Equilibrium sequences were developed for rotating NS in the relativistic mean-field interaction framework using four density-dependent equations of state for the NS matter. These sequences were constructed for the observed rotation frequencies of 25, 317, 346, 716, and 1122 Hz. The bounds of sequences were calculated in each model to determine the stability region. The gravitational mass, quadrupole moment, polar, forward and backward redshifts, and Kerr parameter were calculated. DDF and DD-MEdelta were unable to properly describe the low-frequency neutron stars, PSR J0348+432, PSR J1614-2230 , and PSR J0740+6620 rotate at a frequency of 25, 317, and 346 Hz, respectively. All the selected EOSs properly described the rotation of PSR J1748-244ad, and PSR J1739-285 at a frequency of 716 and 1122 Hz, respectively. The mass of these stars was in the range of [0.68, 2.14]Msun and [1.67, 2.24]Msun, respectively. The polar, forward and backward redshifts, and the quadrupole moment were calculated in all selected rotating frequencies and the Keplerian sequence. The results were consistent with observations. Confirming the mass of 1.5+0.4−1.0Msun for EXO 0748-676, our result will be close to the observed value, and the EOSs used in this study properly describe this star. The extremum of Kerr parameter, polar, forward and backward redshifts in all models reached constant values of, a/M= 0.7, Zp= 0.8, Zfeq= -0.3 and Zbeq= 2.2. These behaviors of redshifts and Kerr parameter are approximately independent of EOS. The observed behaviors must evaluate by other EOSs to find universal relations for these quantities. Also, a limit value was found for each of these parameters. In this case where these parameters are greater than the limit value, the star can rotate at a frequency equal to or greater than ν= 1122 Hz.
+subjects: phsyics, NS, EOS, RNS, rotation
+
+link: https://arxiv.org/abs/2012.03043
+title: Radiative turbulent flares in magnetically-dominated plasmas
+authors: J. Nättilä, A. M. Beloborodov
+topic: We perform 2D and 3D kinetic simulations of reconnection-mediated turbulent flares in a magnetized electron-positron plasma, with weak and strong radiative cooling. Such flares can be generated around neutron stars and accreting black holes. We focus on the magnetically-dominated regime where tension of the background magnetic field lines exceeds the plasma rest mass by a factor 1. In the simulations, turbulence is excited on a macroscopic scale l0, and we observe that it develops by forming thin, dynamic current sheets on various scales. The deposited macroscopic energy dissipates by energizing thermal and nonthermal particles. The particle energy distribution is shaped by impulsive acceleration in reconnecting current sheets, gradual stochastic acceleration, and radiative losses. We parameterize radiative cooling by the ratio A of light-crossing time l0/c to a cooling timescale, and study the effect of increasing A on the flare. When radiative losses are sufficiently weak, Aless10-10, the produced emission is dominated by stochastically accelerated particles, and the radiative power depends logarithmically on A. The resulting flare radiation spectrum is broad and anisotropic. In the strong-cooling regime, Agreater 10-10, stochastic acceleration is suppressed while impulsive acceleration in the current sheets continues to operate. As A increases further, the emission becomes dominated by thermal particles. Our simulations offer a new tool to study particle acceleration by turbulence, especially at high energies, where cooling competes with acceleration. We find that the particle distribution is influenced by strong intermittency of dissipation, and stochastic acceleration cannot be described by a universal diffusion coefficient.
+subjects: physics, model, MF, shock, reconnection
+
+link: https://arxiv.org/abs/2012.02997
+title: Years Delayed Gamma-ray and Radio Afterglows Originated from TDE Wind-Torus Interactions
+authors: Guobin Mou, Wei Wang
+topic: Tidal disruption events (TDEs) that occur in active galactic nuclei (AGNs) with dusty tori are a special class of sources. TDEs can generate ultrafast and large opening-angle winds, which will almost inevitably collide with the preexisting AGN dusty tori a few years later after the TDE outburst. The wind-torus interactions will drive two kinds of shocks: the bow shocks at the windward side of the torus clouds, and the cloud shocks inside the torus clouds. In a previous work, we proved that the shocked clouds will give rise to considerable X-ray emissions. In this work, we focus on the radiations of high energy particles accelerated at both shocks. Benefitting from the strong radiation field at the inner edge of the torus, the inverse Compton scattering of AGN photons by relativistic electrons at bow shocks dominates the overall gamma-ray radiation. Our scenario provides a prediction of the years delayed afterglows in radio/X-ray/gamma-ray band for TDE and reveals their connections, Moreover, it suggests a novel method for exploring the clouds around the central black hole and the power of TDE winds. 
+subjects: TDE, agn, shock, compton
+
+link: https://arxiv.org/abs/2012.03896
+title: Fast ejecta as a potential way to distinguish black holes from neutron stars in high-mass gravitational-wave events
+authors: Elias R. Most, L. Jens Papenfort, Samuel Tootle, Luciano Rezzolla
+topic: High-mass gravitational-wave events in the neutron-star mass range, such as GW190425, have recently started to be detected by the LIGO/Virgo detectors. If the masses of the two binary components fall in the neutron-star mass range, such a system is typically classified as a binary neutron-star system, although the detected gravitational-wave signal may be too noisy to clearly establish a neutron-star nature of the high-mass component in the binary and rule out a black hole--neutron star system for such an event. We here show that high-mass binary neutron-star mergers with a very massive neutron-star primary close to the maximum-mass limit, m1 greater 2.2Msun, produce fast dynamical mass ejecta from the spin-up of the primary star at merger. By simulating the merger of black hole--neutron star systems of exactly the same masses and spins, we show that these fast ejecta are entirely absent, if the primary is instead a black hole. In addition, we find that both systems leave almost identical amounts of baryon mass behind, which is not immediately accreted by the black hole. This implies that both systems will likely have comparable electromagnetic afterglow emission stemming from the remnant disk. Hence, fast ejecta at merger have the potentialto distinguish neutron stars from black holes in high-mass mergers, although these ejecta may be challenging to detect observationally.
+subjects: ejecta, dynamics, NSBH, BNS, models
+revelation: important for thesis/radio
+
+link: https://arxiv.org/abs/2012.03599
+title: Microscopic equation of state of hot nuclear matter for numerical relativity simulations
+authors: Domenico Logoteta, Albino Perego, Ignazio Bombaci
+topic: A precise understanding of the equation of state (EOS) of dense and hot matter is key to modeling relativistic astrophysical environments, including core-collapse supernovae (CCSNe), protoneutron star (PNSs) evolution, and compact binary mergers. In this paper, we extend the microscopic zero-temperature BL (Bombaci and Logoteta) derived by Bombaci and Logoteta to finite temperature and arbitrary nuclear composition. We employ this new EOS to describe hot beta-stable nuclear matter and to compute various structural properties of nonrotating protoneutron stars. We also apply the EOS to perform dynamical simulations of a spherically symmetric CCSN. The EOS is derived using the finite temperature extension of the Brueckner--Bethe--Goldstone quantum many-body theory in the Brueckner--Hartree--Fock approximation. Neutron star properties are computed by solving the Tolman--Oppenheimer--Volkoff structure equations numerically. The sperically symmetric CCSN simulations are performed using the AGILE-IDSA code. Our EOS models are able to reproduce typical features of both PNS and spherically symmetric CCSN simulations. In addition, our EOS model is consistent with present measured neutron star masses and particularly with the masses: ...
+subjects: EOS, BLh, NS
+revelation: very important for thesis, this is BLh EOS
 
 link: https://arxiv.org/abs/2012.02641
 title: In situ evidence of ion acceleration between consecutive reconnection jet fronts
