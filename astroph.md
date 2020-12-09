@@ -5,11 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2012.04425
+title: Radio-to-gamma-ray synchrotron and neutrino emission from proton-proton interactions in active galactic nuclei
+authors: Andrii Neronov, Dmitry Semikoz
+topic: We explore possible physical origin of correlation between radio wave and very-high-energy neutrino emission in active galactic nuclei (AGN), suggested by recently reported evidence for correlation between neutrino arrival directions and positions of brightest radio-loud AGN. We show that such correlation is expected if both synchrotron emitting electrons and neutrinos originate from decays of charged pions produced in proton-proton interactions in parsec-scale relativistic jet propagating through circum-nuclear medium of the AGN.
+subjects: AGN, radio, synchrotron
+
+link: https://arxiv.org/abs/2012.04212
+title: Maximum mass of hybrid star formed via shock induced phase transition in cold neutron stars
+authors: Ritam Mallick, Shailendra Singh, Rana Nandi
+topic: This article studies the maximum mass limit of the quark star formed after the shock-induced phase transition of a cold neutron star. By employing hadronic and quark equation of state that satisfies the current mass bound, we use combustion adiabat conditions to find such a limit. The combustion adiabat condition results in a local or a global maximum pressure at an intermediate density range. The maximum pressure corresponds to a local or global maximum mass for the phase transformed hybrid star. The phase transition is usually exothermic if we have a local maximum mass. The criteria for exothermic or endothermic phase transition depend on whether the quark pressure/energy ratios to nuclear pressure/energy are smaller or greater than 1. We find that exothermic phase transition in a cold neutron star usually results in hybrid stars whose mass is smaller than a parent neutron star. The phase transition is endothermic for a global maximum pressure; thereby, one gets a global maximum mass. Hybrid stars much massive than phase transformed local maximum mass can be formed, provided there is some external energy source during the phase transition process. However, for some cases, even massive hybrid stars can form with exothermic phase transition for EoSs having global maximum pressure.
+subjects: EOS, NS
+
+link: https://arxiv.org/abs/2012.04140
+title: Effective Field Theory for Compact Object Evolution in Non-Relativistic General Relativity
+authors: Irvin Martinez, Amanda Weltman
+topic: We describe the evolution of slowly spinning compact objects in the late inspiral with Newtonian corrections due to spin, tides, dissipation and post-Newtonian corrections to the point mass term in the action within the effective field theory framework. We evolve the system numerically using a simple algorithm for point particle simulations and extract the lowest-order Newtonian gravitational waveform to study its phase evolution due to the different effects. We show that the matching of coefficients of the effective field theory for compact objects from systems that the gravitational wave observatories LIGO-Virgo currently detects might be possible and it can place tight constraints on fundamental physics.
+subjects: phsyics, GW, gravity
 
 link: https://arxiv.org/abs/2012.03591
 title: Accretion induced black hole spin up in magnetized collapsars
