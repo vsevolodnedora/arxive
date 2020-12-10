@@ -5,6 +5,32 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2012.04810
+title: First Multimessenger Observations of a Neutron Star Merger
+authors: Raffaella Margutti, Ryan Chornock
+topic: We describe the first observations of the same celestial object with gravitational waves and light.
+GW170817 was the first detection of a neutron star merger with gravitational waves. The detection of a spatially coincident weak burst of gamma-rays (GRB 170817A) 1.7 s after the merger constituted the first electromagnetic detection of a gravitational wave source and established a connection between at least some cosmic short gamma-ray bursts (SGRBs) and binary neutron star mergers. A fast-evolving optical and near-infrared transient (AT 2017gfo) associated with the event can be interpreted as resulting from the ejection of ~0.05 Msun of material enriched in r-process elements, finally establishing binary neutron star mergers as at least one source of r-process nucleosynthesis. Radio and X-ray observations revealed a long-rising source that peaked ~160 d after the merger. Combined with the apparent superluminal motion of the associated VLBI source, these observations show that the merger produced a relativistic structured jet whose core was oriented =20 deg from the line of sight and with properties similar to SGRBs. The jet structure likely results from the jet interaction with the merger ejecta. The electromagnetic and gravitational wave information can be combined to produce constraints on the expansion rate of the universe and the equation of state of dense nuclear matter. These multimessenger endeavors will be a major emphasis for future work.
+subjects: MM, review, GW170817
+revelation: worth a look, but a bit prenesious
+
+link: https://arxiv.org/abs/2012.05166
+title: 1000 days of lowest frequency emission from the low-luminosity GRB 171205A
+authors: Barun Maity, Poonam Chandra
+topic: We report the lowest frequency measurements of gamma-ray burst (GRB) 171205A with the upgraded Giant Metrewave Radio Telescope (uGMRT) covering a frequency range from 250--1450 MHz and a period of days. It is the first GRB afterglow detected at 250--500 MHz frequency range and the second brightest GRB detected with the uGMRT. Even though the GRB is observed for nearly 1000 days, there is no evidence of transition to non-relativistic regime. We also analyse the archival  X-ray data. We also find no evidence of a jet break from the analysis of combined data. We fit synchrotron afterglow emission arising from a relativistic, isotropic, self-similar deceleration as well as from a shock-breakout of wide-angle cocoon. Our data also allow us to discern the nature and the density of the circumburst medium. We find that the density profile deviates from a standard constant density medium and suggests that the GRB exploded in a stratified wind like medium. Our analysis shows that the lowest frequency measurements covering the absorbed part of the light curves are critical to unravel the GRB environment. Our data combined with other published measurements indicate that the radio afterglow has contribution from two components: a weak, possibly slightly off-axis jet and a surrounding wider cocoon, consistent with the results of Izzo et al. (2019). The cocoon emission likely dominates at early epochs, whereas the jet starts to dominate at later epochs, resulting in flatter radio lightcurves.
+subjects: GRB, observation, radio
+
+link: https://arxiv.org/abs/2012.04981
+title: Improved near optimal angular quadratures for polarised radiative transfer in 3D MHD models
+authors: Jaume Jaume Bestard, Jiří Štěpán, Javier Trujillo Bueno
+topic: Accurate angular quadratures are crucial for the numerical solution of three-dimensional (3D) radiative transfer problems, especially when the spectral line polarisation produced by the scattering of anisotropic radiation is included. There are two requirements for obtaining an optimal quadrature and they are difficult to satisfy simultaneously: high accuracy and short computing time. By imposing certain symmetries, we were recently able to derive a set of near optimal angular quadratures. Here, we extend our previous investigation by considering other symmetries. Moreover, we test the performance of our new quadratures by numerically solving a radiative transfer problem of resonance line polarisation in a 3D model of the solar atmosphere resulting from a magneto-hydrodynamical simulation. The new angular quadratures derived here outperform the previous ones in terms of the number of rays needed to achieve any given accuracy.
+subjects: radiation transport, model, physics
+
+link: https://arxiv.org/abs/2012.04978
+title: GW190426_152155: a merger of neutron star-black hole or low mass binary black holes?
+authors: Yin-Jie Li, Ming-Zhe Han, Shao-Peng Tang, Yuan-Zhu Wang, Yi-Ming Hu, Qiang Yuan, Yi-Zhong Fan, Da-Ming Wei
+topic: GW190426 was recently reported as one of the 39 candidate gravitational wave (GW) events in, which has an unusual source-frame chirp mass and may be the first GW signal from a neutron star-black hole (NSBH) merger. Assuming an astrophysical origin, we reanalyze GW190426 using several waveforms with different characteristics, and consider two different priors for the mass ratio of the binary (Uniform and LogUniform). We find that the results are influenced by the priors of mass ratio, and this candidate could also be from the merger of two low mass black holes (BH). In the case for a binary black hole (BBH) merger, the effective spin is likely negative and the effective precession spin is non-negligible. As for the NSBH merger, supposing the mass of the light object follow the distribution of current neutron stars (NSs) with a reasonably measured/constrained mass, the spin of the low mass BH is so small that is hard to generate bright electromagnetic emission. Finally, we estimate a merger rate of GW190426-like systems to be
+subjects: GW, NSBH
+
 link: https://arxiv.org/abs/2012.04425
 title: Radio-to-gamma-ray synchrotron and neutrino emission from proton-proton interactions in active galactic nuclei
 authors: Andrii Neronov, Dmitry Semikoz
