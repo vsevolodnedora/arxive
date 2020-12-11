@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2012.05797
+title: New probability distributions in astrophysics: IV. The relativistic Maxwell-Boltzmann distribution
+authors: Lorenzo Zaninetti
+topic: Two relativistic distributions which generalizes the Maxwell Boltzman (MB) distribution are analyzed: the relativistic MB and the Maxwell-J{ü}ttner (MJ) distribution. For the two distributions we derived in terms of special functions the constant of normalization, the average value, the second moment about the origin, the variance, the mode, the asymptotic behavior, approximate expressions for the average value as function of the temperature and the connected inverted expressions for the temperature as function of the average value. Two astrophysical applications to the synchrotron emission in presence of the magnetic field and the relativistic electrons are presented.
+subjects: phsyics, statistics, model
+
+link: https://arxiv.org/abs/2012.05587
+title: Kinetic model of large-amplitude oscillations in neutron star pair cascades
+authors: Fábio Cruz, Thomas Grismayer, Luis O. Silva
+topic: Electron-positron pair cascades developed in the extreme electromagnetic fields of neutron star polar caps are considered a key source of magnetospheric plasma in these objects. We use a simplified model that maps the Quantum Electrodynamics processes governing the pair cascades to analytically and numerically model the development of the pair cascade, and show that large-amplitude oscillations of the electric field are inductively driven by the resulting plasma. A plasma instability arises in these oscillations, and particles accelerated in growing electric field perturbations can drive secondary pair bursts that damp the large-amplitude oscillations. An analytical model is proposed to describe this interplay between the pair production and kinetic collective plasma processes. All analytical results are shown to be in excellent agreement with particle-in-cell simulations.
+subjects: NS, MF, pair creation, model
+
 link: https://arxiv.org/abs/2012.04810
 title: First Multimessenger Observations of a Neutron Star Merger
 authors: Raffaella Margutti, Ryan Chornock
