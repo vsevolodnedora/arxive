@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2012.06504
+title: Spectral and polarization properties of black hole accretion disc emission: including absorption effects
+authors: Roberto Taverna, Lorenzo Marra, Stefano Bianchi, Mičhal Dovciak, René Goosmann, Frederic Marin, Giorgio Matt, Wenda Zhang
+topic: The study of radiation emitted from black hole accretion discs represents a crucial way to understand the main physical properties of these sources, and in particular the black hole spin. Beside spectral analysis, polarimetry is becoming more and more important, motivated by the development of new techniques which will soon allow to perform measurements also in the X- and {\gamma}-rays. Photons emitted from black hole accretion discs in the soft state are indeed expected to be polarized, with an energy dependence which can provide an estimate of the black hole spin. Calculations performed so far, however, considered scattering as the only process to determine the polarization state of the emitted radiation, implicitly assuming that the temperatures involved are such that material in the disc is entirely ionized. In this work we generalize the problem by calculating the ionization structure of a surface layer of the disc with the public code CLOUDY , and then by determining the polarization properties of the emerging radiation using the Monte Carlo code STOKES . This allows us to account for absorption effects alongside scattering ones. We show that including absorption can deeply modify the polarization properties of the emerging radiation with respect to what is obtained in the pure-scattering limit. As a general rule, we find that the polarization degree is larger when absorption is more important, which occurs e.g. for low accretion rates and/or spins when the ionization of the matter in the innermost accretion disc regions is far from complete.
+subjects: BH, accretion, radiation, absorption, polarisation
+
+link: https://arxiv.org/abs/2012.06226
+title: Radio timing in a millisecond pulsar-extreme/intermediate mass ratio binary system
+authors: Tom Kimpson, Kinwah Wu, Silvia Zane
+topic: Radio timing observations of a millisecond pulsar in orbit around the Galactic centre black hole (BH) or a BH at the centre of globular clusters could answer foundational questions in astrophysics and fundamental physics. Pulsar radio astronomy typically employs the post-Keplerian approximation to determine the system parameters. However, in the strong gravitational field around the central BH, higher order relativistic effects may become important. We compare the pulsar timing delays given by the post-Keplerian approximation with those given by a relativistic timing model. We find significant discrepancies between the solutions derived for the Einstein delay and the propagation delay (i.e. Roemer and Sharpiro delay) compared to the fully relativistic solutions. Correcting for these higher order relativistic effects is essential in order to construct accurate radio timing models for pulsar systems at the Galactic centre and the centre of globular clusters and informing issues related to their detection.
+subjects: NSBH, pulsar, timing, GR effects
+
 link: https://arxiv.org/abs/2012.05797
 title: New probability distributions in astrophysics: IV. The relativistic Maxwell-Boltzmann distribution
 authors: Lorenzo Zaninetti
