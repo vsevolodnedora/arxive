@@ -5,6 +5,39 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2012.07796
+title: External Inverse-Compton Emission from Low-Luminosity Gamma-Ray Bursts: Application to GRB 190829A
+authors: B. Theodore Zhang, Kohta Murase, Péter Veres, Péter Mészáros
+topic: The detection of TeV gamma-ray bursts (GRBs) brought new opportunities to study the physics of particle acceleration at relativistic shocks. The H.E.S.S. telescopes recently observed very-high-energy (VHE) emission from a nearby low-luminosity GRB, GRB 190829A. Follow-up observations with, e.g., Swift-XRT, revealed unusual flare activities at ~103 s, which can be caused by a long-lasting central engine. We show that the VHE emission during the H.E.S.S. observation time is naturally produced in the external inverse-Compton (EIC) scenario, where seed photons supplied by the flares or other late-time dissipation are upscattered to VHE energies by the non-thermal electrons accelerated at the external forward shock. Our calculations show that the EIC flare nearly coincides with the late-prompt flare, but extends ~3−4 times longer than the duration of the late-prompt flare. The preferred kinetic energy and initial Lorentz factor used in our model are ~1052 erg and ~20, respectively. Understanding the mechanisms of the VHE emission from low-luminosity GRBs will help us constrain the properties of the outflow and the central engine activities, as well as the particle acceleration mechanism.
+subjects: GRB, observation, model, IC, low energy
+
+link: https://arxiv.org/abs/2012.07709
+title: Off-centred force-free neutron star magnetospheres
+authors: Jérôme Pétri
+topic: Neutron star electromagnetic activity produces pairs that fill their magnetosphere represented to the zeroth order by the force-free approximation. Neither dissipation nor acceleration nor radiation from charged particles is expected from this simplified model. So far, only centred dipole magnetic fields have been studied in this limit. In this paper, we explore the consequences of a rotating off-centred dipole on the force-free magnetosphere, showing the new magnetic field geometry, its spin-down luminosity as well as the electromagnetic kick and torque felt by the neutron star. Solutions are obtained by time-dependent numerical simulations of the force-free regime using our pseudo-spectral code written in spherical coordinates. Our results are also compared to known analytical expressions found for the off-centred vacuum dipole by an expansion to lowest order in the parameter eps=d/R, where d is the displacement of the dipole from the stellar centre and R the neutron star radius. The presence of a force-free plasma enhances the spin-down luminosity as well as the electromagnetic kick and torque with respect to a centred force-free dipole. The impact on isolated and binary neutron stars is revised in light of these new results.
+subjects: NS, structure, MF, model, code
+
+link: https://arxiv.org/abs/2012.07193
+title: MAGIC observations of the nearby short gamma-ray burst GRB 160821B
+authors: MAGIC Collaboration
+topic: The coincident detection of GW170817 in gravitational waves and electromagnetic radiation spanning the radio to MeV gamma-ray bands provided the first direct evidence that short gamma-ray bursts (GRBs) can originate from binary neutron star (BNS) mergers. On the other hand, the properties of short GRBs in high-energy gamma rays are still poorly constrained, with only ~20 events detected in the GeV band, and none in the TeV band. GRB~160821B is one of the nearest short GRBs known at z=0.162. Recent analyses of the multiwavelength observational data of its afterglow emission revealed an optical-infrared kilonova component, characteristic of heavy-element nucleosynthesis in a BNS merger. Aiming to better clarify the nature of short GRBs, this burst was automatically followed up with the MAGIC telescopes, starting from 24 seconds after the burst trigger. Evidence of a gamma-ray signal is found above ~0.5 TeV at a significance of ~3σ during observations that lasted until 4 hours after the burst. Assuming that the observed excess events correspond to gamma-ray emission from GRB 160821B, in conjunction with data at other wavelengths, we investigate its origin in the framework of GRB afterglow models. The simplest interpretation with one-zone models of synchrotron-self-Compton emission from the external forward shock has difficulty accounting for the putative TeV flux. Alternative scenarios are discussed where the TeV emission can be relatively enhanced. The role of future GeV-TeV observations of short GRBs in advancing our understanding of BNS mergers and related topics is briefly addressed.
+subjects: GRB, observations, motivation
+revelation: might be usefull for motivation for GRB project
+
+link: https://arxiv.org/abs/2012.06728
+title: Determination of Solar System R-Process Abundances using ENDF/B-VIII.0 and TENDL-2015 libraries
+authors: Boris Pritychenko
+topic: Recent multi-messenger detection of the binary neutron star merger (GW170817) energized the astrophysical community and encouraged further research for determination of nuclear physics observables. Comprehensive studies of atomic nuclei in the cosmos provide an opportunity for investigating these astrophysical phenomena and acquiring complementary information on stellar nucleosynthesis processes that can be verified using the latest nuclear data.
+Evaluated Nuclear Data File (ENDF) libraries contain complete collections of reaction cross sections over the energy range relevant to astrophysics, fission yields and decay data. These data collections have been used worldwide in nuclear science, industry and national security applications. There is great interest in exploring the ENDF/B-VIII.0 and TALYS Evaluated Nuclear Data Library (TENDL-2015) for nuclear astrophysics purposes and comparing findings with the Karlsruhe Astrophysical Database of Nucleosynthesis in Stars (KADoNiS).
+The Maxwellian-averaged cross sections (MACS) and astrophysical reaction rates have been calculated using the ENDF/B-VIII.0 and TENDL-2015 evaluated data sets. The calculated cross sections were combined with the solar system abundances and fitted using the classical model of stellar nucleosynthesis. Astrophysical rapid- and slow-neutron capture, r- and s-process, respectively, abundances were obtained from present data and compared with available values. Further analysis of MACS reveals potential evaluated libraries data deficiencies and a strong need for new measurements. The current results demonstrate a large nuclear astrophysics potential of evaluated libraries and mutually beneficial relations between nuclear industry and research efforts.
+subjects: nucleo, r-process, tables, abundances, compilation
+
+link: https://arxiv.org/abs/2012.06593
+title: Prospects for Measuring the Hubble Constant with Neutron-Star-Black-Hole Mergers
+authors: Stephen M. Feeney, Hiranya V. Peiris, Samaya M. Nissanke, Daniel J. Mortlock
+topic: Gravitational wave (GW) and electromagnetic (EM) observations of neutron-star-black-hole (NSBH) mergers can provide precise local measurements of the Hubble constant (H0), ideal for resolving the current H0 tension. We perform end-to-end analyses of realistic populations of simulated NSBHs, incorporating both GW and EM selection for the first time. We show that NSBHs could achieve unbiased 1.5-2.4% precision H0 estimates by 2030. The achievable precision is strongly affected by the details of spin precession and tidal disruption, highlighting the need for improved modeling of NSBH mergers.
+subjects: NSBH, cosmology, importnace
+
 link: https://arxiv.org/abs/2012.06504
 title: Spectral and polarization properties of black hole accretion disc emission: including absorption effects
 authors: Roberto Taverna, Lorenzo Marra, Stefano Bianchi, Mičhal Dovciak, René Goosmann, Frederic Marin, Giorgio Matt, Wenda Zhang
