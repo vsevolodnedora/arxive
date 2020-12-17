@@ -5,6 +5,58 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2012.08577
+title: The Effect of Jet-Ejecta Interaction on the Viewing Angle Dependence of Kilonova Light Curves
+authors: Hannah Klion, Paul C. Duffell, Daniel Kasen, Eliot Quataert
+topic: The merger of two neutron stars produces an outflow of radioactive heavy nuclei. Within a second of merger, the central remnant is expected to also launch a relativistic jet, which shock-heats and disrupts a portion of the radioactive ejecta. Within a few hours, emission from the radioactive material gives rise to an ultraviolet, optical, and infrared transient (a kilonova). We use the endstates of a suite of 2D relativistic hydrodynamic simulations of jet-ejecta interaction as initial conditions for multi-dimensional Monte Carlo radiation transport simulations of the resulting viewing angle-dependent light curves and spectra starting at 1.5h after merger. We find that on this timescale, jet shock heating does not affect the kilonova emission. However, the jet disruption to the density structure of the ejecta does change the light curves. The jet carves a channel into the otherwise spheroidal ejecta, revealing the hot, inner regions. As seen from near (less30deg) the jet axis, the kilonova is brighter by a factor of a few and bluer. The strength of this effect depends on the jet parameters, since the light curves of more heavily disrupted ejecta are more strongly affected. The light curves and spectra are also more heavily modified in the ultraviolet than in the optical.
+subjects: jet, kilonova, GRB, BNS, models
+revelation: Important for thesis / GRB
+
+link: https://arxiv.org/abs/2012.09143
+title: External Inverse-Compton Emission Associated with Extended and Plateau Emission of Short Gamma-Ray Bursts: Application to GRB 160821B
+authors: B. Theodore Zhang, Kohta Murase, Chengchao Yuan, Shigeo S. Kimura, Peter Mészáros
+topic: The recent detection of TeV photons from two gamma-ray bursts (GRBs), GRB 190114C and GRB 180720B, has opened a new window for multi-messenger and multi-wavelength astrophysics of high-energy transients. We study the origin of very-high-energy (VHE) gamma-rays from the short GRB 160821B, for which the MAGIC Collaboration reported a ~3σ statistical significance. Short GRBs are often accompanied by extended and plateau emission, which is attributed to internal dissipation resulting from activities of a long-lasting central engine, and Murase et al. (2018) recently suggested the external inverse-Compton (EIC) scenario for VHE counterparts of short GRBs and neutron star mergers. Applying this scenario to GRB 160821B, we show that the EIC flux can reach ~10−12 erg cm−2 s−1 within a time period of ~103−104 s, which is consistent with the MAGIC observations. EIC gamma-rays expected during the extended and plateau emission will be detectable with greater significance by future detectors such as the Cherenkov Telescope Array (CTA). The resulting light curve has a distinguishable feature, where the VHE emission is predicted to reach the peak around the end of the seed photons.
+subjects: GRB, sGRB, IC, observations, predictions, models
+revelation: might be important motivation for IC in sGRB
+
+link: https://arxiv.org/abs/2012.09100
+title: GRBs from neutrino pair annihilation in the presence of quintessence surrounding a black hole
+authors: G. Lambiase, L. Mastrototaro
+topic: Quintessence fields, introduced to explain the speed-up of the Universe, might affect the geometry of spacetime surrounding black holes, as compared to the standard Schwarzschild and Kerr geometries. In this framework, we study the neutrino pairs annihilation into electron-positron pairs (nunu- to e-e+) near the surface of a neutron star, focusing, in particular, on the Schwarzschild-like geometry in presence of quintessence fields. The effect of the latter is to increase the minimum photon-sphere radius (Rph), increasing in such a way the maximum energy deposition rate near to Rph. The rate turns out to be several orders of magnitude greater than the rate computed in the framework of General Relativity. These results might provide an efficient mechanism for the generation of GRBs and lead to constraints on the parameters of the quintessence model.
+subjects: GRB, origin, pair-annihilation, NS
+revelation: might be worth skimming for GRB project
+
+link: https://arxiv.org/abs/2012.08969
+title: Mildly relativistic magnetized shocks in electron-ion plasmas I. Electromagnetic shock structure
+authors: Arianna Ligorini, Jacek Niemiec, Oleh Kobzar, Masanori Iwamoto, Artem Bohdan, Martin Pohl, Yosuke Matsumoto, Takanobu Amano, Shuichi Matsukiyo, Yodai Esaki, Masahiro Hoshino
+topic: Mildly relativistic shocks in magnetized electron-ion plasmas are investigated with 2D kinetic particle-in-cell simulations of unprecedentedly high resolution and large scale for conditions that may be found at internal shocks in blazar cores. Ion-scale effects cause corrugations along the shock surface whose properties somewhat depend on the configuration of the mean perpendicular magnetic field, that is either in or out of the simulation plane. We show that the synchrotron maser instability persists to operate in mildly relativistic shocks in agreement with theoretical predictions and produces coherent emission of upstream-propagating electromagnetic waves. Shock front ripples are excited in both mean-field configurations and they engender effective wave amplification. The interaction of these waves with upstream plasma generates electrostatic wakefields.
+subjects: shock, MF, MHD, Blazar
+
+link: https://arxiv.org/abs/2012.08886
+title: Simulations of radiation driven winds from Keplerian discs
+authors: Sananda Raichaidhuri, Mukesh K. Vyas, Indranil Chattopadhyay
+topic: We study the ejection of winds from thin accretion discs around stellar mass black holes and the time evolution of these winds in presence of radiation field generated by the accretion disc. Winds are produced by radiation, thermal pressure and the centrifugal force of the disc. The winds are found to be mildly relativistic, with speeds reaching up to terminal speeds 0.1 for accretion rate 4 in Eddington units. We show that the ejected matter gets its rotation by transporting angular momentum from the disc to the wind. We also show that the radiation drag affects the accretion disc winds in a very significant manner. Not only that the terminal speeds are reduced by an order of magnitude due to radiation drag, but we also show that the non-linear effect of radiation drag, can mitigate the formation of the winds from the matter ejected by the accretion disc. As radiation drag reduces the velocity of the wind, the mass outflow rate is reduced in its presence as well.
+subjects: BH, disk, accretion, radiation pressure
+
+link: https://arxiv.org/abs/2012.08263
+title: Gravitational-wave asteroseismology with f-modes from neutron star binaries at the merger phase
+authors: Harry Ho-Yin Ng, Patrick Chi-Kit Cheong, Lap-Ming Lin, Tjonnie Guang Feng Li
+topic: Gravitational-wave signals from coalescing binary neutron stars can yield important information about the properties of nuclear-matter equation of state from the early part of the signal through tidal effects to the properties and oscillation frequencies of the merger product. We investigate a direct link between the properties of isolated neutron stars and their merger, by comparing the frequency of the fundamental oscillation mode (f-mode) of neutron stars with the gravitational-wave frequency associated with the merger of two neutron stars. We calculate the quadrupolar (l=2) f-mode oscillation (f2f) of non-rotating and rotating neutron stars using a nonlinear hydrodynamics code in the conformally-flat approximation and obtain the gravitational-wave frequency associated with the peak amplitude (fmax) of binary-neutron stars from a set of publicly available simulations. We find that fmax and f2f differ by about 1\%, on average, across forty-five equal-mass systems with different total mass and equations of state. Assuming that the gravitational-wave frequency is still approximately equal to twice the orbital frequency Omega near the merger, the result indicates that the condition for tidal resonance |m|Omega=f2f is satisfied to high accuracy near the merger, where m=2 is the azimuthal quantum number. Moreover, the well established universal relation between fmax and the tidal deformability of equal-mass binary systems can now be explained by a similar relation between f2f and the tidal deformability of isolated neutron stars, which has been demonstrated to be associated with the nearly incompressible properties of neutron stars. Our findings suggest that it is possible to relate the gravitational-wave signal at the merger of a binary neutron star system directly to the fundamental oscillation modes and the mass ratio.
+subjects: GW, NS, merger, properties
+
+link: https://arxiv.org/abs/2012.08172
+title: The evolution of binary neutron star post-merger remnants: a review
+authors: Nikhil Sarin, Paul D. Lasky
+topic: Two neutron stars merge somewhere in the Universe approximately every 10 seconds, creating violent explosions observable in gravitational waves and across the electromagnetic spectrum. The transformative coincident gravitational-wave and electromagnetic observations of the binary neutron star merger GW170817 gave invaluable insights into these cataclysmic collisions, probing bulk nuclear matter at supranuclear densities, the jet structure of gamma-ray bursts, the speed of gravity, and the cosmological evolution of the local Universe, among other things. Despite the wealth of information, it is still unclear when the remnant of GW170817 collapsed to form a black hole. Evidence from other short gamma-ray bursts indicates a large fraction of mergers may form long-lived neutron stars. We review what is known observationally and theoretically about binary neutron star post-merger remnants. From a theoretical perspective, we review our understanding of the evolution of short- and long-lived merger remnants, including fluid, magnetic-field, and temperature evolution. These considerations impact prospects of detection of gravitational waves from either short- or long-lived neutron star remnants which potentially allows for new probes into the hot nuclear equation of state in conditions inaccessible in terrestrial experiments. We also review prospects for determining post-merger physics from current and future electromagnetic observations, including kilonovae and late-time x-ray and radio afterglow observations.
+subjects: review, post merger, BNS
+revelation: important for thesis
+
 link: https://arxiv.org/abs/2012.07796
 title: External Inverse-Compton Emission from Low-Luminosity Gamma-Ray Bursts: Application to GRB 190829A
 authors: B. Theodore Zhang, Kohta Murase, Péter Veres, Péter Mészáros
