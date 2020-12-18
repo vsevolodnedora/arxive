@@ -5,11 +5,29 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2012.09169
+title: Dynamical Formation Scenarios for GW190521 and Prospects for Decihertz Gravitational-Wave Astronomy with GW190521-Like Binaries
+authors: A. Miguel Holgado, Alexis Ortega, Carl L. Rodriguez
+topic: The gravitational-wave (GW) detection of GW190521 has provided new insights on the mass distribution of black holes and new constraints for astrophysical formation channels. With independent claims of GW190521 having significant pre-merger eccentricity, we investigate what this implies for GW190521-like binaries that form dynamically. The Laser Interferometer Space Antenna (LISA) will also be sensitive to GW190521-like binaries if they are circular from an isolated formation channel. We show, however, that GW190521-like binaries that form dynamically may skip the LISA band entirely. To this end, we simulate GW190521 analogues that dynamically form via post-Newtonian binary-single scattering. From these scattering experiments, we find that GW190521-like binaries may enter the LIGO-Virgo band with significant eccentricity as suggested by recent studies, though well below an eccentricity of e10Hz less 0.7. Eccentric GW190521-like binaries further motivate the astrophysical science case for a decihertz GW observatory, such as the kilometer-scale version of the Midband Atomic Gravitational-wave Interferometric Sensor (MAGIS). Pre-merger observations of GW190521-like binaries with such a decihertz GW detector would be able to constrain the eccentricity of GW190521-like binaries to greater precision than with just LIGO-Virgo alone. These eccentricity constraints would also provide additional insights into the possible environments that GW190521-like binaries form in.
+subjects: GW, eccentric, post-newtonian, GW190521
+
+link: https://arxiv.org/abs/2012.09637
+title: Dynamical tides in neutron stars: The impact of the crust
+authors: Andrea Passamonti, Nils Andersson, Pantelis Pnigouras
+topic: We consider the dynamical tidal response of a neutron star in an inspiralling binary, focussing on the impact of the star's elastic crust. Within the context of Newtonian gravity, we add the elastic aspects to the theoretical formulation of the problem and quantify the dynamical excitation of different classes of oscillation modes. The results demonstrate the expectation that the fundamental mode dominates the tidal response and show how the usual tidal deformability (and the Love number) emerge in the static limit. In addition, we consider to what extent the different modes may be excited to a level where the breaking strain of the crust would be exceeded (locally). The results show that the fundamental mode may fracture the crust during the late stages of inspiral. This is also the case for the first gravity mode, which reaches the breaking threshold in strongly stratified stars. In our models with a fluid ocean, interface modes associated with the crust-ocean transition may also induce crust fracture. If this happens it does so earlier in the inspiral, at a lower orbital frequency.
+subjects: NS, crust, EOS, inspiral, oscillations
+
+link: https://arxiv.org/abs/2012.09634
+title: GN-z11-flash in the context of Gamma-Ray Burst Afterglows
+authors: D. A. Kann, M. Blazek, A. de Ugarte Postigo, C. C. Thöne
+topic: The recently discovered rapid transient GN-z11-flash has been suggested to be the prompt-emission ultraviolet flash associated with a gamma-ray burst serendipitously exploding in the ultra-high-z galaxy GN-z11. We here place the flash into the context of the early ultraviolet emission of gamma-ray bursts, and find it is in agreement with the luminosity distribution of these events.
+subjects: GRB, observations, UV flash
+
+link: https://arxiv.org/abs/2012.09580
+title: Probing the nuclear equation of state from the existence of a ~2.6 Msun neutron star: the GW190814 puzzle
+authors: A. Kanakis-Pegios, P.S. Koliogiannis, Ch.C. Moustakidis
+topic: On August 14, 2019, the LIGO/Virgo collaboration observed a compact object with mass ~2.59+0.08−0.09 Msun, as a component of a system where the main companion was a black hole with mass ~23 Msun. A scientific debate initiated concerning the identification of the low mass component, as it falls into the neutron star - black hole mass gap. The understanding of the nature of GW190814 event will offer rich information concerning open issues, the speed of sound and the possible phase transition into other degrees of freedom. In the present work, we made an effort to probe the nuclear equation of state along with the GW190814 event. Firstly, we examine possible constraints on the nuclear equation of state inferred from the consideration that the low mass companion is a slow or rapidly rotating neutron star. In this case, the role of the upper bounds on the speed of sound is revealed, in connection with the dense nuclear matter properties. Secondly, we systematically study the tidal deformability of a possible high mass candidate existing as an individual star or as a component one in a binary neutron star system. As the tidal deformability and radius are quantities very sensitive on the neutron star equation of state, they are excellent counters on dense matter properties. We conjecture that similar isolated neutron stars or systems may exist in the Universe and their possible future observation will shed light on the maximum neutron star mass problem.
+subjects: EOS, GW, NSBH, GW190814
 
 link: https://arxiv.org/abs/2012.08577
 title: The Effect of Jet-Ejecta Interaction on the Viewing Angle Dependence of Kilonova Light Curves
