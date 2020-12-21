@@ -5,6 +5,55 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2012.10377
+title: Progress in Understanding the Enigmatic Fast Radio Bursts
+authors: Shami Chatterjee
+topic: In less than a decade, fast radio bursts have gone from a single debated curiosity to a diverse extragalactic population with established host galaxies and energy scales. While a wide range of models remain viable, the central engines of FRBs are likely to involve energetic young magnetars, as confirmed by the recent discovery of a Galactic analog to these extragalactic bursts. Here we provide a brief introductory review of fast radio bursts, focusing on the rapid recent progress in observations of these enigmatic events, our understanding of their central engines, and their use as probes of the intergalactic medium. We caution against a rush to judgement on the mechanisms and classification of all FRBs: at this point, it remains plausible that there could be one dominant central engine, as well as the possibility that radio bursts are a generic feature produced by many different mechanisms. We also emphasize the importance of improved modeling of our Galaxy and Galactic halo, which otherwise impose systematic errors on every FRB line of sight. The future of science with fast radio bursts appears bright.
+subjects: FRB, review
+revelation: might cite it in the thesis as a external source
+
+link: https://arxiv.org/abs/2012.10322
+title: Resonant Shattering Flares as Multimessenger Probes of the Nuclear Symmetry Energy
+authors: Duncan Neill, William G. Newton, David Tsang
+topic: The behaviour of the nuclear symmetry energy near saturation density is important for our understanding of dense nuclear matter. This density dependence can be parameterised by the nuclear symmetry energy and its derivatives evaluated at nuclear saturation density. In this work, we show that the core-crust interface mode of a neutron star is sensitive to these parameters, through the (density-weighted) shear-speed within the crust, which is in turn dependent on the symmetry energy profile of dense matter. We calculate the frequency at which the neutron star quadrupole (l=2) crust-core interface mode must be driven by the tidal field of its binary partner to trigger a Resonant Shattering Flare (RSF). We demonstrate that coincident multimessenger timing of a RSF and gravitational wave chirp from a neutron star merger would enable us to place strong constraints on the symmetry energy parameters, competitive with those from current nuclear experiments.
+subjects: crust, NS, ESO, GW, multimessenger
+
+link: https://arxiv.org/abs/2012.10291
+title: Broadband Modelling of Orphan Gamma Ray Flares
+authors: S. R. Patel, D. Bose, N. Gupta, M. Zuberi
+topic: Blazars, a class of highly variable active galactic nuclei, sometimes exhibit Orphan gamma-ray flares. These flares having high flux only in gamma-ray energies do not show significant variations in flux at lower energies. We study the temporal and spectral profile of these Orphan gamma-ray flares in detail from three gamma−ray bright blazars, 3C 273, PKS 1510-089 and 3C 279 and also their simultaneous broadband emissions. We find that the variability timescales of the Orphan gamma-ray flares were (0.96 pm 0.28) days, (3.12 pm 2.40) hr and (2.16 pm 0.72) hr, for 3C 273, PKS 1510-089 and 3C 279, respectively. The broadband spectral energy distributions (SEDs) during these flares have been modelled with a leptonic model from two emission regions. This model suggests that Orphan gamma-ray flares might have originated from inverse Compton scattering of relativistic electrons by the seed photons from the broad-line region or dusty torus, which is the first region. While the second broader region, lying further down the jet, could be responsible for X-ray and radio emissions. The possible locations of these emission regions in the jets of the three sources have been estimated from SED modelling.
+subjects: Blazar, gamma-rays, observations, model
+
+link: https://arxiv.org/abs/2012.10174
+title: Spritz: General Relativistic Magnetohydrodynamics with Neutrinos
+authors: Federico Cipolletta, Jay Vijay Kalinani, Edoardo Giangrandi, Bruno Giacomazzo, Riccardo Ciolfi, Lorenzo Sala, Beatrice Giudici
+topic: We here present a new version of the publicly available general relativistic magnetohydrodynamic (GRMHD) code Spritz, which now includes an approximate neutrino leakage scheme able to handle neutrino cooling and heating. The leakage scheme is based on the publicly available ZelmaniLeak code, with a few modifications in order to properly work with Spritz. We discuss the involved equations, physical assumptions, and implemented numerical methods, along with a large battery of general relativistic tests performed with and without magnetic fields. Our tests demonstrate the correct implementation of the neutrino leakage scheme, paving the way for further improvements of our neutrino treatment and the first application to magnetized binary neutron star mergers. We also discuss the implementation in the Spritz code of high-order methods for a more accurate evolution of hydrodynamical quantities.
+subjects: Spritz, GRMHD code, tests
+
+link: https://arxiv.org/abs/2012.10127
+title: New equation of state involving Bose-Einstein condensate of antikaon for supernova and neutron star merger simulations
+authors: Tuhin Malik, Sarmistha Banik, Debades Bandyopadhyay
+topic: We compute a new equation of state table including Bose-Einstein condensate of K− mesons for core collapse supernova and neutron star merger simulations. Nuclei and interacting nucleons in non-uniform matter is described in an extended version of the nuclear statistical equilibrium model including excluded volume effects whereas the uniform matter at higher densities is treated in the relativistic hadron field theory with density dependent couplings. The equation of state table is generated for a wide range of density (10-12 to ~1 fm-3), positive charge fraction (0.01 to 0.60) and temperature (0.1 to 158.48 MeV). The impact of antikaon condensate is investigated on different thermodynamic quantities for example free energy per baryon, entropy per baryon, pressure as well as compositions of matter. Furthermore, critical temperatures of antikaon condensation and the phase diagram of matter are also studied in this article.
+subjects: EOS, NS, quantum, new EOS
+
+link: https://arxiv.org/abs/2012.10057
+title: 2D radiation-hydrodynamic simulations of supernova ejecta with a central power source
+authors: Akihiro Suzuki, Keiichi Maeda
+topic: We present the results of two-dimensional radiation-hydrodynamic simulations of expanding supernova ejecta with a central energy source. As suggested in previous multi-dimensional hydrodynamic simulations, a sufficiently powerful central energy source can blow away the expanding supernova ejecta, leading to efficient mixing of stratified layers in the ejecta. We assume that the energy injection is realized in the form of non-thermal radiation from the wind nebula embedded at the center of the ejecta. We found that the multi-dimensional mixing in the ejecta assists the injected non-thermal radiation escaping from the ejecta. When the non-thermal radiation is absorbed by the ejecta, it is converted into bright thermal radiation or is consumed as the kinetic energy of the supernova ejecta. We found that central energy sources with the injection timescale similar to the photon diffusion timescale realize an efficient conversion of the injected energy into thermal radiation. On the other hand, a rapid energy injection ends up accelerating the ejecta rather than giving rise to bright thermal emission. This remarkable difference potentially explains the diversity of energetic supernovae including broad-lined Ic and superluminous supernovae.
+subjects: ejecta, SN, 2D hydo, model
+
+link: https://arxiv.org/abs/2012.09961
+title: GRB 180418A: A possibly-short GRB with a wide-angle outflow in a faint host galaxy
+authors: Alicia Rouco Escorial, Wen-fai Fong, Peter Veres, Tanmoy Laskar et al
+topic: We present X-ray and multi-band optical observations of the afterglow and host galaxy of GRB 180418A, discovered by Swift/BAT and Fermi/GBM. We present a reanalysis of the GBM and BAT data deriving durations of the prompt emission of T90~2.56s and ~1.90s, respectively. Modeling the Fermi/GBM catalog of 1405 bursts (2008-2014) in the Hardness-T90 plane, we obtain a probability of ~60% that GRB 180418A is a short-hard burst. From a combination of Swift/XRT and Chandra observations, the X-ray afterglow is detected to ~38.5 days after the burst, and exhibits a single power-law decline with FX proportional to t^-0.98. Late-time Gemini observations reveal a faint r ~24.95 mag host galaxy at an angular offset of ~0.16''. At the likely redshift range of z ~1-1.5, we find that the X-ray afterglow luminosity of GRB 180418A is intermediate between short and long GRBs at all epochs during which there is contemporaneous data, and that GRB 180418A lies closer to the E({\gamma},peak)-E({\gamma},iso) correlation for short GRBs. Modeling the multi-wavelength afterglow with the standard synchrotron model, we derive the burst explosion properties and find a jet opening angle of {\theta}j =>9-14 degrees. If GRB 180418A is a short GRB that originated from a neutron star merger, it has one of the brightest and longest-lived afterglows along with an extremely faint host galaxy. If instead the event is a long GRB that originated from a massive star collapse, it has among the lowest luminosity afterglows, and lies in a peculiar space in terms of the Hardness-T90 and E({\gamma},peak)-E_({\gamma},iso) planes.
+subjects: GRB, observations, sGRB
+
 link: https://arxiv.org/abs/2012.09169
 title: Dynamical Formation Scenarios for GW190521 and Prospects for Decihertz Gravitational-Wave Astronomy with GW190521-Like Binaries
 authors: A. Miguel Holgado, Alexis Ortega, Carl L. Rodriguez
