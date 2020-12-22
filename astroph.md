@@ -5,11 +5,24 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2012.11130
+title: An adaptive mesh, GPU-accelerated, and error minimized special relativistic hydrodynamics code
+authors: Po-Hsun Tseng, Hsi-Yu Schive, Tzihong Chiueh
+topic: We present a new special relativistic hydrodynamics (SRHD) code capable of handling coexisting ultra-relativistically hot and non-relativistically cold gases. We achieve this by designing a new algorithm for conversion between primitive and conserved variables in the SRHD solver, which incorporates a realistic ideal-gas equation of state covering both the relativistic and non-relativistic regimes. The code can handle problems involving a Lorentz factor as high as 10to6 and optimally avoid the catastrophic cancellation. In addition, we have integrated this new SRHD solver into the code GAMER (this https URL) to support adaptive mesh refinement and hybrid OpenMP/MPI/GPU parallelization. It achieves a peak performance of 7-10to7 cell updates per second on a single Tesla P100 GPU and scales well to 2048 GPUs. We apply this code to two interesting astrophysical applications: (a) an asymmetric explosion source on the relativistic blast wave and (b) the flow acceleration and limb-brightening of relativistic jets.
+subjects: phsyics, code, special relativity, hydro
+revelation: this is where the GRB to be modelled eh...
+
+link: https://arxiv.org/abs/2012.10815
+title: The Mysterious Magnetospheres of Magnetars
+authors: Matthew G. Baring, Zorawar Wadiasingh, Peter L. Gonthier, Alice K. Harding, Kun Hu
+topic: Magnetars are the most luminous compact objects in the stellar mass range observed in the Milky Way, with giant flares of hard X-ray power ~10^45 erg/sec being detected from three soft gamma repeaters in the Galactic neighborhood. Periodicity seen in magnetar persistent emission, and a distinctive "spin-down" lengthening of this period, have driven the paradigm that strongly-magnetized neutron stars constitute these fascinating sources. The steady X-ray emission includes both thermal atmospheric components, and magnetospheric contributions that are manifested as hard X-ray "tails." This paper addresses observational and theoretical elements pertinent to the steady hard X-ray emission of magnetars, focusing on dissipative processes in their magnetospheres, and elements of Comptonization and polarization. It also discusses the action and possible signatures of the exotic and fundamental QED mechanisms of photon splitting and magnetic pair creation, and the quest for their observational vindication.
+subjects: magnetar, NS, emission, thermal, non-thermal
+
+link: https://arxiv.org/abs/2012.10501
+title: Three-dimensional modelling of accretion columns: spatial asymmetry and self-consistent simulations
+authors: M. I. Gornostaev
+topic: The paper presents the results of three-dimensional (3D) modelling of the structure and the emission of accretion columns formed above the surface of accreting strongly magnetized neutron stars under the circumstances when a pressure of the photons generated in the column base is enough to determine the dynamics of the plasma flow. On the foundation of numerical radiation hydrodynamic simulations, several 3D models of accretion column are constructed. The first group of the models contains spatially 3D columns. The corresponding calculations lead to the distributions of the radiation flux over the sidewalls of the columns which are not characterized by axial symmetry. The second group includes the self-consistent modelling of spectral radiative transfer and two-dimensional spatial structure of the column, with both thermal and bulk Comptonization taken into account. The changes in the structure of the column and the shape of X-ray continuum are investigated depending on physical parameters of the model.
+subjects: RHD, accretion, NS
 
 link: https://arxiv.org/abs/2012.10377
 title: Progress in Understanding the Enigmatic Fast Radio Bursts
