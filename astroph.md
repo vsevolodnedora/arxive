@@ -5,6 +5,46 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2012.15785
+title: Studying the onset of deconfinement with multi-messenger astronomy of neutron stars
+authors: David Blaschke, Mateusz Cierniak
+topic: With the first multi-messenger observation of a binary neutron star merger (GW170817) new constraints became available for masses and radii of neutron stars. We introduce a class of hybrid EoS that fulfils all these constraints and predicts a region in the mass-radius diagram that could be populated only by hybrid neutron stars with quark matter cores. A confirmation of this conjecture would be provided when the NICER radius measurement for the high-mass pulsar PSR J0740+6620 yields a radius less than 11 km. Would this radius measurement yield a result in excess of 12 km, this would allow for both, a purely hadronic and a hybrid nature of this star. In the latter case the maximum mass could reach 2.6 Msun so that the lighter object in the asymmetric binary merger GW190814 could have been a hybrid star. We demonstrate that this high mass can be compatible with an early onset of deconfinement at star masses below 1 Msun and the occurrence of low-mass twin stars. In such a case the remnant of GW170817 could be a long-lived hypermassive pulsar.
+subjects: EOS, NS, quarks
+
+link: https://arxiv.org/abs/2012.15316
+title: Testing the general theory of relativity using gravitational wave propagation from dark standard sirens
+authors: Suvodip Mukherjee, Benjamin D. Wandelt, Joseph Silk
+topic: Alternative theories of gravity predict modifications in the propagation of gravitational waves (GW) through space-time. One of the smoking-gun predictions of such theories is the change in the GW luminosity distance to GW sources as a function of redshift relative to the electromagnetic (EM) luminosity distance expected from EM probes. We propose a multi-messenger test of the theory of general relativity from the propagation of gravitational waves by combining EM and GW observations to resolve these issues from GW sources without EM counterparts (which are also referred to as dark standard sirens). By using the relation between the geometric distances accessible from baryon acoustic oscillation measurements, and luminosity distance measurements from the GW sources, we can measure any deviation from the general theory of relativity via the GW sources of unknown redshift that will be detectable by networks of GW detectors such as LIGO, Virgo, and KAGRA. Using this technique, the fiducial value of the frictional term can be measured to a precision 0=0.98+0.04−0.23 after marginalizing over redshift dependence, cosmological parameters, and GW bias parameters with 3500 dark standard sirens of masses 30msun each distributed up to redshift z=0.5. For a fixed redshift dependence, a value of 0=0.99+0.02−0.02 can be measured with a similar number of dark sirens. Application of our methodology to the far more numerous dark standard sirens detectable with next generation GW detectors, such as LISA, Einstein Telescope and Cosmic Explorer, will allow achievement of higher accuracy than possible from use of bright standard sirens.
+subjects: GW, GR, tests of GR
+
+link: https://arxiv.org/abs/2012.15117
+title: Non-linear diffusive shock acceleration: A recipe for injection of electrons
+authors: Bojan Arbutina, Vladimir Zeković
+topic: Prescriptions for electron injection into the diffusive shock acceleration process are required in many practical considerations of cosmic-ray astrophysics, particularly in modeling of the synchrotron emission of astrophysical sources. In particle-in-cell simulations of quasi-parallel magnetized collisionless shocks, we analyse the evolution of particle spectra. We find that in the later stages of shock evolution, the initially strong suprathermal part in the ion spectra fades, thus leaving the spectra composed of a Maxwellian and a power law. Once the electron and ion spectra flatten and become parallel, we find that the amounts of cosmic ray ions and electrons become similar. We make the step towards relating the micro and macro-scale physics by applying this injection rule to Blasi's semi-analytical model of non-linear diffusive shock acceleration, in order to obtain the particle spectra and electron-to-proton ratio Kep at high energies. By using shock jump conditions that include the electron heating, we find Kep as a function of Mach number. For Mach number 100, our model finely reproduces the typically observed ratio for Galactic cosmic-rays Kep 1:100 in the test particle regime.
+subjects: GRB, physics, injection, prescriptions 
+revelation: might be important for GRB project, but not clear how to implement
+
+link: https://arxiv.org/abs/2012.15105
+title: Magnetically Ejected Disks: Equatorial Outflows Near Vertically Magnetized Black Hole
+authors: Vladimir Karas, Kostas Sapountzis, Agnieszka Janiuk
+topic: Black holes attract gaseous material from the surrounding environment. Cosmic plasma is largely ionized and magnetized because of electric currents flowing in the highly conductive environment near black holes; the process of accretion then carries the magnetic flux onto the event horizon, r=R+. On the other hand, magnetic pressure acts against accretion. It can not only arrest the inflow but it can even push the plasma away from the black hole if the magnetic repulsion prevails. The black hole does not hold the magnetic field by itself.
+In this contribution we show an example of an equatorial outflow driven by a large scale magnetic field. We initiate our computations with a spherically symmetric distribution of gas, which flows onto the domain from a large distance, r\ggR+. After the flow settles in a steady (Bondi) solution, we impose an axially symmetric configuration of a uniform (Wald) magnetic field aligned with the rotation axis of the black hole. Then we evolve the initial configuration numerically by employing the MHD code that approaches the force-free limit of a perfectly conducting fluid.
+We observe how the magnetic lines of force start accreting with the plasma while an equatorial intermittent outflow develops and goes on ejecting some material away from the black hole.
+subjects: BH, accretion, NR, model, large scale MF
+
+link: https://arxiv.org/abs/2012.14711
+title: A low-mass binary neutron star: long-term ejecta evolution and kilonovae with weak blue emission
+authors: Kyohei Kawaguchi, Sho Fujibayashi, Masaru Shibata, Masaomi Tanaka, Shinya Wanajo
+topic: We study the long-term evolution of ejecta formed in a binary neutron star (BNS) merger that results in a long-lived remnant NS by performing a hydrodynamics simulation with the outflow data of a numerical relativity simulation as the initial condition. At the homologously expanding phase, the total ejecta mass reaches =0.1Msun with an average velocity of =0.1c and lanthanide fraction of 0.005. We further perform the radiative transfer simulation employing the obtained ejecta profile. We find that, contrary to a naive expectation from the large ejecta mass and low lanthanide fraction, the optical emission is not as bright as that in GW170817/AT2017gfo, while the infrared emission can be brighter. This light curve property is attributed to preferential diffusion of photons toward the equatorial direction due to the prolate ejecta morphology, large opacity contribution of Zr, Y, and lanthanides, and low specific heating rate of the ejecta. Our results suggest that these light curve features could be used as an indicator for the presence of a long-lived remnant NS. We also found that the bright optical emission broadly consistent with GW170817/AT2017gfo is realized for the case that the high-velocity ejecta components in the polar region are suppressed. These results suggest that the remnant in GW170817/AT2017gfo is unlikely to be a long-lived NS, but might have collapsed to a black hole within O(0.1) s.
+subjects: BNS, GRHD, ejecta, long hydro follow-up, kilonova
+revelation: Very importnat for thesis and BNS work
+
+link: https://arxiv.org/abs/2012.14502
+title: A Unified Spectral Model for Accreting Neutron Stars
+authors: Ayan Bhattacharjee, Sandip K. Chakrabarti
+topic: Recent studies show that accretion flows around weakly magnetic Neutron Stars undergo multiple shocks, before reaching the surface of the star, which contribute to the spectral and timing variabilities observed in the X-Rays. Here, we report, for the first time, the spectral properties of a unified model of shocked accretion flows around Neutron Stars, based on the Two-Component Advective Flow paradigm. We compare our theoretical results with the X-Ray spectral features of Z and Atoll sources, across different states. We also fit RXTE/PCA spectra of Sco X-1 and 4U 1705-44 to show the potential application of this new model.
+subjects: NS, accretion, shock, model, X-ray
+
 link: https://arxiv.org/abs/2012.12836
 title: What role will binary neutron star merger afterglows play in multimessenger cosmology?
 authors: S. Mastrogiovanni, R. Duque, E. Chassande-Mottin, F. Daigne, R.Mochkovitch
