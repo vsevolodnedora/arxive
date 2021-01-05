@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2101.00800
+title: Optical follow-up observation for GW event S190510g using Subaru/Hyper Suprime-Cam
+authors: Takayuki Ohgami, Nozomu Tominaga, Yousuke Utsumi, Yuu Niino, et al
+topic: A gravitational wave event, S190510g, which was classified as a binary-neutron-star coalescence at the time of preliminary alert, was detected by LIGO/Virgo collaboration on May 10, 2019. At 1.7 hours after the issue of its preliminary alert, we started a target-of-opportunity imaging observation in gamma-band to search for its optical counterpart using the Hyper Suprime-Cam (HSC) on the Subaru Telescope. We found three candidates are likely located inside the 3D skymap and concluded they could be an counterpart of S190510g, while most of 133 candidates were likely to be supernovae because the number density of candidates was consistent with the expected number of supernova detections. By comparing our observational depth with a light curve model of such a kilonova reproducing AT2017gfo, we show that early-deep observations with the Subaru/HSC can capture the rising phase of blue component of kilonova at the estimated distance of S190510g (~230 Mpc).
+subjects: observations, search, new BNS
+
 link: https://arxiv.org/abs/2012.15785
 title: Studying the onset of deconfinement with multi-messenger astronomy of neutron stars
 authors: David Blaschke, Mateusz Cierniak
