@@ -5,6 +5,13 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2101.01735
+title: GW170817 and GW190814: tension on the maximum mass
+authors: Antonios Nathanail, Elias R. Most, Luciano Rezzolla
+topic: The detection of the binary events GW170817 and GW190814 has provided invaluable constraints on the maximum mass of nonrotating configurations of neutron stars, MTOV. However, the large differences in the neutron-star masses measured in GW170817 and GW190814 has also lead to a significant tension between the predictions for such maximum masses, with GW170817 suggesting that MTOV less 2.3Msun, and GW190814 requiring MTOV larger 2.5Msun if the secondary was a (non- or slowly rotating) neutron star at merger. Using a genetic algorithm, we sample the multidimensional space of parameters spanned by gravitational-wave and astronomical observations associated with GW170817. Consistent with previous estimates, we find that all of the physical quantities are in agreement with the observations if the maximum mass is in the range MTOV=2.210+0.116-0.123Msun within a 2-sigma confidence level. By contrast, maximum masses with MTOVlarger 2.5Msun, not only require efficiencies in the gravitational-wave emission that are well above the numerical-relativity estimates, but they also lead to a significant under-production of the ejected mass. Hence, the tension can be released by assuming that the secondary in GW190814 was a black hole at merger, although it could have been a rotating neutron star before.
+subjects: BNS, max mass, GW, EM, statistics
+revelation: might be worth citing as an outstanding problem in the field
+
 link: https://arxiv.org/abs/2101.01488
 title: Two-Component Advective Flows around Neutron Stars
 authors: Ayan Bhattacharjee, Sandip K. Chakrabarti
