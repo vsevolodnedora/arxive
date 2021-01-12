@@ -5,6 +5,43 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2101.03718
+title: Delta-admixed neutron stars: spinodal instabilities and dUrca processes
+authors: Adriana R. Raduta
+topic: Within the covariant density functional theory of nuclear matter we build equations of state of Δ-admixed compact stars. Uncertainties in the interaction of Delta(1232) resonance states with nuclear matter, due to lack of experimental data, are accounted for by varying the coupling constants to scalar and vector mesonic fields. We find that, over a wide range of the parameter space allowed by nuclear physics experiments and astrophysical observations, cold catalyzed star matter exhibits a first order phase transition which persists also at finite temperature and out of beta-equilibrium in the neutrino-transparent matter. Compact stars featuring such a phase transition in the outer core have small radii and, implicitly, tidal deformabilities. The parameter space is identified where simultaneously Delta-admixed compact stars obey the astrophysical constraint on maximum mass and allow for dUrca processes, which is otherwise forbidden.
+subjects: EOS, phase transition
+
+link: https://arxiv.org/abs/2101.03447
+title: An intuitive parametric model for 3D compressible hydrodynamical and MHD turbulence
+authors: J.-B. Durrive, K. Ferrière, P. Lesaffre
+topic: An analytical model for three-dimensional incompressible turbulence was recently introduced in the hydrodynamics community which, with only a few parameters, shares many properties of experimental and numerical turbulence, notably intermittency (non-Gaussianity), the energy cascade (skewness), and vorticity alignment properties. In view of modeling astrophysical environments, we introduce a manner to extend to compressible fluids the three-dimensional turbulent velocity field model of Chevillard et al. (2010), as well as the three 3D turbulent magnetic field models of Durrive et al. (2020), following the same procedure based on the concept of multiplicative chaos. Our model provides a complementary tool to numerical simulations, as it enables us to generate very quickly fairly realistic velocity fields and magnetic fields, the statistics of which are controllable with intuitive parameters. Therefore our model will also provide a useful tool for observers in astrophysics. Finally, maybe even more than the model itself, it is the very procedure that matters the most: our model is modular, in the sense that it is constructed gradually, with intuitive and physically motivated steps, so that it is prone to many further improvements.
+subjects: turbulence, physics, model, analytic
+
+link: https://arxiv.org/abs/2101.03193
+title: Implications of PREX-II on the equation of state of neutron-rich matter
+authors: Brendan T. Reed, F. J. Fattoyev, C. J. Horowitz, J. Piekarewicz
+topic: Laboratory experiments sensitive to the equation of state of neutron rich matter in the vicinity of nuclear saturation density provide the first rung in a "density ladder" that connects terrestrial experiments to astronomical observations. In this context, the neutron skin thickness of 208Pb (Rskin) provides the most stringent laboratory constraint on the density dependence of the symmetry energy. In turn, the cleanest and most precise value of Rskin has been reported recently by the PREX collaboration. Exploiting the strong correlation between Rskin and the slope of the symmetry energy (L) we report a value of L=(109.56 +/- 36.41)MeV -- that systematically overestimates current limits based on both theoretical approaches and experimental measurements. The impact of such a stiff symmetry energy on some critical neutron-star observables is also examined.
+subjects: EOS, experiments
+
+link: https://arxiv.org/abs/2101.03502
+title: Estimating the Neutrino Flux from Choked Gamma-Ray Bursts
+authors: Michela Fasano, Silvia Celli, Dafne Guetta, Antonio Capone, Angela Zegarelli, Irene Di Palma
+topic: The strong constraints from the Fermi-LAT data on the isotropic gamma-ray background suggest that the neutrinos observed by IceCube might possibly come from sources that are hidden to gamma-ray observations. A possibility recently discussed in the literature is that neutrinos may come from jets of collapsing massive stars which fail to break out of the stellar envelope, and for this reason they are also known as choked jets. In this paper, we estimate the neutrino flux and spectrum expected from these sources. We perform detailed calculations of p-gamma interactions, accounting for all the neutrino production channels and scattering angles. We provide predictions of expected event rates for operating neutrino telescopes, as ANTARES and IceCube, as well as for future generation telescopes as KM3NeT. We find that if 10%-100% of the Gamma-Ray Burst (GRB) energy is channeled into protons, choked GRBs may reproduce the observed astrophysical neutrino flux, if their local rate is 3-0.3 Gpc^(-3) yr^(-1). This rate is consistent with the rate of GRBs detected in gamma rays.
+subjects: GRB, neutrinos, chocked jet, physics, model
+
+link: https://arxiv.org/abs/2101.03175
+title: Probing Kilonova Ejecta Properties Using a Catalog of Short Gamma-Ray Burst Observations
+authors: J. C. Rastinejad (Northwestern, CIERA), W. Fong, C. D. Kilpatrick, K. Paterson, N. R. Tanvir, A. J. Levan, B. D. Metzger, E. Berger, R. Chornock, B. E. Cobb, P. Milne, A. E. Nugent, N. Smith
+topic: The discovery of GW170817 and GRB 170817A in tandem with AT 2017gfo cemented the connection between neutron star mergers, short gamma-ray bursts (GRBs), and kilonovae. To investigate short GRB observations in the context of diverse kilonova behavior, we present a comprehensive optical and near-infrared (NIR) catalog of 85 bursts discovered over 2005-2020 on timescales of less 12 days. The sample includes previously unpublished observations of 23 bursts, and encompasses both detections and deep upper limits. We identify 11.8% and 15.3% of short GRBs in our catalog with upper limits that probe luminosities lower than those of AT 2017gfo and a fiducial NSBH kilonovae model (for pole-on orientations), respectively. We quantify the ejecta masses allowed by the deepest limits in our catalog, constraining blue and `extremely blue' kilonova components of 14.1% of bursts to Mej less 0.01-0.1Msun. The sample of short GRBs is not particularly constraining for red kilonova components. Motivated by the large catalog as well as model predictions of diverse kilonova behavior, we investigate altered search strategies for future follow-up to short GRBs. We find that ground-based optical and NIR observations on timescales of \geq 2 days can play a significant role in constraining more diverse outcomes. We expect future short GRB follow up efforts, such as from the {\it James Webb Space Telescope}, to expand the reach of kilonova detectability to redshifts of z=1.
+subjects: observations, catalogue, GRB, kilonova
+
+
 link: https://arxiv.org/abs/2101.02984
 title: A numerical jet model for the prompt emission of gamma-ray bursts
 authors: Ruben Farinelli, Rupal Basak, Lorenzo Amati, Cristiano Guidorzi, Filippo Frontera
