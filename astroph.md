@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2101.04504
+title: Rotating vector model for magnetars
+authors: H. Tong, P. F. Wang, H. G. Wang, Z. Yan
+topic: The modification of the rotating vector model in the case of magnetars are calculated. Magnetars may have twisted magnetic field compared with normal pulsars. The polarization position angle of magnetars will change in the case of a twisted magnetic field. For a twisted dipole field, we found that the position angle will change both vertically and horizontally. During the untwisting process of the magnetar magnetosphere, the modifications of the position angle will evolve with time monotonously. This may explain the evolution of the position angle in magnetar PSR J1622-4950 and XTE J1810-197. The relation between the emission point and the line of sight will also change. We suggest every magnetospheric models of magnetars also calculate the corresponding changes of position angle in their models. Order of magnitude estimation formula for doing this is given. This opens the possibility to extract the magnetic field geometry of magnetars from their radio polarization observations.
+subjects: magnetar, physics, MF model
+
+link: https://arxiv.org/abs/2101.04325
+title: Testing High-latitude Curvature Effect of Gamma-Ray Bursts with {\it Fermi} Data: Evidence of Bulk Acceleration in Prompt Emission
+authors: Liang Li, Bing Zhang
+topic: When a GRB emitter stops emission abruptly, the observer would receive rapidly fading emission from high latitudes with respect to the line of sight, known as the "curvature effect". Identifying such emission from GRB prompt emission lightcurves would constrain the radius of prompt emission from the central engine and the composition of GRB jets. We perform a dedicated search of high-latitude emission (HLE) through spectral and temporal analyses of a sample of single-pulse bursts detected by the Gamma-ray Burst Monitor on-board the {\it Fermi} satellite. We identify HLE from a sub-sample of bursts and constrain the emission radius to be RGRB~(1015−1016) cm from the central engine. Some bursts have the HLE decays faster than predicted by a constant Lorentz factor jet, suggesting that the emission region is undergoing acceleration during prompt emission. This supports the Poynting-flux-dominated jet composition for these bursts. The conclusion is consistent with previous results drawn from spectral-lag modeling of prompt emission and HLE analysis of X-ray flares.
+subjects: GRB, prompt, observations
+
 link: https://arxiv.org/abs/2101.03718
 title: Delta-admixed neutron stars: spinodal instabilities and dUrca processes
 authors: Adriana R. Raduta
