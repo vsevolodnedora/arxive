@@ -11,6 +11,43 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2101.05195
+title: The Physics of Accretion Discs, Winds And Jets in Tidal Disruption Events
+authors: Jane Lixin Dai, Giuseppe Lodato, Roseanne M. Cheng
+topic: Accretion onto black holes is an efficient mechanism in converting the gas mass-energy into energetic outputs as radiation, wind and jet. Tidal disruption events, in which stars are tidally torn apart and then accreted onto supermassive black holes, offer unique opportunities of studying the accretion physics as well as the wind and jet launching physics across different accretion regimes. In this review, we systematically describe and discuss the models that have been developed to study the accretion flows and jets in tidal disruption events. A good knowledge of these physics is not only needed for understanding the emissions of the observed events, but also crucial for probing the general relativistic space-time around black holes and the demographics of supermassive black holes via tidal disruption events.
+subjects: review, phsyics, BH, accretion
+
+link: https://arxiv.org/abs/2101.05138
+title: Determining the viewing angle of neutron star merger jets with VLBI radio images
+authors: Joseph John Fernández, Shiho Kobayashi, Gavin P. Lamb
+topic: Very long base interferometry (VLBI) radio images recently proved to be essential in breaking the degeneracy in the ejecta model for the neutron star merger event GW170817. We discuss the properties of synthetic radio images of merger jet afterglow by using semi-analytic models of laterally spreading or non-spreading jets. The image centroid initially moves away from the explosion point in the sky with an apparent superlumianal velocity. After reaching a maximum displacement its motion is reversed. This behavior is in line with that found in full hydrodynamics simulations. Since the evolution of the centroid shift and jet image size are significantly different in the two jet models, observations of these characteristics for very bright events might be able to confirm or constrain the lateral expansion law of merger jets. We explicitly demonstrate how θobs is obtained by the centroid shift of radio images or its apparent velocity provided the ratio of the jet core size θc and the viewing angle θobs is determined by afterglow light curves. We show that a simple method based on a point-source approximation provides reasonable angular estimates (10-20% errors at most). By taking a sample of structured Gaussian jet results, we find that the model with theta_obs~0.32 rad can explain the main features of the GW170817 afterglow light curves and the radio images.
+subjects: 
+revelation: important for GRB project
+
+link: https://arxiv.org/abs/2101.05118
+title: Common envelope jets supernovae with a black hole companion as possible high energy neutrino sources
+authors: Aldana Grichener, Noam Soker 
+topic: We study high energy neutrino emission from relativistic jets launched by a black hole (BH) spiraling-in inside the envelope of a red supergiant (RSG), and find that such common envelope jets supernovae (CEJSNe) are a potential source for the ~10^15 eV neutrinos detected by IceCube. We first use the stellar evolution code MESA to mimic the effect of the jets on the RSG envelope, and find that the jets substantially inflate the envelope. We then study the propagation of jets inside the extended RSG envelope and find that in most cases the jets do not penetrate the envelope but are rather stalled. We show that such jets can accelerate cosmic rays to high enough energies to produce high energy neutrinos. While the neutrinos stream out freely, the gamma-rays that accompany the neutrino production remain trapped inside the optically thick envelope. This explains the lack of observational association between high energy neutrinos and gamma-rays.
+subjects: neutrinos, BH, accretion, jet
+
+link: https://arxiv.org/abs/2101.05073
+title: Circular Orbits Structure and Thin Accretion Disks around Kerr Black Holes with Scalar Hair
+authors: Lucas G. Collodel, Daniela D. Doneva, Stoytcho S. Yazadjiev
+topic: In this paper we first investigate the equatorial circular orbit structure of Kerr black holes with scalar hair (KBHsSH) and highlight their most prominent features which are quite distinct from the exterior region of ordinary bald Kerr black holes, i.e. peculiarities that arise from the combined bound system of a hole with an off-center, self-gravitating distribution of scalar matter. Some of these traits are incompatible with the thin disk approach, thus we identify and map out various regions in the parameter space respectively. All the solutions for which the stable circular orbital velocity (and angular momentum) curve is continuous are used for building thin and optically thick disks around them, from which we extract the radiant energy fluxes, luminosities and efficiencies. We compare the results in batches with the same spin parameter j but different normalized charges, and the profiles are richly diverse. Because of the existence of a conserved scalar charge, Q, these solutions are non-unique in the (M,J) parameter space. Furthermore, Q cannot be extracted asymptotically from the metric functions. Nevertheless, by constraining the parameters through different observations, the luminosity profile could in turn be used to constrain the Noether charge and characterize the spacetime, should KBHsSH exist.
+subjects: physics, BH, accretion
+
+link: https://arxiv.org/abs/2101.04907
+title: The Physics of Fast Radio Bursts
+authors: Di Xiao, Fayin Wang, Zigao Dai
+topic: In 2007, a very bright radio pulse was identified in the archival data of the Parkes Telescope in Australia, marking the beginning of a new research branch in astrophysics. In 2013, this kind of millisecond bursts with extremely high brightness temperature takes a unified name, fast radio burst (FRB). Over the first few years, FRBs seemed very mysterious because the sample of known events was limited. With the improvement of instruments over the last five years, hundreds of new FRBs have been discovered. The field is now undergoing a revolution and understanding of FRB has rapidly increased as new observational data increasingly accumulates. In this review, we will summarize the basic physics of FRBs and discuss the current research progress in this area. We have tried to cover a wide range of FRB topics, including the observational property, propagation effect, population study, radiation mechanism, source model, and application in cosmology. A framework based on the latest observational facts is now under construction. In the near future, this exciting field is expected to make significant breakthroughs.
+subjects: FRB, review
+
+link: https://arxiv.org/abs/2101.04782
+title: Temperature dependent appearance of exotic matter makes nascent neutron stars spin faster
+authors: Francisco Hernandez-Vivanco, Paul D. Lasky, Eric Thrane, Rory Smith, Debarati Chatterjee, Sarmistha Banik, Theo Motta, Anthony Thomas
+topic: Neutron stars offer the opportunity to study the behaviour of matter at densities and temperatures inaccessible to terrestrial experiments. Gravitational-wave observations of binary neutron star coalescences can constrain the neutron-star equation of state before and after merger. After the neutron star binary merges, hyperons can form in the remnant, changing the behaviour of the neutron-star equation of state. In this study, we use finite-entropy equations of state to show that a post-merger remnant can spin up due to cooling. The magnitude of the spin-up depends on the neutron-star equation of state. If hyperons are present, the post-merger spin-up changes the peak gravitational-wave frequency by ~540 Hz, when the entropy per baryon drops from s=2 kB to s=0 kB. If hyperons are not present, the post-merger spin-up changes by ~360 Hz, providing a gravitational-wave signature for exotic matter. We expect the same qualitative behaviour whenever temperature dependent phase transitions are triggered.
+subjects: GW, NS, EOS, merger
+
 link: https://arxiv.org/abs/2101.04504
 title: Rotating vector model for magnetars
 authors: H. Tong, P. F. Wang, H. G. Wang, Z. Yan
