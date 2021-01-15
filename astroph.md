@@ -11,6 +11,30 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2101.05788
+title: Post-Merger Jets from Supermassive Black Hole Coalescences as Electromagnetic Counterparts of Gravitational Wave Emission
+authors: Chengchao Yuan, Kohta Murase, B. Theodore Zhang, Shigeo S. Kimura, Peter Mészáros
+topic: As a powerful source of gravitational waves (GW), a supermassive black hole (SMBH) merger may be accompanied by a relativistic jet that leads to detectable electromagnetic emission (EM). We model the propagation of post-merger jets inside a pre-merger circumnuclear environment formed by disk winds, and calculate multi-wavelength EM spectra from the forward shock region. We show that the non-thermal EM signals from SMBH mergers are detectable up to the detection horizon of future GW facilities such as the Laser Interferometer Space Antenna (LISA). Calculations based on our model predict slowly fading transients with time delays from days to months after the coalescence, leading to implications for EM follow-up observations after the GW detection.
+subjects: EM, jet, SMBH, non-thermal, shock
+
+link: https://arxiv.org/abs/2101.05685
+title: Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
+authors: Joongoo Lee, Sang Hoon Oh, Kyungmin Kim, Gihyuk Cho, John J. Oh, Edwin J. Son, Hyung Mok Lee
+topic: The waveform templates of the matched filtering-based gravitational-wave search ought to cover wide range of parameters for the prosperous detection. Numerical relativity (NR) has been widely accepted as the most accurate method for modeling the waveforms. Still, it is well-known that NR typically requires a tremendous amount of computational costs. In this paper, we demonstrate a proof-of-concept of a novel deterministic deep learning (DL) architecture that can generate gravitational waveforms from the merger and ringdown phases of the non-spinning binary black hole coalescence. Our model takes O(1) seconds for generating approximately 1500 waveforms with a 99.9\% match on average to one of the state-of-the-art waveform approximants, the effective-one-body. We also perform matched filtering with the DL-waveforms and find that the waveforms can recover the event time of the injected gravitational-wave signals.
+subjects: GW, machine mearling, ML, BBH
+
+link: https://arxiv.org/abs/2101.05474
+title: Effects of resistivity on standing shocks in low angular momentum flows around black holes
+authors: Chandra B. Singh, Toru Okuda, Ramiz Aktar
+topic: We study two dimensional low angular momentum flow around the black hole using the resistive magnetohydrodynamic module of PLUTO code. Simulations have been performed for the flows with parameters of specific angular momentum, specific energy, and magnetic field which may be expected for the flow around Sgr Aastar. For flows with lower resistivity, the luminosity and the shock location on the equator vary quasi-periodically. The power density spectra of luminosity variation show the peak frequencies which correspond to the periods of 5e5, 1.4e5, and 5e4 seconds, respectively. These quasi-periodic oscillations (QPOs) occur due to the interaction between the outer oscillating standing shock and the inner weak shocks occurring at the innermost hot blob. While for cases with higher resistivity of, the high resistivity considerably suppresses the magnetic activity such as the MHD turbulence and the flows tend to be steady and symmetric to the equator. The steady standing shock is formed more outward compared with the hydrodynamical flow. The low angular momentum flow model with the above flow parameters and with low resistivity has a possibility for the explanation of the long-term flares with ~ one per day and ~ 5 - 10 days of Sgr Astar in the latest observations by Chandra, Swift, and XMM-Newton monitoring of Sgr Astar.
+subjects: MHD, resistive MHD, model, BH accretion
+
+link: https://arxiv.org/abs/2101.05440
+title: Alternative possibility of GW190521: Gravitational waves from high-mass black hole-disk systems
+authors: Masaru Shibata, Kenta Kiuchi, Sho Fujibayashi, Yuichiro Sekiguchi
+topic: We evolve high-mass disks of mass 15-50Msun orbiting a 50Msun spinning black hole in the framework of numerical relativity. Such high-mass systems could be an outcome during the collapse of rapidly-rotating very-massive stars. The massive disks are dynamically unstable to the so-called one-armed spiral-shape deformation with the maximum fractional density-perturbation of delta_rho/rho  greater 0.1, and hence, high-amplitude gravitational waves are emitted. The waveforms are characterized by an initial high-amplitude burst with the frequency of ~40-50 Hz and the maximum amplitude of (1-10)times10−22 at the hypothetical distance of 100 Mpc and by a subsequent low-amplitude quasi-periodic oscillation. We illustrate that the waveforms in our models with a wide range of the disk mass resemble that of GW190521. We also point out that gravitational waves from rapidly-rotating very-massive stars can be the source for 3rd-generation gravitational-wave detectors for exploring the formation process of rapidly-rotating high-mass black holes of mass ~50-100Msun in an early universe.
+subjects: GW ,BH, dis, accretion, model 
+
 link: https://arxiv.org/abs/2101.05195
 title: The Physics of Accretion Discs, Winds And Jets in Tidal Disruption Events
 authors: Jane Lixin Dai, Giuseppe Lodato, Roseanne M. Cheng
