@@ -5,11 +5,12 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2101.07313
+title: Constraining neutron star radii in black hole-neutron star mergers from their electromagnetic counterparts
+authors: Giacomo Fragione, Abraham Loeb
+topic: Mergers of black hole (BH) and neutron star (NS) binaries are of interest since the emission of gravitational waves (GWs) can be followed by an electromagnetic (EM) counterpart, which could power short gamma-ray bursts. Until now, LIGO/Virgo has only observed a candidate BH-NS event, GW190426-152155, which was not followed by any EM counterpart. We show how the presence (absence) of a remnant disk, which powers the EM counterpart, can be used along with spin measurements by LIGO/Virgo to derive a lower (upper) limit on the radius of the NS. For the case of GW190426-152155, large measurement errors on the spin prevent from placing an upper limit on the NS radius. Our proposed method works best when the aligned component of the BH spin (with respect to the orbital angular momentum) is the largest, and can be used to complement the information that can be extracted from the GW signal to derive valuable information on the NS equation of state.
+subjects: EM, NSBH, method
+revelation: might be worth checking the method
 
 link: https://arxiv.org/abs/2101.06962
 title: Flux variability from ejectas in structured relativistic jets with large-scale magnetic fields
