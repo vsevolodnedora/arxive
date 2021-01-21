@@ -5,6 +5,30 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2101.08006
+title: Two-dimensional Inflow-Wind Solution of Hot Accretion Flow. I. Hydrodynamics
+authors: Amin Mosallanezhad, Fatemeh Zahra Zeraatgari, Liquan Mei, De-Fu Bu
+topic: We solve the two-dimensional hydrodynamic equations of hot accretion flow in the presence of the thermal conduction. The flow is assumed to be in steady-state and axisymmetric, and self-similar approximation is adopted in the radial direction. In this hydrodynamic study, we consider the viscous stress tensor to mimic the effects of the magnetorotational instability for driving angular momentum. We impose the physical boundary conditions at both the rotation axis and the equatorial plane and obtain the solutions in the full r-theta space. We have found that thermal conduction is indispensable term for investigating the inflow-wind structure of the hot accretion flows with very low mass accretion rates. One of the most interesting results here is that the disc is convectively stable in hot accretion mode and in the presence of the thermal conduction. Furthermore, the properties of wind and also its driving mechanisms are studied. Our analytical results are consistent with previous numerical simulations of hot accretion flow.
+subjects: physics, accretion, model
+
+link: https://arxiv.org/abs/2101.07793
+title: The Observed Rate of Binary Black Hole Mergers can be Entirely Explained by Globular Clusters
+authors: Carl L. Rodriguez, Kyle Kremer, Sourav Chatterjee, Giacomo Fragione, Abraham Loeb, Frederic A. Rasio, Newlin C. Weatherford, Claire S. Ye
+topic: Since the first signal in 2015, the gravitational-wave (GW) detections of merging binary black holes (BBHs) by the LIGO and Virgo collaborations (LVC) have completely transformed our understanding of the lives and deaths of compact object binaries, and have motivated an enormous amount of theoretical and phenomenological work on the astrophysical origin of these objects. In this work, we show that the phenomenological fit to the redshift-dependent merger rate of BBHs from Abbott et al. (2020) is consistent with a purely dynamical origin for these objects, and that the current merger rate of BBHs from the LVC could be explained entirely with globular clusters alone. While this does not prove that globular clusters (GCs) are the only (or even dominant) formation channel, we emphasize that many potential formation scenarios could contribute a significant fraction of the current LVC rate, and that any analysis that assumes a single (or dominant) mechanism for producing BBH mergers is implicitly using a specious astrophysical prior.
+subjects: globular clusters, BBH, statistics, merger rate
+
+link: https://arxiv.org/abs/2101.07791
+title: R-process enhancements of Gaia-Enceladus in GALAH DR3
+authors: Tadafumi Matsuno, Yutaka Hirai, Yuta Tarumi, Kenta Hotokezaka, Masaomi Tanaka, Amina Helmi
+topic: The dominant site of production of r-process elements remains unclear despite recent observations of a neutron star merger. Observational constraints on the properties of the sites can be obtained by comparing r-process abundances in different environments. The recent Gaia data releases and large samples from high-resolution optical spectroscopic surveys are enabling us to compare r-process element abundances between stars formed in an accreted dwarf galaxy, Gaia-Enceladus, and those formed in the Milky Way. We aim to understand the origin of r-process elements in Gaia-Enceladus. We first construct a sample of stars to study Eu abundances without being affected by the detection limit. We then kinematically select 71 Gaia-Enceladus stars and 93 in-situ stars from the Galactic Archaeology with HERMES (GALAH) DR3, of which 50 and 75 stars can be used to study Eu reliably. Gaia-Enceladus stars clearly show higher ratios of [{Eu}/{Mg}] than in-situ stars. High [{Eu}/{Mg}] along with low [{Mg}/{Fe}] are also seen in relatively massive satellite galaxies such as the LMC, Fornax, and Sagittarius dwarfs. On the other hand, unlike these galaxies, Gaia-Enceladus does not show enhanced [{Ba}/{Eu}] or [{La}/{Eu}] ratios suggesting a lack of significant s-process contribution. From comparisons with simple chemical evolution models, we show that the high [{Eu}/{Mg}] of Gaia-Enceladus can naturally be explained by considering r-process enrichment by neutron-star mergers with delay time distribution that follows a similar power-law as type~Ia supernovae but with a shorter minimum delay time.
+subjects: r-process, observations
+
 link: https://arxiv.org/abs/2101.07313
 title: Constraining neutron star radii in black hole-neutron star mergers from their electromagnetic counterparts
 authors: Giacomo Fragione, Abraham Loeb
