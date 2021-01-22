@@ -11,6 +11,30 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2101.08296
+title: A comprehensive view of blackbody components in the X-ray spectra of GRBs
+authors: Vlasta Valan, Josefin Larsson
+topic: A small fraction of gamma-ray bursts (GRBs) exhibit blackbody emission in the X-ray spectra, the origin of which is debated. In order to gain a more complete understanding of this phenomenon, we present a search for blackbody components in 116 GRBs with known redshifts observed by {\it Swift}~XRT. A time-resolved spectral analysis is carried out and the significance of the blackbody is assessed with respect to an absorbed power-law model. We report nine new detections and confirm the previously reported blackbody in GRB171205A. Together with our previous results, there are a total of 19 GRBs with significant blackbody emission in a sample of 199 GRBs observed by {\it Swift} over 13 years. The detections include one short GRB and two low-luminosity GRBs. We estimate fireball parameters from the blackbody components and note that the blackbody luminosity is correlated with the temperature and inferred Lorentz factor. There is a large spread in the properties of the blackbody components and the light curves, which points to different origins for the emission. In about a third of the GRBs, the blackbody is clearly associated with late prompt emission from the jet. The rest of the sample includes cases that are fully consistent with the expectations from a cocoon, as well cases that may be explained by high-latitude emission or more energetic cocoons. These results indicate that thermal emission is associated with all parts of the jet.
+subjects: GRB, thermal emission, prompt emission, summary
+
+link: https://arxiv.org/abs/2101.08271
+title: Constraints on the presence of platinum and gold in the spectra of the kilonova AT2017gfo
+authors: James H. Gillanders, Michael McCann, Stuart A. Sim. Stephen J. Smartt, Connor P. Ballance
+topic: Binary neutron star mergers are thought to be one of the dominant sites of production for rapid neutron capture elements, and the source of platinum and gold in the Universe. Since the discovery of the binary neutron star merger GW170817, and its associated kilonova AT2017gfo, numerous works have attempted to determine the composition of its outflowing material, but they have been hampered by the lack of complete atomic data. Here we demonstrate how inclusion of new atomic data in synthetic spectra calculations can provide insights and constraints on the production of the heaviest elements. We employ theoretical atomic data for neutral, singly- and doubly-ionised platinum and gold, to generate photospheric and simple nebular-phase model spectra for kilonova-like ejecta properties. We make predictions for the locations of strong transitions, which could feasibly appear in the spectra of kilonovae that are rich in these species. We use GRASP0 to generate the underlying atomic structure and TARDIS to model the diffusion phase showing that the strongest features lie in the ultra-violet region. We identify low-lying electric quadrupole and magnetic dipole transitions that may give rise to forbidden lines when the ejecta becomes optically thin. The strongest lines lie beyond 8000 Angstroms, motivating high quality near-infrared spectroscopic follow-up of kilonova candidates. We compare our model spectra to the observed spectra of AT2017gfo, and conclude that no platinum or gold signatures are prominent in the ejecta. This work demonstrates how new atomic data of heavy elements can be included in radiative transfer calculations, and motivates future searches for elemental signatures.
+subjects: Kilonova, radiation trasport, model, atomic data, BNS
+
+link: https://arxiv.org/abs/2101.08267
+title: The Role of Strong Gravity and the Nuclear Equation of State on Neutron-Star Common-Envelope Accretion
+authors: A. Miguel Holgado, Hector O. Silva, Paul M. Ricker, Nicolas Yunes
+topic: Common-envelope evolution is important in the formation of neutron star binaries within the isolated binary formation channel. As a neutron star inspirals within the envelope of a primary massive star, it accretes and spins up. Because neutron stars are in the strong-gravity regime, they have a substantial relativistic mass deficit, i.e., their gravitational mass is less than their baryonic mass. This effect causes some fraction of the accreted baryonic mass to convert into neutron star binding energy. The relativistic mass deficit also depends on the nuclear equation of state, since more compact neutron stars will have larger binding energies. We model the mass growth and spin-up of neutron stars inspiraling within common-envelope environments and quantify how different initial binary conditions and hadronic equations of state affect the post-common-envelope neutron star's mass and spin. From these models, we find that neutron star mass growth is suppressed by =15-30%. We also find that for a given amount of accreted baryonic mass, more compact neutron stars will spin-up faster while gaining less gravitational mass, and vice versa. This work demonstrates that a neutron star's strong gravity and nuclear microphysics plays a role in neutron-star-common-envelope evolution, in addition to the macroscopic astrophysics of the envelope. Strong gravity and the nuclear equation of state may thus affect both the population properties of neutron star binaries and the cosmic double neutron star merger rate.
+subjects: NS, formation, binary, common-envelope, GR, model
+
 link: https://arxiv.org/abs/2101.08006
 title: Two-dimensional Inflow-Wind Solution of Hot Accretion Flow. I. Hydrodynamics
 authors: Amin Mosallanezhad, Fatemeh Zahra Zeraatgari, Liquan Mei, De-Fu Bu
