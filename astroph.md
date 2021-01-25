@@ -5,17 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2101.09256
+title: Mildly relativistic magnetized shocks in electron-ion plasmas -- II. Particle acceleration and heating
+authors: Arianna Ligorini, Jacek Niemiec, Oleh Kobzar, Masanori Iwamoto, Artem Bohdan, Martin Pohl, Yosuke Matsumoto, Takanobu Amano, Shuichi Matsukiyo, Masahiro Hoshino
+topic: Particle acceleration and heating at mildly relativistic magnetized shocks in electron-ion plasma are investigated with unprecedentedly high-resolution two-dimensional particle-in-cell simulations that include ion-scale shock rippling. Electrons are super-adiabatically heated at the shock, and most of the energy transfer from protons to electrons takes place at or downstream of the shock. We are the first to demonstrate that shock rippling is crucial for the energization of electrons at the shock. They remain well below equipartition with the protons. The downstream electron spectra are approximately thermal with a limited supra-thermal power-law component. Our results are discussed in the context of wakefield acceleration and the modelling of electromagnetic radiation from blazar cores.
+subjects: physics, shocks, simulation
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2101.08979
+title: Black Holes LIGO/Virgo Domination and Single-lined Binaries with a Black Hole Candidate Component
+authors: Vladimir Lipunov, Evgeny Gorbovskoy, Valeria Grinshpun, Daniil Vlasenko
+topic: In this letter, we note that the observed in the LIGO / Virgo experiment ratio of the detection rate of black holes to the rate of detection of binary neutron stars requires the assumption of a "conservative" collapse of massive stars into a black hole: almost all the mass of the collapsing star goes under the horizon. This is consistent with the large masses of black holes detected by LIGO/Virgo. On the other hand, the assumption of a small loss of matter during the collapse into a black hole is in good agreement with the small eccentricity of Single-lined Binaries. At the same time, the absence of X-rays from most black holes in binary systems with blue stars is explained. We argue that three sets of LIGO / Virgo observations and data on the Single-lined Binary with a Candidate Black Hole Component confirm the scenario of the evolution of massive field binaries.
+subjects: BH, formation, statistics, SN
+
+link: https://arxiv.org/abs/2101.08797
+title: Relativistic Bondi accretion for stiff equations of state
+authors: Chloe B. Richards, Thomas W. Baumgarte, Stuart L. Shapiro
+topic: We revisit Bondi accretion - steady-state, adiabatic, spherical gas flow onto a Schwarzschild black hole at rest in an asymptotically homogeneous medium - for stiff polytropic equations of state (EOSs) with adiabatic indices Gamma > 5/3. A general relativistic treatment is required to determine their accretion rates, for which we provide exact expressions. We discuss several qualitative differences between results for soft and stiff EOSs - including the appearance of a minimum steady-state accretion rate for EOSs with Gamma \geq 5/3 - and explore limiting cases in order to examine these differences. As an example we highlight results for Gamma=2, which is often used in numerical simulations to model the EOS of neutron stars. We also discuss a special case with this index, the ultra-relativistic `causal' EOS, P=rho. The latter serves as a useful limit for the still undetermined neutron-star EOS above nuclear density. The results are useful, for example, to estimate the accretion rate onto a mini-black hole residing at the center of a neutron star.
+subjects: EOS, accretion, phsyics, theory
 
 link: https://arxiv.org/abs/2101.08296
 title: A comprehensive view of blackbody components in the X-ray spectra of GRBs
