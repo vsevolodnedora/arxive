@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2101.10252
+title: Black Hole - Neutron Star Binary Mergers: The Imprint of Tidal Deformations and Debris
+authors: Bhavesh Khamesra, Miguel Gracia-Linares, Pablo Laguna
+topic: The increase in the sensitivity of gravitational wave interferometers will bring additional detections of binary black hole and double neutron star mergers. It will also very likely add many merger events of black hole - neutron star binaries. Distinguishing mixed binaries from binary black holes mergers for high mass ratios could be challenging because in this situation the neutron star coalesces with the black hole without experiencing significant disruption. To investigate the transition of mixed binary mergers into those behaving more like binary black hole coalescences, we present results from merger simulations for different mass ratios. We show how the degree of deformation and disruption of the neutron star impacts the inspiral and merger dynamics, the properties of the final black hole, the accretion disk formed from the circularization of the tidal debris, the gravitational waves, and the strain spectrum and mismatches. The results also show the effectiveness of the initial data method that generalizes the Bowen-York initial data for black hole punctures to the case of binaries with neutron star companions.
+subjects: new code, NSBH, merger, models
+
 link: https://arxiv.org/abs/2101.09256
 title: Mildly relativistic magnetized shocks in electron-ion plasmas -- II. Particle acceleration and heating
 authors: Arianna Ligorini, Jacek Niemiec, Oleh Kobzar, Masanori Iwamoto, Artem Bohdan, Martin Pohl, Yosuke Matsumoto, Takanobu Amano, Shuichi Matsukiyo, Masahiro Hoshino
