@@ -5,11 +5,35 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2101.12371
+title: How will our knowledge on SGRB affect the distance measurement of BNS?
+authors: Minghui Du, Lixin Xu
+topic: Binary neutron star associated with short Gamma ray burst has drawn wide attention ever since the observation of GW170817, due to its potential application in cosmology. While, further application of this sort of event suffers from the problem of degeneracy between luminosity distance and inclination angle, especially in the face-on limit. In this paper, we aim to address this issue by taking into account a Gaussian prior on the inclination angle. To test the property of resulting posterior distribution, we generate four catalogues of 1000 events by varying the number of third-generation detectors and the scale of prior. It turns out that a network of detectors tends to recognize more and farther events than a single detector. 
+subjects: observation simulation, statistics, GRB
+
+link: https://arxiv.org/abs/2101.12220
+title: Neutron Stars Harboring a Primordial Black Hole: Maximum Survival Time
+authors: Thomas W. Baumgarte, Stuart L. Shapiro
+topic: We explore in general relativity the survival time of neutron stars that host an endoparasitic, possibly primordial, black hole at their center. Corresponding to the minimum steady-state Bondi accretion rate for adiabatic flow that we found earlier for stiff nuclear equations of state (EOSs), we derive analytically the maximum survival time after which the entire star will be consumed by the black hole. We also show that this maximum survival time depends only weakly on the stiffness for polytropic EOSs with Gamma>5/3, so that this survival time assumes a nearly universal value that depends on the initial black hole mass alone. Establishing such a value is important for constraining the contribution of primordial black holes in the mass range 10-16Msun less M less 10-10Msun to the dark-matter content of the Universe.
+subjects: EOS, BH, in NS, physics
+
+link: https://arxiv.org/abs/2101.12214
+title: Multimessenger signals from black hole-neutron star mergers without significant tidal disruption
+authors: William E. East, Luis Lehner, Steven L. Liebling, Carlos Palenzuela
+topic: We study the multimessenger signals from the merger of a black hole with a magnetized neutron star using resistive magneto-hydrodynamics simulations coupled to full general relativity. We focus on a case with a 5:1 mass-ratio, where only a small amount of the neutron star matter remains post-merger, but we nevertheless find that significant electromagnetic radiation can be powered by the interaction of the neutron star's magnetosphere with the black hole. In the lead-up to merger, strong twisting of magnetic field lines from the inspiral leads to plasmoid emission and results in a luminosity in excess of that expected from unipolar induction. We find that the strongest emission occurs shortly after merger during a transitory period in which magnetic loops form and escape the central region. The remaining magnetic field collimates around the spin axis of the remnant black hole before dissipating, an indication that, in more favorable scenarios (higher black hole spin/lower mass ratio) with larger accretion disks, a jet would form.
+subjects: MHD, models, NSBH
+
+link: https://arxiv.org/abs/2101.10343
+title: Where binary neutron stars merge: predictions from IllustrisTNG
+authors: Jonah C. Rose, Paul Torrey, K.H. Lee, I. Bartos
+topic: The rate and location of Binary Neutron Star (BNS) mergers are determined by a combination of the star formation history and the Delay Time Distribution (DTD) function. In this paper, we couple the star formation rate histories (SFRHs) from the IllustrisTNG model to a series of varied assumptions for the BNS DTD to make predictions for the BNS merger host galaxy mass function. These predictions offer two outcomes: (i) in the near term: influence BNS merger event follow-up strategy by scrutinizing where most BNS merger events are expected to occur and (ii) in the long term: constrain the DTD for BNS merger events once the host galaxy mass function is observationally well determined. From our fiducial model analysis, we predict that 50% of BNS mergers will occur in host galaxies with stellar mass between 1010−1011 Msun, 68% between 4x109-3x1011 Msun, and 95% between 4x108-2x1012 Msun. We find that the details of the DTD employed does not have a strong effect on the peak of the host mass function. However, varying the DTD provides enough spread that the true DTD can be determined from enough electromagnetic observations of BNS mergers. Knowing the true DTD can help us determine the prevalence of BNS systems formed through highly eccentric and short separation fast-merging channels and can constrain the dominant source of r-process material.
+subjects: population, projenitor, statistics, merger rate
+
+link: https://arxiv.org/abs/2101.10581
+title: Off-axis jet scenario for early afterglow emission of low-luminosity gamma-ray burst GRB 190829A
+authors: Yuri Sato, Kaori Obayashi, Ryo Yamazaki, Kohta Murase, Yutaka Ohira
+topic: Recently, ground-based Imaging Atmospheric Cherenkov Telescopes have reported the detection of very-high-energy (VHE) gamma rays from some gamma-ray bursts (GRBs). One of them, GRB~190829A, was triggered by the Swift satellite, and about 20000 s after the burst onset the VHE gamma-ray emission was detected by H.E.S.S. with ~ 5 sigma significance. This event had unusual features of having much smaller isotropic equivalent gamma-ray energy than typical long GRBs and achromatic peaks in X-ray and optical afterglow at about 1400 s. Here we propose an off-axis jet scenario that explains these observational results. In this model, the relativistic beaming effect is responsible for the apparently small isotropic gamma-ray energy and spectral peak energy. Using a jetted afterglow model, we find that the narrow jet, which has the initial Lorentz factor of 350 and the initial jet opening half-angle of 0.015 rad, viewed off-axis can describe the observed achromatic behavior in the X-ray and optical afterglow. Another wide, baryon-loaded jet is necessary for the later-epoch X-ray and radio emissions. According to our model, the VHE gamma rays observed by H.E.S.S. at 20000 s may come from the narrow jet through the synchrotron self-Compton process.
+subjects: lGRB, observation, model, off-axis, jet
 
 link: https://arxiv.org/abs/2101.10252
 title: Black Hole - Neutron Star Binary Mergers: The Imprint of Tidal Deformations and Debris
