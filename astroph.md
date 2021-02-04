@@ -5,6 +5,36 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2102.02004
+title: Role of dense matter in tidal deformations of inspiralling neutron stars and in gravitational waveform with unified equations of state
+authors: Loïc Perot, Nicolas Chamel
+topic: The role of dense-matter properties in the tidal deformability of a cold nonaccreted neutron star is further investigated. Using the set of Brussels-Montreal unified equations of state, we have computed the gravitoelectric Love numbers kl and the gravitomagnetic Love numbers jl up to l=5. Their relative importance and their sensitivity to the symmetry energy and the neutron-matter stiffness are numerically assessed. Their impact on the phase of the gravitational-wave signal emitted by binary neutron star inspirals is also discussed.
+subjects: EOS, GW
+
+link: https://arxiv.org/abs/2102.02186
+title: A DG-IMEX method for two-moment neutrino transport: Nonlinear solvers for neutrino-matter coupling
+authors: M. Paul Laiu, Eirik Endeve, Ran Chu, J. Austin Harris, O. E. Bronson Messer
+topic: Neutrino-matter interactions play an important role in core-collapse supernova (CCSN) explosions as they contribute to both lepton number and/or four-momentum exchange between neutrinos and matter, and thus act as the agent for neutrino-driven explosions. Due to the multiscale nature of neutrino transport in CCSN simulations, an implicit treatment of neutrino-matter interactions is desired, which requires solutions of coupled nonlinear systems in each step of the time integration scheme. In this paper we design and compare nonlinear iterative solvers for implicit systems with energy coupling neutrino-matter interactions commonly used in CCSN simulations. Specifically, we consider electron neutrinos and antineutrinos, which interact with static matter configurations through the Bruenn~85 opacity set. The implicit systems arise from the discretization of a non-relativistic two-moment model for neutrino transport, which employs the discontinuous Galerkin (DG) method for phase-space discretization and an implicit-explicit (IMEX) time integration scheme. In the context of this DG-IMEX scheme, we propose two approaches to formulate the nonlinear systems -- a coupled approach and a nested approach. For each approach, the resulting systems are solved with Anderson-accelerated fixed-point iteration and Newton's method. The performance of these four iterative solvers has been compared on relaxation problems with various degree of collisionality, as well as proto-neutron star deleptonization problems with several matter profiles adopted from spherically symmetric CCSN simulations. Numerical results suggest that the nested Anderson-accelerated fixed-point solver is more efficient than other tested solvers for solving implicit nonlinear systems with energy coupling neutrino-matter interactions.
+subjects: radiation transport, neutrinos, CCSN, DG metnod
+
+link: https://arxiv.org/abs/2102.01734
+title: A 3D radiative transfer framework: XII. Many-core, vector and GPU methods
+authors: Peter H. Hauschildt, E. Baron
+topic: 3D detailed radiative transfer is computationally taxing, since the solution of the radiative transfer equation involves traversing the six dimensional phase space of the 3D domain. With modern supercomputers the hardware available for wallclock speedup is rapidly changing, mostly in response to requirements to minimize the cost of electrical power. Given the variety of modern computing architectures, we aim to develop and adapt algorithms for different computing architectures to improve performance on a wide variety of platforms. We implemented the main time consuming kernels for solving 3D radiative transfer problems for vastly different computing architectures using MPI, OpenMP, OpenACC and vector algorithms. Adapted algorithms lead to massively improved speed for all architectures, making extremely large model calculations easily feasible. These calculations would have previously been considered impossible or prohibitively expensive. Efficient use of modern computing devices is entirely feasible, but unfortunately requires the implementation of specialized algorithms for them.
+subjects: radiation transport, methods
+
+link: https://arxiv.org/abs/2102.01694
+title: Magnetically Modified Spherical Accretion in GRMHD: Reconnection-Driven Convection and Jet Propagation
+authors: Sean M. Ressler, Eliot Quataert, Christopher J. White, Omer Blaes
+topic: We present 3D general relativistic magnetohydrodynamic(GRMHD) simulations of zero angular momentum accretion around a rapidly rotating black hole, modified by the presence of initially uniform magnetic fields. We consider serveral angles between the magnetic field direction and the black hole spin. In the resulting flows, the midplane dynamics are governed by magnetic reconnection-driven turbulence in a magnetically arrested (or a nearly arrested) state. Electromagnetic jets with outflow efficiencies ~10-200% occupy the polar regions, reaching several hundred gravitational radii before they dissipate due to the kink instability. The jet directions fluctuate in time and can be tilted by as much as ~30 degrees with respect to black hole spin, but this tilt does not depend strongly on the tilt of the initial magnetic field. A jet forms even when there is no initial net vertical magnetic flux since turbulent, horizon-scale fluctuations can generate a net vertical field locally. Peak jet power is obtained for an initial magnetic field tilted by 40-80 degrees with respect to the black hole spin because this maximizes the amount of magnetic flux that can reach the black hole. These simulations may be a reasonable model for low luminosity black hole accretion flows such as Sgr A* or M87.
+subjects: JEt, MHD, simulation, accretion, structure
+
 link: https://arxiv.org/abs/2102.01346
 title: Long-term evolution of a merger-remnant neutron star in general relativistic magnetohydrodynamics I: Effect of magnetic winding
 authors: Masaru Shibata, Sho Fujibayashi, Yuichiro Sekiguchi
