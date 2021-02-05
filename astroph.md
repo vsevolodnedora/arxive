@@ -5,11 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2102.02501
+title: A marginally fast-cooling proton-synchrotron model for prompt GRBs
+authors: Ioulia Florou, Maria Petropoulou, Apostolos Mastichiadis
+topic: A small fraction of GRBs with available data down to soft X-rays (~0.5 keV) have been shown to feature a spectral break in the low-energy part (~1−10 keV) of their prompt emission spectrum. The overall spectral shape is consistent with optically thin synchrotron emission from a population of particles that have cooled on a timescale comparable to the dynamic time to energies that are still much higher than their rest mass energy (marginally fast cooling regime). We consider a hadronic scenario and investigate if the prompt emission of these GRBs can originate from relativistic protons that radiate synchrotron in the marginally fast cooling regime. Using semi-analytical methods, we derive the source parameters, such as magnetic field strength and proton luminosity, and calculate the high-energy neutrino emission expected in this scenario. We also investigate how the emission of secondary pairs produced by photopion interactions and gamma-gamma pair production affect the broadband photon spectrum. We support our findings with detailed numerical calculations. Strong modification of the photon spectrum below the break energy due to the synchrotron emission of secondary pairs is found, unless the bulk Lorentz factor is very large (Gamma \g 103). Moreover, this scenario predicts unreasonably high Poynting luminosities because of the strong magnetic fields (106−107 G) that are necessary for the incomplete proton cooling. Our results strongly disfavor marginally fast cooling protons as an explanation of the low-energy spectral break in the prompt GRB spectra.
+subjects: GRB, prompt, mechanism
+
+link: https://arxiv.org/abs/2102.02229
+title: Tight multi-messenger constraints on the neutron star equation of state from GW170817 and a forward model for kilonova light curve synthesis
+authors: Matt Nicholl, Ben Margalit, Patricia Schmidt, Graham P. Smith, Evan J. Ridley, James Nuttall
+topic: We present a rapid analytic framework for predicting kilonova light curves following neutron star (NS) mergers, where the main input parameters are binary-based properties measurable by gravitational wave detectors (chirp mass and mass ratio, orbital inclination) and properties dependent on the nuclear equation of state (tidal deformability, maximum NS mass). This enables synthesis of a kilonova sample for any NS source population, or determination of the observing depth needed to detect a live kilonova given gravitational wave source parameters in low latency. We validate this code, implemented in the public MOSFiT package, by fitting it to GW170817. A Bayes factor analysis overwhelmingly (B>1010) favours the inclusion of an additional luminosity source during the first day, well fit by a shock-heated cocoon, alongside lanthanide-poor dynamical ejecta. The emission thereafter is dominated by a lanthanide-rich viscous wind. We find the mass ratio of the binary is q=0.92+-0.07 (90% credible interval). We place tight constraints on the maximum stable NS mass, MTOV=2.17+0.08-0.11 Msun. For a uniform prior in tidal deformability, the radius of a 1.4 Msun NS is R1.4~10.7 km. Re-weighting with a prior based on equations of state that support our credible range in MTOV, we derive a final measurement R1.4=11.06+1.01-0.98 km. Applying our code to the second gravitationally-detected neutron star merger, GW190425, we estimate that an associated kilonova would have been fainter (by ~0.7 mag at one day post-merger) and declined faster than GW170817, underlining the importance of tuning follow-up strategies individually for each GW-detected NS merger.
+subjects: kilonova, statistics, fitting, 
+
+link: https://arxiv.org/abs/2102.02212
+title: An Implicit Finite Volume Scheme to Solve the Time Dependent Radiation Transport Equation Based on Discrete Ordinates
+authors: Yan-Fei Jiang
+topic: We describe a new algorithm to solve the time dependent, frequency integrated radiation transport (RT) equation implicitly, which is coupled to an explicit solver for equations of magnetohydrodynamics (MHD) using {\sf Athena++}. The radiation filed is represented by specific intensities along discrete rays, which are evolved using a conservative finite volume approach for both cartesian and curvilinear coordinate systems. All the terms for spatial transport of photons and interactions between gas and radiation are calculated implicitly together. An efficient Jacobi-like iteration scheme is used to solve the implicit equations. This removes any time step constrain due to the speed of light in RT. We evolve the specific intensities in the lab frame to simplify the transport step. The lab-frame specific intensities are transformed to the co-moving frame via Lorentz transformation when the source term is calculated. Therefore, the scheme does not need any expansion in terms of v/c. The radiation energy and momentum source terms for the gas are calculated via direct quadrature in the angular space. The time step for the whole scheme is determined by the normal Courant -- Friedrichs -- Lewy condition in the MHD module. We provide a variety of test problems for this algorithm including both optically thick and thin regimes, and for both gas and radiation pressure dominated flows to demonstrate its accuracy and efficiency.
+subjects: radiation transport, Athena, method
 
 link: https://arxiv.org/abs/2102.02004
 title: Role of dense matter in tidal deformations of inspiralling neutron stars and in gravitational waveform with unified equations of state
