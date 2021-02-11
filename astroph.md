@@ -5,11 +5,35 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2102.05636
+title: Powerful Jets from Radiatively Efficient Disks, a Decades-Old Unresolved Problem in High Energy Astrophysics
+authors: Chandra B. Singh, David Garofalo, Benjamin Lang
+topic: The discovery of 3C 273 in 1963, and the emergence of the Kerr solution shortly thereafter, precipitated the current era in astrophysics focused on using black holes to explain active galactic nuclei (AGN). But while partial success was achieved in separately explaining the bright nuclei of some AGN via thin disks, as well as powerful jets with thick disks, the combination of both powerful jets in an AGN with a bright nucleus, such as in 3C 273, remained elusive. Although numerical simulations have taken center stage in the last 25 years, they have struggled to produce the conditions that explain them. This is because radiatively efficient disks have proved a challenge to simulate. Radio quasars have thus been the least understood objects in high energy astrophysics. But recent simulations have begun to change this. We explore this milestone in light of scale-invariance and show that transitory jets, possibly related to the jets seen in these recent simulations, as some have proposed, cannot explain radio quasars. We then provide a road map for a resolution.
+subjects: AGN, phsyics, review
+
+link: https://arxiv.org/abs/2102.05458
+title: Radiative Shocks around Super-Eddington Accreting Black Holes
+authors: Toru Okuda, Chandra B. Singh
+topic: We examine radiative standing shocks in advective accretion flows around stellar-mass black holes by 2D radiation hydrodynamic simulations, focusing on the super-Eddington accreting flow. Under a set of input flow parameters responsible for the standing shock, the shock location on the equator decreases toward the event horizon with an increasing accretion rate. The optically thin and hot gas in the narrow funnel region along the rotational axis changes gradually into a dense and optically thick state with the increasingly dense gas transported from the base of the radiative shock near the equator. As a result, the luminosity becomes as high as ~ 1040 erg s-1, and the radiation shows a strongly anisotropic distribution around the rotational axis and then very low edge-on luminosity as ~ 1036 erg s-1. The mass outflow rate from the outer boundary is high as ~ 10-5 and 10-4 Msun yr-1 but most of the outflow is originated through the radial outer boundary and may be observed over a wide wind region. The models show approximately black body spectra with a temperature of 5x106−3x107 K at the vertical outer boundary surface. The radiative shock models with the super-Eddington luminosities show a possible model for the superaccretor SS 433 and Ultraluminous X-ray sources with stellar-mass black holes.
+subjects: BH, accretion, physics, simulation, 2D HD
+
+link: https://arxiv.org/abs/2102.04968
+title: Dissecting Energy Budget of a Gamma-Ray Burst Fireball
+authors: Bing Zhang, Yu Wang, Liang Li
+topic: The jet composition and radiative efficiency of GRBs are poorly constrained from the data. If the jet composition is matter-dominated (i.e. a fireball), the GRB prompt emission spectra would include a dominant thermal component originating from the fireball photosphere, and a non-thermal component presumably originating from internal shocks whose radii are greater than the photosphere radius. We propose a method to directly dissect the GRB fireball energy budget into three components and measure their values by combining the prompt emission and early afterglow data. The measured parameters include the initial dimensionless specific enthalpy density, bulk Lorentz factors at the photosphere radius  and before fireball deceleration, the amount of mass loading, as well as the GRB radiative efficiency. All the parameters can be derived from the data for a GRB with a dominant thermal spectral component, a deceleration bump feature in the early afterglow lightcurve, and a measured redshift. The results only weakly depend on the density n of the interstellar medium when the composition Y parameter (typically unity) is specified.
+subjects: GRB, model, phsyics, prompt emission, afterglow
+
+link: https://arxiv.org/abs/2102.04920
+title: Nucleosynthesis signatures of neutrino-driven winds from proto-neutron stars: a perspective from chemical evolution models
+authors: Fiorenzo Vincenzo, Todd A. Thompson, David H. Weinberg, Emily J. Griffith, James W. Johnson, Jennifer A. Johnson
+topic: We test the hypothesis that the observed first-peak (Sr, Y, Zr) and second-peak (Ba) s-process elemental abundances in low metallicity Milky Way stars ([Fe/H]less-0.5), and the abundances of the intervening elements Mo and Ru, can be explained by a pervasive r-process contribution that originates in neutrino-driven winds from highly-magnetic and rapidly rotating proto-neutron stars (proto-NSs). To this end, we construct chemical evolution models that incorporate recent calculations of proto-NS yields in addition to contributions from AGB stars, Type Ia supernovae, and two alternative sets of yields for massive star winds and core collapse supernovae. For non-rotating massive star yields from either set, models without proto-NS winds underpredict the observed s-process peak abundances by 0.3-1dex at low metallicity, and they severely underpredict Mo and Ru at all metallicities. Models that include the additional wind yields predicted for proto-NSs with spin periods P~2-5ms fit the observed trends for all these elements well. Alternatively, models that omit proto-NS winds but adopt yields of rapidly rotating massive stars, with vrot between 150 and 300kms−1, can explain the observed abundance levels reasonably well for [Fe/H]<−2. These models overpredict [Sr/Fe] and [Mo/Fe] at higher metallicities, but with a tuned dependence of vrot on stellar metallicity they might achieve an acceptable fit at all [Fe/H]. If many proto-NSs are born with strong magnetic fields and short spin periods, then their neutrino-driven winds provide a natural source for Sr, Y, Zr, Mo, Ru, and Ba in low metallicity stellar populations. Spherical winds from unmagnetized proto-NSs, on the other hand, overproduce the observed Sr, Y, and Zr abundances by a large factor.
+subjects: r-process, chemical model, wind NS, PNS
+
+link: https://arxiv.org/abs/2102.04901
+title: Estimates of the early EM emission from compact binary mergers
+authors: Yan Li, Rong-Feng Shen
+topic: Compact binary mergers that involve at least one neutron star, either binary neutron star or black hole--neutron star coalescences, are thought to be the potential sources of electromagnetic emission due to the material ejected during the merger or those left outside the central object after the merger. Since the intensity of these electromagnetic transients decay rapidly with time, one should pay more attention to early emissions from such events, which are useful in revealing the nature of these mergers. In this work, we study the early emission of kilonovae, short gamma-ray bursts and cocoons that could be produced in those mergers. We estimate their luminosities and time scales as functions of the chirp mass which is the most readily constrained parameter from the gravitational wave detections of these events. We focus on the range of chirp mass as 1.3Msun−2.7Msun which is compatible with one of the merging component being a so-called `mass gap' black hole. We show that the electromagnetic observation of these transients could be used to distinguish the types of the mergers when the detected chirp mass falls in the range of 1.5Msun−1.7Msun. Applying our analysis to the sub-threshold GRB GBM-190816, we found that for this particular event the effective spin should be larger than 0.6 and the mass of the heavier object might be larger than 5.5Msun for the SFHo equation of state.
+subjects: EM, kilonova, cocoon, ejecta, BNS
 
 link: https://arxiv.org/abs/2102.04067
 title: Rotating Neutron stars with Quark cores
