@@ -5,6 +5,24 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/1902.01723
+title: Probing the nature of central objects in extreme-mass-ratio inspirals with gravitational waves
+authors: Sayak Datta, Sukanta Bose
+topic: We extend the work of Ryan on mapping the spacetime of the central object of an extreme mass-ratio inspiral (EMRI) by using gravitational waves (GWs) emitted by the system, which may be observed in future missions such as LISA. Whether the central object is a black hole or not can be probed by observing the phasing of these waves, which carry information about its mass and spin multipole moments. We go beyond the phase terms found by Ryan, which were obtained in the quadrupolar approximation of the point-particle limit, and derive terms up to the fifth post-Newtonian (PN) order. Since corrections due to horizon absorption (i.e., if the central object is a black hole) and tidal heating appear by that order, at 2.5PN and 5PN, respectively, we include them here. Corrections due to the motion of the central object, which was addressed only partially by Ryan, are included as well. Additionally, we obtain the contribution of the higher order radiative multipole moments. For the tidal interaction, our results have been derived in the approximation of the Newtonian tidal field. Therefore, in the potential for tidal field only the contribution due to the mass of the central object has been included as well. Using these results we argue that it might be possible for LISA to probe if the central object in an EMRI has a horizon or not. We also discuss how our results can be used to test the No-hair theorem from the inspiral phase of such systems.
+subjects: GW, BBH
+
+link: https://arxiv.org/abs/2102.05923
+title: What can be learned from a proto-neutron star's mass and radius?
+authors: Edwan Preau (APC, LUTH), Aurélien Pascal (LUTH), Jérôme Novak (LUTH), Micaela Oertel (LUTH)
+topic: We make extensive numerical studies of masses and radii of proto-neutron stars during the first second after their birth in core-collapse supernova events. We use a quasi-static approach for the computation of proto-neutron star structure, built on parameterized entropy and electron fraction profiles, that are then evolved with neutrino cooling processes. We vary the equation of state of nuclear matter, the proto-neutron star mass and the parameters of the initial profiles, to take into account our ignorance of the supernova progenitor properties. We show that if masses and radii of a proto-neutron star can be determined in the first second after the birth, e.g. from gravitational wave emission, no information could be obtained on the corresponding cold neutron star and therefore on the cold nuclear equation of state. Similarly, it seems unlikely that any property of the proto-neutron star equation of state (hot and not beta-equilibrated) could be determined either, mostly due to the lack of information on the entropy, or equivalently temperature, distribution in such objects.
+subjects: EOS, NS, proto-NS, neutrino-cooling
+
+link: https://arxiv.org/abs/2102.05891
+title: Contribution of collapsars, supernovae, and neutron star mergers to the evolution of r-process elements in the Galaxy
+authors: Yuta Yamazaki, Toshitaka Kajino, Grant J. Mathews, Xiaodong Tang, Jianrong Shi, Michael A. Famiano
+topic: We study the evolution of rapid neutron-capture process (r-process) isotopes in the Galaxy. We analyze relative contributions from core collapse supernovae (CCSNe), neutron star mergers (NSMs) and collapsars under a range of astrophysical conditions and nuclear input data. Although the r-process in each of these sites can lead to similar (or differing) isotopic abundances, our simulations reveal that the early contribution of r-process material to the Galaxy was dominated by CCSNe and collapsar r-process nucleosynthesis, while the NSM contribution is unavoidably delayed even under the assumption of the shortest possible minimum merger time.
+subjects: r-process, chemical evolution
+
 link: https://arxiv.org/abs/2102.05636
 title: Powerful Jets from Radiatively Efficient Disks, a Decades-Old Unresolved Problem in High Energy Astrophysics
 authors: Chandra B. Singh, David Garofalo, Benjamin Lang
