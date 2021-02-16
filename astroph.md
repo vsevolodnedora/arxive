@@ -5,6 +5,45 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2102.07565
+title: Thermal evolution of relativistic hyperonic compact stars with calibrated equations of state
+authors: Morgane Fortin, Adriana R. Raduta, Sidney Avancini, Constanca Providencia
+topic: A set of unified relativistic mean-field equations of state for hyperonic compact stars recently built in is used to study the thermal evolution of non-magnetized and non-rotating spherically-symmetric isolated and accreting neutron stars under different hypothesis concerning proton S-wave superfluidity.
+These equations of state have been obtained in the following way: the slope of the symmetry energy is in agreement with experimental data; the coupling constants of Lambda and Zetta-hyperons are determined from experimental hypernuclear data; uncertainties in the nucleon-Sigma interaction potential are accounted for; current constraints on the lower bound of the maximum neutron star mass are satisfied.
+Within the considered set of equations of state, the presence of hyperons is essential for the description of the cooling/heating curves.
+One of the conclusions we reach is that the criterion of best agreement with observational data leads to different equations of states and proton S-wave superfluidity gaps when applied separately for isolated neutron stars and accreting neutron stars in quiescence.
+subjects: EOS, NS, quantum
+
+link: https://arxiv.org/abs/2102.07721
+title: Fully general-relativistic simulations of isolated and binary strange quark stars
+authors: Zhenyu Zhu, Luciano Rezzolla
+topic: The hypothesis that strange quark matter is the true ground state of matter has been investigated for almost four decades, but only a few works have explored the dynamics of binary systems of quark stars. This is partly due to the numerical challenges that need to be faced when modelling the large discontinuities at the surface of these stars. We here present a novel technique in which the EOS of a quark star is suitably rescaled to produce a smooth change of the specific enthalpy across a very thin crust. The introduction of the crust has been carefully tested by considering the oscillation properties of isolated quark stars, showing that the response of the simulated quark stars matches accurately the perturbative predictions. Using this technique, we have carried out the first fully general-relativistic simulations of the merger of quark-star binaries finding several important differences between quark-star binaries and hadronic-star binaries with the same mass and comparable tidal deformability. In particular, we find that dynamical mass loss is significantly suppressed in quark-star binaries. In addition, quark-star binaries have merger and post-merger frequencies that obey the same quasi-universal relations derived from hadron stars if expressed in terms of the tidal deformability, but not when expressed in terms of the average stellar compactness. Hence, it may be difficult to distinguish the two classes of stars if no information on the stellar radius is available. Finally, differences are found in the distributions in velocity and entropy of the ejected matter, for which quark-stars have much smaller tails. Whether these differences in the ejected matter will leave an imprint in the electromagnetic counterpart and nucleosynthetic yields remains unclear, calling for the construction of an accurate model for the evaporation of the ejected quarks into nucleons.
+subjects: BNS, strange stars, quarks, simulations
+
+link: https://arxiv.org/abs/2102.07386
+title: Energy Conservation in the thin layer approximation: IV. The light curve for supernovae
+authors: Lorenzo Zaninetti
+topic: The light curves (LC) for Supernova (SN) can be modeled adopting the conversion of the flux of kinetic energy into radiation. This conversion requires an analytical or a numerical law of motion for the expanding radius of the SN. In the framework of conservation of energy for the thin layer approximation we present a classical trajectory based on a power law profile for the density, a relativistic trajectory based on the Navarro--Frenk--White profile for the density, and a relativistic trajectory based on a power law behaviour for the swept mass. A detailed simulation of the LC requires the evaluation of the optical depth as a function of time. We modeled the LC of SN~1993J in different astronomical bands, the LC of GRB 050814 and the LC GRB 060729 in the keV region. The time dependence of the magnetic field of equipartition is derived from the theoretical formula for the luminosity.
+subjects: SN, light curve
+
+link: https://arxiv.org/abs/2102.07235
+title: Revisiting the Strong Shock Problem: Converging and Diverging Shocks in Different Geometries
+authors: Elisha Modelevsky, Re'em Sari
+topic: Self-similar solutions to converging (implosions) and diverging (explosions) shocks have been studied before, in planar, cylindrical or spherical symmetry. Here we offer a unified treatment of these apparently disconnected problems . We study the flow of an ideal gas with adiabatic index gamma with initial density rho-r omega, containing a strong shock wave. We characterize the self-similar solutions in the entirety of the parameter space gamma-omega, and draw the connections between the different geometries. We find that the so-called "gap" in diverging shocks does not exist in planar geometry, and that only type II self-similar solutions are valid in converging shocks. We also find that in some cases, a converging shock might not create a reflected shock after its convergence. Finally, we derive analytical approximations for the similarity exponent in the entirety of parameter space.
+subjects: analytic, shock, self-similar
+
+link: https://arxiv.org/abs/2102.06767
+title: General Relativistic Neutrino-Driven Turbulence in One-Dimensional Core-Collapse Supernovae
+authors: Luca Boccioli, Grant J. Mathews, Evan O'Connor
+topic: Convection and turbulence in core-collapse supernovae (CCSNe) are inherently three-dimensional in nature. However, 3D simulations of CCSNe are computationally demanding. Thus, it is valuable to modify simulations in spherical symmetry to incorporate 3D effects using some parametric model. In this paper, we report on the formulation and implementation of general relativistic (GR) neutrino-driven turbulent convection in the spherically symmetric core-collapse supernova code \texttt{GR1D}. This is based upon the recently proposed method of Supernova Turbulence in Reduced-dimensionality (\textit{STIR}) in Newtonian simulations from \cite{Couch2020_STIR}. When the parameters of this model are calibrated to 3D simulations, we find that our GR formulation of \textit{STIR} requires larger turbulent eddies to achieve a shock evolution similar to the original \textit{STIR} model. We also find that general relativity may alter the correspondence between progenitor mass and successful vs.~failed explosions.
+subjects: CCSN, model, 1D, formulation
+
+link: https://arxiv.org/abs/2102.06712
+title: Minidisk dynamics in accreting, spinning black hole binaries: Simulations in full general relativity
+authors: Vasileios Paschalidis, Milton Ruiz, Milton Ruiz, Roman Gold
+topic: We perform magnetohydrodynamic simulations of accreting, equal-mass binary black holes in full general relativity focusing on the impact of black hole spin on the dynamical formation and evolution of minidisks. We find that during the late inspiral the sizes of minidisks are primarily determined by the interplay between the tidal field and the effective innermost stable orbit around each black hole. Our calculations support that a minidisk forms when the Hill sphere around each black hole is significantly larger than the black hole's effective innermost stable orbit. As the binary inspirals, the radius of the Hill sphere decreases, and minidisk sconsequently shrink in size. As a result, electromagnetic signatures associated with minidisks may be expected to gradually disappear prior to merger when there are no more stable orbits within the Hill sphere. In particular, a gradual disappearance of a hard electromagnetic component in the spectrum of such systems could provide a characteristic signature of merging black hole binaries. For a binary of given total mass, the timescale to minidisk "evaporation" should therefore depend on the black hole spins and the mass ratio. We also demonstrate that accreting binary black holes with spin have a higher efficiency for converting accretion power to jet luminosity. These results could provide new ways to estimate black hole spins in the future.
+subjects: MHD, disk, BBH, models
+
 link: https://arxiv.org/abs/1902.01723
 title: Probing the nature of central objects in extreme-mass-ratio inspirals with gravitational waves
 authors: Sayak Datta, Sukanta Bose
