@@ -5,6 +5,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2102.10948
+title: Crust-core interface and bulk neutron star properties
+authors: Ch. Margaritis, P.S. Koliogiannis, Ch.C. Moustakidis
+topic: The nuclear symmetry energy plays an important role in the description of the properties of finite nuclei as well as neutron stars. Especially, for low values of baryon density, the accurate description of the crust-core interface strongly depends on the symmetry energy. Usually, the well known parabolic approximation is employed for the definition of the symmetry energy without avoiding some drawbacks. In the present work, a class of nuclear models, suitable for the description of the inner and outer core of neutron stars, is applied in studying the effect of higher orders of the expansion of the energy on the location of the crust-core transition.
+subjects: EOS, nucler, NS, crust
+
+link: https://arxiv.org/abs/2102.11056
+title: Nested Sampling with Normalising Flows for Gravitational-Wave Inference
+authors: Michael J. Williams, John Veitch, Chris Messenger
+topic: We present a novel method for sampling iso-likelihood contours in nested sampling using a type of machine learning algorithm known as normalising flows and incorporate it into our sampler nessai. Nessai is designed for problems where computing the likelihood is computationally expensive and therefore the cost of training a normalising flow is offset by the overall reduction in the number of likelihood evaluations. We validate our sampler on 128 simulated gravitational wave signals from compact binary coalescence and show that it produces unbiased estimates of the system parameters. Subsequently, we compare our results to those obtained with dynesty and find good agreement between the computed log-evidences whilst requiring 2.32 times fewer likelihood evaluations. We also highlight how the likelihood evaluation can be parallelised in nessai without any modifications to the algorithm. Finally, we outline diagnostics included in nessai and how these can be used to tune the sampler's settings.
+subjects: sampling, PI
+
+link: https://arxiv.org/abs/2102.10649
+title: Blandford-Znajek mechanism in the general axially-symmetric black-hole spacetime
+authors: R. A. Konoplya, J. Kunz, A. Zhidenko
+topic: We consider the Blandford-Znajek process of electromagnetic extraction of energy from a general axially symmetric asymptotically flat slowly rotating black hole. Using the general parametrization of the black-hole spacetime we construct formulas for the flux of the magnetic field and the rate of energy extraction, which are valid not only for the Kerr spacetime, but also for its arbitrary axially symmetric deformations. We show that in the dominant order these quantities depend only on a single deformation parameter, which relates the spin frequency of a black hole with its rotation parameter.
+subjects: BH, magnetic field, rotating BH, theory
+
+link: https://arxiv.org/abs/2102.11054
+title: Vortex pinning in the superfluid core of relativistic neutron stars
+authors: Aurélien Sourie, Nicolas Chamel
+topic: Our recent Newtonian treatment of the smooth-averaged mutual-friction force acting on the neutron superfluid and locally induced by the pinning of quantized neutron vortices to proton fluxoids in the outer core of superfluid neutron stars is here adapted to the general-relativistic framework. We show how the local nonrelativistic motion of individual vortices can be matched to the global dynamics of the star using the fully 4D covariant Newtonian formalism of Carter & Chamel (2004). We derive all the necessary dynamical equations for carrying out realistic simulations of superfluid rotating neutron stars in full general relativity, as required for the interpretation of pulsar frequency glitches. The role of vortex pinning on the global dynamics appears to be nontrivial.
+subjects: EOS, quantum
+
+link: https://arxiv.org/abs/2102.10735
+title: General relativistic radiation transport: Implications for VLBI/EHT observations of AGN discs, winds and jets
+authors: Bidisha Bandyopadhyay, Christian Fendt, Dominik R. G. Schleicher, Christos Vourellis
+topic: In 2019, the Event Horizon Telescope Collaboration (EHTC) has published the first image of a supermassive black hole (SMBH) obtained via the Very Large Baseline Interferometry (VLBI) technique. In the future, it is expected that additional and more sensitive VLBI observations will be pursued for other nearby Active Galactic Nuclei (AGN), and it is therefore important to understand which possible features can be expected in such images. In this paper, we post-process General Relativistic Magneto-Hydrodynamical (GR-MHD) simulations which include resistivity, thus providing a self-consistent jet formation model (with resistive mass loading) launched from a thin disc. The ray-tracing is done using the General Relativistic Ray-Tracing code GRTRANS assuming synchrotron emission. We study the appearance of the black hole environment including the accretion disc, winds and jets under a large range of condition, varying black hole mass, accretion rate, spin, inclination angle, disc parameters and observed frequency. When we adopt M87-like parameters, we show that we can reproduce a ring-like feature (similar as observed by the EHT) for some of our simulations. The latter suggests that such thin disc models are thus likely consistent with the observed results. Depending on their masses, accretion rates, spin and other parameters, we note that other SMBHs may show additional features like winds and jets depending on the sensitivity that can be reached in the observations.
+subjects: GRMHD, simulation, ray-tracing, radiaiton transport, analysis
+
 link: https://arxiv.org/abs/2102.09686
 title: Supernova 1987A: 3D Mixing and light curves for explosion models based on binary-merger progenitors
 authors: V. P. Utrobin (1,2,3), A. Wongwathanarat (1), H.-Th. Janka (1), E. Mueller (1), T. Ertl (1), A. Menon (4), A. Heger
