@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2102.11290
+title: Delayed Radio Flares from a Tidal Disruption Event
+authors: Assaf Horesh, S. Bradley Cenko, Iair Arcavi
+topic: Radio observations of tidal disruption events (TDEs) - when a star is tidally disrupted by a supermassive black hole (SMBH) - provide a unique laboratory for studying outflows in the vicinity of SMBHs and their connection to accretion onto the SMBH. Radio emission has been detected in only a handful of TDEs so far. Here, we report the detection of delayed radio flares from an optically-discovered TDE. Our prompt radio observations of the TDE ASASSN-15oi showed no radio emission until the detection of a flare six months later, followed by a second and brighter flare, years later. We find that the standard scenario, in which an outflow is launched briefly after the stellar disruption, is unable to explain the combined temporal and spectral properties of the delayed flare. We suggest that the flare is due to the delayed ejection of an outflow, perhaps following a transition in accretion states. Our discovery motivates observations of TDEs at various timescales and highlights a need for new models.
+subjects: TDE, accretion, model
+
+link: https://arxiv.org/abs/2102.11283
+title: Supernova neutrino signals based on long-term axisymmetric simulations
+authors: Hiroki Nagakura, Adam Burrows, David Vartanyan
+topic: We study theoretical neutrino signals from core-collapse supernova (CCSN) computed using axisymmetric CCSN simulations that cover the post-bounce phase up to ~4~s. We provide basic quantities of the neutrino signals such as event rates, energy spectra, and cumulative number of events at some terrestrial neutrino detectors, and then we discuss some new features in the late phase that emerge in our models. Contrary to popular beliefs, neutrino emissions in the late phase are not always quiet, but rather have temporal fluctuations, the vigor of which hinges on the CCSN model and neutrino flavor. We find that the temporal variations are not primarily driven by proto-neutron star (PNS) convection, but by fallback accretion flows in explosion models. We assess the detectability of these temporal variations, and conclude that IceCube is the most promising detector with which to resolve them. We also update fitting formulae first proposed in our previous paper for which total neutrino energy (TONE) emitted at the CCSN source is estimated from the cumulative number of events at each detector. This will be very powerful in the data analysis of real observations, in particular for low-statistics data. As an interesting demonstration, we apply our fitting formulae to a real observation, that of SN 1987A at Kamiokande-II. The TONE is estimated as ~2x1053~erg. By combining the recent constraints on the equation-of-state, we further estimate the gravitational mass of PNS in the remnant of SN 1987A, which is
+subjects: SN, simulation, neutrinos
+
 link: https://arxiv.org/abs/2102.10948
 title: Crust-core interface and bulk neutron star properties
 authors: Ch. Margaritis, P.S. Koliogiannis, Ch.C. Moustakidis
