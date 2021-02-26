@@ -5,11 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2102.12503
+title: Axions: From Magnetars and Neutron Star Mergers to Beam Dumps and BECs
+authors: Jean-François Fortin, Huai-Ke Guo, Steven P. Harris, Doojin Kim, Kuver Sinha, Chen Sun
+topic: We review topics in searches for axion-like-particles (ALPs), covering material that is complementary to other recent reviews. The first half of our review covers ALPs in the extreme environments of neutron star cores, the magnetospheres of highly magnetized neutron stars (magnetars), and in neutron star mergers. The focus is on possible signals of ALPs in the photon spectrum of neutron stars and gravitational wave/electromagnetic signals from neutron star mergers. We then review recent developments in laboratory-produced ALP searches, focusing mainly on accelerator-based facilities including beam-dump type experiments and collider experiments. We provide a general-purpose discussion of the ALP search pipeline from production to detection, in steps, and our discussion is straightforwardly applicable to most beam-dump type and reactor experiments. We end with a selective look at the rapidly developing field of ultralight dark matter, specifically the formation of Bose-Einstein Condensates (BECs). We review the properties of BECs of ultralight dark matter and bridge these properties with developments in numerical simulations, and ultimately with their impact on experimental searches.
+subjects: particles, quantum
+
+link: https://arxiv.org/abs/2102.12581
+title: Survival of the Fittest: Numerical Modeling of Supernova 2014C
+authors: Felipe Vargas, Fabio De Colle, Daniel Brethauer, Raffaella Margutti, Cristian G. Bernal
+topic: Initially classified as a supernova (SN) type Ib, ~ 100 days after the explosion SN\,2014C made a transition to a SN type II, presenting a gradual increase in the Halpha emission. This has been interpreted as evidence of interaction between the supernova shock wave and a massive shell previously ejected from the progenitor star. In this paper, we present numerical simulations of the propagation of the SN shock through the progenitor star and its wind, as well as the interaction of the SN ejecta with the massive shell. To determine with high precision the structure and location of the shell, we couple a genetic algorithm to a hydrodynamic and a bremsstrahlung radiation transfer code. We iteratively modify the density stratification and location of the shell by minimizing the variance between X-ray observations and synthetic predictions computed from the numerical model. By assuming spherical symmetry, we found that the shell has a mass of 2.6 Msun, extends from 1.6 x1017 cm to 1.87x1017 cm, implying that it was ejected ~60/(vw/100kms-1) yrs before the SN explosion, and has a density stratification decaying as ~r-3. We found that the product of metallicity by the ionization fraction (due to photo-ionization by the post-shock X-ray emission) %and/or the SN UV radiation is ~ 0.5. Finally, we predict that, if the density stratification follows the same power-law behaviour, the SN will break out from the shell by mid 2022, i.e. 8.5 years after explosion.
+subjects: SN, simulation, Radiation Hydro, radiation transport
+
+link: https://arxiv.org/abs/2102.12482
+title: Relativistic outflows from a GRMHD mean-field disk dynamo
+authors: Christos Vourellis, Christian Fendt
+topic: We present simulations of thin accretion disks around black holes investigating a mean-field disk dynamo in our resistive GRMHD code (Vourellis et al. 2019) that is able to produce a large scale magnetic flux. We consider a weak seed field in an initially thin disk, a background (turbulent) magnetic diffusivity and the dynamo action. A standard quenching mechanism is applied to mitigate the otherwise exponential increase of the magnetic field. Comparison simulations of an initial Fishbone-Moncrief torus suggest that reconnection may provide another quenching mechanism. The dynamo-generated magnetic flux expands from the disk interior into the disk corona, becomes advected by disk accretion, and fills the axial region of the domain. The dynamo leads to an initially rapid increase in magnetic energy and flux, while for later evolutionary stages the growth stabilizes. Accretion towards the black hole depends strongly on the magnetic field structure that develops. The radial field component supports extraction of angular momentum and thus accretion. It also sets the conditions for launching a disk wind, initially from inner disk area. When a strong field has engulfed the disk, strong winds are launched that are predominantly driven by the pressure gradient of the toroidal field. For rotating black holes we identify a Poynting flux-dominated jet, driven by the Blandford-Znajek mechanism. This axial Poynting flux is advected from the disk and therefore accumulates at the expense of the flux carried by the disk wind, that is itself regenerated by the disk dynamo.
+subjects: GRMHD, simulation, model, disk
 
 link: https://arxiv.org/abs/2102.12455
 title: Frequency deviations in universal relations of isolated neutron stars and postmerger remnants
