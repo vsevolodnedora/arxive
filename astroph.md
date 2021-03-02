@@ -5,6 +5,30 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2103.01213
+title: Generating neutron-star magnetic fields: three phases of dynamo action
+authors: S. K. Lander
+topic: Young neutron stars (NSs) have exterior magnetic fields ranging over three or more orders of magnitude, up to around 1015 G. These fields are believed to be amplified to such high strengths by dynamo action, but neither the details of this, nor the resulting range of field strengths, is satisfactorily understood. Here we consider three possible eras in which a dynamo may operate. For the first, proto-NS, phase, we argue that generation of large-scale field is inefficient, inhibited by the relatively high fluid viscosity. Understanding dynamo action under these conditions calls for a revised theory of mean-field electrodynamics, potentially analogous to the equations for magnetic-field evolution in a type-II superconductor. In the second phase we propose a new dynamo mechanism, driven by precession. Such a dynamo would be effective even at relatively low rotation rates, and can produce the observed variation of exterior-field strengths from small differences in birth physics. It could also be a viable mechanism for long-term field generation in main-sequence stars. Finally, dynamo action in a cold NS is disfavoured, due to both a lack of suitable fluid motions and inhibition of magnetic reconnection by superconductivity.
+subjects: physics, MF, NS, dynamo
+
+link: https://arxiv.org/abs/2103.00943
+title: Prospects for kilonova signals in the gravitational-wave era
+authors: Robert Mochkovitch, Frédéric Daigne, Raphaël Duque, Hannachi Zitouni
+topic: The binary neutron star merger gravitational-wave signal GW170817 was followed by three electromagnetic counter-parts, of which a kilonova arising from the radioactivity of freshly synthesized r-process elements in ejecta from the merger. Finding kilonovae after gravitational-wave triggers is crucial (i) to the search for further counterparts such as the afterglow, (ii) to probe the diversity of kilonovae and their dependence on the system's inclination angle (iii) to build a sample for multimessenger cosmology. During the third observing run of the gravitational-wave interferometer network, no kilonova counterpart was found. We aim to predict the expected population of detectable kilonova signals for the upcoming O4 and O5 observing runs of the LIGO-Virgo-Kagra instruments. Using a a simplified criterion for gravitational-wave detection and a simple GW170817-calibrated model for the kilonova peak magnitude, we determine the rate of kilonovae in reach of follow-up campaigns and their distributions in magnitude for various bands. We briefly consider the case of GW190425, the only confirmed binary neutron star merger since GW170817, and obtain constraints on its inclination angle from the non-detection of its kilonova, assuming the source was below the follow-up thresholds. We also show that non gravitational-wave-triggered kilonovae can be a numerous class of sources in the future surveys and briefly discuss associations with short bright gamma-ray bursts. We finally discuss the detection of the jetted outflow afterglow in addition to the kilonova, and confirm former conclusions on the rareness of such counterparts in future observations.
+subjects: kilonova, prediction, future events, analytic
+
+link: https://arxiv.org/abs/2103.00797
+title: Gravitational waves from Population III binary black holes are consistent with LIGO/Virgo O3a data for the chirp mass larger than
+authors: Tomoya Kinugawa, Takashi Nakamura, Hiroyuki Nakano
+topic: The probability number distribution function of binary black hole mergers observed by LIGO/Virgo O3a has double peaks as a function of chirp mass Mc, total mass Mt, primary black hole mass M1 and secondary one M2, respectively. The larger chirp mass peak is at 30msun The distribution of M2 vs. M1 follows the relation of 0.7msun 
+subjects: GW
+
+link: https://arxiv.org/abs/2103.00470
+title: Emission Mechanisms of Fast Radio Bursts
+authors: Yuri Lyubarsky
+topic: Fast radio bursts (FRBs) are recently discovered mysterious single pulses of radio emission, mostly coming from cosmological distances (~1 Gpc). Their short duration, ~1 ms, and large luminosity evidence coherent emission. I review the basic physics of coherent emission mechanisms proposed for FRBs. In particular, I discuss the curvature emission of bunches, the synchrotron maser, and the emission of radio waves by variable currents in the course of magnetic reconnection. Special attention is paid to magnetar flares as the most promising sources of FRBs. Non-linear effects are outlined that could place bounds on the power of the outgoing radiation.
+subjects: FRB, review
+
 link: https://arxiv.org/abs/2102.13485
 title: Bayesian analysis of multimessenger M-R data with interpolated hybrid EoS
 authors: A. Ayriyan, D. Blaschke, A. G. Grunfeld, D. Alvarez-Castillo, H. Grigorian, V. Abgaryan
