@@ -5,6 +5,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2103.01703
+title: A Relativistic Quantum Approach to Neutrino and Antineutrino Emissions via the Direct Urca Process in Strongly Magnetized Neutron-Star Matter
+authors: Tomoyuki Maruyama, A. Baha Balantekind, Myung-Ki Cheoung, Toshitaka Kajino, Motohiko Kusakabef, Grant J. Mathewsh
+topic: We study the neutrino and antineutrino emission from the direct Urca process in neutron-star matter in the presence of strong magnetic fields. We calculate the neutrino emissivity of the direct Urca process, whereby a neutron converts to a proton, an electron and an antineutrino, or proton-electron pair converts to a neutron-electron pair. We solve exact wave functions for protons and electrons in the states described with Landau levels. We find that in the strong magnetic fields the direct Urca process can occur in density regions where this process could not normally occur in the absence of a magnetic field. This is because of the kinematical condition.
+subjects: neutrino, physics
+
+link: https://arxiv.org/abs/2103.01881
+title: An early peak in the radio light curve of short-duration Gamma-Ray Burst 200826A
+authors: Lauren Rhodes, Rob Fender, David R.A. Williams, Kunal Mooley
+topic: We present the results of radio observations from the eMERLIN telescope combined with X-ray data from Swift for the short-duration Gamma-ray burst (GRB) 200826A, located at a redshift of 0.71. The radio light curve shows evidence of a sharp rise, a peak around 4-5 days post-burst, followed by a relatively steep decline. We provide two possible interpretations based on the time at which the light curve reached its peak. (1) If the light curve peaks earlier, the peak is produced by the synchrotron self-absorption frequency moving through the radio band, resulting from the forward shock propagating into a wind medium and (2) if the light curve peaks later, the turn over in the light curve is caused by a jet break. In the former case, we find a minimum equipartition energy of ~3x10^47 erg and bulk Lorentz factor of ~5, while in the latter case we estimate the jet opening angle of ~9-16 degrees. Due to the lack of data, it is impossible to determine which is the correct interpretation, however, due to its relative simplicity and consistency with other multi-wavelength observations which hint at the possibility that GRB 200826A is in fact a long GRB, we prefer scenario one over scenario two.
+subjects: sGRB, observed, models
+
+link: https://arxiv.org/abs/2103.01733
+title: Perfect is the enemy of good enough: predicting electromagnetic counterparts using low-latency, gravitational-wave data products
+authors: Cosmin Stachie, Michael W. Coughlin, Tim Dietrich, Sarah Antier, Mattia Bulla, Nelson Christensen, Reed Essick, Philippe Landry, Benoit Mours, Federico Schianchi, Andrew Toivonen
+topic: Searches for gravitational-wave counterparts have been going in earnest since GW170817 and the discovery of AT2017gfo. Since then, the lack of detection of other optical counterparts connected to binary neutron star or black hole - neutron star candidates has highlighted the need for a better discrimination criterion to support this effort. At the moment, the low-latency gravitational-wave alerts contain preliminary information about the binary properties and, hence, on whether a detected binary might have an electromagnetic counterpart. The current alert method is a classifier that estimates the probability that there is a debris disk outside the black hole created during the merger as well as the probability of a signal being a binary neutron star, a black hole - neutron star, a binary black hole or of terrestrial origin. In this work, we expand upon this approach to predict both the ejecta properties and provide contours of potential lightcurves for these events in order to improve follow-up observation strategy. To validate the method, we test our approach on real events from the second and third Advanced LIGO-Virgo observing runs.
+subjects: EM coutnerpart, detection, method
+
+link: https://arxiv.org/abs/2103.01586
+title: Numerical Inside View of Hypermassive Remnant Models for GW170817
+authors: Wolfgang Kastaun, Frank Ohme
+topic: The first multimessenger observation attributed to a merging neutron star binary provided an enormous amount of observational data. Unlocking the full potential of this data requires a better understanding of the merger process and the early post-merger phase, which are crucial for the later evolution that eventually leads to observable counterparts. In this work, we perform standard hydrodynamical numerical simulations of a system compatible with GW170817. We focus on a single equation of state (EOS) and two mass ratios, while neglecting magnetic fields and neutrino radiation. We then apply newly developed postprocessing and visualization techniques to the results obtained for this basic setting. The focus lies on understanding the three-dimensional structure of the remnant, most notably the fluid flow pattern, and its evolution until collapse. We investigate the evolution of mass and angular momentum distribution up to collapse, as well as the differential rotation along and perpendicular to the equatorial plane. For the cases that we studied, the remnant cannot be adequately modeled as a differentially rotating axisymetric NS. Further, the dominant aspect leading to collapse is the GW radiation and not internal redistribution of angular momentum. We relate features of the gravitational wave signal to the evolution of the merger remnant, and make the waveforms publicly available. Finally, we find that the three-dimensional vorticity field inside the disk is dominated by medium-scale perturbances and not the orbital velocity, with potential consequences for magnetic field amplification effects.
+subjects: BNS, remnant, simulations, postmerger
+
+link: https://arxiv.org/abs/2103.01336
+title: Observational properties of a general relativistic instability supernova from a primordial supermassive star
+authors: Takashi J. Moriya, Ke-Jung Chen, Kimihiko Nakajima, Nozomu Tominaga, Sergei I. Blinnikov
+topic: We present the expected observational properties of a general relativistic instability supernova (GRSN) from the 55,500 Msun primordial (Population III) star. Supermassive stars exceeding 1e4 Msun may exist in the early Universe. They are generally considered to collapse through the general relativistic instability to be seed black holes to form supermassive (~ 1e9 Msun) black holes observed as high-redshift quasars. Some of them, however, may explode as GRSNe if the explosive helium burning unbinds the supermassive stars following the collapse triggered by the general relativistic instability. We perform the radiation hydrodynamics simulation of the GRSN starting shortly before the shock breakout. We find that the GRSN is characterized by a long-lasting (550 d) luminous (1.5e44 erg/s) plateau phase with the photospheric temperature of around 5000 K in the rest frame. The plateau phase lasts for decades when it appears at high redshifts and it will likely be observed as a persistent source in the future deep near-infrared imaging surveys. Especially, the near-infrared images reaching 29 AB magnitude that can be obtained by Galaxy and Reionization EXplorer (G-REX) and James Webb Space Telescope (JWST) allow us to identify GRSNe up to z ~ 15. Deeper images enable us to discover GRSNe at even higher redshifts. Having extremely red color, they can be distinguished from other persistent sources such as high-redshift galaxies by using color information. We conclude that the deep near-infrared images are able to constrain the existence of GRSNe from the primordial supermassive stars in the Universe even without the time domain information.
+subjects: SN, stellar, cosmology
+
 link: https://arxiv.org/abs/2103.01213
 title: Generating neutron-star magnetic fields: three phases of dynamo action
 authors: S. K. Lander
