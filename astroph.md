@@ -1,15 +1,34 @@
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
 
 link: 
 title: 
 authors: 
 topic: 
 subjects: 
+
+link: https://arxiv.org/abs/2103.02461
+title: Outflow Bubbles from Compact Binary Mergers Embedded in Active Galactic Nuclei: Cavity Formation and the Impact on Electromagnetic Counterparts
+authors: Shigeo S. Kimura, Kohta Murase, Imre Bartos
+topic: We propose a novel scenario for possible electromagnetic (EM) emission by compact binary mergers in the accretion disks of active galactic nuclei (AGNs). Nuclear star clusters in AGNs are a plausible formation site of compact-stellar binaries (CSBs) whose coalescences can be detected through gravitational waves (GWs). We investigate the accretion onto and outflows from CSBs embedded in AGN disks. We show that these outflows are likely to create outflow "cavities" in the AGN disks before the binaries merge, which makes EM or neutrino counterparts much less common than would otherwise be expected. We discuss the necessary conditions for detectable EM counterparts to mergers inside the outflow cavities. If the merger remnant black hole experiences a high recoil velocity and can enter the AGN disk, it can accrete gas with a super-Eddington rate, newly forming a cavity-like structure. This bubble can break out of the disk within a day to a week after the merger. Such breakout emission can be bright enough to be detectable by current soft X-ray instruments, such as {\it Swift}-XRT and {\it Chandra}.
+subjects: Megers in AGNs
+
+link: https://arxiv.org/abs/2103.02399
+title: GW190814 follow-up with the optical telescope MeerLICHT
+authors: S. de Wet, P. J. Groot, S. Bloemen, R. Le Poole, M. Klein-Wolt, E. Körding, V. McBride, K. Paterson, D. L. A. Pieterse, P. M. Vreeswijk, P. Woudt
+topic: The Advanced LIGO and Virgo gravitational wave observatories detected a signal on 2019 August 14 during their third observing run, named GW190814. A large number of electromagnetic facilities conducted follow-up campaigns in the search for a possible counterpart to the gravitational wave event, which was made especially promising given the early source classification of a neutron star-black hole merger. We present the results of the GW follow-up campaign taken with the wide-field optical telescope MeerLICHT, located at the South African Astronomical Observatory Sutherland site. We use our results to constrain possible kilonova models. MeerLICHT observed more than 95% of the probability localisation each night for over a week in three optical bands (u,q,i) with our initial observations beginning almost 2 hours after the GW detection. We describe the search for new transients in MeerLICHT data and investigate how our limiting magnitudes can be used to constrain an AT2017gfo-like kilonova. A single new transient was found in our analysis of MeerLICHT data, which we exclude from being the electromagnetic counterpart to GW190814 due to the existence of a spatially unresolved source at the transient's coordinates in archival data. Using our limiting magnitudes, the confidence with which we can exclude the presence of an AT2017gfo-like kilonova at the distance of GW190814 was low.
+subjects: EM counterpart, not found
+
+link: https://arxiv.org/abs/2103.01968
+title: Real-time Discovery of AT2020xnd: A Fast, Luminous Ultraviolet Transient with Minimal Radioactive Ejecta
+authors: Daniel A. Perley (LJMU), Anna Y. Q. Ho (Berkeley), Yuhan Yao (Caltech), Christoffer Fremling (Caltech), Joseph P. Anderson (ESO), Steve Schulze (Stockholm), Harsh Kumar et al
+topic: The many unusual properties of the enigmatic AT2018cow suggested that at least some subset of the empirical class of fast blue optical transients (FBOTs) represents a genuinely new astrophysical phenomenon. Unfortunately, the intrinsic rarity and fleeting nature of these events have made it difficult to identify additional examples early enough to acquire the observations necessary to constrain theoretical models. We present here the Zwicky Transient Facility discovery of AT2020xnd (ZTF20acigmel, the "Camel") at z=0.243, the first unambiguous AT2018cow analog to be found and confirmed in real time. AT2018cow and AT2020xnd share all key observational properties: a fast optical rise, sustained high photospheric temperature, absence of a second peak attributable to ejection of a radioactively-heated stellar envelope, extremely luminous radio, millimetre, and X-ray emission, and a dwarf-galaxy host. This supports the argument that AT2018cow-like events represent a distinct phenomenon from slower-evolving radio-quiet supernovae, likely requiring a different progenitor or a different central engine. The sample properties of the four known members of this class to date disfavour tidal disruption models but are consistent with the alternative model of an accretion powered jet following the direct collapse of a massive star to a black hole. Contextual filtering of alert streams combined with rapid photometric verification using multi-band imaging provides an efficient way to identify future members of this class, even at high redshift.
+subjects: EM, new transient, UV, observations
+
+link: https://arxiv.org/abs/2103.01965
+title: Mirror Neutron Stars
+authors: Maurício Hippert, Jack Setford, Hung Tan, David Curtin, Jacquelyn Noronha-Hostler, Nicolas Yunes
+topic: The fundamental nature of dark matter is entirely unknown. A compelling candidate is Twin Higgs mirror matter, invisible hidden-sector cousins of the Standard Model particles and forces. This generically predicts mirror neutron stars, degenerate objects made entirely of mirror nuclear matter. We find their structure using realistic equations of state, robustly modified based on first-principle quantum chromodynamic calculations. We predict their detectability with gravitational waves and binary pulsars, suggesting an impressive discovery potential and ability to probe the dark sector.
+subjects: EOS, quantum
 
 link: https://arxiv.org/abs/2103.01703
 title: A Relativistic Quantum Approach to Neutrino and Antineutrino Emissions via the Direct Urca Process in Strongly Magnetized Neutron-Star Matter
