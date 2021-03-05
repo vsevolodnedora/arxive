@@ -1,10 +1,33 @@
 
-
 link: 
 title: 
 authors: 
 topic: 
 subjects: 
+
+link: https://arxiv.org/abs/2103.02952
+title: Polarization Predictions in the GRB Prompt Phase with the Internal Shock Model
+authors: Mi-Xiang Lan, Hao-Bing Wang, Siyao Xu, Siming Liu, Xue-Feng Wu
+topic: As the standard gamma-ray burst (GRB) prompt-emission model, the internal shock (IS) model can reproduce the fast-rise and slow-decay features of the pulses in the GRB light curve. The time- and energy-dependent polarization can deliver important physical information on the emission region and can be used to test models. Polarization predictions for the GRB prompt phase with the magnetized IS model should be investigated carefully. The magnetic field of the magnetized IS model is very likely to be mixed and decays with radius. The synchrotron emission in the presence of such a decaying magnetic field can recover the Band-like spectrum of the GRB prompt phase. We investigate the dependence of the polarization of GRB prompt emission on both time and energy in the framework of the magnetized IS model. Due to the large range of parameters, it is hard to distinguish the magnetized IS model and the magnetic-reconnection model through polarization degree (PD) curves. The energy-dependent PD could increase toward the high-energy band for the magnetized IS model, while it decreases to zero above the megaelectronvolt band for the dissipative photosphere model. Therefore, we conclude that the energy dependence of PD can be used to distinguish these two models for the GRB prompt emission. Finally, we find that, independent of the observational energy band, the profiles of the xi-B-PD curve for the time-integrated and time-resolved PDs are very similar, where ξB is the magnetic field strength ratio of the ordered component to the random component.
+subjects: GRB, model, prompt, internal shock
+
+link: https://arxiv.org/abs/2103.02616
+title: Neutrino Fast Flavor Conversions in Neutron-star Post-Merger Accretion Disks
+authors: Xinyu Li, Daniel M. Siegel
+topic: A compact accretion disk may be formed in the merger of two neutron stars or of a neutron star and a stellar-mass black hole. Outflows from such accretion disks have been identified as a major site of rapid neutron-capture (r-process) nucleosynthesis and as the source of 'red' kilonova emission following the first observed neutron-star merger GW170817. We present long-term general-relativistic radiation magnetohydrodynamic simulations of a typical post-merger accretion disk at initial accretion rates of M~1Msun s−1 over 400ms post-merger. We include neutrino radiation transport that accounts for effects of neutrino fast flavor conversions dynamically. We find ubiquitous flavor oscillations that result in a significantly more neutron-rich outflow, providing lanthanide and 3rd-peak r-process abundances similar to solar abundances. This provides strong evidence that post-merger accretion disks are a major production site of heavy r-process elements. A similar flavor effect may allow for increased lanthanide production in collapsars. The formalism presented here may also be used in simulations of core-collapse supernovae to explore whether fast conversions strengthen or weaken the explosion.
+subjects: r-process, neutrino, GRMHD, simulation, model
+
+link: https://arxiv.org/abs/2103.02611
+title: The Luminous and Double-Peaked Type Ic Supernova 2019stc: Evidence for Multiple Energy Sources
+authors: Sebastian Gomez, Edo Berger, Griffin Hosseinzadeh, Peter K. Blanchard, Matt Nicholl, V. Ashley Villar
+topic: We present optical photometry and spectroscopy of SN\,2019stc... The prominent second peak cannot be naturally accommodated with radioactive heating or magnetar spin-down, but instead can be explained as circumstellar interaction with =0.7 Msun of hydrogen-free material located =400 AU from the progenitor. Including the remnant mass leads to a CO core mass prior to explosion of =6.5 Msun. The host galaxy has a metallicity of =0.26 Zsun, low for SNe Ic but consistent with SLSNe. Overall, we find that SN\,2019stc is a transition object between normal SNe Ic and SLSNe.
+subjects: SN, observations
+
+link: https://arxiv.org/abs/2103.02608
+title: Impact of Massive Binary Star and Cosmic Evolution on Gravitational Wave Observations I: Black Hole - Neutron Star Mergers
+authors: Floor S. Broekgaarden, Edo Berger, Coenraad J. Neijssel, Alejandro Vigna-Gómez, Debatri Chattopadhyay, Simon Stevenson, Martyna Chruslinska, Stephen Justham, Selma E. de Mink, Ilya Mandel
+topic: Mergers of black hole-neutron star (BHNS) binaries are expected to be observed by gravitational wave (GW) detectors in the coming years. Such observations will not only provide confirmation that these systems exist, but will also give unique insights into the death and lives of massive (binary) stars and their possible association with gamma-ray bursts, r-process enrichment, and kilonovae. Here we present binary population synthesis of isolated BHNS systems in order to predict their merger rate and characteristics for ground-based GW observatories. We present the results for 420 different model permutations that explore key uncertainties in our assumptions about massive binary star evolution (e.g., mass transfer, common-envelope evolution, supernovae), and in our assumptions for the metallicity-specific star formation rate density, and characterize their relative impacts on our predictions. We predict intrinsic local BHNS merger rates in the range [] and detected rates in the range []  for a GW network consisting of LIGO, Virgo and KAGRA at design sensitivity. We find that the binary evolution and metallicity-specific star formation rate density each impact the predicted merger rates by order O(10). We also present predictions for the GW detected BHNS merger properties and find that all 420 model variations predict that 
+subjects: merger rate, NSBH, statistics
 
 link: https://arxiv.org/abs/2103.02461
 title: Outflow Bubbles from Compact Binary Mergers Embedded in Active Galactic Nuclei: Cavity Formation and the Impact on Electromagnetic Counterparts
