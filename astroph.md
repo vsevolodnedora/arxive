@@ -5,6 +5,60 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2103.05643
+title: Gravitational-wave glitches in chaotic extreme-mass-ratio inspirals
+authors: Kyriakos Destounis, Arthur G. Suvorov, Kostas D. Kokkotas
+topic: The Kerr geometry admits the Carter symmetry, which ensures that the geodesic equations are integrable. It is shown that gravitational waveforms associated with extreme-mass-ratio inspirals involving a non-integrable compact object display `glitch' phenomena, where the frequencies of gravitational waves increase abruptly, when the orbit crosses certain spacetime regions known as Birkhoff islands. The presence or absence of these features in data from upcoming space-borne detectors will therefore allow not only for tests of general relativity, but also of fundamental spacetime symmetries.
+subjects: GR, GW
+
+link: https://arxiv.org/abs/2103.05408
+title: Bayesian nonparametric inference of neutron star equation of state via neural network
+authors: Ming-Zhe Han, Jin-Liang Jiang, Shao-Peng Tang, Yi-Zhong Fan
+topic: We develop a new nonparametric method to reconstruct the Equation of State (EoS) of Neutron Star with multimessenger data. As an universal function approximator, the Feed-Forward Neural Network (FFNN) with one hidden layer and a sigmoidal activation function can approximately fit any continuous functions. We thus implement the FFNN to construct the EoSs, by fitting the theoretical EoSs and recovering the injected parameters, and find it perform well. Then we apply this nonparametric method to analyzing the real data, including mass-tidal deformability measurement from the Binary Neutron Star (BNS) merger Gravitational Wave (GW) event GW170817 and mass-radius measurement of PSR J0030+0451 by {\it NICER}. We take the publicly available samples to construct the likelihood and use the nested sampling to obtain the posteriors of the hyper parameters of FFNN according to the Bayesian theorem, which in turn can be translated to the posteriors of EoS parameters. Combining all these data, for a canonica
+subjects: MM, Baysean, NN, neutral, EOS
+
+link: https://arxiv.org/abs/2103.05883
+title: Observable gravitational waves from tidal disruption events and their electromagnetic counterpart
+authors: Hugo Pfister, Martina Toscani, Thomas Hong Tsun Wong, Jane Lixin Dai, Giuseppe Lodato, Elena M. Rossi
+topic: We estimate the rate of tidal disruption events (TDEs) that will be detectable with future space-based gravitational wave detectors as well as the most probable properties of these events. We find that the Laser Interferometer Space Antenna (LISA) will be able to detect up to few 10 events, but this number will strongly depend on our ability to disentangle the signal from the noise. The future number of (non-)observation will add additional constraints on the typical age of stars surrounding central black holes (BHs), however it will not constrain the unknown regimes of the BH mass function. Most probable events will involve 10 Msun stars around few 106 Msun BHs and will be detectable in the X-ray and optical part of the electromagnetic spectrum, which may open the multi-messenger era for TDEs. The generation of detectors following LISA will routinely detect gravitational waves from TDEs at cosmological distances.
+subjects: TDE, GW, LISA
+
+link: https://arxiv.org/abs/2103.05811
+title: Detectability of "Merger-nova" emission from long-lived magnetar in short gamma-ray bursts
+authors: Yong Yuan, Hou-Jun Lü, Hao-Yu Yuan, Shuai-Bing Ma, Wei-Hua Lei, En-Wei Liang
+topic: One possible progenitor of short gamma-ray bursts (GRBs) is thought to be from double neutron star (NS) merger, and the remnant of such merger may be a supra-massive NS which supported by rigid rotation with surviving hundreds of seconds before collapsing into a black hole (BH). If this is the case, an optical/infrared transient (namely merger-nova) generated from the ejected materials and it powered by radioactive decay from r-process, spin-down energy from supra-massive NS, as well as the magnetic wind from new-born BH. In this paper, we systematically search for signature of supra-massive NS central engine by analysing the X-ray emission of short GRBs with internal plateau observed by {\em Swift}, and find that five candidates of short GRBs have such feature with redshift measurement. Then, we calculate the possible merger-nova emission from those candidates for given the typical model parameters by considering above three energy sources, and compare its brightness with the sensitivity of some optical telescopes. We find that the merger-nova emission of GRB 060801 in K-, r-, and U-band with variation of ... as well as Roman Space Telescope, except for the case of large ejecta mass ... However, it is very hopeful to detect the merger-nova emission of GRBs 090515, 100625A and 101219A by more sensitive instruments of Vera C. Rubin, Pan-STARRS, and Roman. Moreover, the merger-nova emission of GRB 160821B is bright enough to be detected in our calculations, and it is also consistent with current real observations of merger-nova emission.
+subjects: EM, search, BNS, kilonova
+
+link: https://arxiv.org/abs/2103.04821
+title: Continued radio observations of GW170817 3.5 years post-merger
+authors: Arvind Balasubramanian, Alessandra Corsi, Kunal P. Mooley, Murray Brightman, Gregg Hallinan, Kenta Hotokezaka, David L. Kaplan, Davide Lazzati, Eric J. Murphy
+topic: We present new radio observations of the binary neutron star merger GW170817 carried out with the Karl G. Jansky Very large Array (VLA) more than 3yrs after the merger. Our combined dataset is derived by co-adding more than ≈32hours of VLA time on-source, and as such provides the deepest combined observation (RMS sensitivity eq 0.99μJy) of the GW170817 field obtained to date at 3GHz. We find no evidence for a late-time radio re-brightening at a mean epoch of t≈1200d since merger, in contrast to a 2−3σ excess observed at X-ray wavelengths at the same mean epoch. Our measurements agree with expectations from the post-peak decay of the radio afterglow of the GW170817 structured jet. Using these results, we constrain the parameter space of models that predict a late-time radio re-brightening possibly arising from the high-velocity tail of the GW170817 kilonova ejecta, which would dominate the radio and X-ray emission years after the merger (once the structured jet afterglow fades below detection level). Our results point to a steep energy-speed distribution of the kilonova ejecta (with energy-velocity power law index α\geq 5). We suggest possible implications of our radio analysis, when combined with the recent tentative evidence for a late-time re-brightening in the X-rays, and highlight the need for continued radio-to-X-ray monitoring to test different scenarios.
+subjects: radio, EM, observation, GRB170817
+
+link: https://arxiv.org/abs/2103.04065
+title: Long characteristics vs. short characteristics in 3D radiative transfer simulations of polarized radiation
+authors: A. de Vicente, T. del Pino Alemán, J. Trujillo Bueno
+topic: We compare maps of scattering polarization signals obtained from three-dimensional (3D) radiation transfer calculations in a magneto-convection model of the solar atmosphere using formal solvers based on the "short characteristics" (SC) and the "long characteristics" (LC) methods. The SC method requires less computational work, but it is known to introduce spatial blurring in the emergent radiation for inclined lines of sight. For polarized radiation this effect is generally more severe due to it being a signed quantity and to the sensitivity of the scattering polarization to the model's inhomogeneities. We study the differences in the polarization signals of the emergent spectral line radiation calculated with such formal solvers. We take as a case study already published results of the scattering polarization in the Sr I 4607 Å line obtained with the SC method, demonstrating that in high-resolution grids it is accurate enough for that type of study. In general, the LC method is the preferred one for accurate calculations of the emergent radiation, reason why it is now one of the options in the public version of the 3D radiative transfer code PORTA.
+subjects: Rad.Trasport
+
+link: https://arxiv.org/abs/2103.04001
+title: Black Hole Leftovers: The Remnant Population from Binary Black Hole Mergers
+authors: Zoheyr Doctor, Ben Farr, Daniel E. Holz
+topic: The inspiral and merger of two black holes produces a remnant black hole with mass and spin determined by the properties of its parent black holes. Using the inferred population properties of component black holes from the first two and a half observing runs of Advanced LIGO and Virgo, we calculate the population properties of the leftover remnant black holes. By integrating their rate of formation over the age of the universe, we estimate the number density of remnant black holes today. Using simple prescriptions for the cosmic star formation rate and black hole inspiral delay times, we determine the number density of this leftover black hole population to be 660+440−240Mpc−3, corresponding to ~5000 black hole remnants per Milky-Way-equivalent galaxy. The mass spectrum of these remnants starts at ~10Msun and can be approximated by a decreasing exponential with characteristic length ~15Msun, the final spin distribution is sharply peaked at χf~0.7, and the kick velocities range from tens to thousands of km/s. These kick velocities suggest that globular clusters and nuclear star clusters may retain up to 3+3−2% and 46+17−15% of their remnant black holes, respectively, while young star clusters would only retain a few tenths of a percent. The estimates in this work assume that none of the remnants participate in subsequent hierarchical mergers. If hierarchical mergers occur, the overall number density would drop accordingly and the remnant mass distribution shape would evolve over time. This population of leftover black holes is an inescapable result from gravitational-wave observations of binary black-hole mergers.
+subjects: GW, BH, statistiscs
+
+link: https://arxiv.org/abs/2103.03887
+title: Prospects for Multimessenger Observations of Thorne-Żytkow Objects
+authors: Lindsay DeMarchi, J.R. Sanders, Emily M. Levesque
+topic: Thorne-Żytkow objects (TŻOs) are a class of stellar object comprised of a neutron star core surrounded by a large and diffuse envelope. Their exterior appearance is identical to red supergiants; the distinctive electromagnetic signature of a TŻO is a suite of unusual chemical abundance patterns, including excesses of Li, Rb, Mo, and Ca. However, electromagnetic observations cannot unambiguously identify the presence of a neutron star core. Detection of continuous gravitational wave emission from a rotating neutron star core would provide strong supporting evidence for the existence of TŻOs. We present a model for gravitational wave detector confirmation of TŻOs and demonstrate that these objects should be detectable with Advanced LIGO. We also investigate possible targets for joint optical and gravitational searches, and comment on prospects for detectability in both current and future gravitational wave detector networks.
+subjects: GW, EM, NS core Giant star
+
 link: https://arxiv.org/abs/2103.03557
 title: The response of the Convolutional Neural Network to the transient noise in Gravitational wave detection
 authors: Chao Zhan, Mingzhen Jia, Cunliang Ma, Zhongliang Lu, Wenbin Lin
