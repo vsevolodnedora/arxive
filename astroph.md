@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2103.06299
+title: Radio Observations of an Ordinary Outflow from the Tidal Disruption Event AT2019dsg
+authors: Y. Cendes, K. D. Alexander, E. Berger, T. Eftekhari, P. K. G. Williams, R. Chornock
+topic: We present detailed radio observations of the tidal disruption event (TDE) AT2019dsg, obtained with the Very Large Array (VLA) and the Atacama Large Millimeter/submillimeter Array (ALMA), and spanning 55−560 days post-disruption. We find that the peak brightness of the radio emission increases until ~200 days and subsequently begins to decrease steadily. Using the standard equipartition analysis, including the effects of synchrotron cooling as determined by the joint VLA-ALMA spectral energy distributions, we find that the outflow powering the radio emission is in roughly free expansion with a velocity of =0.07c, while its kinetic energy increases by a factor of about 5 from 55 to 200 days and plateaus at... which is narrow even by the standards of GRB jets; a truly relativistic outflow requires an unphysically narrow jet. The outflow velocity and kinetic energy in AT2019dsg are typical of previous non-relativistic TDEs, and comparable to those from Type Ib/c supernovae, raising doubts about the claimed association with a high-energy neutrino event.
+subjects: observations, radio, TDE
+
+link: https://arxiv.org/abs/2103.06292
+title: Relative depolarization of the black hole photon ring in GRMHD models of Sgr A* and M87*
+authors: A. Jiménez-Rosales, J. Dexter, S.M. Ressler, A. Tchekhovskoy, M. Bauböck, Y. Dallilar, P. T. de Zeeuw, A. Drescher, F. Eisenhauer, S. von Fellenberg, F. Gao, R. Genzel, S. Gillessen, M. Habibi, T. Ott, J. Stadler, O. Straub, F. Widmann
+topic: Using general relativistic magnetohydrodynamic simulations of accreting black holes, we show that a suitable subtraction of the linear polarization per pixel from total intensity images can enhance the photon ring features. We find that the photon ring is typically a factor of =2 less polarized than the rest of the image. This is due to a combination of plasma and general relativistic effects, as well as magnetic turbulence. When there are no other persistently depolarized image features, adding the subtracted residuals over time results in a sharp image of the photon ring. We show that the method works well for sample, viable GRMHD models of Sgr A* and M87*, where measurements of the photon ring properties would provide new measurements of black hole mass and spin, and potentially allow for tests of the "no-hair" theorem of general relativity.
+subjects: imaging, BH
+
 link: https://arxiv.org/abs/2103.05643
 title: Gravitational-wave glitches in chaotic extreme-mass-ratio inspirals
 authors: Kyriakos Destounis, Arthur G. Suvorov, Kostas D. Kokkotas
