@@ -11,6 +11,19 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2103.07417
+title: The Role of Adaptive Ray Tracing in Analyzing Black Hole Structure
+authors: Z. Gelles, B.S. Prather, D.C.M. Palumbo, M.D. Johnson, G.N. Wong, B. Georgiev
+topic: The recent advent of the Event Horizon Telescope (EHT) has made direct imaging of supermassive black holes a reality. Simulated images of black holes produced via general relativistic ray tracing and radiative transfer provide a key counterpart to these observational efforts. Black hole images have a wide range of physically interesting image structures, ranging from extremely fine scales in their lensed "photon rings" to the very large scales in their relativistic jets. The multi-scale nature of the black hole system is therefore suitable for a multi-scale approach to generating simulated images that capture all key elements of the system. Here, we present a prescription for adaptive ray tracing, which enables efficient computation of extremely high resolution images of black holes. Using the polarized ray-tracing code ipole, we image a combination of semi-analytic and GRMHD models, and we show that images can be reproduced with mean squared error of less than 0.1% even after tracing 12x fewer rays. We then use adaptive ray tracing to explore properties of the photon ring. We illustrate the behavior of individual subrings in GRMHD simulations, and we explore their signatures in interferometric visibilities.
+subjects: observations, BH
+
+link: https://arxiv.org/abs/2103.06943
+title: Riroriro: Simulating gravitational waves and evaluating their detectability in Python
+authors: Wouter G. J. van Zeist, Héloïse F. Stevance, J. J. Eldridge
+topic: Riroriro is a Python package to simulate the gravitational waveforms of binary mergers of black holes and/or neutron stars, and calculate several properties of these mergers and waveforms, specifically relating to their observability by gravitational wave detectors.
+The gravitational waveform simulation of Riroriro is based upon the methods of Buskirk and Babiuc-Hamilton (2019), a paper which describes a computational implementation of an earlier theoretical gravitational waveform model by Huerta et al. (2017), using post-Newtonian expansions and an approximation called the implicit rotating source to simplify the Einstein field equations and simulate gravitational waves. Riroriro's calculation of signal-to-noise ratios (SNR) of gravitational wave events is based on the methods of Barrett et al. (2018), with the simpler gravitational wave model Findchirp (Allen et al. (2012)) being used for comparison and calibration in these calculations.
+subjects: GW, semi-analytic, model, code
+
 link: https://arxiv.org/abs/2103.06299
 title: Radio Observations of an Ordinary Outflow from the Tidal Disruption Event AT2019dsg
 authors: Y. Cendes, K. D. Alexander, E. Berger, T. Eftekhari, P. K. G. Williams, R. Chornock
