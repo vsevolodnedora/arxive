@@ -5,11 +5,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2103.09778
+title: Abundances of neutron-capture elements in thin- and thick-disc stars in the solar neighbourhood
+authors: Gražina Tautvaišienė, Carlos Viscasillas Vázquez, Šarūnas Mikolaitis, Edita Stonkutė, Renata Minkevičiūtė, Arnas Drazdauskas, Vilius Bagdonas
+topic: The aim of this work is to determine abundances of neutron-capture elements for thin- and thick-disc F, G, and K stars in several sky fields near the north ecliptic pole and to compare the results with the Galactic chemical evolution models, to explore elemental gradients according to stellar ages, mean galactocentric distances, and maximum heights above the Galactic plane. The observational data were obtained with the 1.65m telescope at the Moletai Astronomical Observatory and a fibre-fed high-resolution spectrograph. Elemental abundances were determined using a differential spectrum synthesis with the MARCS stellar model atmospheres and accounting for the hyperfine-structure effects. We determined abundances of Sr, Y, Zr, Ba, La, Ce, Pr, Nd, Sm, and Eu for 424 thin- and 82 thick-disc stars. The sample of thick-disc stars shows a clearly visible decrease in [Eu/Mg] with increasing [Fe/H] compared to the thin-disc stars, bringing more evidence of a different chemical evolution in these two Galactic components. Abundance correlation with age slopes for the investigated thin-disc stars are slightly negative for the majority of s-process dominated elements, while r-process dominated elements have positive correlations. Our sample of thin-disc stars with ages spanning from 0.1 to 9 Gyrs give the [Y/Mg]=0.022 (±0.015)-0.027 (±0.003)*age [Gyr] relation. For the thick-disc stars, when we also took data from other studies into account, we found that [Y/Mg] cannot serve as an age indicator. The radial [El/Fe] gradients in the thin disc are negligible for the s-process dominated elements and become positive for the r-process dominated elements. The vertical gradients are negative for the light s-process dominated elements and become positive for the r-process dominated elements. In the thick disc, the radial [El/Fe] slopes are negligible, and the vertical slopes are predominantly negative.
+subjects: observations, abundances, r-process
+
+link: https://arxiv.org/abs/2103.09238
+title: Partial tidal disruption events by stellar mass black holes: gravitational instability of stream and impact from remnant core
+authors: Yi-Han Wang, Rosalba Perna, Philip J. Armitage
+topic: In dense star clusters, such as globular and open clusters, dynamical interactions between stars and black holes (BHs) can be extremely frequent, leading to various astrophysical transients. Close encounters between a star and a stellar mass BH make it possible for the star to be tidally disrupted by the BH. Due to the relative low mass of the BH and the small cross section of the tidal disruption event (TDE) for cases with high penetration, disruptions caused by close encounters are usually partial disruptions. The existence of the remnant stellar core and its non-negligible mass compared to the stellar mass BH alters the accretion process significantly. We study this problem with SPH simulations using the code {\tt Phantom}, with the inclusion of radiation pressure, which is important for small mass BHs. Additionally, we develop a new, more general method of computing the fallback rate which does not rely on any approximation. Our study shows that the powerlaw slope of the fallback rate has a strong dependence on the mass of the BH in the stellar mass BH regime. Furthermore, in this regime, self-gravity of the fallback stream and local instabilities become more significant, and cause the disrupted material to collapse into small clumps before returning to the BH. This results in an abrupt increase of the fallback rate, which can significantly deviate from a powerlaw. Our results will help in the identification of TDEs by stellar mass BHs in dense clusters.
+subjects: TDE, code, simulations, BH, stars
 
 link: https://arxiv.org/abs/2103.08205
 title: The afterglow emission from a stratified jet in GRB 170817A
