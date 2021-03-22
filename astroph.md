@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2103.10878
+title: Millisecond Magnetars
+authors: Simone Dall'Osso, Luigi Stella
+topic: Two classes of X-ray/gamma-ray sources, the Soft Gamma Repeaters and the Anomalous X-ray Pulsars have been identified with isolated, slowly spinning magnetars, neutron stars whose emission draws energy from their extremely strong magnetic field (~1015−1016 G). Magnetars are believed to form with millisecond spin period and to represent an important fraction of the whole population of young neutron stars. Newborn magnetars can convert very quickly their rotational energy into electromagnetic and/or gravitational waves, by virtue of their strong magnetic fields and fast spins. This chapter provides a brief summary of astrophysical problems and scenarios in which millisecond magnetars are believed to play a key role: these include Gamma Ray Bursts, Supernovae, Gravitational Wave events and Fast Radio Bursts.
+subjects: pulsar, NS, review
+
+link: https://arxiv.org/abs/2103.10447
+title: Binary black hole mergers from young massive and open clusters: comparison to GWTC-2 gravitational wave data
+authors: Giacomo Fragione, Sambaran Banerjee
+topic: Several astrophysical scenarios have been proposed to explain the origin of the of the population of binary black hole (BBH) mergers detected in gravitational waves (GWs) by the LIGO-Virgo Collaboration. Among them, BBH mergers assembled dynamically in young massive and open clusters have been shown to produce merger rate densities consistent with LIGO/Virgo estimated rates. We use the results of a suite of direct, high-precision N-body evolutionary models of young massive and open clusters and build the population of BBH mergers, by accounting for both a cosmologically-motivated model for the formation of young massive and open clusters and the detection probability of LIGO/Virgo. We show that our models produce dynamically-paired BBH mergers that are well consistent with the observed masses, mass ratios, effective spin parameters, and final spins of the second Gravitational Wave Transient Catalog (GWTC-2).
+subjects: GW, clusters, 
+
 link: https://arxiv.org/abs/2103.09855
 title: Delta Baryons in Neutron-Star Matter under Strong Magnetic Fields
 authors: Veronica Dexheimer, Kauan D. Marquez, Débora P. Menezes
