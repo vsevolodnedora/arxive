@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2103.10963
+title: Accretion-Induced Collapse of Neutron Stars in the Disks of Active Galactic Nuclei
+authors: Rosalba Perna, Hiromichi Tagawa, Zoltan Haiman, Imre Bartos
+topic: The disks of active galactic nuclei (AGNs) have emerged as a rich environment for the evolution of stars and their compact remnants. The very dense medium favors rapid accretion, while torques and migration traps enhance binary formation and mergers. Both long and short gamma-ray bursts (GRBs) are hence expected. We show that AGN disks constitute an ideal environment for another interesting phenomenon: the accretion induced collapse (AIC) of neutron stars (NSs) to black holes (BHs). Rapid accretion in the dense disks can cause NSs to grow to the point of exceeding the maximum mass allowed by their equation of state. General relativistic magnetohydrodynamical simulations have shown that electromagnetic signatures are expected if the NS is surrounded by a mini-disk prior to collapse, which then rapidly accretes onto the BH, and/or if the NS is highly magnetized, from reconnection of the magnetosphere during collapse. Here we compute the rates of AICs and their locations within the disks for both isolated NSs, and for (initially stable) NSs formed from NS-NS mergers. We find that the global AIC rates are ~0.07−20~Gpc−3~yr−1, and we discuss their observable prospects and signatures as they emerge from the dense disk environments.
+subjects: AGN, disk, NS, accretion, collapse, statistics
+
 link: https://arxiv.org/abs/2103.10878
 title: Millisecond Magnetars
 authors: Simone Dall'Osso, Luigi Stella
