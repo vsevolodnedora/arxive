@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2103.13232
+title: Three-dimensional magnetic reconnection in particle-in-cell simulations of anisotropic plasma turbulence
+authors: Jeffersson A. Agudelo Rueda, Daniel Verscharen, Robert T. Wicks, Christopher J. Owen, Georgios Nicolaou, Andrew P. Walsh, Ioannis Zouganelis, Kai Germaschewski, Santiago Vargas Domínguez
+topic: We use 3D fully kinetic particle-in-cell simulations to study the occurrence of magnetic reconnection in a simulation of decaying turbulence created by anisotropic counter-propagating low-frequency Alfvén waves consistent with critical-balance theory. We observe the formation of small-scale current-density structures such as current filaments and current sheets as well as the formation of magnetic flux ropes as part of the turbulent cascade. The large magnetic structures present in the simulation domain retain the initial anisotropy while the small-scale structures produced by the turbulent cascade are less anisotropic. To quantify the occurrence of reconnection in our simulation domain, we develop a new set of indicators based on intensity thresholds to identify reconnection events in which both ions and electrons are heated and accelerated in 3D particle-in-cell simulations. According to the application of these indicators, we identify the occurrence of reconnection events in the simulation domain and analyse one of these events in detail. The event is related to the reconnection of two flux ropes, and the associated ion and electron exhausts exhibit a complex three-dimensional structure. We study the profiles of plasma and magnetic-field fluctuations recorded along artificial-spacecraft trajectories passing near and through the reconnection region. Our results suggest the presence of particle heating and acceleration related to small-scale reconnection events within magnetic flux ropes produced by the anisotropic Alfvénic turbulent cascade in the solar wind. These events are related to current structures of order a few ion inertial lengths in size.
+subjects: MHD. simulation, physics
+
 link: https://arxiv.org/abs/2103.12445
 title: Gravitational wave signature of proto-neutron star convection: I. MHD numerical simulations
 authors: Raphaël Raynaud (CEA Saclay), Pablo Cerdá-Durán (Universitat de València), Jérôme Guilet (CEA Saclay) 
