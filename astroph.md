@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2103.13605
+title: Equation-of-State Constraints on the Neutron-Star Binding Energy and Tests of Binary Formation Scenarios
+authors: A. Miguel Holgado
+topic: The second supernova that forms double-neutron-star systems is expected to occur in a progenitor that is ultra-stripped due to binary interactions. Thus, the secondary neutron star's mass as well as the post-supernova binary's orbital parameters will depend on the nature of the collapsing progenitor core. Since neutron stars are in the strong-gravity regime, their binding energy makes up a significant fraction of their total mass-energy budget. The second neutron star's binding energy may thus provide a unique insight as to whether its progenitor was a low-mass iron core or an oxygen-neon-magnesium core. I obtain relations for the baryonic mass and binding energy incorporating both a hadronic equation-of-state catalog as well as recent multi-messenger neutron-star observations. With these relations, I obtain the first tight constraints on the baryonic mass and binding energy of three neutron stars that are thought to have formed from an ultra-stripped progenitor. With these constraints, I test if each neutron star is consistent with forming from an ONeMg core that undergoes an electron-capture supernova. From these tests, I find that this scenario can be ruled out for one of three neutron stars. Neutron-star properties and the dense-matter equation of state can thus help distinguish binary formation scenarios.
+subjects: EOS, stars, NS, projenitor, SN
+
 link: https://arxiv.org/abs/2103.13232
 title: Three-dimensional magnetic reconnection in particle-in-cell simulations of anisotropic plasma turbulence
 authors: Jeffersson A. Agudelo Rueda, Daniel Verscharen, Robert T. Wicks, Christopher J. Owen, Georgios Nicolaou, Andrew P. Walsh, Ioannis Zouganelis, Kai Germaschewski, Santiago Vargas Domínguez
