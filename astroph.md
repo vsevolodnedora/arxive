@@ -5,6 +5,43 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2103.16486
+title: Testing general relativity with gravitational-wave catalogs: the insidious nature of waveform systematics
+authors: Christopher J. Moore, Eliot Finch, Riccardo Buscicchio, Davide Gerosa
+topic: Gravitational-wave observations of binary black holes allow new tests of general relativity to be performed on strong, dynamical gravitational fields. These tests require accurate waveform models of the gravitational-wave signal, otherwise waveform errors can erroneously suggest evidence for new physics. Existing waveforms are generally thought to be accurate enough for current observations, and each of the events observed to date appears to be individually consistent with general relativity. In the near future, with larger gravitational-wave catalogs, it will be possible to perform more stringent tests of gravity by analyzing large numbers of events together. However, there is a danger that waveform errors can accumulate among events: even if the waveform model is accurate enough for each individual event, it can still yield erroneous evidence for new physics when applied to a large catalog. This paper presents a simple linearised analysis, in the style of a Fisher matrix calculation, that reveals the conditions under which the apparent evidence for new physics due to waveform errors grows as the catalog size increases. We estimate that, in the worst-case scenario, evidence for a deviation from general relativity might appear in some tests using a catalog containing as few as 10-30 events above a signal-to-noise ratio of 20. This is close to the size of current catalogs and highlights the need for caution when performing these sorts of experiments.
+subjects: GW, statistics
+
+link: https://arxiv.org/abs/2103.16950
+title: X-ray Spectroscopy of Ejecta and Compact Objects in Supernova Remnants
+authors: Emanuele Greco 
+topic: This thesis is devoted to the analysis of X-ray observations of supernova remnants (SNRs), exploiting the diagnostic potential provided by X-ray spectroscopy and complementing it with the synthesis of X-ray observables from multi-dimensional hydrodynamic (HD) and magneto-hydrodynamic (MHD) models. I tackle three open issues: the search for a spectral signature to correctly recover abundance and mass values of the stellar fragments ejected in the SN explosion through their X-ray spectra; the study of anisotropies and the origin of overionized plasma in the mixed-morphology SNR IC 443; the quest for the elusive compact object in SN 1987A.
+subjects: PhD, thesis, EM, SN, BNS, X-ray
+
+link: https://arxiv.org/abs/2103.16736
+title: Black hole parameter estimation with synthetic Very Long Baseline Interferometry data from the ground and from space
+authors: Freek Roelofs, Christian M. Fromm, Yosuke Mizuno, Jordy Davelaar, Michael Janssen, Ziri Younsi, Luciano Rezzolla, Heino Falcke
+topic: The Event Horizon Telescope (EHT) has imaged the shadow of the supermassive black hole in M87. A library of general relativistic magnetohydrodynamics (GMRHD) models was fit to the observational data, providing constraints on black hole parameters. We investigate how much better future experiments can realistically constrain these parameters and test theories of gravity. We generate realistic synthetic 230 GHz data from representative input models taken from a GRMHD image library for M87, using the 2017, 2021, and an expanded EHT array. The synthetic data are run through a data reduction pipeline used by the EHT. Additionally, we simulate observations at 230, 557, and 690 GHz with the Event Horizon Imager (EHI) Space VLBI concept. Using one of the EHT parameter estimation pipelines, we fit the GRMHD library images to the synthetic data and investigate how the black hole parameter estimations are affected by different arrays and repeated observations. Repeated observations play an important role in constraining black hole and accretion parameters as the varying source structure is averaged out. A modest expansion of the EHT already leads to stronger parameter constraints. High-frequency observations from space rule out all but ~15% of the GRMHD models in our library, strongly constraining the magnetic flux and black hole spin. The 1σ constraints on the black hole mass improve by a factor of five with repeated high-frequency space array observations as compared to observations with the current ground array. If the black hole spin, magnetization, and electron temperature distribution can be independently constrained, the shadow size for a given black hole mass can be tested to ~0.5% with the EHI, which allows tests of deviations from general relativity. High-precision tests of the Kerr metric become within reach from observations of the Galactic Center black hole Sagittarius A*.
+subjects: BH, SMBH, image, GRMHD, models
+
+link: https://arxiv.org/abs/2103.16588
+title: Implementation of Monte-Carlo transport in the general relativistic SpEC code
+authors: Francois Foucart, Matthew D. Duez, Francois Hebert, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel
+topic: Neutrino transport and neutrino-matter interactions are known to play an important role in the evolution of neutron star mergers, and of their post-merger remnants. Neutrinos cool remnants, drive post-merger winds, and deposit energy in the low-density polar regions where relativistic jets may eventually form. Neutrinos also modify the composition of the ejected material, impacting the outcome of nucleosynthesis in merger outflows and the properties of the optical/infrared transients that they power (kilonovae). So far, merger simulations have largely relied on approximate treatments of the neutrinos (leakage, moments) that simplify the equations of radiation transport in a way that makes simulations more affordable, but also introduces unquantifiable errors in the results. To improve on these methods, we recently published a first simulation of neutron star mergers using a low-cost Monte-Carlo algorithm for neutrino radiation transport. Our transport code limits costs in optically thick regions by placing a hard ceiling on the value of the absorption opacity of the fluid, yet all approximations made within the code are designed to vanish in the limit of infinite numerical resolution. We provide here an in-depth description of this algorithm, of its implementation in the SpEC merger code, and of the expected impact of our approximations in optically thick regions. We argue that the latter is a subdominant source of error at the accuracy reached by current simulations, and for the interactions currently included in our code. We also provide tests of the most important features of this code.
+subjects: neutrino scheme
+revelation: mention in thesis
+
+link: https://arxiv.org/abs/2103.16577
+title: Unified thermal model for photohadronic neutrino production in astrophysical sources
+authors: Damiano F. G. Fiorillo, Arjen Van Vliet, Stefano Morisi, Walter Winter
+topic: High-energy astrophysical neutrino fluxes are, for many applications, modeled as simple power laws as a function of energy. While this is reasonable in the case of neutrino production in hadronuclear pp sources, it typically does not capture the behavior in photohadronic p\gamma sources: in that case, the neutrino spectrum depends on the properties of the target photons the cosmic rays collide with and on possible magnetic-field effects on the secondary pions and muons. We show that the neutrino production from known photohadronic sources can be reproduced by a thermal (black-body) target-photon spectrum if one suitably adjusts the temperature, thanks to multi-pion production processes. This allows discussing neutrino production from most known pγ sources, such as gamma-ray bursts, active galactic nuclei and tidal disruption events, in terms of a few parameters. We apply this thermal model to study the sensitivity of different classes of neutrino telescopes to photohadronic sources: we classify the model parameter space according to which experiment is most suitable for detection of a specific source class and demonstrate that different experiment classes, such as dense arrays, conventional neutrino telescopes, or radio-detection experiments, cover different parts of the parameter space. Since the model can also reproduce the flavor and neutrino-antineutrino composition, we study the impact on the track-to-shower ratio and the Glashow resonance.
+subjects: physics, neutrino emission, model
+
 link: https://arxiv.org/abs/2103.16371
 title: Equation of state constraints from multi-messenger observations of neutron star mergers
 authors: Andreas Bauswein
