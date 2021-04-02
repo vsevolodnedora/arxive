@@ -11,6 +11,31 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2104.00544
+title: Is the compact binary coalescence, GW190425, a strange quark star?
+authors: J. Sedaghat, S. M. Zebarjad, G. H. Bordbar, B. Eslam Panah
+topic: Considering the finite IR behavior of quantum chromodynamics (QCD) running coupling constant in some experiments, we intend to investigate different models presenting running coupling with finite values in the IR region. Using analytic and background perturbation theories, we obtain some equation of states (EoSs) of strange quark matter which satisfy necessary conditions of suitable EoSs. Then we evaluate the properties of strange quark stars in general relativity. Our results for maximum gravitational mass is comparable with the recent LIGO data for the compact binary merger, GW190425.
+subjects: EOS, quark
+
+link: https://arxiv.org/abs/2104.00509
+title: An energy-conserving dynamical model of GRB afterglows from magnetized forward and reverse shocks
+authors: Qiang Chen, Xue-Wen Liu
+topic: In the dynamical models of gamma-ray burst (GRB) afterglows, the uniform assumption of the shocked region is known as provoking total energy conservation problem. In this work we consider shocks originating from magnetized ejecta, extend the energy-conserving hydrodynamical model of Yan et al. (2007) to the MHD limit by applying the magnetized jump conditions from Zhang & Kobayashi (2005). Compared with the non-conservative models, our Lorentz factor of the whole shocked region is larger by a factor (less 1.3). The total pressure of the forward shocked region is higher than the reversed shocked region, in the relativistic regime with a factor of about 3 in our interstellar medium (ISM) cases while ejecta magnetization degree [sigm < 1], and a factor of about 2.4 in the wind cases. For [sig < 1], the non-conservative model loses 32-42% of its total energy for ISM cases, and for wind cases 25-38%, which happens specifically in the forward shocked region, making the shock synchrotron emission from the forward shock less luminous than expected. Once the energy conservation problem is fixed, the late time light curves from the forward shock become nearly independent of the ejecta magnetization. The reverse shocked region doesn't suffer from the energy conservation problem since the changes of the Lorentz factor are recompensed by the changes of the shocked particle number density. The early light curves from the reverse shock are sensitive to the magnetization of the ejecta, thus are an important probe of the magnetization degree.
+subjects: GRB, shock, method, MF, early emission
+revelation: the GRB model of Nava can be imporved with this method
+
+link: https://arxiv.org/abs/2104.00422
+title: Multimessenger signal from phase transition of neutron star to quark star
+authors: Debojoti Kuzur, Ritam Mallick, Prasad R, Shailendra Singh
+topic: Aim: To study the multimessenger nature of the signal that can result from the phase transition of a neutron star to a quark star and their corresponding astrophysical observations. Methods: The phase transition process is initiated by the abrupt pressure and density changes at the star center, giving rise to a shock which deconfines matter followed by a weak front converting excess down to strange quarks to attain absolute stability. This process's effects are investigated by understanding how the energy escapes from the star in the form of neutrino-antineutrino annihilation. For such annihilation process, the corresponding energy deposition rate is calculated. Structural changes due to the energy loss have been investigated in the likes of misalignment angle evolution of the star and its astrophysical observation through gravitational waves. Results: The energy and time signature for the neutrino-antineutrino annihilation is compared with the observed isotropic energy for a short gamma-ray burst. The misalignment angle evolves to align the star's tilt axis, which can lead to the sudden increase or decrease of radio intensity from the pulsar. The corresponding gravitational wave emission, both continuous and burst, all lead towards multimessenger signals coming from the phase transition.
+subjects: NS, EOS, GW, phase transition
+
+link: https://arxiv.org/abs/2104.00263
+title: Measuring Masses and Radii of Neutron Stars in Low-Mass X-ray Binaries: Effects of Atmospheric Composition and Touchdown Radius
+authors: Myungkuk Kim, Young-Min Kim, Kwang Hyun Sung, Chang-Hwan Lee, Kyujin Kwak
+topic: Methods. We use both a Monte Carlo (MC) sampling and a Bayesian analysis to find the effects of the photospheric composition and the touchdown radius. We apply these two methods to six LMXBs that show PRE XRBs. In both methods, we solve the Eddington flux equation and the apparent angular area equation both of which include the correction terms. For the MC sampling, we have developed an iterative method in order to solve these two equations more efficiently. Results. We confirm that the effects of the photospheric composition and the touchdown radius are similar in the statistical and analytical estimation of mass and radius even when the correction terms are considered. Furthermore, in all of the six sources, we find that a H-poor photosphere and a large touchdown radius are favored statistically regardless of the statistical method. Our Bayesian analysis also hints that touchdown can occur farther from the neutron star surface when the photosphere is more H-poor. This correlation could be qualitatively understood with the Eddington flux equation. We propose a physical explanation for this correlation between the photospheric composition and the touchdown radius. Our results show that when accounting for the uncertainties of the photospheric composition and the touchdown radius, most likely radii of the neutron stars in these six LMXBs are less than 12.5 km, which is similar to the bounds for the neutron star radius placed with the tidal deformability measured from the gravitational wave signal.
+subjects: NS, radius, measurement technique, method
+
 link: https://arxiv.org/abs/2103.16486
 title: Testing general relativity with gravitational-wave catalogs: the insidious nature of waveform systematics
 authors: Christopher J. Moore, Eliot Finch, Riccardo Buscicchio, Davide Gerosa
