@@ -11,6 +11,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2104.00775
+title: Equation of State table with hyperon and antikaon for supernova and neutron star merger
+authors: Tuhin Malik, Sarmistha Banik, Debades Bandyopadhyay
+topic: We develop a new equation of state (EoS) table involving thermal (anti)kaons, Bose-Einstein condensate of K- mesons and Lambda-hyperons for core-collapse supernova and neutron star merger simulations. This EoS table is based on a finite temperature density-dependent relativistic hadron field theory where baryon-baryon interaction is mediated by scalar Sigma, vector Omega and Rhi mesons, using the parameter set DD2 for nucleons. The repulsive hyperon-hyperon interaction is mediated by an additional strange Phi meson. The EoS for the K- condensed matter is also calculated within the framework of relativistic mean field model, whereas the low-density, inhomogeneous matter is calculated in the extended Nuclear Statistical Equilibrium model (NSE). The EoS table is generated for a wide range of values of three parameters - baryon density (10-12 to ~ 1 fm−3), positive charge fraction(0.01 to 0.60) and temperature(0.1 to 158.48 MeV).
+subjects: EOS, new, NS
+
+link: https://arxiv.org/abs/2104.00771
+title: Modeling the Galactic Neutron Star Population for Use in Continuous Gravitational Wave Searches
+authors: Brendan T. Reed, Alex Deibel, C. J. Horowitz
+topic: Searches for continuous gravitational waves from unknown Galactic neutron stars provide limits on the shapes of neutron stars. A rotating neutron star will produce gravitational waves if asymmetric deformations exist in its structure that are characterized by the star's ellipticity. In this study, we use a simple model of the spatial and spin distribution of Galactic neutron stars to estimate the total number of neutron stars probed, using gravitational waves, to a given upper limit on the ellipticity. This may help optimize future searches with improved sensitivity. The improved sensitivity of third-generation gravitational wave detectors may increase the number of neutron stars probed, to a given ellipticity, by factors of 100 to 1000.
+subjects: statistics, NS, GW, ellipticity
+
+link: https://arxiv.org/abs/2104.00741
+title: Accretion induced black hole spin up revised by numerical GR MHD simulations
+authors: Dominika Ł. Król, Agnieszka Janiuk
+topic: We investigate the accretion induced spin up of the black hole via numerical simulations. Our method is based on general-relativistic magneto-hydrodynamics of the slowly-rotating flows in the Kerr metric, where possibly transonic shock fronts may form. We account for the changing black hole mass and spin during accretion which enforces dynamical evolution of the space-time metric. We first study non-magnetized flows with shocks, and we also include magnetic field endowed in the gas. The aim of this study is to verify whether the high mass black holes may be produced with large spins, even though at birth the collapsars might have contained slowly, or moderately spinning cores. In this way, we put constraints on the content of angular momentum in the collapsing massive stars. Our studies are also showing that shock fronts and magnetic fields may halt accretion and limit the black hole spin-up in the exploding supernovae.
+subjects: BH, spin-up, accretion, GRMHD, simulaitons
+
 link: https://arxiv.org/abs/2104.00544
 title: Is the compact binary coalescence, GW190425, a strange quark star?
 authors: J. Sedaghat, S. M. Zebarjad, G. H. Bordbar, B. Eslam Panah
