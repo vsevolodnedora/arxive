@@ -17,17 +17,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2104.01925
+title: Fast radio bursts and their high-energy counterpart from magnetar magnetospheres
+authors: Yuan-Pei Yang, Bing Zhang
+topic: The recent discovery of a Galactic fast radio burst (FRB) occurring simultaneously with an X-ray burst (XRB) from the Galactic magnetar SGR J1935+2154 implies that at least some FRBs arise from magnetar activities. We propose that FRBs are triggered by crust fracturing of magnetars, with the burst event rate depending on the magnetic field strength in the crust. Crust fracturing produces Alfvén waves, forming a charge starved region in the magnetosphere and leading to non-stationary pair plasma discharges. An FRB is produced by coherent plasma emission due to nonuniform pair production across magnetic field lines. Meanwhile, the FRB-associated XRB is produced by the rapid relaxation of the external magnetic field lines. In this picture, the sharp-peak hard X-ray component in association with FRB 200428 is from a region between adjacent trapped fireballs, and its spectrum with a high cutoff energy is attributed to resonant Compton scattering. The persistent X-ray emission is from a hot spot heated by the magnetospheric activities, and its temperature evolution is dominated by magnetar surface cooling. Within this picture, magnetars with stronger fields tend to produce brighter and more frequent repeated bursts.
+subjects: FRB, mechanism, production, magnetar
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2104.01181
+title: Survival times of supramassive neutron stars resulting from binary neutron star mergers
+authors: Paz Beniamini, Wenbin Lu
+topic: A binary neutron star (BNS) merger can lead to various outcomes, from indefinitely stable neutron stars, through supramassive (SMNS) or hypermassive (HMNS) neutron stars supported only temporarily against gravity, to black holes formed promptly after the merger. Up-to-date constraints on the BNS total mass and the neutron star equation of state suggest that a long-lived SMNS may form in ~0.45−0.9 of BNS mergers. We find that a SMNS typically needs to lose ~3−6×1052 erg of it's rotational energy before it collapses, on a fraction of the spin-down timescale. A SMNS formation imprints on the electromagnetic counterparts to the BNS merger. However, a comparison with observations reveals tensions. First, the distribution of collapse times is too wide and that of released energies too narrow (and the energy itself too large) to explain the observed distributions of internal X-ray plateaus, invoked as evidence for SMNS-powered energy injection. Secondly, the immense energy injection into the blastwave should lead to extremely bright radio transients which previous studies found to be inconsistent with deep radio observations of short gamma-ray bursts. Furthermore, we show that upcoming all-sky radio surveys will enable to constrain the distribution of extracted energies, independently of a GRB jet formation. Our results can be self-consistently understood, provided that BNS merger remnants collapse shortly after their formation (even if their masses are low enough to allow for SMNS formation). We briefly outline how this collapse may be achieved. Future simulations will be needed to test this hypothesis.
+subjects: GRB, MNS, NS, BNS
 
 link: https://arxiv.org/abs/2104.00775
 title: Equation of State table with hyperon and antikaon for supernova and neutron star merger
