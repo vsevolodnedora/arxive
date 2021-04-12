@@ -5,17 +5,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2104.04433
+title: Fallback Accretion Model for the Years-to-Decades X-ray Counterpart to GW170817
+authors: Wataru Ishizaki, Kunihito Ioka, Kenta Kiuchi
+topic: A new component was reported in the X-ray counterpart to the binary neutron-star merger and gravitational wave event GW170817, exceeding the afterglow emission from an off-axis structured jet. The afterglow emission from the kilonova/macronova ejecta may explain the X-ray excess but exceeds the radio observations if the spectrum is the same. We propose a fallback accretion model that a part of ejecta from the neutron star merger falls back and forms a disk around the central compact object. In the super-Eddington accretion phase, the X-ray luminosity stays near the Eddington limit of a few solar masses and the radio is weak, as observed. This will be followed by a power law decay with index −5/3. The duration of the constant luminosity phase conveys the initial fallback timescale t0 in the past. The current multi-year duration requires t0>3--30 sec, suggesting that the disk wind rather than the dynamical ejecta falls back after the jet launch. Future observations in the next decades will probe the timescale of t0∼10--104 sec, around the time of extended emission in short gamma-ray bursts. The fallback accretion has not been halted by the {\it r}-process heating, implying that fission is weak on the year scale. We predict that the X-ray counterpart will disappear in a few decades due to the {\it r}-process halting.
+subjects: x-ray, non-thermal, accretion, model, fallback
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2104.04280
+title: A search for radio emission from double-neutron star merger GW190425 using Apertif
+authors: Olivér Boersma, Joeri van Leeuwen, Elizabeth A. K. Adams et al
+topic: Detection of the electromagnetic emission from coalescing binary neutron stars (BNS) is important for understanding the merger and afterglow. We present a search for a radio counterpart to the gravitational-wave source GW190425, a BNS merger, using Apertif on the Westerbork Synthesis Radio Telescope (WSRT). We observe a field of high probability in the associated localisation region for 3 epochs at 68, 90 and 109 days post merger. We identify all sources that exhibit flux variations consistent with the expected afterglow emission of GW190425. We also look for possible transients. These are sources which are only present in one epoch. In addition, we quantify our ability to search for radio afterglows in fourth and future observing runs of the gravitational-wave detector network using Monte Carlo simulations. We found 25 afterglow candidates based on their variability. None of these could be associated with a possible host galaxy at the luminosity distance of GW190425. We also found 55 transient afterglow candidates that were only detected in one epoch. All turned out to be image artefacts. In the fourth observing run, we predict that up to three afterglows will be detectable by Apertif. While we did not find a source related to the afterglow emission of GW190425, the search validates our methods for future searches of radio afterglows.
+subjects: radio, afterglow, no detection
 
 link: https://arxiv.org/abs/2104.03629
 title: Constraints on ultra-low-frequency gravitational waves from an eccentric supermassive black hole binary
