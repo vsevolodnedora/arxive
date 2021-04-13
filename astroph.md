@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2104.04708
+title: Fallback Accretion Halted by R-process Heating in Neutron Star Mergers and Gamma-Ray Bursts
+authors: Wataru Ishizaki, Kenta Kiuchi, Kunihito Ioka, Shinya Wanajo
+topic: The gravitational wave event GW170817 with a macronova/kilonova shows that a merger of two neutron stars ejects matter with radioactivity including r-process nucleosynthesis. A part of the ejecta inevitably falls back to the central object, possibly powering long-lasting activities of a short gamma-ray burst (sGRB), such as extended and plateau emissions. We investigate the fallback accretion with the r-process heating by performing one-dimensional hydrodynamic simulations and developing a semi-analytical model. We show that the usual fallback rate dM/dt prop to t -5/3 is halted by the heating because pressure gradients accelerate ejecta beyond an escape velocity. The suppression is steeper than Chevalier's power-law model through Bondi accretion within a turn-around radius. The characteristic halting timescale is ~105--109 sec for the GW170817-like r-process heating, which is long enough to continue the long-lasting emission of sGRBs. The halting timescale is sensitive to the uncertainty of the r-process. Future observation of fallback halting could constrain the r-process heating on the year scale.
+subjects: ejecta, kilonova, BH, accretion, radio, nucleo
+
 link: https://arxiv.org/abs/2104.04433
 title: Fallback Accretion Model for the Years-to-Decades X-ray Counterpart to GW170817
 authors: Wataru Ishizaki, Kunihito Ioka, Kenta Kiuchi
