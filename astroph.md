@@ -5,6 +5,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2104.09508
+title: A Thesaurus for Common Priors in Gravitational-Wave Astronomy
+authors: T. A. Callister
+topic: In gravitational-wave data analysis, we regularly work with a host of non-trivial prior probabilities on compact binary masses, redshifts, and spins. We must regularly manipulate these priors, computing the implied priors on a transformed basis of parameters or reweighting posterior samples from one prior to another. Here, I detail some common manipulations, presenting a table of Jacobians with which to transform priors between mass parametrizations, describing the conversion between source- and detector-frame priors, and deriving analytic expressions for priors on the "effective spin" parameters regularly invoked in gravitational-wave astronomy.
+subjects: 
+
+link: https://arxiv.org/abs/2104.09802
+title: The pulsar gamma-ray emission from the high-resolution dissipative magnetospheres
+authors: Gang Cao, Xiongbang Yang
+topic: The pulsar light curves and energy spectra are explored in dissipative pulsar magnetospheres with the Aristotelian electrodynamics (AE), where particle acceleration is fullly balanced with radiation reaction. The AE magnetospheres with non-zero pair multiplicity are computed by a pseudo-spectral method in the co-moving frame. The dissipative region near the current sheet outside the LC is accurately captured by the high-resolution simulation. The pulsar light curves and spectra are computed by the test particle trajectory method including the influence of both the consistent accelerating electric field and radiation reaction. Our results can generally reproduce the double-peak light curves and the GeV cut-off energy spectra in agreement with the Fermi observations for the pair multiplicity κ≳1.
+subjects: pulsar, physics, high energy
+
+link: https://arxiv.org/abs/2104.09727
+title: Constraining bright optical counterparts of Fast Radio Bursts
+authors: C. Nuñez, N. Tejos, G. Pignata, C. D. Kilpatrick, J. X. Prochaska et al
+topic: Fast Radio Bursts (FRBs) are extremely energetic pulses of millisecond duration and unknown origin. In order to understand the phenomenon that emits these pulses, targeted and untargeted searches have been performed for multi-wavelength counterparts, including the optical. The objective of this work is to search for optical transients at the position of 8 well-localized FRBs, after the arrival of the burst on different time-scales (typically at one day, several months, and one year after FRB detection) in order to compare with known transient optical light curves. We used the Las Cumbres Observatory Global Telescope Network (LCOGT), which allows us to promptly take images owing to its network of twenty-three telescopes working around the world. We used a template subtraction technique on all the images we collected at different epochs. We have divided the subtractions into two groups, in one group we use the image of the last epoch as a template and in the other group we use the image of the first epoch as a template. We have searched for bright optical transients at the localizations of the FRBs [<1 arcsec] in the template subtracted images. We have found no optical transients, so we have set limiting magnitudes of optical counterparts. Typical limiting magnitudes in apparent (absolute) magnitudes for our LCOGT data are ~22 (-19) mag in the r-band. We have compared our limiting magnitudes with light curves of superluminous supernovae (SLSNe), type Ia supernovae (SNe), supernovae associated with gamma-ray bursts (GRB SNe), a kilonova, and tidal disruption events (TDEs). We rule out that FRBs are associated with SLSN at a confidence of ~99.9%. We can also rule out the brightest sub-types of type Ia SNe, GRB SNe and TDEs (under some conditions) at similar confidence, though we cannot exclude scenarios where FRBs are associated with the faintest sub-type of each of these transient classes.
+subjects: FRB, no optical, observations
+
+link: https://arxiv.org/abs/2104.09534
+title: Multi-Messenger Astrophysics with THESEUS in the 2030s
+authors: Riccardo Ciolfi, Giulia Stratta, Marica Branchesi, Bruce Gendre, et al
+topic: Multi-messenger astrophysics is becoming a major avenue to explore the Universe, with the potential to span a vast range of redshifts. The growing synergies between different probes is opening new frontiers, which promise profound insights into several aspects of fundamental physics and cosmology. In this context, THESEUS will play a central role during the 2030s in detecting and localizing the electromagnetic counterparts of gravitational wave and neutrino sources that the unprecedented sensitivity of next generation detectors will discover at much higher rates than the present. Here, we review the most important target signals from multi-messenger sources that THESEUS will be able to detect and characterize, discussing detection rate expectations and scientific impact.
+subjects: prospect, MM, astronomy, observations
+
 link: https://arxiv.org/abs/2104.08681
 title: Rapid model comparison of equations of state from gravitational wave observation of binary neutron star coalescences
 authors: Shaon Ghosh, Xiaoshu Liu, Jolien Creighton, Wolfgang Kastaun, Geraint Pratten, Ignacio Magana Hernandez
