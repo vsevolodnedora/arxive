@@ -17,6 +17,24 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2104.10732
+title: The Acceleration of Charged Particles and Formation of Power-law Energy Spectra in Nonrelativistic Magnetic Reconnection
+authors: Xiaocan Li, Fan Guo, Yi-Hsin Liu
+topic: Magnetic reconnection is a primary driver of particle acceleration processes in space and astrophysical plasmas. Understanding how particles are accelerated and the resulting particle energy spectra is among the central topics in reconnection studies. We review recent advances in addressing this problem in nonrelativistic reconnection that is relevant to space and solar plasmas and beyond. We focus on particle acceleration mechanisms, particle transport due to 3D reconnection physics, and their roles in forming power-law particle energy spectra. We conclude by pointing out the challenges in studying particle acceleration and transport in a large-scale reconnection layer and the relevant issues to be addressed in the future.
+subjects: particle acceleration, review, MF, reconnection
+
+link: https://arxiv.org/abs/2104.10532
+title: Nonlinear evolution of fast neutrino flavor conversion in the preshock region of core-collapse supernovae
+authors: Masamichi Zaizen, Taiki Morinaga
+topic: In environments with high dense neutrino gases, such as in core-collapse supernovae (CCSNe), the neutrinos can experience collective neutrino oscillation due to their self-interactions. In particular, fast flavor conversion driven by the crossings in the neutrino angular distribution can affect explosion mechanism, nucleosynthesis, and neutrino observation. We perform the numerical computation of nonlinear flavor evolution on the neutrino angular distribution with tiny crossings expected to be generated in the preshock region. We demonstrate that the fast instability is triggered and a cascade develops under a realistic three-flavor model considering muon production and weak magnetism in the SN dynamics. The tiny crossing excites specific spatial modes, and then the flavor instability propagates into other modes which otherwise remain stable due to the nonlinear effects. Our results indicate that fast flavor conversion can rise in the preshock region and have a sufficient impact on the flavor contents.
+subjects: neutrino oscisllations, CCSN, model
+
+link: https://arxiv.org/abs/2104.11099
+title: GRB jet structure and the jet break
+authors: Gavin P Lamb, D. Alexander Kann, Joseph John Fernández, Ilya Mandel, Andrew J. Levan, Nial R. Tanvir
+topic: We investigate the shape of the jet break in within-beam gamma-ray burst (GRB) optical afterglows for various lateral jet structure profiles. We consider cases with and without lateral spreading and a range of inclinations within the jet core half-opening angle, theta_c. We fit model and observed afterglow lightcurves with a smoothly-broken power-law function with a free-parameter Kappa that describes the sharpness of the break. We find that the jet break is sharper (kappa is greater) when lateral spreading is included than in the absence of lateral spreading. For profiles with a sharp-edged core, the sharpness parameter has a broad range of [0.1<κ<4.6], whereas profiles with a smooth-edged core have a narrower range of [0.1<κ<2.2] when models both with and without lateral spreading are included. For sharp-edged jets, the jet break sharpness depends strongly on the inclination of the system within theta core, whereas for smooth-edged jets, kappa is more strongly dependent on the size of theta c. Using a sample of 20 GRBs we find nine candidate smooth-edged jet structures and eight candidate sharp-edged jet structures, while the remaining three are consistent with either. The shape of the jet break, as measured by the sharpness parameter κ, can be used as an initial check for the presence of lateral structure in within-beam GRBs where the afterglow is well-sampled at and around the jet-break time.
+subjects: GRB, afterglow, model analysis, fit observations
+
 link: https://arxiv.org/abs/2104.09508
 title: A Thesaurus for Common Priors in Gravitational-Wave Astronomy
 authors: T. A. Callister
