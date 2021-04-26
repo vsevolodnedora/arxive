@@ -5,17 +5,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2104.11389
+title: Spectral-temporal features of repeating ( one-off ) FRBs and Axion Star
+authors: Aiichi Iwazaki
+topic: The fast radio bursts ( FRBs ) are energetic radio bursts with millisecond duration only observed at radio frequencies. The generation mechanism is still mysterious. We have proposed a generation mechanism of both repeating and one-off FRBs. They arise from the axion star collision with neutron star or magnetized accretion disk of galactic black hole. Once we accept the existence of the axions, we find that the mechanism well explain previously observed spectral-temporal features. In this paper we show that it also explains recently observed phenomena such as downward drifting in the repeating FRBs, etc.. Analysis of the downward drifting based on Doppler effects has been presented in recent papers, in which a superradiance system of molecular or atom has been proposed as a source of FRBs. We apply the analysis to our mechanism and find that it well explains the relation between the downward drifting rate and the duration of the repeating FRBs. The Doppler effects lead to the fact that the duration of radio burst with higher center frequency is shorter than that of radio burst with lower center frequency in the repeating FRBs. Our generation mechanism naturally explain polarization angle swing observed in the repeating FRB180301 and one-off FRBs. We also discuss the association between the FRB200428 and magnetar SGR J1935+2154. The X ray burst observed just after the observation of the FRB could be triggered by the axion star collision with the magnetar. We also explain the consistency of our generation mechanism with observed spectral-temporal differences in the repeating and one-off FRBs, e.g. longer duration ( smaller flux density ) of repeating FRBs than duration ( flux density ) of one-off FRBs.
+subjects: FRB, axion stars
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2104.11301
+title: Black Hole Magnetic Fields and Their Imprint on Circular Polarization Images
+authors: Angelo Ricarte, Richard Qiu, Ramesh Narayan
+topic: The circular polarization of black hole accretion flows can encode properties of the underlying magnetic field structure. Using general relativistic magnetohydrodynamics (GRMHD) simulations, we study the imprint of magnetic field geometry on circular polarization images potentially observable by the Event Horizon Telescope (EHT). We decompose images into the different mechanisms that generate circular polarization in these models, which are sensitive to both the line of sight direction and twist of the magnetic field. In these models, a stable sign of the circular polarization over time, as observed for several sources, can be attributed to a stability of these properties. We illustrate how different aspects of a generic helical magnetic field geometry become imprinted on a circular polarization image. We also identify novel effects of light bending that affect the circular polarization image on event horizon scales. One consequence is the sign flipping of successive photon rings in face-on systems, which if observable and uncorrupted by Faraday rotation, can directly encode the handedness of the approaching magnetic field.
+subjects: GRMHD, images, polarisation
 
 link: https://arxiv.org/abs/2104.10732
 title: The Acceleration of Charged Particles and Formation of Power-law Energy Spectra in Nonrelativistic Magnetic Reconnection
