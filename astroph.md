@@ -5,6 +5,30 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2104.12449
+title: From nuclei to neutron stars: simple binding energy computer modelling in the classroom (part 2)
+authors: A. Rios, A. Pastore, C. Diget, A. M. Romero, K. Leech, P. Stokoe
+topic: We introduce two simple online activities to explore the physics of neutron stars. These provide an introduction to the basic properties of compact objects, like their masses and radii, for secondary school students. The first activity explores the idea of the minimum mass of a neutron star. It is directly linked to the concept of binding energy and follows on from our previous activities. The second activity focuses on the maximum mass of neutron stars using a solvable model of the neutron star interior. The activities are based on spreadsheets, provided as Supplementary Material, and can be easily adapted to different levels, age groups and discussion topics. In particular, these activities can naturally lead towards discussions on extrapolations and limits of theoretical models.
+subjects: education, NS, structure
+
+link: https://arxiv.org/abs/2104.12410
+title: Short gamma-ray burst jet propagation in binary neutron star merger environments
+authors: Andrea Pavan, Riccardo Ciolfi, Jay Vijay Kalinani, Andrea Mignone
+topic: The multimessenger event GW170817/GRB 170817A confirmed that binary neutron star (BNS) mergers can produce short gamma-ray burst (SGRB) jets. This evidence promoted new investigations on the mechanisms through which a BNS merger remnant can launch such a powerful relativistic outflow and on the propagation of the latter across the surrounding post-merger environment. In particular, great strides have been made in jet propagation models, establishing connections between the initial jet launching conditions, including the incipient jet launching time (with respect to merger) and the injection parameters, and the observable SGRB prompt and afterglow emission. However, present semi-analytical models and numerical simulations (with one notable exception) adopt simple hand-made prescriptions to account for the post-merger environment, lacking a direct association with any specific merging BNS system. Here, we present the first three-dimensional relativistic hydrodynamics simulations of incipient SGRB jets propagating through a post-merger environment that is directly imported from the outcome of a previous general relativistic BNS merger simulation. Our results show that the evolution and final properties of the jet can be largely affected by the anisotropies and the deviations from axisymmetry and homologous expansion characterizing more realistic BNS merger environments. In addition, we find that the inclusion of the gravitational pull from the central compact object, often overlooked, can have a major impact. Finally, we consider different jet launching times referred to the same BNS merger model and discuss the consequences for the ultimate jet properties.
+subjects: jet, grb, hydrodynamc, model 
+
+link: https://arxiv.org/abs/2104.12374
+title: Multi-messenger Detection Rates and distributions of Binary Neutron Star Mergers and Their Cosmological Implications
+authors: Jiming Yu, Haoran Song, Shunke Ai, He Gao, Fayin Wang, Yu Wang, Youjun Lu, Wenjuan Fang, Wen Zhao
+topic: The gravitational-wave (GW) events, produced by the coalescence of binary neutron-stars (BNS), can be treated as the standard sirens to probe the expansion history of the Universe, if their redshifts could be determined from the electromagnetic observations. For the high-redshift events, the short gamma-ray bursts (sGRBs) and the afterglows are always considered as the primary electromagnetic counterparts. In this paper, by investigating various models of sGRBs and afterglows, we discuss the rates and distributions of BNS mergers' multi-messenger observations with GW detectors in second-generation (2G), 2.5G, 3G era with the detectable sGRBs and the afterglows. For instance, for Cosmic Explorer GW detector, the rate is about (300-3500) per year with GECAM-like detector for gamma-ray emissions and LSST/WFST detector for optical afterglows. In addition, we find these events have the redshifts small and the inclination angles. These results justify the rough estimation in previous works. Considering these events as standard sirens to constrain the equation-of-state parameters of dark energy and wa, we obtain the potential constraints of
+subjects: cosmology, MM, BNS, GW
+
+link: https://arxiv.org/abs/2104.11881
+title: Estimating the propagation of a uniformly accelerated jet
+authors: J.I. Castorena, A.C. Raga, A. Esquivel, A. Rodríguez-González, L. Hernández-Martínez, J. Cantó, F. Clever
+topic: We study the problem of a Herbig-Haro jet with a uniformly accelerating ejection velocity, travelling into a uniform environment. For the ejection density we consider two cases: a time-independent density, and a time-independent mass loss rate. For these two cases, we obtain analytic solutions for the motion of the jet head using a ram-pressure balance and a center of mass equation of motion. We also compute axisymmetric numerical simulations of the same flow, and compare the time-dependent positions of the leading working surface shocks with the predictions of the two analytic models. We find that if the jet is over-dense and over-pressured (with respect to the environment) during its evolution, a good agreement is obtained with the analytic models, with the flow initially following the center of mass analytic solution, and (for the constant ejection density case) at later times approaching the ram-pressure balance solution.
+subjects: jet, physics, hydro, model
+
 link: https://arxiv.org/abs/2104.11389
 title: Spectral-temporal features of repeating ( one-off ) FRBs and Axion Star
 authors: Aiichi Iwazaki
