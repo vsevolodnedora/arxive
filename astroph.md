@@ -5,6 +5,30 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2104.13672
+title: Models of binary neutron star remnants with tabulated equations of state
+authors: Panagiotis Iosif, Nikolaos Stergioulas
+topic: The emergence of novel differential rotation laws that can reproduce the rotational profile of binary neutron star merger remnants has opened the way for the construction of equilibrium models with properties that resemble those of remnants in numerical simulations. We construct models of merger remnants, using the 4-parameter differential rotation law by Uryu et al. (2017) and three tabulated, zero-temperature equations of state. The models have angular momenta that are determined by empirical relations, constructed through numerical simulations. After a systematic exploration of the parameter space of merger remnant equilibrium sequences, which includes the determination of turning points along constant-angular-momentum sequences, we find that a particular rotation law can reproduce the threshold mass to prompt collapse to a black hole with a relative difference of only 1% with respect to numerical simulations, in all cases considered. Furthermore, our results indicate a possible correlation between the compactness of equilibrium models of remnants at the threshold mass and the compactness of maximum-mass nonrotating models. Another key prediction of binary neutron star merger simulations is a relatively slowly rotating inner region, where the angular velocity (as measured by an observer at infinity) is mostly due to the frame dragging angular velocity. In our investigation of the parameter space of the Uryu+ rotation law, we naturally find quasi-spherical (Type A) remnant models with this property. Our investigation clarifies the impact of the differential rotation law and of the equation of state on key properties of binary neutron star remnants and lays the groundwork for including thermal effects in future studies.
+subjects: NS, model, rotating, cold, configuration, semi-analytic
+
+link: https://arxiv.org/abs/2104.13612
+title: Impact of massive neutron star radii on the nature of phase transitions in dense matter
+authors: Rahul Somasundaram, Jérôme Margueron
+topic: The last few years have seen tremendous progress in the observation of the global properties of neutron stars (NSs), e.g. masses, radii and tidal deformabilities. Such properties provide information about possible phase transitions in the inner cores of NSs, provided the connection between observed masses and radii and the equation of state (EoS) is well understood. We focus the present study on first-order phase transitions, which often softens the EoS and consequently reduces the maximum mass as well as the radii of NSs. Here, we challenge this conventional expectation by constructing explicit examples of EoSs undergoing a first-order phase transition, but which are much stiffer that their purely hadronic counterparts. We also provide comparisons with the recently proposed quarkyonic EoS which suggests a strong repulsion in the core of NSs, and we show that their stiffness can be realistically masqueraded by first-order phase transitions to exotic matter.
+subjects: EOS, NS, model, comparisons
+
+link: https://arxiv.org/abs/2104.13378
+title: Accurate flux calibration of GW170817: is the X-ray counterpart on the rise?
+authors: E. Troja, B. O'Connor, G. Ryan, L. Piro, R. Ricci, B. Zhang, T. Piran, G. Bruni, S. B. Cenko, H. van Eerten
+topic: X-ray emission from the gravitational wave transient GW170817 is well described as non-thermal afterglow radiation produced by a structured relativistic jet viewed off-axis. We show that the X-ray counterpart continues to be detected at 3.3 years after the merger. Such long-lasting signal is not a prediction of the earlier jet models characterized by a narrow jet core and a viewing angle of about 20 deg, and is spurring a renewed interest in the origin of the X-ray emission. We present a comprehensive analysis of the X-ray dataset aimed at clarifying existing discrepancies in the literature, and in particular the presence of an X-ray rebrightening at late times. Our analysis does not find evidence for an increase in the X-ray flux, but confirms a growing tension between the observations and the jet model. Further observations at radio and X-ray wavelengths would be critical to break the degeneracy between models.
+subjects: GRB, observations, model
+
 link: https://arxiv.org/abs/2104.12449
 title: From nuclei to neutron stars: simple binding energy computer modelling in the classroom (part 2)
 authors: A. Rios, A. Pastore, C. Diget, A. M. Romero, K. Leech, P. Stokoe
