@@ -5,11 +5,11 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2104.14080
+title: Late Afterglow Bump/Plateau around the Jet Break: Signature of a free-to-shocked wind Environment in Gamma-ray Burst
+authors: Xiao-Yan Li, Da-Bin Lin, Jia Ren, Shu-Jin Hou, Yu-Fei Li, Xiang-Gao Wang, En-Wei Liang
+topic: A number of gamma-ray bursts (GRBs) exhibit the late simultaneous bumps in their optical and Xray afterglows around the jet break. Its origin is unclear. Based on the following two facts, we suggest that this feature may sound a transition of circum-burst environment from a free-wind medium to a homogeneous medium. (I) The late bump followed by a steep decay is strongly reminiscent of the afterglows of GRB 170817A, which is attributed to an off-axis observed external-forward shock (eFS) propagating in an interstellar medium. (II) Observations seem to feature a long shallow decay before the late optical bump, which is different from the afterglow of GRB 170817A. In this paper, we study the emission of an eFS propagating in a free-to-shocked wind for on/off-axis observers, where the mass density in the shocked-wind is almost constant. The late simultaneous bumps/plateaux in the optical and X-ray afterglows are really found around the jet break for high-viewing-angle observers. Moreover, there is a long plateau or shallow decay before the late bump in the theoretical light-curves, which is formed during the eFS propagating in the free-wind. For low-viewing-angle observers, the above bumps appear only in the situation that the structured jet has a low characteristic angle and the deceleration radius of the on-axis jet flow is at around or beyond the free-wind boundary. As examples, the X-ray and optical afterglows of GRBs 120326A, 120404A, and 100814A are fitted. We find that an off-axis observed eFS in a free-to-shocked wind can well explain the afterglows in these bursts.
+subjects: GRB, model, density change
 
 link: https://arxiv.org/abs/2104.13672
 title: Models of binary neutron star remnants with tabulated equations of state
