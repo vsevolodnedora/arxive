@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2104.14583
+title: The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range
+authors: Manuel Arca Sedda, Christopher P L Berry, Karan Jani, Pau Amaro-Seoane, Pierre Auclair, et al
+topic: Since 2015 the gravitational-wave observations of LIGO and Virgo have transformed our understanding of compact-object binaries. In the years to come, ground-based gravitational-wave observatories such as LIGO, Virgo, and their successors will increase in sensitivity, discovering thousands of stellar-mass binaries. In the 2030s, the space-based LISA will provide gravitational-wave observations of massive black holes binaries. Between the ~10-103 Hz band of ground-based observatories and the ~10−4-10-1 Hz band of LISA lies the uncharted decihertz gravitational-wave band. We propose a Decihertz Observatory to study this frequency range, and to complement observations made by other detectors. Decihertz observatories are well suited to observation of intermediate-mass (~102-104Msun) black holes; they will be able to detect stellar-mass binaries days to years before they merge, providing early warning of nearby binary neutron star mergers and measurements of the eccentricity of binary black holes, and they will enable new tests of general relativity and the Standard Model of particle physics. Here we summarise how a Decihertz Observatory could provide unique insights into how black holes form and evolve across cosmic time, improve prospects for both multimessenger astronomy and multiband gravitational-wave astronomy, and enable new probes of gravity, particle physics and cosmology.
+subjects: GW, prospects, overview
+
 link: https://arxiv.org/abs/2104.14080
 title: Late Afterglow Bump/Plateau around the Jet Break: Signature of a free-to-shocked wind Environment in Gamma-ray Burst
 authors: Xiao-Yan Li, Da-Bin Lin, Jia Ren, Shu-Jin Hou, Yu-Fei Li, Xiang-Gao Wang, En-Wei Liang
