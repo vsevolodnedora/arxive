@@ -5,11 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2105.01440
+title: Late-time radio observations of the short GRB200522A: constraints on the magnetar model
+authors: G. Bruni, B. O'Connor, T. Matsumoto, E. Troja, T. Piran, L. Piro, R. Ricci
+topic: GRB200522A is a short duration gamma-ray burst (GRB) at redshift z=0.554 characterized by a bright infrared counterpart. A possible, although not unambiguous, interpretation of the observed emission is the onset of a luminous kilonova powered by a rapidly rotating and highly-magnetized neutron star, known as magnetar. A bright radio flare, arising from the interaction of the kilonova ejecta with the surrounding medium, is a prediction of this model. Whereas the available dataset remains open to multiple interpretations (e.g. afterglow, r-process kilonova, magnetar-powered kilonova), long-term radio monitoring of this burst may be key to discriminate between models. We present our late-time upper limit on the radio emission of GRB200522A, carried out with the Karl G. Jansky Very Large Array at 288 days after the burst. For kilonova ejecta with energy Eej≈1053erg, as expected for a long-lived magnetar remnant, we can already rule out ejecta masses Mej \leq 0.03Msun for the most likely range of circumburst densities n\geq 10-3 cm-3. Observations on timescales of 3-10 yr after the merger will probe larger ejecta masses up to Mej∼0.1Msun, providing a robust test to the magnetar scenario.
+subjects: grb, observations, model, afterglow
+
+link: https://arxiv.org/abs/2105.01391
+title: Rapid Modification of Neutron Star Surface Magnetic Field: A proposed mechanism for explaining Radio Emission State Changes in Pulsars
+authors: U. Geppert, R. Basu, D. Mitra, G. Melikidze, M.Szkudlarek
+topic: The radio emission in many pulsars show sudden changes, usually within a period, that cannot be related to the steady state processes within the inner acceleration region (IAR) above the polar cap. These changes are often quasi-periodic in nature, where regular transitions between two or more stable emission states are seen. The durations of these states show a wide variety ranging from several seconds to hours at a time. There are strong, small scale magnetic field structures and huge temperature gradients present at the polar cap surface. We have considered several processes that can cause temporal modifications of the local magnetic field structure and strength at the surface of the polar cap. Using different magnetic field strengths and scales, and also assuming realistic scales of the temperature gradients, the evolutionary timescales of different phenomena affecting the surface magnetic field was estimated. We find that the Hall drift results in faster changes in comparison to both Ohmic decay and thermoelectric effects. A mechanism based on the Partially Screened Gap (PSG) model of the IAR has been proposed, where the Hall and thermoelectric oscillations perturb the polar cap magnetic field to alter the sparking process in the PSG. This is likely to affect the observed radio emission resulting in the observed state changes
+subjects: NS, pulsar, emission, MF, surface
+
+link: https://arxiv.org/abs/2105.01076
+title: The role of jet-cocoon mixing, magnetization and shock breakout in neutrino and cosmic-ray emission from short GRBs
+authors: Ore Gottlieb, Noemie Globus
+topic: We perform GRMHD and RMHD simulations of weakly and highly magnetized gamma-ray burst (GRB) jets propagating in binary neutron star (BNS) merger ejecta. Using the simulations, we first find that mixing between the jet and cocoon, which is present in all types of jets, inhibits the formation of subphotospheric collisionless shocks. However, we show that a mild magnetization may lead to the formation of collisionless subshocks which allow efficient proton acceleration. We consider shear acceleration and diffusive shock acceleration at collimation shocks, internal shocks, shock breakout, and external shocks, to provide the first self-consistent estimate for neutrino and cosmic-ray (CR) signals from GRBs in BNS mergers. We find that short GRBs do not produce detectable neutrino signals with current-day facilities. Shock breakout yields 10 PeV neutrinos at viewing angles 20deg, independent of the jet magnetization. However, a neutrino signal from shock breakout is well below detection limits of current detectors. Such a signal would allow a coincident neutrino-γ−ray detection, providing a testable prediction for shock breakout as a neutrino production site. Using the numerical modeling that fits GW170817 afterglow emission, we find that blast waves in BNS mergers can account for 5%\-10\% of the Galactic CR luminosity in the PeV-EeV energy range. Based on these estimates, the observed level of CR anisotropy places a constraint on the distance of the latest Galactic binary neutron star merger to ≲3 kiloparsecs.
+subjects: GRB, simulations, MHD, shocks, jet, neutrino
 
 link: https://arxiv.org/abs/2105.00881
 title: Astrophysical Wormholes
