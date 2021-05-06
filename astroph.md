@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2105.01804
+title: The Polarized Image of a Synchrotron Emitting Ring of Gas Orbiting a Black Hole
+authors: Ramesh Narayan, Daniel C. M. Palumbo, Michael D. Johnson et al
+topic: Synchrotron radiation from hot gas near a black hole results in a polarized image. The image polarization is determined by effects including the orientation of the magnetic field in the emitting region, relativistic motion of the gas, strong gravitational lensing by the black hole, and parallel transport in the curved spacetime. We explore these effects using a simple model of an axisymmetric, equatorial accretion disk around a Schwarzschild black hole. By using an approximate expression for the null geodesics derived by Beloborodov (2002) and conservation of the Walker-Penrose constant, we provide analytic estimates for the image polarization. We test this model using currently favored general relativistic magnetohydrodynamic simulations of M87star, using ring parameters given by the simulations. For a subset of these with modest Faraday effects, we show that the ring model broadly reproduces the polarimetric image morphology. Our model also predicts the polarization evolution for compact flaring regions, such as those observed from Sgr A.star with GRAVITY. With suitably chosen parameters, our simple model can reproduce the EVPA pattern and relative polarized intensity in Event Horizon Telescope images of M87*. Under the physically motivated assumption that the magnetic field trails the fluid velocity, this comparison is consistent with the clockwise rotation inferred from total intensity images.
+subjects: SMBH, horizon, accretion, synhrotron
+
 link: https://arxiv.org/abs/2105.01440
 title: Late-time radio observations of the short GRB200522A: constraints on the magnetar model
 authors: G. Bruni, B. O'Connor, T. Matsumoto, E. Troja, T. Piran, L. Piro, R. Ricci
