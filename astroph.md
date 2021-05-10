@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2105.02886
+title: Impact of PREX-II, the revised mass measurement of PSRJ0740+6620, and possible NICER observation on the dense matter equation of state
+authors: Bhaskar Biswas
+topic: In this paper, we discuss the impact of the following laboratory experiments and astrophysical observation of neutron stars (NSs) on its equation of state (EoS): (a) The new measurement of neutron skin thickness of ... fm by the PREX-II experiment. (b) The mass measurement of PSR J0740+6620 has been slightly revised down by including additional ∼1.5 years of pulsar timing data. (c) A possible NICER observation giving the measurement of the radius of PSR J0740+6620 which probably has similar size as PSR J0030+0451. We combine these information using Bayesian statistics along with the previous LIGO/Virgo and NICER observations of NS using a hybrid nuclear+piecewise polytrope EoS parameterization. ...
+subjects: NS, EOS, observations, constrant, radius
+
 link: https://arxiv.org/abs/2105.02836
 title: Simulating the dynamics and synchrotron emission from relativistic jets II. Evolution of non-thermal electrons
 authors: Dipanjan Mukherjee, Gianluigi Bodo, Paola Rossi, Andrea Mignone, Bhargav Vaidya
