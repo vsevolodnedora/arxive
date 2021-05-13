@@ -5,6 +5,24 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2105.05254
+title: Jeffrey M. Berryman, Susan Gardner
+authors: Jeffrey M. Berryman, Susan Gardner
+topic: The discovery of non-diffuse sources of gravitational waves through compact-object mergers opens new prospects for the study of physics beyond the Standard Model. In this Letter, we consider the implications of the observation of GW190814, involving a coalescence of a black hole with a ∼2.6 Msun compact object, which may be too massive to be a neutron star, given our current knowledge of the nuclear matter equation of state. We consider the possibility of a new force between quarks, suggested in other contexts, that modifies the neutron star equation of state, particularly at supranuclear densities. We evaluate how this modification can impact a neutron star's mass and radius to make the observed heavy compact object more probably a neutron star, rather than a black hole, and suggest that further such objects may yet be found. We note the terrestrial and astrophysical measurements that could confirm our picture.
+subjects: GW, EOS
+
+link: https://arxiv.org/abs/2105.05512
+title: Supernova luminosity powered by magnetar-disk system
+authors: Weili Lin, Xiaofeng Wang, Lingjun Wang, Zigao Dai
+topic: Magnetars are one of the potential power sources for some energetic supernova explosions such as type I superluminous supernovae (SLSNe I) and broad-lined type Ic supernovae (SNe Ic-BL). In order to explore the possible link between these two subclasses of supernovae (SNe), we study the effect of fallback accretion disk on magnetar evolution and magnetar-powered SNe. In this scenario, the interaction between a magnetar and a fallback accretion disk would accelerate the spin of the magnetar in the accretion regime but could result in substantial spin-down of the magnetars in the propeller regime. Thus, the initial rotation of the magnetar plays a less significant role in the spin evolution. Such a magnetar-disk interaction scenario can explain well the light curves of both SNe Ic-BL and SLSNe I, for which the observed differences are sensitive to the initial magnetic field of the magnetar and the fallback mass and timescale for the disk. Compared to the magnetars powering the SNe Ic-BL, those accounting for more luminous SNe usually maintain faster rotation and have relatively lower effective magnetic fields around peak time. In addition, the association between SLSNe I and long gamma-ray bursts, if observed in the future, could be explained in the context of magnetar-disk system.
+subjects: SN, fall-back, model 
+
 link: https://arxiv.org/abs/2105.05178
 title: r-Process Radioisotopes from Near-Earth Supernovae and Kilonovae
 authors: Xilu Wang, Adam M. Clark, John Ellis, Adrienne F. Ertel, Brian D. Fields, Zhenghai Liu, Jesse A. Miller, Rebecca Surman
