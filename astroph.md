@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2105.06172
+title: Jets and spectral states with three-components of accretion flow around a black hole
+authors: Rajiv Kumar, Ye-Fei Yuan
+topic: It is generally believed that high energy radiation (power-law components) can be mostly produced by a hot corona gas in the accreting black holes. There is a very popular hybrid disk radial coupling model that the inner part of cool Keplerian disk (or Shakura-Sunyaev disk) can produce advection-dominated accretion flow or corona-like structure, which can also generate outflows/jets. Here we argue that this simple coupling model cannot explain the whole hardness-intensity diagram of the spectral states and their transitions, and associated jets of a X−ray binary. Based on recent theoretical works on advective disk structures around a black hole, as well as many observational behaviors of a source, we conclude that there should be a third component of hot accretion flow with the radial coupling model, which can successfully explain all the spectral states and transitions. Interestingly, this model also provides a new scenario for the jet generation, launching, and evolution during the states with help of created barrier of the inner flow. We have also find out the jet kinetic power expression with our new jet generation scenario.
+subjects: accretion, model, jet, spectrum, BH
+
+link: https://arxiv.org/abs/2105.06452
+title: Binary neutron star merger in common envelope jet supernovae
+authors: Noam Soker (Technion, Israel)
+topic: I explore a triple-star scenario where a tight neutron star (NS) - NS binary system enters the envelope of a red supergiant (RSG) star and spirals-in towards its core. The two NSs accrete mass through accretion disks and launch jets that power a very luminous and long transient event, a common envelope jets supernova (CEJSN) event. Dynamical friction brings the two NSs to merge either in the RSG envelope or core. The total energy of the event, radiation and kinetic, is 10^{52}erg. The light curve stays luminous for months to years and a signal of gravitational waves might be detected. The ejecta contains freshly synthesized r-process elements not only from the NS-NS merger as in kilonova events, but possibly also from the pre-merger jets that the NSs launch inside the core, as in the r-process CEJSN scenario. This scenario shortens the time to NS-NS merger compared with that of kilonovae, and might somewhat ease the problem of the NS-NS r-process scenario to account for r-process nucleosynthesis in the early Universe. I estimate the ratio of NS-NS merger in CEJSN events to core collapse supernova (CCSN) events to be 10^{-6}-2x10^{-5}. However, because they are much more luminous I expect their detection fraction to that of CCSNe to be much larger than this number. This study calls for considering this and similar CEJSN scenarios in binary and in triple star systems when explaining peculiar and puzzling super luminous supernovae.
+subjects: BNS, merger, cosmology, sources, r-process, new channel
+
 link: https://arxiv.org/abs/2105.05254
 title: Jeffrey M. Berryman, Susan Gardner
 authors: Jeffrey M. Berryman, Susan Gardner
