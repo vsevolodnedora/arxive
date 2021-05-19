@@ -5,11 +5,24 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2105.08688
+title: Nuclear-Physics Multi-Messenger Astrophysics Constraints on the Neutron-Star Equation of State: Adding NICER's PSR J0740+6620 Measurement
+authors: Peter T. H. Pang, Ingo Tews, Michael W. Coughlin, Mattia Bulla, Chris Van Den Broeck, Tim Dietrich
+topic: In the past few years, new observations of neutron stars and neutron-star mergers have provided a wealth of data that allow one to constrain the equation of state of nuclear matter at densities above nuclear saturation density. However, most observations were based on neutron stars with masses of about 1.4 solar masses, probing densities up to ∼ 3-4 times the nuclear saturation density. Even higher densities are probed inside massive neutron stars such as PSR J0740+6620. Very recently, new radio observations provided an update to the mass estimate for PSR J0740+6620 and X-ray observations by the NICER and XMM telescopes constrained its radius. Based on these new measurements, we revisit our previous nuclear-physics multi-messenger astrophysics constraints and derive updated constraints on the equation of state describing the neutron-star interior. By combining astrophysical observations of two radio pulsars, two NICER measurements, the two gravitational-wave detections GW170817 and GW190425, detailed modeling of the kilonova AT2017gfo, as well as the gamma-ray burst GRB170817A, we are able to estimate the radius of a typical 1.4-solar mass neutron star to be 11.94+0.76−0.87km at 90\% confidence. Our analysis allows us to revisit the upper bound on the maximum mass of neutron stars and disfavours the presence of a strong first-order phase transition from nuclear matter to exotic forms of matter, such as quark matter, inside neutron stars.
+subjects: MM, kilonova, EOS, BNS, PI
+
+link: https://arxiv.org/abs/2105.07425
+title: Neutron Star Mergers and Gamma-Ray Bursts: Stripping Model
+authors: S. Blinnikov, D. Nadyozhin, N. Kramarev, A. Yudin
+topic: This paper provides an overview of the current state of the stripping model for short gamma-ray bursts. After the historical joint detection of the gravitational wave event GW170817 and the accompanying gamma-ray burst GRB170817A, the relation between short gamma-ray bursts and neutron star mergers has been reliably confirmed. We show that many properties of GRB170817A, which turned out to be peculiar in comparison with other short gamma-ray bursts, are naturally explained in the context of the stripping model, specifically, the time (1.7 s) between the peak of the gravitational wave signal and the detection of the gamma-ray burst, its total isotropic energy, and the parameters of the red and blue components of the accompanying kilonova.
+subjects: GRB, mechanism, formation
+
+link: https://arxiv.org/abs/2105.07013
+title: Interpolating Detailed Simulations of Kilonovae: Adaptive Learning and Parameter Inference Applications
+authors: Marko Ristic (1), Elizabeth Champion (1), Richard O'Shaughnessy (1), Ryan Wollaeger (2), Oleg Korobkin (2), Eve A. Chase (2 and 3), Christopher L. Fryer 
+topic: Detailed radiative transfer simulations of kilonovae are difficult to apply directly to observations; they only sparsely cover simulation parameters, such as the mass, velocity, morphology, and composition of the ejecta. On the other hand, semianalytic models for kilonovae can be evaluated continuously over model parameters, but neglect important physical details which are not incorporated in the simulations, thus introducing systematic bias. Starting with a grid of 2D anisotropic simulations of kilonova light curves covering a wide range of ejecta properties, we apply adaptive-learning techniques to iteratively choose new simulations and produce high-fidelity surrogate models for those simulations. These surrogate models allow for continuous evaluation across model parameters while retaining the microphysical details about the ejecta. Using a new code for multimessenger inference, we demonstrate how to use our interpolated models to infer kilonova parameters. Comparing to inferences using simplified analytic models, we recover different ejecta properties. We discuss the implications of this analysis which is qualitatively consistent with similar previous work using detailed ejecta opacity calculations and which illustrates systematic challenges for kilonova modeling. An associated data and code release provides our interpolated light-curve models, interpolation implementation which can be applied to reproduce our work or extend to new models, and our multimessenger parameter inference engine.
+subjects: kilonova, ML, MM, code
+revelation: for neural networks for KN models and PI (from the position you discarded)
 
 link: https://arxiv.org/abs/2105.06981
 title: Constraints on the dense matter equation of state and neutron star properties from NICER's mass-radius estimate of PSR J0740+6620 and multimessenger observations
