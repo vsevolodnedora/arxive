@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2105.08933
+title: Radio Afterglows from Compact Binary Coalescences: Prospects for Next-Generation Telescopes
+authors: Dougal Dobie, Tara Murphy, David L. Kaplan, Kenta Hotokezaka, Juan Pablo Bonilla Ataides, Elizabeth K. Mahony, Elaine M. Sadler
+topic: The detection of gravitational waves from a neutron star merger, GW170817, marked the dawn of a new era in time-domain astronomy. Monitoring of the radio emission produced by the merger, including high-resolution radio imaging, enabled measurements of merger properties including the energetics and inclination angle. In this work we compare the capabilities of current and future gravitational wave facilities to the sensitivity of radio facilities to quantify the prospects for detecting the radio afterglows of gravitational wave events. We consider three observing strategies to identify future mergers -- widefield follow-up, targeting galaxies within the merger localisation and deep monitoring of known counterparts. We find that while planned radio facilities like the Square Kilometre Array will be capable of detecting mergers at gigaparsec distances, no facilities are sufficiently sensitive to detect mergers at the range of proposed third-generation gravitational wave detectors that would operate starting in the 2030s.
+subjects: observations, radio, prediction
+
+link: https://arxiv.org/abs/2105.08735
+title: Moving-mesh radiation-hydrodynamic simulations of wind-reprocessed transients
+authors: Diego Calderón, Ondřej Pejcha, Paul C. Duffell
+topic: Motivated by recent theoretical work on tidal disruption events and other peculiar transients, we present moving-mesh radiation-hydrodynamic simulations of radiative luminosity emitted by a central source being reprocessed by a wind-like outflow. We couple the moving-mesh hydrodynamic code JET with our newly-developed radiation module based on mixed-frame grey flux-limited diffusion with implicit timestep update. This allows us to study the self-consistent multi-dimensional radiation-hydrodynamic evolution over more than ten orders of magnitude in both space and time in a single run. We simulate an optically-thick spherical wind with constant or evolving mass-loss rate, which is irradiated by a central isotropic or angularly-dependent radiation source. Our spherically-symmetric simulations confirm previous analytic results by identifying different stages of radiation reprocessing: radiation trapped in the wind, diffusing out through the wind, and reaching constant maximum attenuation. We find that confining the central radiation source in a cone with moderate opening angles decreases significantly the early flux along sightlines oriented away from the direction of radiation injection but that the reprocessed radiation becomes isotropic roughly after one lateral diffusion time through the ejecta. We discuss further applications and guidelines for the use of our novel radiation-hydrodynamics tool in the context of transient modelling.
+subjects: HD, radiation transport, model, simulation, code, wind, hydro
+
 link: https://arxiv.org/abs/2105.08688
 title: Nuclear-Physics Multi-Messenger Astrophysics Constraints on the Neutron-Star Equation of State: Adding NICER's PSR J0740+6620 Measurement
 authors: Peter T. H. Pang, Ingo Tews, Michael W. Coughlin, Mattia Bulla, Chris Van Den Broeck, Tim Dietrich
