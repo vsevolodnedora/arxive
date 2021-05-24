@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2105.10218
+title: Sensitivity study of \emph{r}-process abundances to nuclear masses
+authors: Xiao-Fei Jiang, Xin-Hui Wu, Peng-Wei Zhao
+topic: The impact of nuclear mass uncertainties on the \emph{r}-process abundances has been systematically studied with the classical \emph{r}-process model by varying the mass of every individual nucleus in the range of 0.1 to 3.0 MeV based on six different mass models. A new quantitative relation between the uncertainties of \emph{r}-process abundances and those of the nuclear masses is extracted, i.e., a mass uncertainty of 0.5 MeV would lead to an abundance uncertainty of a factor around 2.5. It is found that this conclusion holds true for various mass models.
+subjects: r-process, nucleo, uncertanties, abundances
+
+link: https://arxiv.org/abs/2105.10108
+title: CDF-S XT1: The off-axis afterglow of a neutron star merger at z=2.23
+authors: Nikhil Sarin, Gregory Ashton, Paul D. Lasky, Kendall Ackley, Yik-Lun Mong, Duncan K. Galloway
+topic: CDF-S XT1 is a fast-rising non-thermal X-ray transient detected by \textit{Chandra} in the Deep-Field South Survey. Although various hypotheses have been suggested, the origin of this transient remains unclear. Here, we show that the observations of CDF-S XT1 are well explained as the X-ray afterglow produced by a relativistic structured jet viewed off-axis. We measure properties of the jet, showing that they are similar to those of GRB170817A, albeit at cosmological distances. We measure the observers viewing angle to be 10deg and the core of the ultra-relativistic jet to be 4.4deg, where the uncertainties are the 68% credible interval. The inferred properties and host galaxy combined with Hubble, radio, and optical non detections favour the hypothesis that CDF-S XT1 is the off-axis afterglow of a binary neutron star merger. We find that other previously suggested hypotheses are unable to explain all properties of CDF-S XT1. At a redshift of z=2.23, this is potentially the most distant observed neutron star merger to date and the first orphan afterglow of a short gamma-ray burst. We discuss the implications of a binary neutron star merger at such a high redshift for the star-formation rate in the early Universe, the nucleosynthesis of heavy elements, and the prospect of identifying other off-axis afterglows.
+subjects: SGRB, new, observation, interpretation
+
 link: https://arxiv.org/abs/2105.09904
 title: Global Simulations of Tidal Disruption Event Disk Formation via Stream Injection in GRRMHD
 authors: Brandon Curd
