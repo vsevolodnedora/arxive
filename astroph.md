@@ -5,6 +5,43 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2105.11031
+title: Impacts of NICER's Radius Measurement of PSR J0740+6620 on Nuclear Symmetry Energy at Suprasaturation Densities
+authors: Nai-Bo Zhang, Bao-An Li
+topic: By directly inverting several neutron star observables in the three-dimensional parameter space for the Equation of State of super-dense neutron-rich nuclear matter, we show that the lower radius limit R2.01 \geq 12.2 km at 68\% confidence level for PSR J0740+6620 of mass 2.08\pm0.07 Msun from Neutron Star Interior Composition Explorer (NICER)'s very recent observation sets a much tighter lower boundary than previously known for nuclear symmetry energy in the density range of (1.0-3.0) times the saturation density ρ0 of nuclear matter. The super-soft symmetry energy leading to the formation of proton polarons in this density region of neutron stars is firmly ruled out by the first radius measurement for the most massive neutron star observed reliably so far.
+subjects: nuclear, EOS, observation, NICER, constraints
+projects: Tim
+
+link: https://arxiv.org/abs/2105.11329
+title: Magneto-rotational instability in magnetically polarized discs
+authors: Oscar M. Pimentel, P. Chris Fragile, F. D. Lora-Clavijo, Bridget Ierace, Deepika Bollimpalli 
+topic: The magneto-rotational instability (MRI) is the most likely mechanism for transportation of angular momentum and dissipation of energy within hot, ionized accretion discs. This instability is produced through the interactions of a differentially rotating plasma with an embedded magnetic field. Like all substances in nature, the plasma in an accretion disc has the potential to become magnetically polarized when it interacts with the magnetic field. In this paper, we study the effect of this magnetic susceptibility, parameterized by chim, on the MRI, specifically within the context of black hole accretion. We find from a linear analysis within the Newtonian limit that the minimum wavelength of the first unstable mode and the wavelength of the fastest growing mode are shorter in paramagnetic (\chim>0) than in diamagnetic (\chim<0) discs, all other parameters being equal. Furthermore, the magnetization parameter (ratio of gas to magnetic pressure) in the saturated state should be smaller when the magnetic susceptibility is positive than when it is negative. We confirm this latter prediction through a set of numerical simulations of magnetically polarized black hole accretion discs. We additionally find that the vertically integrated stress and mass accretion rate are somewhat larger when the disc is paramagnetic than when it is diamagnetic. If astrophysical discs are able to become magnetically polarized to any significant degree, then our results would be relevant to properly interpreting observations.
+subjects: MF, disk, BH, accretion, polarisation, MRI
+
+link: https://arxiv.org/abs/2105.10987
+title: A Bright Fast Radio Burst from FRB 20200120E with Sub-100-Nanosecond Structure
+authors: Walid A. Majid, Aaron B. Pearlman, Thomas A. Prince, Robert S. Wharton, Charles J. Naudet, Karishma Bansal, Mohit Bhardwaj, Tomas Cassanelli, Calvin Leung, Bradley W. Meyers, Emily Petroff, Ingrid H. Stairs, Shriharsh P. Tendulkar
+topic: We present the detection of a bright radio burst at radio frequencies between 2.2-2.3 GHz with the NASA Deep Space Network (DSN) 70 m dish (DSS-63) in Madrid, Spain from FRB 20200120E. This repeating fast radio burst (FRB) was recently discovered by the Canadian Hydrogen Intensity Mapping Experiment Fast Radio Burst (CHIME/FRB) instrument and reported to be associated with the M81 spiral galaxy at a distance of 3.6 Mpc. The high time resolution capabilities of the recording system used in this observation, together with the small amount of scattering and intrinsic brightness of the burst, allow us to explore the burst structure in unprecedented detail. We find that the burst has a duration of roughly 30 micro s and is comprised of several narrow components with typical separations of 2--3 micro s. The narrowest component has a width of \leq 100 nano s, which corresponds to a light travel time size as small as 30 m, the smallest associated with an FRB to date. The peak flux density of the narrowest burst component is 270 Jy. We estimate the total spectral luminosity of the narrowest component of the burst to be 4 x 1030 erg s-1 Hz-1, which is a factor of 500 above the luminosities of the so-called "nanoshots" associated with giant pulses from the Crab pulsar. This spectral luminosity is also higher than that of the radio bursts detected from the Galactic magnetar SGR 1935+2154 during its outburst in April 2020, but it falls on the low-end of the currently measured luminosity distribution of extragalatic FRBs. These results provide further support for the presence of a continuum of FRB burst luminosities.
+subjects: FRB, observation, short-term variation, light curve
+
+link: https://arxiv.org/abs/2105.10717
+title: Closure relations during the plateau emission of Swift GRBs and the fundamental plane
+authors: M. G. Dainotti, A. Ł. Lenart, N. Fraija, S. Nagataki, D. C. Warren, B. De Simone, G. Srinivasaragavan, A. Mata
+topic: The Neil Gehrels Swift observatory observes Gamma-Ray bursts (GRBs) plateaus in X-rays. We test the reliability of the closure relations through the fireball model when dealing with the GRB plateau emission. We analyze 455 X-ray lightcurves (LCs) collected by \emph{Swift} from 2005 (January) until 2019 (August) for which the redshift is both known and unknown using the phenomenological Willingale 2007 model. Using these fits, we analyze the emission mechanisms and astrophysical environments of these GRBs through the closure relations within the time interval of the plateau emission. Finally, we test the 3D fundamental plane relation (Dainotti relation) which connects the prompt peak luminosity, the time at the end of the plateau (rest-frame), and the luminosity at that time, on the GRBs with redshift, concerning groups determined by the closure relations. This allows us to check if the intrinsic scatter \sigma_{int} of any of these groups is reduced compared to previous literature. The most fulfilled environments for the electron spectral distribution, p>2, are Wind Slow Cooling (SC) and ISM Slow Cooling for cases in which the parameter q, which indicates the flatness of the plateau emission and accounts for the energy injection, is =0 and =0.5, respectively, both in the cases with known and unknown redshifts. We also find that for the sGRBs All ISM Environments with q=0 have the smallest \sigma_{int}=0.04 \pm 0.15 in terms of the fundamental plane relation holding a probability of occurring by chance of p=0.005. We have shown that the majority of GRBs presenting the plateau emission fulfil the closure relations, including the energy injection, with a particular preference for the Wind SC environment. The subsample of GRBs that fulfil given relations can be used as possible standard candles and can suggest a way to reduce the intrinsic scatter of these studied relationships.
+subjects: GRB, universal relation, statistis, cosmology
+
+link: https://arxiv.org/abs/2105.10516
+title: Chirp mass-distance distributions of the sources of gravitational waves
+authors: Maciej Ossowski
+topic: The detection of gravitational waves emitted by binary black holes raises questions regarding the origin of binaries. There are several models in the literature involving binary evolution in both the field and clusters. We compare the predictions of these models with observations and establish the reliability of this comparison. We use the likelihood calculation to compare the models in the space spanned by the observed chirp mass and the luminosity distance of the source. We rank the models by their ability to explain all current gravitational wave detections. It is shown that the most probable models correspond to binary evolution with low metallicity. Several variants of such evolution have similar likelihoods. The globular cluster model, considered here, is disfavoured. We present the usefulness of the method in distinguishing between models when new observations become available. We calculate the number of observations required to distinguish between each pair of models. We find that the number varies from ten to several thousand for some pairs of models, yet almost two-thirds of pairs are distinguishable with at most 100 observations.
+subjects: GW, inference, baysean
+
 link: https://arxiv.org/abs/2105.10218
 title: Sensitivity study of \emph{r}-process abundances to nuclear masses
 authors: Xiao-Fei Jiang, Xin-Hui Wu, Peng-Wei Zhao
