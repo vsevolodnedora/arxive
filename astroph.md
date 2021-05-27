@@ -5,11 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2105.12164
+title: Neutron Stars Mass-Radius relationship and Electromagnetic follow-up of Kilonovae
+authors: D. Barba-González, M. Ángeles Pérez-García
+topic: When two Neutron Stars collide a multi-band electromagnetic emission, known as Kilonova (KN), follows being powered by the radioactive decay of ejecta products. In this contribution we discuss how the equation of state of dense matter, impacts the mass and velocity in the KN ejecta and thus its light curve. Using this information encoded in the stellar mass-radius relationship, we ellaborate on how the future experimental observations in photon channels, in addition to complementary multimessenger probes, could provide a new and more detailed insight into the equation of state of nuclear matter.
+subjects: kilonova, overview, prospects
+
+link: https://arxiv.org/abs/2105.11543
+title: A Broad Grid of 2D Kilonova Emission Models
+authors: R. T. Wollaeger, C. L. Fryer, E. A. Chase, C. J. Fontes, M. Ristic, A. L. Hungerford, O. Korobkin, R. O'Shaughnessy, A. M. Herring
+topic: Depending upon the properties of their compact remnants and the physics included in the models, simulations of neutron star mergers can produce a broad range of ejecta properties. The characteristics of this ejecta, in turn, define the kilonova emission. To explore the effect of ejecta properties, we present a grid of 2-component 2D axisymmetric kilonova simulations that vary mass, velocity, morphology, and composition. The masses and velocities of each component vary, respectively, from 0.001 to 0.1 Msun and 0.05 to 0.3c, covering much of the range of results from the neutron star merger literature. The set of 900 models is constrained to have a toroidal low electron fraction (Ye) ejecta with a robust r-process composition and either a spherical or lobed high-Ye ejecta with two possible compositions. We simulate these models with the Monte Carlo radiative transfer code SuperNu using a full suite of lanthanide and 4th row element opacities. We examine the trends of these models with parameter variation, show how it can be used with statistical tools, and compare the model light curves and spectra to those of AT2017gfo, the electromagnetic counterpart of GW170817.
+subjects: kilonova, models, statistics, radiation transport, monte carlo
+
+link: https://arxiv.org/abs/2105.11468
+title: Jets, disc-winds and oscillations in general relativistic, magnetically driven flows around black hole
+authors: Indu K. Dihingia, Bhargav Vaidya, Christian Fendt
+topic: Relativistic jets and disc-winds are typically observed in BH-XRBs and AGNs. However, many physical details of jet launching and the driving of disc winds from the underlying accretion disc are still not fully understood. In this study, we further investigate the role of the magnetic field strength and structure in launching jets and disc winds. In particular, we explore the connection between jet, wind, and the accretion disc around the central black hole. We perform axisymmetric GRMHD simulations of the accretion-ejection system using adaptive mesh refinement. Essentially, our simulations are initiated with a thin accretion disc in equilibrium. An extensive parametric study by choosing different combinations of magnetic field strength and initial magnetic field inclination is also performed. Our study finds relativistic jets driven by the Blandford \& Znajek (BZ) mechanism and the disc-wind driven by the Blandford \& Payne (BP) mechanism. We also find that plasmoids are formed due to the reconnection events, and these plasmoids advect with disc-winds. As a result, the tension force due to the poloidal magnetic field is enhanced in the inner part of the accretion disc, resulting in disc truncation and oscillation. These oscillations result in flaring activities in the jet mass flow rates. We find simulation runs with a lower value of the plasma-beta, and lower inclination angle parameters are more prone to the formation of plasmoids and subsequent inner disc oscillations. Our models provide a possible template to understand spectral state transition phenomena in BH-XRBs.
+subjects: plasma, BH, accretion disk, wind, jet, simulations, GRMHD
 
 link: https://arxiv.org/abs/2105.11031
 title: Impacts of NICER's Radius Measurement of PSR J0740+6620 on Nuclear Symmetry Energy at Suprasaturation Densities
