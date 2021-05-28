@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2105.13212
+title: Neutron star asteroseismology and nuclear saturation parameter
+authors: Hajime Sotani
+topic: Adopting various unified equations of state (EOSs), we examine the quasinormal modes of gravitational waves from cold neutron stars. We focus on the fundamental (f-), 1st pressure (p1-), and 1st spacetime (w1-) modes, and derive the empirical formulae for the frequencies and damping rate of those modes. With the resultant empirical formulae, we find that the value of eta, which is a specific combination of the nuclear saturation parameters, can be estimated within 30\% accuracy, if the f-mode frequency from the neutron star whose mass is known would be observed or if the f- and p1-mode frequencies would be simultaneously observed, even though this estimation is applicable only for the low-mass neutron stars. Additionally, we find that the mass and radius of canonical neutron stars can be estimated within a few percent accuracy via the simultaneous observations of the f- and w1-mode frequencies. We also find that, if the f-, p1-, and w1-mode frequencies would be simultaneously observed, the mass of canonical neutron stars can be estimated within 2\% accuracy, while the radius can be estimated within 1\% for the neutron star with M\geq 1.6Msun or within 0.6\% for the neutron star with M\geq1.4Msun constructed with the EOS constrained via the GW170817 event. Furthermore, we find the strong correlation between the maximum f-mode frequency and the neutron star radius with the maximum mass, between the minimum w1-mode frequency and the maximum mass, and between the minimum damping rate of the w1-mode and the stellar compactness for the neutron star with the maximum mass.
+subjects: NS, oscillation, cold EOS, modes
+
 link: https://arxiv.org/abs/2105.12164
 title: Neutron Stars Mass-Radius relationship and Electromagnetic follow-up of Kilonovae
 authors: D. Barba-González, M. Ángeles Pérez-García
