@@ -5,6 +5,36 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2105.13963
+title: First Constraints on Light Axions from the Binary Neutron Star Gravitational Wave Event GW170817
+authors: Jun Zhang, Zhenwei Lyu, Junwu Huang, Matthew C. Johnson, Laura Sagunski, Mairi Sakellariadou, Huan Yang
+topic: Light axion fields, if they exist, can be sourced by neutron stars due to their coupling to nuclear matter, and play a role in binary neutron star mergers. We report on a search for such axions by analysing the gravitational waves from the binary neutron star inspiral GW170817. We find no evidence of axions in the sampled parameter space. The null result allows us to impose constraints on axions with masses below 10-11eV by excluding the ones with decay constants ranging from 1.6x1016GeV to 1018GeV at 3sigma confidence level. Our analysis provides the first constraints on axions from neutron star inspirals, and rules out a large region in parameter space that has not been probed by the existing experiments.
+subjects: EOS, NS, axions
+
+link: https://arxiv.org/abs/2105.13895
+title: Neutrino propagation in winds around the central engine of sGRB
+authors: G. Morales, N. Fraija
+topic: Since neutrinos can escape from dense regions without being deflected, they are promising candidates to study the new physics at the sources that produce them. With the increasing development of more sensitive detectors in the coming years, we will infer several intrinsic properties from incident neutrinos. In particular, we centralise our study in those produced by thermal processes in short gamma-ray bursts (sGRBs) and their interactions within the central engine's anisotropic medium. On the one hand, we consider baryonic winds produced with a strong magnetic contribution, and on the other hand, we treat only neutrino-driven winds. First, we obtain the effective neutrino potential considering both baryonic density profiles around the central engine. Then, we get the three-flavour oscillation probabilities in this medium to finally calculate the expected neutrino ratios. We find a stronger angular dependence on the expected neutrino ratios, which, incidentally, contrast from the expected theoretical ratios without considering the winds' additional contribution. The joint analysis of this observable, together with the sGRB ejected jet angle, might lead to an effective mechanism to discriminate between the involved merger progenitors (black hole-neutron star or neutron star-neutron star), acting as an additional detection channel to gravitational waves.
+subjects: neutrinos, GRB
+
+link: https://arxiv.org/abs/2105.13803
+title: Deep searches for X-ray pulsations from Scorpius X-1 and Cygnus X-2 in support of continuous gravitational wave searches
+authors: Shanika Galaudage, Karl Wette, Duncan K. Galloway, Chris Messenger
+topic: Neutron stars in low mass X-ray binaries are hypothesised to emit continuous gravitational waves that may be detectable by ground-based observatories. The torque balance model predicts that a higher accretion rate produces larger-amplitude gravitational waves, hence low mass X-ray binaries with high X-ray flux are promising targets for gravitational wave searches. The detection of X-ray pulsations would identify the spin frequency of these neutron stars, and thereby improve the sensitivity of continuous gravitational-wave searches by reducing the volume of the search parameter space. We perform a semi-coherent search for pulsations in the two low mass X-ray binaries Scorpius X-1 and Cygnus X-2 using X-ray data from the \textit{ Rossi X-ray Timing Explorer} Proportional Counter Array. We find no clear evidence for pulsations, and obtain upper limits (at 90% confidence) on the fractional pulse amplitude, with the most stringent being 0.034\% for Scorpius X-1 and 0.23\% for Cygnus X-2. These upper limits improve upon those of Vaughan et al. (1994) by factors of 8.2 and 1.6 respectively.
+subjects: x-ray, binary, NS, accretion, GW
+
+link: https://arxiv.org/abs/2105.13624
+title: Variability of magnetically-dominated jets from accreting black holes
+authors: Agnieszka Janiuk, Bestin James, Ishika Palit
+topic: Structured jets are recently invoked to explain the complex emission of gamma ray bursts, such as GW 170817. Based on the accretion simulations, the jets are expected to have a structure that is more complex than a simple top-hat. Also, the structure of launching regions of blazar jets should influence their large scale evolution. This is recently revealed by the interactions of jet components in TXS 0506+056, where the jet is observed at a viewing angle close to zero. Observational studies have also shown an anti-correlation between the jet variability, measured e.g. by its minimum variability time scale, and the Lorentz factor, that spans several orders of magnitude and covers both blazars and GRBs samples. Motivated by those observational properties of black hole sources, we investigate the accretion inflow and outflow properties, by means of numerical GR MHD simulations. We perform axisymmetric calculations of the structure and evolution of central engine, composed of magnetized torus around Kerr black hole that is launching a non-uniform jet. We probe the jet energetics at different points along the line of sight, and we measure the jet time variability as localized in these specific regions. We quantify our results by computing the minimum variability timescales and power density spectra. We reproduce the MTS-Γ correlation and we attribute it to the black hole spin as the main driving parameter of the engine. We also find that the PDS slope is not strongly affected by the black hole spin, while it differs for various viewing angles.
+subjects: JET, formation, model, simulations
+
 link: https://arxiv.org/abs/2105.13212
 title: Neutron star asteroseismology and nuclear saturation parameter
 authors: Hajime Sotani
