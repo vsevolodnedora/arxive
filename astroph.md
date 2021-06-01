@@ -5,11 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2105.14050
+title: Hyperonization in compact stars
+authors: Armen Sedrakian, Jia-Jie Li, Fridolin Weber
+topic: We review the covariant density functional approach to the equation of state of the dense nuclear matter in compact stars. The main emphasis is on the hyperonization of the dense matter, and the role played by the Delta-resonances. The implications of hyperonization for the astrophysics of compact stars, including the equation of state, composition, and stellar parameters are examined. The mass-radius relation and tidal deformabilities of static and rapidly rotating (Keplerian) configurations are discussed in some detail. We briefly touch upon some other recent developments involving hyperonization in hot hypernuclear matter at high- and low-densities.
+subjects: EOS, construction, overview
+
+link: https://arxiv.org/abs/2105.14902
+title: GECKO Optical Follow-up Observation of Three Binary Black Hole Merger Events: GW190408 181802, GW190412, and GW190503 185404
+authors: Joonho Kim, Myungshin Im, Gregory S. H. Paek, Chung-Uk Lee, Seung-Lee Kim, Seo-Won Chang, Changsu Choi, Sungyong Hwang, Wonseok Kang, Sophia Kim, Taewoo Kim, Hyung Mok Lee, Gu Lim, Jinguk Seo, Hyun-Il Sun
+topic: We present optical follow-up observation results of three binary black hole merger (BBH) events, GW190408 181802, GW190412, and GW190503 185404, which were detected by the Advanced LIGO and Virgo gravitational wave (GW) detectors. Electromagnetic (EM) counterparts are generally not expected for BBH merger events. However, some theoretical models suggest that EM counterparts of BBH can possibly arise in special environments, prompting motivation to search for EM counterparts for such events. We observed high-credibility regions of the sky for the three BBH merger events with telescopes of the Gravitational-wave EM Counterpart Korean Observatory (GECKO), including the KMTNet. Our observation started as soon as 100 minutes after the GW event alerts and covered 29 - 63 deg2 for each event with a depth of  22.5 mag in R-band within hours of observation. No plausible EM counterparts were found for these events, but from no detection in the GW190503 185404 event, for which we covered 69\% credibility region, we place the BBH merger EM counterpart signal to be Mg \g -18.0 AB mag within about 1 day of the GW event. The comparison of our detection limits with light curves of several kilonova models suggests that a kilonova event could have been identified within hours from GW alert with GECKO observations if the compact merger happened at < 400 Mpc and the localization accuracy was of order of 50 deg2. Our result gives a great promise for the GECKO facilities to find EM counterparts within a few hours from GW detection in future GW observation runs.
+subjects: BBH, EM, search, no detection, upper limit
+
+link: https://arxiv.org/abs/2105.14592
+title: On the Binary-Neutron-Star Post-Merger Magnetar Origin of XRT 210423
+authors: Shunke Ai, Bing Zhang
+topic: XRT 201423 is an X-ray transient with a nearly flat plateau lasting 4.1 ks followed by a steep decay. This feature indicates that it might come from a magnetar formed through a binary neutron star merger, similar to CDF-X2 and as predicted. We test the compliance of the data with this model and use the observed duration and flux of the X-ray signal as well as upper limits of optical emission to pose constraints on the parameters of the underlying putative magnetar. Both the free-zone and trapped-zone geometric configurations are considered. We find that the data are generally consistent with such a model. The surface dipolar magnetic field and the ellipticity of the magnetar should satisfy Bp less 7x1014G (Bp less 4.9x1014G) and eps less 1.5x10−3 (eps less 1.1x10−3) under free zone (trapped zone) configurations, respectively. An upper limit on the distance (e.g. z less 0.55 with eta x=10−4) can be derived from the X-ray data which depends on the X-ray dissipation efficiency eta x of the spin-down luminosity. The non-detection of optical counterpart places a conservative lower limit on the distance of the source, i.e. z \g 0.03 regardless of the geometric configuration.
+subjects: GRB, observations, model, magnetar
 
 link: https://arxiv.org/abs/2105.13963
 title: First Constraints on Light Axions from the Binary Neutron Star Gravitational Wave Event GW170817
