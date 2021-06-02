@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.00347
+title: Strong magnetic fields: neutron stars with an extended inner crust
+authors: Helena Pais, Bruno Bertolino, Jianjun Fang, Xiaopeng Wang, Constança Providência
+topic: Using relativistic mean-field models, the formation of clusterized matter, as the one expected to exist in the inner crust of neutron stars, is determined under the effect of strong magnetic fields. As already predicted from a calculation of the unstable modes resulting from density fluctuations at subsaturation densities, we confirm in the present work that for magnetic field intensities of the order of =5x1016 G to 5x1017 G, pasta phases may occur for densities well above the zero-field crust-core transition density. This confirms that the extension of the crust may be larger than expected. It is also verified that the equilibrium structure of the clusterized matter is very sensitive to the intensity of the magnetic fields. As a result, the decay of the magnetic field may give rise to internal stresses which may result on the yield and fracture of the inner crust lattice.
+subjects: EOS, NS, crust, nucleo
+
+link: https://arxiv.org/abs/2106.00603
+title: Quasi-universality of the magnetic deformation of neutron stars in general relativity and beyond
+authors: J. Soldateschi, N. Bucciantini, L. Del Zanna
+topic: Neutron stars are known to host extremely powerful magnetic fields. Among other effects, one of the consequences of harbouring such fields is the deformation of the neutron star structure, leading, together with rotation, to the emission of continuous gravitational waves. On the one hand, the details of their internal magnetic fields are mostly unknown. Likewise, their internal structure, encoded by the equation of state, is highly uncertain. Here we present a study of axisymmetric models of isolated magnetised neutron stars, for various realistic equations of state considered viable by observations and nuclear physics constraints. We show that it is possible to find simple relations between the magnetic deformation of a neutron star, its Komar mass and its circumferential radius. Such relations are quasi-universal, meaning that they are mostly independent on the equation of state of the neutron star and only slightly dependent on the magnetic field configuration. Being formulated in terms of potentially observable quantities, as we discuss, our results could help to constrain the magnetic properties of the neutron star interior and to better assess the detectability of continuous gravitational waves by isolated neutron stars, without knowing their equation of state. Our results are derived both in general relativity and in scalar-tensor theories - one of the most promising extensions of general relativity - in this case by considering also the scalar charge. We show that even in this case general relations hold that account for deviations from general relativity, that could potentially be used to set constraints on the gravitational theory.
+subjects: NS, isolated, MF, crust, observables
+
 link: https://arxiv.org/abs/2105.14050
 title: Hyperonization in compact stars
 authors: Armen Sedrakian, Jia-Jie Li, Fridolin Weber
