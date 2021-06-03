@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.00826
+title: Energy injection driven by precessing jets in gamma-ray burst afterglows
+authors: Bao-Quan Huang, Tong Liu
+topic: Jet precession is considered to universally exist in different-scale astronomical phenomena, including gamma-ray bursts (GRBs). For the long-lived GRB central engine, the relativistical precessing jets will periodically inject kinetic energy into the external shocks, then significantly modulate the shapes of the light curves (LCs) in GRB afterglows. In this paper, we adopt the standard external shock model to investigate the effects of jet precession on GRB X-ray afterglows in cases with different parameters, i.e., the steady or time-dependent jet powers, precession periods, precession angles, and viewing angles. In the case where the jet powers are in steady or slow decay and the jet can sweep across the line of sight, shallow decay (or plateau) segments should appear; otherwise, a giant bump will emerge in the GRB afterglow LCs. We show that jet precession is a new plausible mechanism of the energy injection in GRBs. Moreover, some observed X-ray transients without GRB associations might be powered by the precessing jets.
+subjects: jet, precession, injection, central engine
+
 link: https://arxiv.org/abs/2106.00347
 title: Strong magnetic fields: neutron stars with an extended inner crust
 authors: Helena Pais, Bruno Bertolino, Jianjun Fang, Xiaopeng Wang, Constança Providência
