@@ -5,6 +5,24 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2106.01841
+title: Neutron stars in f(𝚁,𝙻𝚖) gravity with realistic equations of state: joint-constrains with GW170817, massive pulsars, and the PSR J0030+0451 mass-radius from NICER data
+authors: R. V. Lobato, G. A. Carvalho, C. A. Bertulani
+topic: In this work we investigate neutron stars (NS) in f(𝚁,𝙻𝚖) theory of gravity for the case f(𝚁,𝙻𝚖)=𝚁+𝙻𝚖+sigma𝚁𝙻𝚖, where 𝚁 is the Ricci scalar and 𝙻𝚖 the Lagrangian matter density. In the term sigma𝚁𝙻𝚖, sigma represents the coupling between the gravitational and particles fields. For the first time the hydrostatic equilibrium equations in the theory are solved considering realistic equations of state and NS masses and radii obtained are subject to joint constrains from massive pulsars, the gravitational wave event GW170817 and from the PSR J0030+0451 mass-radius from NASA's Neutron Star Interior Composition Explorer (NICER) data. We show that in this theory of gravity, the mass-radius results can accommodate massive pulsars, while the general theory of relativity can hardly do it. The theory also can explain the observed NS within the radius region constrained by the GW170817 and PSR J0030+0451 observations for masses around 1.4 Msun.
+subjects: NS, GR, theory, MOG
+
+link: https://arxiv.org/abs/2106.01679
+title: Impact of hypernova νp-process nucleosynthesis on the galactic chemical evolution of Mo and Ru
+authors: Hirokazu Sasaki, Yuta Yamazaki, Toshitaka Kajino, Motohiko Kusakabe, Takehito Hayakawa, Myung-Ki Cheoun, Heamin Ko, Grant J. Mathews
+topic: We calculate Galactic Chemical Evolution (GCE) of Mo and Ru by taking into account the contribution from nu-p-process nucleosynthesis. We estimate yields of p-nuclei such as 92,94Mo and 96,98Ru through the nu-p-process in various supernova (SN) progenitors based upon recent models. In particular, the nu-p-process in energetic hypernovae produces a large amount of p-nuclei compared to the yield in ordinary core-collapse SNe. Because of this the abundances of 92,94Mo and 96,98Ru in the Galaxy are significantly enhanced at [Fe/H]=0 by the nu-p-process. We find that the nu-p-process in hypernovae is the main contributor to the elemental abundance of 92Mo at low metallicity [Fe/H] less 2. Our theoretical prediction of the elemental abundances in metal-poor stars becomes more consistent with observational data when the nu-p-process in hypernovae is taken into account.
+subjects: nucleo, heavy elements, nu-p process, abundances
+
 link: https://arxiv.org/abs/2106.00826
 title: Energy injection driven by precessing jets in gamma-ray burst afterglows
 authors: Bao-Quan Huang, Tong Liu
