@@ -5,11 +5,11 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2106.02052
+title: From Neutrino- to Photon-Cooled in Three Years: Can Fallback Accretion Explain the X-ray Excess in GW170817?
+authors: Brian D. Metzger, Rodrigo Fernandez
+topic: An excess in the X-ray emission from the neutron star merger GW170817 above the predicted afterglow was recently detected t3.4 years post-merger. One possible origin for the excess is accretion onto the newly unshrouded black hole (BH) remnant (Hajela et al. 2021, Ishizaki et al. 2021). While fall-back of the bound dynamical ejecta is insufficient to generate the excess luminosity, L_X ~ 5e38 erg/s, fall-back from the disk wind ejecta-due to their larger mass and lower velocity-remains a viable possibility. We present hydrodynamic alpha-viscosity simulations of the post-merger disk evolution which extend to an unprecedently long timescale t 35 s post-merger, as necessary to capture the end of photodissociation and the asymptotic evolution into the radiatively inefficient regime. Due to inefficient neutrino cooling, the BH accretion rate decays rapidly at late times (MdotBH sim t(-\betaBH), where \betaBH sim 2.4-2.8), seemingly incompatible with generating the late-time excess. However, the rate at which matter falls back to the inner disk from the equatorial regions (as inferred by the rate matter is unbound in outflows by viscous heating at higher latitudes) decays more gradually, Mdotfb sim t^-\betafb) with \beta_fb sim 1.43 in our alpha sim 0.03 simulations. By the present epoch, the fall-back rate has become sub-Eddington and the disk can again accrete efficiently, i.e. MdotBH ~ Mdotfb, this time as a result of photon cooling instead of neutrino cooling. The predicted X-ray accretion luminosity at the present epoch is L_X 0.1 Mdot_BH c^2 (2-70)e38 erg/s for betaFB sim 1.43-1.66, thus supporting (with caveats) an accretion-powered origin for the X-ray excess in GW170817. The suppressed BH accretion rate prior to the radiatively efficient (sub-Eddington) transition, weeks to months after the merger, is key to avoid overproducing the kilonova luminosity via reprocessing.
+subjects: kilonova, afterglow, fall-back accretion, EM, BNS, hydo, simulation
 
 link: https://arxiv.org/abs/2106.01841
 title: Neutron stars in f(𝚁,𝙻𝚖) gravity with realistic equations of state: joint-constrains with GW170817, massive pulsars, and the PSR J0030+0451 mass-radius from NICER data
