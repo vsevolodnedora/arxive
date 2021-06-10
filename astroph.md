@@ -5,6 +5,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2106.04842
+title: J-GEM optical and near-infrared follow-up of gravitational wave events during LIGO's and Virgo's third observing run
+authors: Mahito Sasada, Yousuke Utsumi, Ryosuke Itoh, Nozomu Tominaga, Masaomi Tanaka, Tomoki Morokuma, Kenshi Yanagisawa et al
+topic: The Laser Interferometer Gravitational-wave Observatory Scientific Collaboration and Virgo Collaboration (LVC) sent out 56 gravitational-wave (GW) notices during the third observing run (O3). Japanese collaboration for Gravitational wave ElectroMagnetic follow-up (J-GEM) performed optical and near-infrared observations to identify and observe an electromagnetic (EM) counterpart. We constructed web-based system which enabled us to obtain and share information of candidate host galaxies for the counterpart, and status of our observations. Candidate host galaxies were selected from the GLADE catalog with a weight based on the three-dimensional GW localization map provided by LVC. We conducted galaxy-targeted and wide-field blind surveys, real-time data analysis, and visual inspection of observed galaxies. We performed galaxy-targeted follow-ups to 23 GW events during O3, and the maximum probability covered by our observations reached to 9.8\%. Among them, we successfully started observations for 10 GW events within 0.5 days after the detection. This result demonstrates that our follow-up observation has a potential to constrain EM radiation models for a merger of binary neutron stars at a distance of up to sim 100 sim Mpc with a probability area of \leq 500 sim deg2.
+subjects: obserations, search, GW, counterpart, EM
+
+link: https://arxiv.org/abs/2106.04825
+title: Energy Conservation in the thin layer approximation: V. The surface brightness in supernova remnants
+authors: Lorenzo Zaninetti
+topic: Two new equations of motion for a supernova remnant (SNR) are derived in the framework of energy conservation for the thin-layer approximation. The first one is based on an inverse square law for the surrounding density and the second one on a non-cubic dependence of the swept mass. Under the assumption that the observed radio-flux scales as the flux of kinetic energy, two scaling laws are derived for the temporal evolution of the surface brightness of SNRs. The astrophysical applications cover two galactic samples of surface brightness and an extragalactic one.
+subjects: synchtoron, remannt, SN, theory
+
+link: https://arxiv.org/abs/2106.04788
+title: GRB 170817A Afterglow from a Relativistic Electron-Positron Pair Wind Observed Off-axis
+authors: Long Li, Zi-Gao Dai
+topic: A relativistic electron-positron (e+e-) pair wind from a rapidly rotating, strongly magnetized neutron star (NS) would interact with a gamma-ray burst (GRB) external shock and reshapes afterglow emission signatures. Assuming that the merger remnant of GW170817 is a long-lived NS, we show that a relativistic e+e- pair wind model with a simple top-hat jet viewed off-axis can reproduce multi-wavelength afterglow lightcurves and superluminal motion of GRB 170817A. The Markov chain Monte Carlo (MCMC) method is adopted to obtain the best-fitting parameters, which give the jet half-opening angle Thetaj=0.11 rad, and the viewing angle Thetav=0.23 rad. The best-fitting value of θv is close to the lower limit of the prior which is chosen based on the gravitational-wave and electromagnetic observations. In addition, we also derive the initial Lorentz factor Gamma0=47 and the isotropic kinetic energy EK,iso=2x1052 erg. A consistence between the corrected on-axis values for GRB 170817A and typical values observed for short GRBs indicates that our model can also reproduce the prompt emission of GRB 170817A. An NS with a magnetic field strength Bp=1.6x1013 G is obtained in our fitting, indicating that a relatively low thermalization efficiency \eta\leq 10-3 is needed to satisfy observational constraints on the kilonova. Furthermore, our model is able to reproduce a late-time shallow decay in the X-ray lightcurve and predicts that the X-ray and radio flux will continue to decline in the coming years.
+subjects: GRB, afterglow, new model
+
 link: https://arxiv.org/abs/2106.04204
 title: GW170817, PSR J0030+0451, and PSR J0740+6620: constraints on phase transition and nuclear symmetry energy parameters
 authors: Shao-Peng Tang, Jin-Liang Jiang, Ming-Zhe Han, Yi-Zhong Fan, Da-Ming Wei

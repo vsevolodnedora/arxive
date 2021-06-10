@@ -5,11 +5,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2106.05034
+title: Traversable wormholes in General Relativity without exotic matter
+authors: R. A. Konoplya, A. Zhidenko
+topic: In [J. Blazquez-Salcedo, C. Knoll, E. Radu, Phys. Rev. Lett. 126 (2021) no.10, 101102] asymptotically flat traversable wormhole solutions were obtained in the Einstein-Dirac-Maxwell theory without using exotic matter. The normalizable numerical solutions found in \cite{Blazquez-Salcedo:2020czn} require a peculiar behavior at the throat: the mirror symmetry relatively the throat leads to the nonsmoothness of gravitational and matter fields. In particular, one must postulate the changing of the sign of the fermionic charge density at the throat requiring coexistence of particle and antiparticles without annihilation and posing a membrane of matter at the throat with specific properties. Apparently this kind of configurations could not exist in nature. We show that there are wormhole solutions, which are asymmetric relatively the throat and endowed by smooth gravitational and matter fields, being, thereby, free from all the above problems. This indicates that such wormhole configurations could also be supported in a realistic scenario.
+subjects: GR, wormholes
+
+link: https://arxiv.org/abs/2106.05060
+title: Guest Editorial: Overview of the Special Issue and a Dialog on Starshades
+authors: Jonathan Arenberg, Anthony Harness, Rebecca Jensen-Clem
+topic: This special issue is dedicated to starshades: science, engineering, technology and programmatics. Our reasons for organizing this special issue are several fold. First as a new technology and with research accomplished in many institutions, recent results are widely scattered in the literature. As such, we see great value in co-locating many of the most recent results. This guest editorial summarizes the 19 contributed papers as the result of a special call for papers. Since this is a rapidly maturing technology, we wanted to co-locate a primer with the most current work in the field. It is hoped that this primer will provide a tutorial to the starshade concept and pathway to the literature not in this issue. In doing so, we hope to widen the starshade community in terms of engineering and scientific engagements. This tutorial takes the form of a dialog, where frequently asked questions are answered.
+subjects: engineering, starshade
 
 link: https://arxiv.org/abs/2010.09766
 title: Which Stars can see Earth as a Transiting Exoplanet?
