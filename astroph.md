@@ -5,23 +5,23 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2106.05362
+title: The general applicability of self-similar solutions for thermal disc winds
+authors: Andrew D. Sellek, Cathie J. Clarke, Richard A. Booth
+topic: Thermal disc winds occur in many contexts and may be particularly important to the secular evolution and dispersal of protoplanetary discs heated by high energy radiation from their central star. In this paper we generalise previous models of self-similar thermal winds - which have self-consistent morphology and variation of flow variables - to the case of launch from an elevated base and to non-isothermal conditions. These solutions are well-reproduced by hydrodynamic simulations, in which, as in the case of isothermal winds launched from the mid-plane, we find winds launch at the maximum Mach number for which the streamline solutions extend to infinity without encountering a singularity. We explain this behaviour based on the fact that lower Mach number solutions do not fill the spatial domain. We also show that hydrodynamic simulations reflect the corresponding self-similar models across a range of conditions appropriate to photoevaporating protoplanetary discs, even when gravity, centrifugal forces, or changes in the density gradient mean the problem is not inherently scale free. Of all the parameters varied, the elevation of the wind base affected the launch velocity and flow morphology most strongly, with temperature gradients causing only minor differences. We explore how launching from an elevated base affects Ne II line profiles from winds, finding it increases (reduces) the full width at half maximum (FWHM) of the line at low (high) inclination to the line of sight compared with models launched from the disc mid-plane and thus weakens the dependence of the FWHM on inclination.
+subjects: winds, disk, planetary, radiation-driven
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2106.05356
+title: HARM3D+NUC: A new method for simulating the post-merger phase of binary neutron star mergers with GRMHD, tabulated EOS and neutrino leakage
+authors: Ariadna Murguia-Berthier, Scott C. Noble, Luke F. Roberts
+topic: The first binary neutron star merger has already been detected in gravitational waves. The signal was accompanied by an electromagnetic counterpart including a kilonova component powered by the decay of radioactive nuclei, as well as a short gamma-ray burst. In order to understand the radioactively-powered signal, it is necessary to simulate the outflows and their nucleosynthesis from the post-merger disk. Simulating the disk and predicting the composition of the outflows requires general relativistic magnetohydrodynamical (GRMHD) simulations that include a realistic, finite-temperature equation of state (EOS) and self-consistently calculating the impact of neutrinos. In this work, we detail the implementation of a finite-temperature EOS and the treatment of neutrinos in the GRMHD code HARM3D+NUC, based on HARM3D. We include formal tests of both the finite-temperature EOS and the neutrino leakage scheme. We further test the code by showing that, given conditions similar to those of published remnant disks following neutron star mergers, it reproduces both recombination of free nucleons to a neutron-rich composition and excitation of a thermal wind.
+subjects: BNS, disk, code, GRMHD, application
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2106.05313
+title: Impact of the PSR J0740+6620 radius constraint on the properties of high-density matter
+authors: Isaac Legred, Katerina Chatziioannou, Reed Essick, Sophia Han, Philippe Landry
+topic: X-ray pulse profile modeling of PSR J0740+6620, the most massive known pulsar, by the NICER and XMM-Newton observatories recently led to a measurement of its radius. We investigate this measurement's implications for the neutron star equation of state, employing a nonparametric EoS model based on Gaussian processes and combining information from other X-ray, radio and gravitational-wave observations of neutron stars. Our analysis mildly disfavors equations of state that support a disconnected hybrid star branch in the mass-radius relation, a proxy for strong phase transitions, with a Bayes factor of 6.4. For EoSs with multiple stable branches, the transition mass from the hadronic to the hybrid branch is constrained to lie outside (1,2) Msum. We also find that the conformal sound-speed bound is violated inside neutron star cores, implying that core matter is strongly interacting. The squared sound speed reaches a maximum of 0.79+0.21-0.26c2 at 3.51+2.30-1.76 times nuclear saturation density at 90\% credibility. Since all but the gravitational-wave observations prefer a relatively stiff EoS, PSR J0740+6620's central density is only 3.0+1.6−1.6 times nuclear saturation, limiting the density range probed by observations of cold, nonrotating neutron stars in beta-equilibrium.
+subjects: EOS, NS, Pulsar, MM, constraint
 
 link: https://arxiv.org/abs/2106.04842
 title: J-GEM optical and near-infrared follow-up of gravitational wave events during LIGO's and Virgo's third observing run
