@@ -5,6 +5,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2106.06450
+title: Synchrotron-Self-Compton radiation from magnetically-dominated turbulent plasmas in relativistic jets
+authors: Emanuele Sobacchi, Lorenzo Sironi, Andrei M. Beloborodov
+topic: Relativistic jets launched by rotating black holes are powerful emitters of non-thermal radiation. Extraction of the rotational energy via electromagnetic stresses produces magnetically-dominated jets, which may become turbulent. Studies of magnetically-dominated plasma turbulence from first principles show that most of the accelerated particles have small pitch angles, i.e. the particle velocity is nearly aligned with the local magnetic field. We examine synchrotron-self-Compton radiation from anisotropic particles in the fast cooling regime. The small pitch angles reduce the synchrotron cooling rate and promote the role of inverse Compton (IC) cooling, which can occur in two different regimes. In the Thomson regime, both synchrotron and IC components have soft spectra. In the Klein-Nishina regime, synchrotron radiation has a hard spectrum, over a broad range of frequencies. Our results have implications for the modelling of BL Lacs and Gamma-Ray Bursts (GRBs). BL Lacs produce soft synchrotron and IC spectra, as expected when Klein-Nishina effects are minor. The observed synchrotron and IC luminosities are typically comparable, which indicates a moderate anisotropy with pitch angles. Rare orphan gamma-ray flares may be produced when. The hard spectra of GRBs may be consistent with synchrotron radiation when the emitting particles are IC cooling in the Klein-Nishina regime, as expected for pitch angles. Blazar and GRB spectra can be explained by turbulent jets with a similar electron plasma magnetisation parameter, which for electron-proton plasmas corresponds to an overall magnetisation.
+subjects: jet, model, syncrotron, IC, MF, non-thermal, GRB
+
+link: https://arxiv.org/abs/2106.06391
+title: On accretion disks formed in MHD simulations of black hole-neutron star mergers with accurate microphysics
+authors: Elias R. Most, L. Jens Papenfort, Samuel D. Tootle, Luciano Rezzolla
+topic: Remnant accretion disks formed in compact object mergers are an important ingredient in the understanding of electromagnetic afterglows of multi-messenger gravitational-wave events. Due to magnetically and neutrino driven winds, a significant fraction of the disk mass will eventually become unbound and undergo r-process nucleosynthesis. While this process has been studied in some detail, previous studies have typically used approximate initial conditions for the accretion disks, or started from purely hydrodynamical simulations. In this work, we analyse the properties of accretion disks formed from near equal-mass black hole-neutron star mergers simulated in general-relativistic magnetohydrodynamics in dynamical spacetimes with an accurate microphysical description. The post-merger systems were evolved until 120ms for different finite-temperature equations of state and black-hole spins. We present a detailed analysis of the fluid properties and of the magnetic-field topology. In particular, we provide analytic fits of the magnetic-field strength and specific entropy as a function of the rest-mass density, which can be used for the construction of equilibrium disk models. Finally, we evolve one of the systems for a total of 350ms after merger and study the prospect for eventual jet launching. While our simulations do not reach this stage, we find clear evidence of continued funnel magnetization and clearing, a prerequisite for any jet-launching mechanism.
+subjects: GRMHD, simulations, mode, NSBH, disk, (no) jet
+
+link: https://arxiv.org/abs/2106.06267
+title: Thermal irradiation induced wind outflow in a geometrically thin accretion disk: A hydrodynamic study
+authors: Nagendra Kumar, Banibrata Mukhopadhyay 
+topic: Many astrophysical sources, e.g., cataclysmic variables, X-ray binaries, active galactic nuclei, exhibit a wind outflow, when they reveal a multicolor blackbody spectrum, hence harboring a geometrically thin Keplerian accretion disk. Unlike an advective disk, in the thin disk, the physical environment, like, emission line, external heating, is expected to play a key role to drive the wind outflow. We show the wind outflow in a thin disk attributing a disk irradiation effect, probably from the inner to outer disks. We solve the set of steady, axisymmetric disk model equations in cylindrical coordinates along the vertical direction for a given launching radius (r) from the midplane, introducing irradiation as a parameter. We obtain an acceleration solution, for a finite irradiation in the presence of a fixed but tiny initial vertical velocity (hence thin disk properties practically do not alter) at the midplane, upto a maximum height (zmax). We find that wind outflow mainly occurs from the outer region of the disk and its density decreases with increasing launching radius, and for a given launching radius with increasing ejection height. Wind power decreases with increasing ejection height. For zmax \l 2r, wind outflow is ejected tangentially (or parallel to the disk midplane) in all directions with the fluid speed same as the azimuthal speed. This confirms mainly, for low mass X-ray binaries, (a) wind outflow should be preferentially observed in high-inclination sources, (b) the expectation of red and blue shifted absorption lines.
+subjects: disk, thin, model, static, wind, line emission
+
+link: https://arxiv.org/abs/2106.06227
+title: Self-similar solution of hot accretion flow: the role of kinematic viscosity coefficient
+authors: Fatemeh Zahra Zeraatgari, Liquan Mei, Amin Mosallanezhad
+topic: We investigate the dependency of the inflow-wind structure of the hot accretion flow on the kinematic viscosity coefficient. In this regard, we propose a model for the kinematic viscosity coefficient to mimic the behavior of the magnetorotational instability and would be maximal at the rotation axis. Then, we compare our model with two other prescriptions from numerical simulations of the accretion flow. We solve two-dimensional hydrodynamic equations of hot accretion flows in the presence of the thermal conduction. The self-similar approach is also adopted in the radial direction. We calculate the properties of the inflow and the wind such as velocity, density, angular momentum for three models of the kinematic viscosity prescription. On inspection, we find that in the model we suggested wind is less efficient than that in two other models to extract the angular momentum outward where the self-similar solutions are applied. The solutions obtained in this paper might be applicable to the hydrodynamical numerical simulations of the hot accretion flow.
+subjects: accretion, wind, HD, simulation
+
 link: https://arxiv.org/abs/2106.05362
 title: The general applicability of self-similar solutions for thermal disc winds
 authors: Andrew D. Sellek, Cathie J. Clarke, Richard A. Booth
