@@ -5,17 +5,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2106.07169
+title: Multi-wavelength view of the close-by GRB190829A sheds light on gamma-ray burst physics
+authors: O. S. Salafia, M. E. Ravasio, J. Yang, T. An, M. Orienti, G. Ghirlanda, L. Nava, M. Giroletti, P. Mohan, R. Spinelli, Y. Zhang, B. Marcote, G. Cimò, X. Wu, Z. Li
+topic: Gamma-ray bursts - the most luminous explosions in the Universe - are produced as a result of cataclysmic events such as the collapse of a massive star or the merger of two neutron stars. We monitored the position of the close-by (about 370 Megaparsecs) gamma-ray burst GRB190829A, which originated from a massive star collapse, through very long baseline interferometry (VLBI) observations with the European VLBI Network and the Very Long Baseline Array, involving a total of 30 telescopes across four continents. We carried out a total of 9 observations between 9 and 117 days after the gamma-ray burst at 5 and 15 GHz, reaching an overall excellent resolution. From a state-of-the art analysis of these data, we obtained valuable information on the source size and expansion rate. The measurements are in remarkable agreement with the size evolution entailed by a detailed modelling of the multi-wavelength light curves with a forward plus reverse shock model, which agrees with the observations across almost 18 orders of magnitude in frequency (including the High Energy Stereoscopic System data at teraelectronvolt photon energies) and more than 4 orders of magnitude in time. Thanks to the multi-wavelength, high-cadence coverage of the afterglow, inherent degeneracies in the afterglow model are broken to a large extent, allowing us to capture some unique physical insights: we find a low prompt emission efficiency \leq 10-3; we constrain the fraction of electrons that are accelerated to relativistic speeds in the forward shock downstream to be \kappa_e \leq 13\% at the 90\% confidence level; we find that the magnetic field energy density in the reverse shock downstream must decay rapidly after the shock crossing.
+subjects: GRB, LGRB, afterglow, prompt, observation, parameter inference, fitting
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2106.06897
+title: The Gravity Collective: A Search for the Electromagnetic Counterpart to the Neutron Star-Black Hole Merger GW190814
+authors: Charles D. Kilpatrick, David A. Coulter, Iair Arcavi, Thomas G. Brink, Georgios Dimitriadis, Alexei V. Filippenko, Ryan J. Foley, D. Andrew Howell, David O. Jones
+topic: We present optical follow-up imaging obtained with the Katzman Automatic Imaging Telescope, Las Cumbres Observatory Global Telescope Network, Nickel Telescope, Swope Telescope, and Thacher Telescope of the LIGO/Virgo gravitational wave (GW) signal from the neutron star-black hole (NSBH) merger GW190814. We searched the GW190814 localization region (19 deg2 for the 90th percentile best localization), covering a total of 51 deg2 and 94.6\% of the two-dimensional localization region. Analyzing the properties of 189 transients that we consider as candidate counterparts to the NSBH merger, including their localizations, discovery times from merger, optical spectra, likely host-galaxy redshifts, and photometric evolution, we conclude that none of these objects are likely to be associated with GW190814. Based on this finding, we consider the likely optical properties of an electromagnetic counterpart to GW190814, including possible kilonovae and short gamma-ray burst afterglows. Using the joint limits from our follow-up imaging, we conclude that a counterpart with an r-band decline rate of 0.68 mag day-1, similar to the kilonova AT 2017gfo, could peak at an absolute magnitude of at most -17.8 mag (50\% confidence). Our data are not constraining for ''red'' kilonovae and rule out ''blue'' kilonovae with M\g 0.5Msun (30\% confidence). We strongly rule out all known types of short gamma-ray burst afterglows with viewing angles \l 17 assuming an initial jet opening angle of 5.2deg and explosion energies and circumburst densities similar to afterglows explored in the literature. Finally, we explore the possibility that GW190814 merged in the disk of an active galactic nucleus, of which we find four in the localization region, but we do not find any candidate counterparts among these sources.
+subjects: NSBH, KN, search, no detection
 
 link: https://arxiv.org/abs/2106.06450
 title: Synchrotron-Self-Compton radiation from magnetically-dominated turbulent plasmas in relativistic jets
