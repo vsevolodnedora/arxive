@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.07739
+title: Galactic Traversability: A New Concept for Extragalactic SETI
+authors: Brian C. Lacki
+topic: Interstellar travel in the Milky Way is commonly thought to be a long and dangerous enterprise, but are all galaxies so hazardous? I introduce the concept of galactic traversability to address this question. Stellar populations are one factor in traversability, with higher stellar densities and velocity dispersions aiding rapid spread across a galaxy. The interstellar medium (ISM) is another factor, as gas, dust grains, and cosmic rays (CRs) all pose hazards to starfarers. I review the current understanding of these components in different types of galaxies, and conclude that red quiescent galaxies without star formation have favorable traversability. Compact elliptical galaxies and globular clusters could be "super-traversable", because stars are packed tightly together and there are minimal ISM hazards. Overall, if the ISM is the major hindrance to interstellar travel, galactic traversability increases with cosmic time as gas fractions and star formation decline. Traversability is a consideration in extragalactic surveys for the search for extraterrestrial intelligence (SETI).
+subjects: cosmology, galaxies, space travel
+
 link: https://arxiv.org/abs/2106.05034
 title: Traversable wormholes in General Relativity without exotic matter
 authors: R. A. Konoplya, A. Zhidenko

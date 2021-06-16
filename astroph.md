@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.08023
+title: Universal Relations for Binary Neutron Star Mergers with Long-lived Remnants
+authors: Praveen Manoharan, Christian J. Krüger, Kostas D. Kokkotas
+topic: We present a novel universal relation for binary neutron star mergers with long-lived neutron star remnants: inspired by recent work based on numerical relativity simulations, we propose a novel approach using perturbative calculations that allow us to relate the pre-merger neutron star binary tidal deformability to the effective compactness of the post-merger remnant. Our results allow for the prediction of the stellar parameters of a long-lived remnant neutron star from the study of gravitational waves emitted during the pre-merger phase.
+subjects: NS, merger, postmerger, fitting formula
+
 link: https://arxiv.org/abs/2106.07169
 title: Multi-wavelength view of the close-by GRB190829A sheds light on gamma-ray burst physics
 authors: O. S. Salafia, M. E. Ravasio, J. Yang, T. An, M. Orienti, G. Ghirlanda, L. Nava, M. Giroletti, P. Mohan, R. Spinelli, Y. Zhang, B. Marcote, G. Cimò, X. Wu, Z. Li
