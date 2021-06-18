@@ -5,6 +5,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2106.09710
+title: The host galaxy and persistent radio counterpart of FRB 20201124A
+authors: Vikram Ravi, Casey J. Law, Dongzi Li, Kshitij Aggarwal, Sarah Burke-Spolaor, Liam Connor, T. Joseph W. Lazio, Dana Simard, Jean Somalwar, Shriharsh P. Tendulkar
+topic: The physical properties of fast radio burst (FRB) host galaxies provide important clues towards the nature of FRB sources. The 16 FRB hosts identified thus far span three orders of magnitude in mass and specific star-formation rate, implicating a ubiquitously occurring progenitor object. FRBs localised with arcsecond accuracy also enable effective searches for associated multi-wavelength and multi-timescale counterparts, such as the persistent radio source associated with FRB 20121102A. Here we present a localisation of the repeating source FRB 20201124A, and its association with a host galaxy (SDSS J050803.48+260338.0, z=0.098) and persistent radio source. The galaxy is massive (3x1010Msun), star-forming (few solar masses per year), and dusty. Very Large Array and Very Long Baseline Array observations of the persistent radio source measure a luminosity of 1.2x1029 erg s-1 Hz-1, and show that is extended on scales 50 mas. We associate this radio emission with the ongoing star-formation activity in SDSS J050803.48+260338.0. Deeper, more detailed observations are required to better utilise the milliarcsecond-scale localisation of FRB 20201124A reported from the European VLBI Network, and determine the origin of the large dispersion measure (150-220 pc cm-3) contributed by the host. SDSS J050803.48+260338.0 is an order of magnitude more massive than any galaxy or stellar system previously associated with a repeating FRB source, but is comparable to the hosts of so far non-repeating FRBs, further building the link between the two apparent populations.
+subjects: FRB, observations, localisation
+
+link: https://arxiv.org/abs/2106.09540
+title: Fast Afterglows of Fast Radio Bursts
+authors: Andrei Gruzinov
+topic: The main FRB event may leave behind a clump of relativistic plasma with high free energy density. As the plasma undergoes collisionless relaxation, it emits coherent electromagnetic waves. These electromagnetic waves may be observable as a fast radio afterglow, with decreasing frequency and intensity. We demonstrate the fast coherent afterglow in a numerical experiment. We tentatively predict the peak afterglow frequency decreasing with time as.
+subjects: FRB, afterglow
+
+link: https://arxiv.org/abs/2106.09515
+title: A Neutron Star is born
+authors: Débora Peres Menezes
+topic: A neutron star was first detected as a pulsar in 1967. It is one of the most mysterious compact objects in the universe, with a radius of the order of 10 km and masses that can reach two solar masses. In fact, neutron stars are star remnants, a kind of stellar zombies (they die, but do not disappear). In the last decades, astronomical observations yielded various contraints for the neutron star masses and finally, in 2017, a gravitational wave was detected (GW170817). Its source was identified as the merger of two neutron stars coming from NGC 4993, a galaxy 140 million light years away from us. The very same event was detected in γ-ray, x-ray, UV, IR, radio frequency and even in the optical region of the electromagnetic spectrum, starting the new era of multi-messenger astronomy. To understand and describe neutron stars, an appropriate equation of state that satisfies bulk nuclear matter properties is necessary. GW170817 detection contributed with extra constraints to determine it. On the other hand, magnetars are the same sort of compact objects, but bearing much stronger magnetic fields that can reach up to 1015 G on the surface as compared with the usual 1012 G present in ordinary pulsars. While the description of ordinary pulsars is not completely established, describing magnetars poses extra challenges. In this paper, I give an overview on the history of neutron stars and on the development of nuclear models and show how the description of the tiny world of the nuclear physics can help the understanding of the cosmos, especially of the neutron stars.
+subjects: NS, review, structure, overview
+
+link: https://arxiv.org/abs/2106.09081
+title: Magnetospheres of black hole-neutron star binaries
+authors: Federico Carrasco, Masaru Shibata, Oscar Reula
+topic: We perform force-free simulations for a neutron star orbiting a black hole, aiming at clarifying the main magnetosphere properties of such binaries towards their innermost stable circular orbits. Several configurations are explored, varying the orbital separation, the individual spins and misalignment angle among the magnetic and orbital axes. We find significant electromagnetic luminosities, (depending on the specific setting), primarily powered by the orbital kinetic energy, being about one order of magnitude higher than those expected from unipolar induction. The systems typically develop current sheets that extend to long distances following a spiral arm structure. The intense curvature of the black hole produces extreme bending on a particular set of magnetic field lines as it moves along the orbit, leading to magnetic reconnections in the vicinity of the horizon. For the most symmetric scenario (aligned cases), these reconnection events can release large-scale plasmoids that carry the majority of the Poynting fluxes. On the other hand, for misaligned cases, a larger fraction of the luminosity is instead carried outwards by large-amplitude Alfv{é}n waves disturbances. We estimate possible precursor electromagnetic emissions based on our numerical solutions, finding radio signals as the most promising candidates to be detectable within distances of ≲200\,Mpc by forthcoming facilities like the Square Kilometer Array.
+subjects: MHD, EM, NSBH, inspiral
+
 link: https://arxiv.org/abs/2106.08351
 title: Exploring the spectral properties of radio relics I: Integrated spectral index and Mach number
 authors: Denis Wittor, Stefano Ettori, Franco Vazza, Kamlesh Rajpurohit, Matthias Hoeft, Paola Domínguez-Fernández
