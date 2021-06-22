@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.11219
+title: Studying VLOCV twin compact stars with binary mergers
+authors: Z. Sharifi, M. Bigdeli, D. Alvarez-Castillo
+topic: GW170817 has provided valuable constraints on the equations of state of merging binary neutron stars, which can be considered as the most probable candidate for the source of gravitational waves. On the other hand, these natural laboratories of extreme temperature and density may lead to the estimation of some exotic matter like {deconfined quark matter in their cores}. In this paper, we investigate the neutron star matter equation of state (EoS) with the lowest order constrained variational (LOCV) method considering the excluded volume effect (VLOCV) for nucleons {to} compute the tidal deformability of binary neutron star mergers (BNSMs). Within this approach, the size of nucleons makes the EoS {so} stiff that requires a phase transition in order to avoid causality violation. Therefore, this phase transition {may lead} to the appearance of the third family of compact stars {including} twin star configurations. {Our EoS models are confronted with observations from GW170817, GW190814, GW190425, and also NICER. We find out that regarding all these constraints, the EoS models having the {transition} pressure=30-100 MeV/fm3 and the energy density discontinuity Δε≲300 MeV/fm3 are preferable.
+subjects: NS, EOS, static
+
+link: https://arxiv.org/abs/2106.10295
+title: Coherence scale of magnetic fields generated in early-time forward shocks of GRBs
+authors: N. Jordana-Mitjans, C. G. Mundell, R. J. Smith, C. Guidorzi, M. Marongiu, S. Kobayashi, A. Gomboc, M. Shrestha, I. A. Steele
+topic: We report the earliest-ever detection of optical polarization from a GRB forward shock (GRB 141220A), measured 129.5-204.3s after the burst using the multi-colour RINGO3 optical polarimeter on the 2-m fully autonomous robotic Liverpool Telescope. The temporal decay gradient of the optical light curves from 86s to 2200s post-burst is typical of classical forward shocks with alpha=1.091 The low optical polarization PBV=2.8+2.0-1.6\% t mean time 168s post-burst is compatible with being induced by the host galaxy dust, leaving low polarization intrinsic to the GRB emission itself -- as theoretically predicted for forward shocks and consistent with previous detections of low degrees of optical polarization in GRB afterglows observed hours to days after the burst. The current sample of early-time polarization data from forward shocks suggests polarization from (a) the Galactic and host galaxy dust properties (b) contribution from a polarized reverse shock (GRB deceleration time, jet magnetization) or (c) forward shock intrinsic polarization, which depends on the magnetic field coherence length scale and the size of the observable emitting region (burst energetics, circumburst density).
+subjects: polarization, GRB, prompt, observation
+
 link: https://arxiv.org/abs/2106.09858
 title: High-frequency radio synchrotron maser emission from relativistic shocks
 authors: Dmitry Khangulyan, Maxim V. Barkov, Sergey B. Popov
