@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.13348
+title: Implications of a search for intergalactic civilizations on prior estimates of human survival and travel speed
+authors: S. Jay Olson, Toby Ord
+topic: We present a model where some proportion of extraterrestrial civilizations expand uniformly over time to reach a cosmological scale. We then ask what humanity could infer if a sky survey were to find zero, one, or more such civilizations. We show how the results of this survey, in combination with an approach to anthropics called the Self Indication Assumption (SIA), would shift any prior estimates of two quantities: 1) The chance that a technological civilization like ours survives to embark on such expansion, and 2) the maximum feasible speed at which it could expand. The SIA gives pessimistic estimates for both, but survey results (even null results) can reverse some of the effect.
+subjects: cosmology, civilisations, statistics
+
 link: https://arxiv.org/abs/2106.07739
 title: Galactic Traversability: A New Concept for Extragalactic SETI
 authors: Brian C. Lacki

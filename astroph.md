@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.13383
+title: Highly r-process enhanced stars in ultra-faint dwarf galaxies
+authors: Myoungwon Jeon, Gurtina Besla, Volker Bromm
+topic: Highly r-process enhanced metal-poor stars have been observed in ultra-faint dwarf (UFD) galaxy, specifically in Reticulum~II (Ret~II). The fact that only a few UFDs contain such stars implies that the r-process site may reflect very rare, but individually prolific events, such as neutron star mergers (NSMs). Considering the relatively short star formation history (SFH) of UFDs, it is puzzling how they could experience such a rare phenomenon. In this work, we show the results of cosmological hydrodynamic zoom-in simulations of isolated UFDs to explain the formation of MP r-II stars in UFDs. We employ a simple toy model for NSM events, adopting parameters consistent with observations, such as the NSM rate and europium (Eu) mass (MEu≈10−5 solar mass). We identify only one simulated galaxy with abundances similar to Ret~II in a simulation volume that hosts 30 UFD analogs, indicating that such abundances are possible but rare. By exploring a range of key parameters, we demonstrate that the most important factor in determining the formation of MP r-II stars in UFDs is how quickly subsequent stars can be formed out of r-process enriched gas. We find that it takes between 10 to 100Myr to form the first and second burst of MP r-II stars. Over this period, Eu-polluted gas maintains the required high abundance ratios.
+subjects: r-process, cosmology, abundances, chemical evolution, cites
+
 link: https://arxiv.org/abs/2106.12845
 title: Influence of the crust on the neutron star macrophysical quantities and universal relations
 authors: Lami Suleiman, Morgane Fortin, Julian Leszek Zdunik, Pawel Haensel
