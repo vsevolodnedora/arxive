@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.15181
+title: A Dyson Sphere around a black hole
+authors: Tiger Yu-Yang Hsiao, Tomotsugu Goto, Tetsuya Hashimoto, Daryl Joe D. Santos, Alvina Y. L. On, Ece Kilerci-Eser, Yi Hang Valerie Wong, Seong Jin Kim, Cossas K.-W. Wu, Simon C.-C. Ho, Ting-Yi Lu
+topic: The search for extraterrestrial intelligence (SETI) has been conducted for nearly 60 years. A Dyson Sphere, a spherical structure that surrounds a star and transports its radiative energy outward as an energy source for an advanced civilisation, is one of the main targets of SETI. In this study, we discuss whether building a Dyson Sphere around a black hole is effective. We consider six energy sources: (i) the cosmic microwave background, (ii) the Hawking radiation, (iii) an accretion disk, (iv) Bondi accretion, (v) a corona, and (vi) relativistic jets. To develop future civilisations (for example, a Type II civilisation), is expected to be needed. Among (iii) to (vi), the largest luminosity can be collected from an accretion disk, reaching, enough to maintain a Type II civilisation. Moreover, if a Dyson Sphere collects not only the electromagnetic radiation but also other types of energy (e.g., kinetic energy) from the jets, the total collected energy would be approximately 5 times larger. Considering the emission from a Dyson Sphere, our results show that the Dyson Sphere around a stellar-mass black hole in the Milky Way (10kpc away from us) is detectable in the ultraviolet(10-400nm), optical(400-760nm), near-infrared(760nm-5μm), and mid-infrared(5-40μm) wavelengths via the waste heat radiation using current telescopes such as Galaxy Evolution Explorer Ultraviolet Sky Surveys. Performing model fitting to observed spectral energy distributions and measuring the variability of radial velocity may help us to identify these possible artificial structures.
+subjects: civilisations, life, SETI, prospects
+
 link: https://arxiv.org/abs/2106.13348
 title: Implications of a search for intergalactic civilizations on prior estimates of human survival and travel speed
 authors: S. Jay Olson, Toby Ord

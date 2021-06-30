@@ -5,6 +5,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2106.15290
+title: Constraints on Equivalence Principle Violation from Gamma Ray Bursts
+authors: Deaglan J. Bartlett, Dexter Bergsdal, Harry Desmond, Pedro G. Ferreira, Jens Jasche
+topic: Theories of gravity that obey the Weak Equivalence Principle have the same Parametrised Post-Newtonian parameter gamma for all particles at all energies. The large Shapiro time delays of extragalactic sources allow us to put tight constraints on differences in gamma between photons of different frequencies from spectral lag data, since a non-zero Δγ would result in a frequency-dependent arrival time. The majority of previous constraints have assumed that the Shapiro time delay is dominated by a few local massive objects, although this is a poor approximation for distant sources. In this work we consider the cosmological context of these sources by developing a source-by-source, Monte Carlo-based forward model for the Shapiro time delays by combining constrained realisations of the local density field using the BORG algorithm with unconstrained large-scale modes. Propagating uncertainties in the density field reconstruction and marginalising over an empirical model describing other contributions to the time delay, we use spectral lag data of Gamma Ray Bursts from the BATSE satellite to constrain confidence between photon energies of 25keV and 325keV.
+subjects: tests of GR, GRB, photons
+
+link: https://arxiv.org/abs/2106.15163
+title: Observation of gravitational waves from two neutron star-black hole coalescences
+authors: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration
+topic: We report the observation of gravitational waves from two compact binary coalescences in LIGO's and Virgo's third observing run with properties consistent with neutron star-black hole (NSBH) binaries. The two events are named GW200105 162426 and GW200115 042309, abbreviated as GW200105 and GW200115; the first was observed by LIGO Livingston and Virgo, and the second by all three LIGO-Virgo detectors. The source of GW200105 has component masses 8.9+1.2-1.5Msun and 1.9+0.3-0.2Msun, whereas the source of GW200115 has component masses 5.7+1.8-2.1Msun and 1.5+0.7-0.3Msun (all measurements quoted at the 90\% credible level). The probability that the secondary's mass is below the maximal mass of a neutron star is 89%-96% and 87%-98%, respectively, for GW200105 and GW200115, with the ranges arising from different astrophysical assumptions. The source luminosity distances are 280+110-110 Mpc and 300+150-100 Mpc, respectively. The magnitude of the primary spin of GW200105 is less than 0.23 at the 90% credible level, and its orientation is unconstrained. For GW200115, the primary spin has a negative spin projection onto the orbital angular momentum at 88% probability. We are unable to constrain spin or tidal deformation of the secondary component for either event. We infer a NSBH merger rate density of 45+75-33Gpc-3yr-1 when assuming GW200105 and GW200115 are representative of the NSBH population, or 130+112-69Gpc-3yr-1 under the assumption of a broader distribution of component masses.
+subjects: GW, NSBH, LIGO, observations
+
+link: https://arxiv.org/abs/2106.15075
+title: DDOTI Observations of Gravitational-Wave Sources Discovered in O3
+authors: R. L. Becerra, S. Dichiara, A. M. Watson, E. Troja, N. R. Butler, M. Pereyra, E. Moreno Méndez, F. De Colle, W. H. Lee, A. S. Kutyrev, K. O. C. López
+topic: We present optical follow-up observations with the DDOTI telescope of gravitational-wave events detected during the Advanced LIGO and Advanced Virgo O3 observing run. DDOTI is capable of responding to an alert in a few minutes, has an instantaneous field of about 69 deg2, and obtains 10sigma upper limits of wlim=18.5 to 20.5 AB mag in 1000s of exposure, depending on the conditions. We observed 54\% (26 out of 48) of the unretracted gravitational-wave alerts and did not find any electromagnetic counterparts. We compare our upper limits to various possible counterparts: the kilonova AT2017gfo, models of radioactive- and magnetar-powered kilonovae, short gamma-ray burst afterglows, and AGN flares. Although the large positional uncertainties of GW sources do not allow us to place strong constraints during O3, DDOTI observations of well-localized GW events in O4 and beyond could meaningfully constrain models of compact binary mergers. We show that DDOTI is able to detect kilonovae similar to AT2017gfo up to about 200Mpc and magnetar-powered kilonovae up to 1Gpc. We calculate that nearby (less200 Mpc) afterglows have a high chance (70\%) to be detected by rapid (less3 hours) DDOTI observations if observed on-axis, whereas off-axis afterglows are unlikely to be seen. Finally, we suggest that long-term monitoring of massive BBH events with DDOTI could confirm or rule out late AGN flares associated with these events.
+subjects: EM, followup, observations, non-detection
+
+link: https://arxiv.org/abs/2106.14921
+title: Exploring the GRB population: Robust afterglow modelling
+authors: M. D. Aksulu, R. A. M. J. Wijers, H. J. van Eerten, A. J. van der Horst
+topic: Gamma-ray bursts (GRBs) are ultra-relativistic collimated outflows, which emit synchrotron radiation throughout the entire electromagnetic spectrum when they interact with their environment. This afterglow emission enables us to probe the dynamics of relativistic blast waves, the microphysics of shock acceleration, and environments of GRBs. We perform Bayesian inference on a sample of GRB afterglow data sets consisting of 22 long GRBs and 4 short GRBs, using the afterglow model "scalefit", which is based on 2D relativistic hydrodynamic simulations. We make use of Gaussian processes to account for systematic deviations in the data sets, which allows us to obtain robust estimates for the model parameters. We present the inferred parameters for the sample of GRBs, and make comparisons between short GRBs and long GRBs in constant-density and stellar-wind-like environments. We find that in almost all respects such as energy and opening angle, short and long GRBs are statistically the same. Short GRBs however have a markedly lower prompt gamma-ray emission efficiency than long GRBs. We also find that for long GRBs in ISM-like ambient media there is a significant anti-correlation between the fraction of thermal energy in the magnetic fields, ϵB, and the beaming corrected kinetic energy. Furthermore, we find no evidence that the mass-loss rates of the progenitor stars are lower than those of typical Wolf-Rayet stars.
+subjects: GRB, model, fit, statistics
+
 link: https://arxiv.org/abs/2106.14488
 title: Twin stars: probe of phase transition from hadronic to quark matter
 authors: T. Deloudis, P.S. Koliogiannis, Ch.C. Moustakidis
