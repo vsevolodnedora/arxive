@@ -17,6 +17,24 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2106.15738
+title: GRMHD simulations of BH activation by small scale magnetic loops: Formation of striped jets and active coronae
+authors: Anna Chashkina, Omer Bromberg, Amir Levinson
+topic: We have performed a series of numerical experiments aimed at studying the activation of Kerr black holes (BHs) by advection of small scale magnetic fields. Such configurations may potentially give rise to the formation of quasi-striped Blandford-Znajek jets. It can also lead to enhanced dissipation and generation of plasmoids in current sheets formed in the vicinity of the BH horizon, which may constitute a mechanism to power the hard X-ray emission seen in many accreting BH systems (a la lamppost models). Our analysis suggests that formation of quasi-striped jets with significant power may be possible provided loops with alternating polarity having sizes larger than 10rg or so can be maintained (either form sporadically or advected from outside) at a radius 102rg. This conclusion is consistent with recent results of general relativistic force-free simulations. We also find that the accretion dynamics exhibits cyclic behaviour in MAD states, alternating between high accretion phases and quenched accretion phases during which the magnetosphere becomes force-free out to radii 10rg. We suggest that such a behaviour should lead to notable variations of the observed luminosity and image of the inner disc (BH shadow image). Finally, we find that the transition between accreted loops on the BH gives rise to the formation of current sheets and energetic plasmoids on the jet boundary during intermittent periods when the jet becomes inactive, in addition to an equatorial current sheet that forms during peaks in the jet activity.
+subjects: BH, accretion, GRMHD, simulations
+
+link: https://arxiv.org/abs/2106.16151
+title: Merger of a Neutron Star with a Black Hole: one-family vs. two-families scenario
+authors: Francesco Di Clemente, Alessandro Drago, Giuseppe Pagliara
+topic: A kilonova signal is generally expected after a Black Hole - Neutron Star merger. The strength of the signal is related to the equation of state of neutron star matter and it increases with the stiffness of the latter. The recent results obtained by NICER suggest a rather stiff equation of state and the expected kilonova signal is therefore strong, at least if the mass of the Black Hole does not exceed 10msun. We compare the predictions obtained by considering equations of state of neutron star matter satisfying the most recent observations and assuming that only one family of compact stars exists with the results predicted in the two-families scenario. In the latter a soft hadronic equation of state produces very compact stellar objects while a rather stiff quark matter equation of state produces massive strange quark stars, satisfying NICER results. The expected kilonova signal in the two-families scenario is very weak: the Strange Quark Star - Black Hole merger does not produce a kilonova signal because, according to simulations, the amount of mass ejected is negligible and the Hadronic Star - Black Hole merger produces a much weaker signal than in the one-family scenario because the hadronic equation of state is very soft. This prediction will be easily tested with the new generation of detectors.
+subjects: NSBH, EOS, EM expectations
+
+link: https://arxiv.org/abs/2106.15841
+title: Probing the progenitors of spinning binary black-hole mergers with long gamma-ray bursts
+authors: Simone S. Bavera, Tassos Fragos, Emmanouil Zapartas et al
+topic: Long gamma-ray bursts are associated with the core-collapse of massive, rapidly spinning stars. However, the believed efficient angular momentum transport in stellar interiors leads to predominantly slowly-spinning stellar cores. Here, we report on binary stellar evolution and population synthesis calculations, showing that tidal interactions in close binaries not only can explain the observed sub-population of spinning, merging binary black holes, but also lead to long gamma-ray bursts at the time of black-hole formation, with rates matching the empirical ones. We find that 10% of the GWTC-2 reported binary black holes had a long gamma-ray burst associated with their formation, with GW190517 and GW190719 having a probability of 85%, respectively, being among them.
+subjects: stellar, projenitors, BH
+
 link: https://arxiv.org/abs/2106.15290
 title: Constraints on Equivalence Principle Violation from Gamma Ray Bursts
 authors: Deaglan J. Bartlett, Dexter Bergsdal, Harry Desmond, Pedro G. Ferreira, Jens Jasche
