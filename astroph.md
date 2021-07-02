@@ -5,17 +5,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2107.00475
+title: The Lightweaver Framework for NLTE Radiative Transfer in Python
+authors: Christopher M J Osborne, Ivan Milić
+topic: Tools for computing detailed optically thick spectral line profiles out of local thermodynamic equilibrium have always been focused on speed, due to the large computational effort involved. With the Lightweaver framework, we have produced a more flexible, modular toolkit for building custom tools in a high-level language, Python, without sacrificing speed against the current state of the art. The goal of providing a more flexible method for constructing these complex simulations is to decrease the barrier to entry and allow more rapid exploration of the field. In this paper we present an overview of the theory of optically thick NLTE radiative transfer, the numerical methods implemented in Lightweaver including the problems of time-dependent populations and charge-conservation, as well as an overview of the components most users will interact with, to demonstrate their flexibility.
+subjects: radiation trasport, methods, code, physics
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2107.00533
+title: General-relativistic treatment of tidal g-mode resonances in coalescing binaries of neutron stars. II. As triggers for precursor flares of short gamma-ray bursts
+authors: Hao-Jui Kuan, Arthur G. Suvorov, Kostas D. Kokkotas
+topic: In some short gamma-ray bursts, precursor flares occurring ∼ seconds prior to the main episode have been observed. These flares may then be associated with the last few cycles of the inspiral when the orbital frequency is a few hundred Hz. During these final cycles, tidal forces can resonantly excite quasi-normal modes in the inspiralling stars, leading to a rapid increase in their amplitude. It has been shown that these modes can exert sufficiently strong strains onto the neutron star crust to instigate yieldings. Due to the typical frequencies of g-modes being ∼100 Hz, their resonances with the orbital frequency match the precursor timings and warrant further investigation. Adopting realistic equations of state and solving the general-relativistic pulsation equations, we study g-mode resonances in coalescing quasi-circular binaries, where we consider various stellar rotation rates, degrees of stratification, and magnetic field structures. We show that for some combination of stellar parameters, the resonantly excited g1- and g2-modes may lead to crustal failure and trigger precursor flares.
+subjects: bns, precursor, inspiral
 
 link: https://arxiv.org/abs/2106.15738
 title: GRMHD simulations of BH activation by small scale magnetic loops: Formation of striped jets and active coronae
