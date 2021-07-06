@@ -5,6 +5,30 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2107.02050
+title: Multimessenger Analysis Strategy for Core-Collapse Supernova Search: Gravitational Waves and Low-energy Neutrinos
+authors: Odysse Halim, Claudio Casentini, Marco Drago, Viviana Fafone, Kate Scholberg, Carlo Francesco Vigorito, Giulia Pagliaroli
+topic: Core-collapse supernovae are fascinating astrophysical objects for multimessenger studies. Gravitational waves (GWs) are expected to play a role in the supernova explosion mechanism, but their modelling is also challenging due to the stochastic nature of the dynamics and the vast possible progenitors, and moreover, the GW detection from these objects is still elusive with the already advanced detectors. Low-energy neutrinos will be emitted enormously during the core-collapse explosion and can help for the gravitational wave counterpart search. In this work we develop a multi-messenger strategy to search for such astrophysical objects by exploiting a global network of both low-energy neutrino and gravitational wave detectors. First, we discuss how to improve the detection potential of the neutrino sub-network by exploiting the temporal behaviour of a neutrino burst from a core-collapse supernova. We show that with the proposed approach neutrino detectors can gain at least 10% of detection efficiency at the distance where their efficiency drops. Then, we combine the information provided by GW and neutrino in a multimessenger strategy. In particular, we obtain an increase of the probability to detect the GW signal from a CCSN at 60 kpc from zero when using only GW analysis to 33\% with our combined GW-nu approach.
+subjects: MM, prospect, CCSN, low-energy neutrino, GW.
+
+link: https://arxiv.org/abs/2107.01524
+title: Jitter radiation: towards TeV-photons of gamma-ray bursts
+authors: Jirong Mao, Jiancheng Wang
+topic: The synchrotron mechanism has the radiation limit of about 160 MeV, and it is not possible to explain the very high energy (VHE) photons that are emitted by high-energy objects. Inverse Compton scattering as a traditional process is applied for the explanation of the VHE emission. In this paper, jitter radiation, the relativistic electron radiation in the random and small-scale magnetic field, is proposed to be a possible mechanism to produce VHE photons. The jitter radiation frequency is associated with the perturbation field. The spectral index of the jitter radiation is dominated by the kinetic turbulence. We utilize the jitter radiation to explain the gamma-ray burst (GRB 190114C and GRB 180720B) VHE emissions that were recently detected by the Imaging Atmospheric Cherenkov Telescopes. We suggest that this mechanism can be applied to other kinds of VHE sources.
+subjects: gamma rays, source, mechanism
+
+link: https://arxiv.org/abs/2107.01297
+title: Pair-Regulated Klein-Nishina Relativistic Magnetic Reconnection with Applications to Blazars and Accreting Black Holes
+authors: J. M. Mehlhaff, G. R. Werner, D. A. Uzdensky, M. C. Begelman
+topic: Relativistic magnetic reconnection is a powerful agent through which magnetic energy can be tapped in astrophysics, energizing particles that then produce observed radiation. In some systems, the highest energy photons come from particles Comptonizing an ambient radiation bath supplied by an external source. If the emitting particle energies are high enough, this inverse Compton (IC) scattering enters the Klein-Nishina regime, which differs from the low-energy Thomson IC limit in two significant ways. First, radiative losses become inherently discrete, with particles delivering an order-unity fraction of their energies to single photons. Second, Comptonized photons may pair-produce with the ambient radiation, opening up another channel for radiative feedback on magnetic reconnection. We analytically study externally illuminated highly magnetized reconnecting systems for which both of these effects are important. We identify a universal (initial magnetization-independent) quasi-steady state in which gamma-rays emitted from the reconnection layer are absorbed in the upstream region, and the resulting hot pairs dominate the energy density of the inflow plasma. However, a true pair cascade is unlikely, and the number density of created pairs remains subdominant to that of the original plasma for a wide parameter range. Future particle-in-cell simulation studies may test various aspects. Pair-regulated Klein-Nishina reconnection may explain steep spectra (quiescent and flaring) from flat-spectrum radio quasars and black hole accretion disc coronae.
+subjects: physics, analytic, IC, radiation, non-thermal
+
+link: https://arxiv.org/abs/2107.01211
+title: Coherent Electromagnetic Emission from Relativistic Magnetized Shocks
+authors: Lorenzo Sironi, Illya Plotnikov, Joonas Nättilä, Andrei M. Beloborodov
+topic: Relativistic magnetized shocks are a natural source of coherent emission, offering a plausible radiative mechanism for Fast Radio Bursts (FRBs). We present first-principles 3D simulations that provide essential information for the FRB models based on shocks: the emission efficiency, spectrum, and polarization. The simulated shock propagates in an electron-position plasma with magnetization sigma \g 1. The measured fraction of shock energy converted to coherent radiation is 10-3-sigma-1, and the energy-carrying wavenumber of the wave spectrum is 4omega_c/c, where omega_c is the upstream gyrofrequency. The ratio of the O-mode and X-mode energy fluxes emitted by the shock is 0.4sigma-1. The dominance of the X-mode at sigma \gg1 is particularly strong, approaching 100\% in the spectral band around 2omega_c. We also provide a detailed description of the emission mechanism for both X- and O-modes.
+subjects: MHD, shock, magnetic, FRB, simulation
+
 link: https://arxiv.org/abs/2107.00475
 title: The Lightweaver Framework for NLTE Radiative Transfer in Python
 authors: Christopher M J Osborne, Ivan Milić
