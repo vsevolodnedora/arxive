@@ -5,6 +5,24 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2107.02245
+title: Hyperonic neutron stars: reconciliation between nuclear properties and NICER and LIGO/VIRGO results
+authors: Luiz L. Lopes
+topic: Using a extended version of the Quantum Hadrodynamics (QHD), I propose a new microscopic equation of state (EoS) able to correctly reproduce the main properties of symmetric nuclear matter at the saturation density, as well produce massive neutron stars and satisfactory results for the radius and the tidal parameter Lambda. I show that even when hyperons are present, this EoS is able to reproduce at least 2.00 solar masses neutron star. The constraints about the radius of a 2.00Msu and the minimum mass that enable direct Urca effect are also checked.
+subjects: EOS, new, NS
+
+link: https://arxiv.org/abs/2107.02714
+title: Measuring the contribution of neutron star-black hole mergers to the production of heavy metals
+authors: Hsin-Yu Chen, Salvatore Vitale, Francois Foucart
+topic: The origin of the heavy elements in the Universe is not fully determined. Neutron star-black hole (NSBH) and neutron star-neutron star mergers may both produce heavy elements via rapid neutron-capture process (r-process). We use the recent detection of gravitational waves from NSBHs, improved measurements of neutron star equation-of-state, and the most modern numerical simulations of the ejected materials from binary collisions to investigate the production of heavy elements from binary mergers. As the amount of ejecta depends on the mass and spin distribution of compact objects, as well as on the equation-of-state of neutron stars, we consider various models for these quantities, informed by gravitational-wave and pulsar data. We find that even in the most favorable model, neutron star-black hole mergers are unlikely to account for more than 77\% of the r-process elements in the local Universe. If black holes have preferentially small spins, this bound decreases to 35\%. Finally, if black hole spins are small and there is a dearth of low mass (less 5Msun) black holes in NSBH binaries, the NSBH contribution to r-process elements is negligible.
+subjects: r-process, abundances, cites, NSBH
+
 link: https://arxiv.org/abs/2107.02050
 title: Multimessenger Analysis Strategy for Core-Collapse Supernova Search: Gravitational Waves and Low-energy Neutrinos
 authors: Odysse Halim, Claudio Casentini, Marco Drago, Viviana Fafone, Kate Scholberg, Carlo Francesco Vigorito, Giulia Pagliaroli
