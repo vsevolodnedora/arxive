@@ -5,11 +5,11 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2107.03486
+title: Correlations of r-Process Elements in Very Metal-Poor Stars as Clues to their Nucleosynthesis Sites
+authors: Khalil Farouqi, Friedrich-Karl Thielemann, Stephan Rosswog, Karl-Ludwig Kratz
+topic: Various nucleosynthesis studies have pointed out that the r-process elements in very metal-poor (VMP) halo stars might have different origins. By means of familiar concepts from statistics (correlations, cluster analysis, rank tests of elemental abundances), we look for causally correlated elemental abundance patterns and attempt to link them to astrophysical events. Some of these events produce the r-process elements jointly with iron, while others do not have any significant iron contribution. In the early stage of our Galaxy, at least three r-process nucleosynthesis sites have been active. The first two produce and eject iron and the majority of the lighter r-process elements. We assign them to two different types of core-collapse events, not identical to regular core-collapse supernovae (CCSNe), which produce only light trans-Fe elements. The third category is characterized by a strong r-process and responsible for the major fraction of the heavy main r-process elements without a significant co-production of Fe. It does not appear to be connected to CCSNe, in fact the Fe found in the related r-process enriched stars must come from previously occurring CCSNe. The existence of actinide boost stars indicates a further division among strong r-process sites. We assign these two strong r-process sites to neutron star mergers without fast black hole formation and to events where the ejecta are dominated by black hole accretion disk outflows. Indications from the lowest-metallicity stars hint at a connection to massive single stars (collapsars) forming black holes in the early Galaxy.
+subjects: r-process, cites, statistics, correlations
 
 link: https://arxiv.org/abs/2107.03267
 title: Relation of cyclotron resonant energy and luminosity in a strongly magnetized neutron star GRO J1008-57 observed by Insight-HXMT
