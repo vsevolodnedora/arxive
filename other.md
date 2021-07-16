@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2107.07283
+title: Strategies and Advice for the Search for Extraterrestrial Intelligence
+authors: Jason T. Wright
+topic: As a guide for astronomers new to the field of technosignature search (i.e. SETI), I present an overview of some of its observational and theoretical approaches. I review some of the various observational search strategies for SETI, focusing not on the variety of technosignatures that have been proposed or which are most likely to be found, but on the underlying philosophies that motivate searches for them. I cover passive versus active searches, ambiguous versus dispositive kinds of technosignatures, commensal or archival searches versus dedicated ones, communicative signals versus "artifacts", "active" versus derelict technologies, searches for beacons versus eavesdropping, and model-based versus anomaly-based searches. I also attempt to roughly map the landscape of technosignatures by kind and the scale over which they appear. I also discuss the importance of setting upper limits in SETI, and offer a heuristic for how to do so in a generic SETI search. I mention and attempt to dispel several misconceptions about the field. I conclude with some personal observations and recommendations for how to practice SETI, including how to choose good theory projects, how to work with experts and skeptics to improve one's search, and how to plan for success.
+subjects: intelligence, search, method
+
 link: https://arxiv.org/abs/2106.15181
 title: A Dyson Sphere around a black hole
 authors: Tiger Yu-Yang Hsiao, Tomotsugu Goto, Tetsuya Hashimoto, Daryl Joe D. Santos, Alvina Y. L. On, Ece Kilerci-Eser, Yi Hang Valerie Wong, Seong Jin Kim, Cossas K.-W. Wu, Simon C.-C. Ho, Ting-Yi Lu
