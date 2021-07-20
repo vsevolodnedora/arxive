@@ -11,6 +11,42 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2107.08752
+title: Black-Hole Neutron Star Simulations with the BAM code: First Tests and Simulations
+authors: Swami Vivekanandji Chaurasia, Tim Dietrich, Stephan Rosswog
+topic: The first detections of black hole - neutron star mergers (GW200105 and GW200115) by the LIGO-Virgo-Kagra Collaboration mark a significant scientific breakthrough. The physical interpretation of pre- and post-merger signals requires careful cross-examination between observational and theoretical modelling results. Here we present the first set of black hole - neutron star simulations that were obtained with the numerical-relativity code BAM. Our initial data are constructed using the public LORENE spectral library which employs an excision of the black hole interior. BAM, in contrast, uses the moving-puncture gauge for the evolution. Therefore, we need to stuff the black hole interior with smooth initial data to evolve the binary system in time. This procedure introduces constraint violations such that the constraint damping properties of the evolution system are essential to increase the accuracy of the simulation and in particular to reduce spurious center-of-mass drifts. Within BAM we evolve the Z4c equations and we compare our gravitational-wave results with those of the SXS collaboration and results obtained with the SACRA code. While we find generally good agreement with the reference solutions and phase differences 0.5 rad at the moment of merger, the absence of a clean convergence order in our simulations does not allow for a proper error quantification. We finally present a set of different initial conditions to explore how the merger of black hole neutron star systems depends on the involved masses, spins, and equations of state.
+subjects: BAM, NR, NSBH, simulations, tests
+
+link: https://arxiv.org/abs/2107.08056
+title: Sgr A* X-ray flares from non-thermal particle acceleration in a magnetically arrested disc
+authors: Nicolas Scepi, Jason Dexter, Mitchell C. Begelman
+topic: Sgr Astar exhibits flares in the near-infrared and X-ray bands, with the luminosity in these bands increasing by factors of 10-100 for 60 minutes. One of the models proposed to explain these flares is synchrotron emission of non-thermal particles accelerated by magnetic reconnection events in the accretion flow. We use the results from PIC simulations of magnetic reconnection to post-process 3D two-temperature GRMHD simulations of a magnetically arrested disc (MAD). We identify current sheets, retrieve their properties, estimate their potential to accelerate non-thermal particles and compute the expected non-thermal synchrotron emission. We find that the flux eruptions of MADs can provide suitable conditions for accelerating non-thermal particles to energies and producing simultaneous X-ray and near-infrared flares. For a suitable choice of current-sheet parameters and a simpified synchrotron cooling prescription, the model can simultaneously reproduce the quiescent and flaring X-ray luminosities as well as the X-ray spectral shape. While the near-infrared flares are mainly due to an increase in the temperature near the black hole during the MAD flux eruptions, the X-ray emission comes from narrow current sheets bordering highly magnetized, low-density regions near the black hole. As a result, not all infrared flares are accompanied by X-ray ones. The non-thermal flaring emission can extend to very hard X-ray energies.
+subjects: MAD, disk, MHD, reconnection, particle accelation
+
+link: https://arxiv.org/abs/2107.08053
+title: Two steps forward and one step sideways: the propagation of relativistic jets in realistic binary neutron star merger eject 
+authors: Davide Lazzati (Oregon State), Rosalba Perna (Stony Brook), Riccardo Ciolfi (Padua), Bruno Giacomazzo (Milan), Diego Lopez-Camara (UNAM), Brian Morsony
+topic: The association of GRB170817A with GW170817 has confirmed the long-standing hypothesis that binary neutron star (BNS) mergers are the progenitors of at least some short gamma-ray bursts (SGRBs). This connection has ushered in an era in which broadband observations of SGRBs, together with measurements of the time delay between the gravitational waves and the electromagnetic radiation, allow to probe the properties of the emitting outflow and its engine to an unprecedented detail. Since the structure of the radiating outflow is molded by the interaction of a relativistic jet with the binary ejecta, it is of paramount importance to study the system in a realistic setting. Here we present a three-dimensional hydrodynamic simulation of a relativistic jet propagating in the ejecta of a BNS merger, which were computed with a general relativistic magnetohydrodynamic simulation. We find that the jet's centroid oscillates around the axis of the system, due to inhomogeneities encountered in the propagation. These oscillations allow the jet to find the path of least resistance and travel faster than an identical jet in smooth ejecta. In our setup the breakout time is 0.6 sec, comparable to the expected central engine duration in SGRBs and possibly a non-negligible fraction of the total delay between the gravitational and gamma-ray signals. Our simulation also shows that energy is carried in roughly equal amounts by the jet and by the cocoon, and that about 20 per cent of the injected energy is transferred to the ejecta via mechanical work.
+subjects: simulations, HD, jet, ejecta, model
+
 link: https://arxiv.org/abs/2107.07315
 title: Modeling Neutron Star Oscillations in a Fixed General Relativistic Background Including Solid Crust Dynamics
 authors: Bing-Jyun Tsao, Irina Sagert, Oleg Korobkin, Ingo Tews, Hyun Lim, Gary Dilts, Julien Loiseau
