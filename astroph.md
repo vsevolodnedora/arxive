@@ -17,17 +17,17 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2107.09475
+title: On the use of CHIME to Detect Long-Duration Radio Transients from Neutron Star Mergers
+authors: Minori Shikauchi, Kipp Cannon, Haoxiang Lin, Tomonori Totani, J. Richard Shaw
+topic: Short gamma-ray burst (SGRB) GRB170817A was found to be related to a binary neutron star (BNS) merger. It is uncertain whether all SGRBs are caused by BNS mergers, and also under what conditions a BNS merger can cause a SGRB. Search for long-duration afterglow from SGRBs in the radio band can reveal the details of the energy sources of SGRBs, the relativistic jet, and will provide important clues on their nature (Kasliwal et al. 2017). As BNS mergers can cause SGRBs, afterglow observations will also provide an alternative measurement of BNS merger rate independent of gravitational wave (GW) observations. In previous work by Feng et al. (2014), the feasibility of the detection of long-duration afterglows was considered using a variety of radio observatories and a simple flux threshold detection algorithm. Here, we consider a more sophisticated detection algorithm for SGRB afterglows, and provide an estimate of the trials factors for a realistic search to obtain an updated estimate for the possibility of observing afterglows with CHIME. Based on our detection algorithm, we estimate 751 afterglows per year can be detected using CHIME with 96 % of them off-axis, which are candidates for orphan afterglows. Our result predicts significantly fewer detectable sources per year than the earlier analysis (Feng et al. 2014), but confirms the essential conclusion that using CHIME to search for long-duration afterglows will be effective at constraining the astrophysical merger rate.
+subjects: GRB, afterglow, detection prospect
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2107.09371
+title: Imposing multi-physics constraints at different densities on the Neutron Star Equation of State
+authors: Suprovo Ghosh, Debarati Chatterjee, Jürgen Schaffner-Bielich
+topic: Neutron star matter spans a wide range of densities, from that of nuclei at the surface to exceeding several times normal nuclear matter density in the core. While terrestrial experiments, such as nuclear or heavy-ion collision experiments, provide clues about the behaviour of dense nuclear matter, one must resort to theoretical models of neutron star matter to extrapolate to higher density and finite neutron/proton asymmetry relevant for neutron stars. In this work, we explore the parameter space within the framework of the Relativistic Mean Field model allowed by present uncertainties compatible with state-of-the-art experimental data. We apply a Bayesian scheme to constrain the parameter space using multi-physics constraints at different density regimes: chiral effective field theory, nuclear and heavy-ion collision data as well as multi-messenger astrophysical observations of neutron stars. Using the results of the study, we investigate possible correlations between nuclear and astrophysical observables.
+subjects: NS, EOS, constraints, MM, inference
 
 link: https://arxiv.org/abs/2107.08752
 title: Black-Hole Neutron Star Simulations with the BAM code: First Tests and Simulations
