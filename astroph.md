@@ -11,11 +11,11 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2107.09859
+title: A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra
+authors: Dao-Zhou Wang, Xiao-Hong Zhao, Zhao Zhang, Bin-Bin Zhang, Zhao-Yang Peng
+topic: We performed a time-resolved spectral analysis of 53 bright gamma-ray bursts (GRBs) observed by \textit{Fermi}/GBM. Our sample consists of 908 individual spectra extracted from the finest time slices in each GRB. We fitted them with the synchrotron radiation model by considering the electron distributions in five different cases: mono-energetic, single power-law, Maxwellian, traditional fast cooling, and broken power-law. Our results were further qualified through Bayesian Information Criterion (BIC) by comparing with the fit by empirical models, namely the so-called Band function and cut-off power-law models. Our study showed that the synchrotron models, except for the fast-cooling case, can successfully fit most observed spectra, with the single power-law case being the most preferred. We also found that the electron distribution indices for the single power-law synchrotron fit in more than half of our spectra exhibits flux-tracking behavior, i.e., the index increases/decreases with the flux increasing/decreasing, implying that the distribution of the radiating electrons is increasingly narrower with time before the flux peaks and becomes more spreading afterward. Our results indicate that the synchrotron radiation is still feasible as a radiation mechanism of the GRB prompt emission phase.
+subjects: GRB, statistics, fit, baysean, emission mechanism
 
 link: https://arxiv.org/abs/2107.09475
 title: On the use of CHIME to Detect Long-Duration Radio Transients from Neutron Star Mergers
