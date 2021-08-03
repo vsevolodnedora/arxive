@@ -11,6 +11,68 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2107.14240
+title: Entropy-Conserving Scheme for Modeling Nonthermal Energies in Fluid Dynamics Simulations
+authors: Vadim A. Semenov, Andrey V. Kravtsov, Benedikt Diemer
+topic: We compare the performance of energy-based and entropy-conservative schemes for modeling nonthermal energy components, such as unresolved turbulence and cosmic rays, using idealized fluid dynamics tests and isolated galaxy simulations. While both methods are aimed to model advection and adiabatic compression or expansion of different energy components, the energy-based scheme numerically solves the non-conservative equation for the energy density evolution, while the entropy-conserving scheme uses a conservative equation for modified entropy. Using the standard shock tube and Zel'dovich pancake tests, we show that the energy-based scheme results in a spurious generation of nonthermal energy on shocks, while the entropy-conserving method evolves the energy adiabatically to machine precision. We also show that, in simulations of an isolated L galaxy, switching between the schemes results in 20-30\% changes of the total star formation rate and a significant difference in morphology, particularly near the galaxy center. We also outline and test a simple method that can be used in conjunction with the entropy-conserving scheme to model the injection of nonthermal energies on shocks. Finally, we discuss how the entropy-conserving scheme can be used to capture the kinetic energy dissipated by numerical viscosity into the subgrid turbulent energy implicitly, without explicit source terms that require calibration and can be rather uncertain. Our results indicate that the entropy-conserving scheme is the preferred choice for modeling nonthermal energy components, a conclusion that is equally relevant for Eulerian and moving-mesh fluid dynamics codes.
+subjects: physics, numerics, hydro, method, theory
+
+link: https://arxiv.org/abs/2107.14239
+title: Rates of Compact Object Coalescences
+authors: Ilya Mandel, Floor S. Broekgaarden
+topic: Gravitational-wave detections are enabling measurements of the rate of coalescences of binaries composed of two compact objects - neutron stars and/or black holes. The coalescence rate of binaries containing neutron stars is further constrained by electromagnetic observations, including Galactic radio binary pulsars and short gamma-ray bursts. Meanwhile, increasingly sophisticated models of compact objects merging through a variety of evolutionary channels produce a range of theoretically predicted rates. Rapid improvements in instrument sensitivity, along with plans for new and improved surveys, make this an opportune time to summarise the existing observational and theoretical knowledge of compact-binary coalescence rates.
+subjects: BNS, rates, cosmology, statistics
+revelation: imporatant tables
+
+link: https://arxiv.org/abs/2107.13997
+title: Bayesian inference of strange star equation of state using the GW170817 and GW190425 data
+authors: Zhiqiang Miao, Jin-Liang Jiang, Ang Li, Lie-Wen Chen
+topic: The observations of compact star inspirals from LIGO/Virgo provide a valuable tool to study the highly uncertain equation of state (EOS) of dense matter at the densities in which the compact stars reside. It is not clear whether the merging stars are neutron stars or quark stars containing self-bound quark matter. In this work, we explore the allowed bag-model-like EOSs for the possibility of the latter by assuming the merging stars are strange quark stars (SQSs) from a Bayesian analysis employing the tidal deformability observational data of the GW170817 and GW190425 binary mergers. We consider two extreme states of strange quark matter, either in nonsuperfluid or color-flavor locked (CFL) and find the results in these two cases essentially reconcile. In particular, our results indicate that the sound speed in the SQS matter is approximately a constant close to the conformal limit. The universal relations between the mass, the tidal defromability and the compactness are provided for the SQSs. The most probable values of the maximum mass are found to be MTOV=2.10+0.12-0.12 (2.15+0.16-0.14) for normal (CFL) SQSs at 90\% confidence level. The corresponding radius and tidal deformability for a 1.4 star are R1.4=11.50+0.52-0.55 (11.42+0.52-0.44) km and Lam1.4=650+230-190 (630+220-150), respectively. We also investigate the possibility of GW190814's secondary component m2 of mass 2.59+0.08-0.09Msun as a SQS, and find that it could be a CFL SQS with the pairing gap Delta larger than 244 MeV and the effective bag parameter B1/4eff in the range of 170 to 192 MeV, at 90\% confidence level.
+subjects: StrangeStars, EOS, quarks, NS, bayesian, statistics, inference
+
+link: https://arxiv.org/abs/2107.13787
+title: Inferring properties of neutron stars born in short gamma-ray bursts with a plerion-like X-ray plateau
+authors: L. C. Strang, A. Melatos, N. Sarin, P. D. Lasky
+topic: Time-resolved spectra of six short gamma-ray bursts (sGRBs), measured by the {\em Swift} telescope, are used to estimate the parameters of a plerion-like model of the X-ray afterglow. The unshrouded, optically thin component of the afterglow is modelled as emanating from an expanding bubble of relativistic, shock-accelerated electrons fuelled by a central object. The electrons are injected with a power-law distribution and cool mainly by synchrotron losses. We compute posteriors for model parameters describing the central engine (e.g. spin frequency at birth, magnetic field strength) and shock acceleration (e.g. power-law index, minimum injection energy). It is found that the central engine is compatible with a millisecond magnetar, and the shock physics is compatible with what occurs in Galactic supernova remnants, assuming standard magnetic field models for the magnetar wind. Separately, we allow the magnetic field to vary arbitrarily and infer that it is roughly constant and lower in magnitude than the wind-borne extension of the inferred magnetar field. This may be due to the expansion history of the bubble, or the magnetization of the circumstellar environment of the sGRB progenitor.
+subjects: GRB, SGRB, fitting, model, NS
+
+link: https://arxiv.org/abs/2107.12538
+title: Constraining Properties of GRB Central Engines with X-ray flares
+authors: Shuang-Xi Yi, Wei Xie, Shuai-Bing Ma, Wei-Hua Lei, Mei Du
+topic: X-ray flares in gamma-ray bursts (GRBs) are believed to be generated by the late activities of central engine, and thus provide an useful tool to diagnose the properties of central objects. In this paper, we work on a GRB X-ray flare sample whose bulk Lorentz factors are constrained by two different methods and the jet opening angles are determined by the jet breaks in afterglow lightcurves. Considering a hyperaccreting stellar-mass black hole (BH) as the central engine of GRBs and the Blandford \& Znajek process (BZ) as the jet production mechanism, we constrain the parameters of central engine by using the X-ray flare data. We find that the BZ mechanism is so powerful making it possible to interpret both GRB prompt emissions and bright X-ray flares. The wind parameter (p) and accreted mass (Md) fall into reasonable ranges. Our result is also applied to GRB 170817A. The late X-ray flare in GRB 170817A, if it is true, might not be a BH origin.
+subjects: GRB, flare, origin, physics
+
+link: https://arxiv.org/abs/2107.12418
+title: Gravitational Radiation from Accelerating Jets
+authors: Elly Leiderschneider, Tsvi Piran
+topic: Non-spherical rapid acceleration of mass (or energy) to a relativistic velocity is a natural source of gravitational radiation. Such conditions arise in both long and short gamma-ray bursts whose central engine ejects relativistic jets. The resulting gravitational wave signal is of a memory type, rising to a finite level (of order 4 G E/r) over a duration that corresponds to the longer of either the injection time and the acceleration time of the jet. We explore the properties of such signals and their potential detectability. Unfortunately, the expected signals are below the frequency band of Advanced LIGO-Virgo-Kagra, and above LISA. However, they fall within the range of the planned BBO and DECIGO. While current sensitivity is marginal for the detection of jet gravitational wave signals from GRBs, hidden relativistic jets that exist within some core collapse SNe could be detected. Such a detection would reveal the acceleration mechanism and the activity of the central engine, which cannot be explored directly in any other way
+subjects: GW, Jet, prospect
+revelation: Interesting paper, linking GRB and GW
+
+link: https://arxiv.org/abs/2107.12384
+title: Can the BZ mechanism power steady jets?
+authors: A.R. King, J.E. Pringle
+topic: We consider the Blandford-Znajek (BZ) mechanism for extracting black hole spin energy to drive astrophysical jets. In analyses of the BZ mechanism it is always assumed that the electric charge of the black hole remains zero. But, as noted by Wald and others, if the medium surrounding the black hole is an ionised plasma with mobile charges, then a spinning hole quickly acquires an electric charge. The effect of this charge is to nullify the electric field structures which drive the BZ mechanism -- the electric and magnetic fields then obey EB=0 everywhere. Since jets are now observed in a wide variety of classes of accreting objects, most of which do not contain a central black hole, it seems likely that the jet driving mechanism in all astrophysical objects uses energy directly from the accretion disc, rather than black hole spin.
+subjects: jet, physics, BH, accretion
+
+link: https://arxiv.org/abs/2107.10324
+title: Modified jump conditions for parallel collisionless shocks
+authors: Antoine Bret
+topic: Within the context of Magnetohydrodynamics (MHD), the properties of a parallel shock do not depend on the field strength, as the field and the fluid are disconnected for such a geometry. However, in the collisionless case, the field can sustain a stable anisotropy in the downstream, triggering a departure from the expected MHD behavior. In a recent work [A. Bret and R. Narayan, J. Plasma Phys. \textbf{84}, 905840604 (2018)], a theoretical model was presented allowing to derive the density ratio of a non-relativistic parallel collisionless shock in an electron/positron plasma, as a function of the field. Here we derive the entropy, pressure and temperature jumps stemming from this model. It is found to offer a transition between a 3D and a 1D downstream for the jumps in density, entropy, parallel temperature and parallel pressure.
+subjects: plasma, MHD, physics
+
+link: https://arxiv.org/abs/2107.10644
+title: Special Relativistic Hydrodynamics with CRONOS
+authors: David Huber, Ralf Kissmann
+topic: We describe the special relativistic extension of the CRONOS code, which has been used for studies of gamma-ray binaries in recent years. The code was designed to be easily adaptable, allowing the user to easily change existing functionalities or introduce new modules tailored to the problem at hand. Numerically, the equations are treated using a finite-volume Godunov scheme on rectangular grids, which currently support Cartesian, spherical, and cylindrical coordinates. The employed reconstruction technique, the approximate Riemann solver and the equation of state can be chosen dynamically by the user. Further, the code was designed with stability and robustness in mind, detecting and mitigating possible failures early on. We demonstrate the code's capabilities on an extensive set of validation problems.
+subjects: RHD, code, tests
+
 link: https://arxiv.org/abs/2107.09859
 title: A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra
 authors: Dao-Zhou Wang, Xiao-Hong Zhao, Zhao Zhang, Bin-Bin Zhang, Zhao-Yang Peng

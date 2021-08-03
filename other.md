@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2107.14423
+title: Lunaport: Math, Mechanics & Transport
+authors: Paul C. Kainen
+topic: Issues for transport facilities on the lunar surface related to science, engineering, architecture, and human-factors are discussed. Logistic decisions made in the next decade may be crucial to financial success. In addition to outlining some of the problems and their relations with math and computation, the paper provides useful resources for decision-makers, scientists, and engineers.
+subjects: Luna, Base, prospect
+
 link: https://arxiv.org/abs/2107.07283
 title: Strategies and Advice for the Search for Extraterrestrial Intelligence
 authors: Jason T. Wright
