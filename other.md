@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2108.01730
+title: Avoiding the "Great Filter": A Projected Timeframe for Human Expansion Off-World
+authors: Jonathan H. Jiang, Philip E. Rosen, Kristen A. Fahy
+topic: A foundational model has been developed based on trends built from empirical data of space exploration and computing power through the first six plus decades of the Space Age which projects earliest possible launch dates for human-crewed missions from cis-lunar space to selected Solar System and interstellar destinations. The model uses computational power, expressed as transistors per microprocessor, as a key broadly limiting factor for deep space missions' reach and complexity. The goal of this analysis is to provide a projected timeframe for humanity to become a multi-world species through off-world colonization, and in so doing all but guarantees the long-term survival of the human race from natural and human-caused calamities that could befall life on Earth. Be-ginning with the development and deployment of the first nuclear weapons near the end of World War II, humanity entered a 'Window of Peril' which will not be safely closed until robust off-world colonies become a reality. Our findings suggest the first human-crewed missions to land on Mars, selected Asteroid Belt objects, and selected moons of Jupiter and Saturn can occur before the end of the 21st century. Launches of human-crewed interstellar missions to exoplanet destinations within roughly 40 lightyears of the Solar System are seen as possible during the 23rd century and launch of intragalactic missions by the end of the 24th century. An aggressive and sustained space exploration program, which includes colonization, is thus seen as critical to the long-term survival of the human race.
+subjects: humanity, project, space exploration, estimates, colonization
+
+link: https://arxiv.org/abs/2108.01173
+title: Search for Galactic Civilizations Using Historical Supernovae
+authors: Naoki Seto
+topic: We study an interstellar signaling scheme which was originally proposed by Seto (2019) and efficiently links intentional transmitters to ETI searchers through a conspicuous astronomical burst, without prior communication. Based on the geometrical and game theoretic viewpoints, the scheme can be refined so that intentional signals can be sent and received after observing a reference burst, in contrast to the original proposal (before observing a burst). Given this inverted temporal structure, Galactic supernovae recorded in the past 2000 years can be regarded as interesting guideposts for an ETI search. While the best use period of SN 393 has presumably passed 100 years ago, some of the historical supernovae might allow us to compactify the ETI survey regions down to less than one present of 4pi, around two rings in the sky.
+subjects: SETI, search, civilizations
+
 link: https://arxiv.org/abs/2107.14423
 title: Lunaport: Math, Mechanics & Transport
 authors: Paul C. Kainen

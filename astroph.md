@@ -11,11 +11,53 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2108.03324
+title: Beta equilibrium under neutron star merger conditions
+authors: Mark G. Alford, Alexander Haber, Steven P. Harris, Ziyuan Zhang
+topic: We calculate the isospin chemical potential that is required for beta equilibrium in nuclear matter under neutron star merger conditions, in the temperature range 1 MeV < T < 5 MeV. We improve on previous work by using a consistent description of nuclear matter based on the IUF and SFHo relativistic mean field models. This includes using relativistic dispersion relations for the nucleons, which we show is essential in these models. We find that the isospin chemical potential can be of order 10 to 20 MeV, and plays an important role in the correct calculation of Urca rates, which can be wrong by factors of 10 or more if it is neglected.
+subjects: EOS, NS, nuclear
+
+link: https://arxiv.org/abs/2108.03573
+title: Strong field tests of gravity with electromagnetic and gravitational waves
+authors: Sourabh Nampalliwar
+topic: For nearly a century, Einstein's theory of gravity has been the standard theory for describing gravitational phenomena in our universe. Along with its successes, limitations of the theory from theoretical (e.g., singularities) and observational (e.g., dark matter/energy) perspectives have appeared. This has led to proposals that modify or supersede Einstein's theory, and testing these theories against data, especially in the strong-field regime, has emerged as a new paradigm in physics in recent years. Along with the completely new avenue of gravitational waves, new and improved techniques based on electromagnetic waves are being used to test general relativity (GR) ever more stringently. As the realm beyond GR is unknown, a popular approach is to look for theory-agnostic deviations from GR/predictions of GR. Here I describe how I have used gravitational waves, X-rays, and black hole shadows to put constraints on some of these theory-agnostic deviations.
+subjects: GR, tests
+
+link: https://arxiv.org/abs/2108.03242
+title: Numerical modeling and physical interplay of stochastic turbulent acceleration for non-thermal emission processes
+authors: Sayan Kundu, Bhargav Vaidya, Andrea Mignone
+topic: Particle acceleration is an ubiquitous phenomenon in astrophysical and space plasma. Diffusive shock acceleration (DSA) and stochastic turbulent acceleration are known to be the possible mechanisms for producing very high energetic particles, particularly in weakly magnetized regions. An interplay of different acceleration processes along with various radiation losses is typically observed in astrophysical sources. While DSA is a systematic acceleration process that energizes particles in the vicinity of shocks, stochastic turbulent acceleration (STA) is a random energizing process, where the interaction between cosmic ray particles and electromagnetic fluctuations results in particle acceleration. This process is usually interpreted as a biased random walk in energy space, modelled through a Fokker-Planck equation. In the present work, we describe a novel Eulerian algorithm, adopted to incorporate turbulent acceleration in the presence of DSA and radiative processes like synchrotron and Inverse-Compton emission. The developed framework extends the hybrid Eulerian-Lagrangian module in a full-fledged relativistic Magneto-hydrodynamic (RMHD) code PLUTO. From our validation tests and case studies, we showcase the competing and complementary nature of both acceleration processes. Axisymmetric simulations of an RMHD jet with this extended hybrid framework clearly demonstrate that emission due to shocks is localized while that due to turbulent acceleration originates in the backflow and is more diffuse, particularly in the high energy X-ray band.
+subjects: methods, radion, non-thermal, particle acceleration
+
+link: https://arxiv.org/abs/2108.02881
+title: Unstable modes of hypermassive compact stars driven by viscosity and gravitational radiation
+authors: Peter B. Rau, Armen Sedrakian
+topic: We study the oscillations modes of differential rotating remnants of binary neutron star inspirals by modeling them as incompressible Riemann ellipsoids parametrized by the ratio f of their internal circulation to the rotation frequency. The effects of viscosity and gravitational wave radiation on the modes are studied and it is shown that these bodies exhibit generic instabilities towards gravitational wave radiation akin to the Chandrasekhar-Friedman-Schutz instabilities for uniformly rotating stars. The odd-parity modes are unstable for all values of f (except for the spherical model) and deformations, whereas the even parity unstable modes appear only in highly eccentric ellipsoids. We quantify the modification of the modes with varying mass of the model and the magnitude of the viscosity. The modes are weakly dependent on the range of the masses relevant to the binary neutron star mergers. Large turbulent viscosity can lead to a suppression of the gravitational wave instabilities, whereas kinematical viscosity has a negligible influence on the modes and their damping timescales.
+subjects: NS, model, instabilities, physics
+
+link: https://arxiv.org/abs/2108.02894
+title: A Bayesian inference and model selection algorithm with an optimisation scheme to infer the model noise power
+authors: J. Lopez-Santiago, L. Martino, J. Miguez, M. A. Vazquez
+topic: Model fitting is possibly the most extended problem in science. Classical approaches include the use of least-squares fitting procedures and maximum likelihood methods to estimate the value of the parameters in the model. However, in recent years, Bayesian inference tools have gained traction. Usually, Markov chain Monte Carlo methods are applied to inference problems, but they present some disadvantages, particularly when comparing different models fitted to the same dataset. Other Bayesian methods can deal with this issue in a natural and effective way. We have implemented an importance sampling algorithm adapted to Bayesian inference problems in which the power of the noise in the observations is not known a priori. The main advantage of importance sampling is that the model evidence can be derived directly from the so-called importance weights -- while MCMC methods demand considerable postprocessing. The use of our adaptive target, adaptive importance sampling (ATAIS) method is shown by inferring, on the one hand, the parameters of a simulated flaring event which includes a damped oscillation {and, on the other hand, real data from the Kepler mission. ATAIS includes a novel automatic adaptation of the target distribution. It automatically estimates the variance of the noise in the model. ATAIS admits parallelisation, which decreases the computational run-times notably. We compare our method against a nested sampling method within a model selection problem.
+subjects: statistics, fitting, methods, MCMC, tools
+
+link: https://arxiv.org/abs/2108.02612
+title: Multi-Frequency Implicit Semi-analog Monte-Carlo (ISMC) Radiative Transfer Solver in Two-Dimensions (without Teleportation)
+authors: Elad Steinberg, Shay I. Heizler
+topic: We study the multi-dimensional radiative transfer phenomena using the ISMC scheme, in both gray and multi-frequency problems. Implicit Monte-Carlo (IMC) schemes have been in use for five decades. The basic algorithm yields teleportation errors, where photons propagate faster than the correct heat front velocity. Recently [Poette and Valentin, J. Comp. Phys., 412, 109405 (2020)], a new implicit scheme based on the semi-analog scheme was presented and tested in several one-dimensional gray problems. In this scheme, the material energy of the cell is carried by material-particles, and the photons are produced only from existing material particles. As a result, the teleportation errors vanish, due to the infinite discrete spatial accuracy of the scheme. We examine the validity of the new scheme in two-dimensional problems, both in Cartesian and Cylindrical geometries. Additionally, we introduce an expansion of the new scheme for multi-frequency problems. We show that the ISMC scheme presents excellent results without teleportation errors in a large number of benchmarks, especially against the slow classic IMC convergence.
+subjects: radiation transport, method, monte-carlo, MC
+
+link: https://arxiv.org/abs/2108.01349
+title: Does a long-lived remnant neutron star exist after short gamma-ray burst GRB 160821B?
+authors: Guang-Lei Wu, Yun-Wei Yu, Jin-Ping Zhu
+topic: Mergers of double neutron stars (DNSs) could lead to the formation of a long-lived massive remnant NS, which has been previously suggested to explain the AT 2017gfo kilonova emission in the famous GW170817 event. For an NS-affected kilonova, it is expected that a non-thermal emission component can be contributed by a pulsar wind nebula (PWN), which results from the interaction of the wind from the remnant NS with the preceding merger ejecta. Then, the discovery of such a non-thermal PWN emission can provide an evidence for the existence of the remnant NS. Similar to GRB 170817A, GRB 160821B is also one of the nearest short gamma-ray bursts (SGRBs). A candidate kilonova is widely believed to appear in the ultraviolet-optical-infrared afterglows of GRB 160821B. Here, by modeling the afterglow light curves and spectra of GRB 160821B, we find that the invoking of a non-thermal PWN emission can indeed be well consistent with the observational data. This may indicate that the formation of a stable massive NS could be not rare in the DNS merger events and, thus, the equation of state of the post-merger NSs should be stiff enough.
+subjects: PWN, GRB, afterglow, BNS, counterpart
+
+link: https://arxiv.org/abs/2108.01079
+title: Understanding Gamma-ray Burst Jet Structures from Afterglow Light Curves
+authors: Celia R. Tandon, Nicole M. Lloyd-Ronning
+topic: Gamma-ray bursts (GRBs), associated with the collapse of massive stars or the collisions of compact objects, are the most luminous events in our universe. However, there is still much to learn about the nature of the relativistic jets launched from the central engines of these objects. We examine how jet structure - that is, the energy and velocity distribution as a function of angle - affects observed GRB afterglow light curves. Using the package afterglowpy, we compute light curves arising from an array of possible jet structures, and present the suite of models that can fit the coincident electromagnetic observations of GW190814 (which is likely due to a background AGN). Our work emphasizes not only the need for broadband spectral and timing data to distinguish among jet structure models, but also the necessity for high resolution radio follow-up to help resolve background sources that may mimic a GRB afterglow.
+subjects: GRB, fit, model, appliation
 
 link: https://arxiv.org/abs/2107.14240
 title: Entropy-Conserving Scheme for Modeling Nonthermal Energies in Fluid Dynamics Simulations
