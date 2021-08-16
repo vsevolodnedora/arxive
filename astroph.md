@@ -11,6 +11,31 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2108.05425
+title: Magnetohydrodynamic with Adaptively Embedded Particle-in-Cell model: MHD-AEPIC
+authors: Yinsi Shou, Valeriy Tenishev, Yuxi Chen, Gabor Toth, Natalia Ganushkina
+topic: Space plasma simulations have seen an increase in the use of magnetohydrodynamic (MHD) with embedded Particle-in-Cell (PIC) models. This combined MHD-EPIC algorithm simulates some regions of interest using the kinetic PIC method while employing the MHD description in the rest of the domain. The MHD models are highly efficient and their fluid descriptions are valid for most part of the computational domain, thus making large-scale global simulations feasible. However, in practical applications, the regions where the kinetic effects are critical can be changing, appearing, disappearing and moving in the computational domain. If a static PIC region is used, this requires a much larger PIC domain than actually needed, which can increase the computational cost dramatically.
+To address the problem, we have developed a new method that is able to dynamically change the region of the computational domain where a PIC model is applied. We have implemented this new MHD with Adaptively Embedded PIC (MHD-AEPIC) algorithm using the BATS-R-US Hall MHD and the Adaptive Mesh Particle Simulator (AMPS) as the semi-implicit PIC models. We describe the algorithm and present a test case of two merging flux ropes to demonstrate its accuracy. The implementation uses dynamic allocation/deallocation of memory and load balancing for efficient parallel execution. We evaluate the performance of MHD-AEPIC compared to MHD-EPIC and the scaling properties of the model to large number of computational cores.
+subjects: MHD, PIC, code, mesh, method, numerics
+
+link: https://arxiv.org/abs/2108.05464
+title: Scattering of ultrastrong electromagnetic waves by magnetized particles
+authors: Andrei M. Beloborodov
+topic: Observations of powerful radio waves from neutron star magnetospheres raise the question of how strong waves interact with particles in a strong background magnetic field Bbg. This problem is examined by solving the particle motion in the wave. Remarkably, waves with amplitudes [E0>Bbg] pump particle energy via repeating resonance events, quickly reaching the radiation reaction limit. As a result, the wave is scattered with a huge cross section. This fact has great implications for models of fast radio bursts and magnetars. Particles accelerated in the wave emit gamma-rays, which can trigger an e-pm avalanche and, instead of silent escape, the wave will produce X-ray fireworks.
+subjects: physics, magnetar, particle accelration, mhd, x-ray flares
+
+link: https://arxiv.org/abs/2108.04991
+title: A low-dissipation HLLD approximate Riemann solver for a very wide range of Mach numbers
+authors: Takashi Minoshima, Takahiro Miyoshi
+topic: We propose a new Harten-Lax-van Leer discontinuities (HLLD) approximate Riemann solver to improve the stability of shocks and the accuracy of low-speed flows in multidimensional magnetohydrodynamic (MHD) simulations. Stringent benchmark tests verify that the new solver is more robust against a numerical shock instability and is more accurate for low-speed, nearly incompressible flows than the original solver, whereas additional computational costs are quite low. The novel ability of the new solver enables us to tackle MHD systems, including both high and low Mach number flows.
+subjects: MHD, method, solver, numerics
+
+link: https://arxiv.org/abs/2108.05131
+title: RAIKOU: A General Relativistic, Multi-wavelength Radiative Transfer Code
+authors: Tomohisa Kawashima, Ken Ohsuga, Hiroyuki R. Takahashi
+topic: We present a general relativistic, ray-tracing radiative transfer code RAIKOU for multi-wavlength studies of spectra and images including the black hole shadows around Kerr black holes. Important radiative processes in hot plasmas around black holes, i.e., (cyclo-)synchrotron, bremsstrahlung emission/absorption and Compton/inverse-Compton scattering, are incorporated. The Maxwell-Jüttner and single/broken power-law electron distribution functions are implemented to calculate the radiative transfer via both of the thermal and the nonthermal electrons. Two calculation algorithms are implemented for studies of both the images and broadband spectra. An observer-to-emitter algorithm, which inversely solve the radiative transfer equation from the observer screen to emitting plasmas, is suitable for efficient calculations of the images, e.g., the black hole shadows, and spectra without the Compton effects. On the other hand, an emitter-to-observer algorithm, by which photons are transported with a Monte-Carlo method including the effects of Compton/inverse-Compton scatterings, enables us to compute multi-wavelength spectra with their energy bands broadly ranging from radio to very-high-energy gamma-ray. The code is generally applicable to accretion flows around Kerr black holes with relativistic jets and winds/coronae with various mass accretion rate (i.e., radiatively inefficient accretion flows, super-Eddington accretion flows, and others). We demonstrate an application of the code to a radiatively innefficent accretion flow onto a supermassive black hole.
+subjects: radiation transport, code, new, GR, thermal, non-thermal
+
 link: https://arxiv.org/abs/2108.04565
 title: Semi Universal relation to understand matter properties at neutron star interiors
 authors: Ritam Mallick, Debojoti Kuzur, Rana Nandi
