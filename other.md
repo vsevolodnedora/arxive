@@ -11,6 +11,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2108.10116
+title: Enabling the sustainable space era by developing the infrastructure for a space economy
+authors: Guillem Anglada-Escudé
+topic: The world is changing fast, and so is the space sector. Planning for large scientific experiments two decades ahead may no longer be the most sensible approach. I develop the argument that large science experiments are becoming comparable to terrestrial civil infrastructures in terms of cost. As a result, these should incorporate plans for a return on investment (or impact, not necessarily economic), require a different approach for inter-division coordination within the European Space Agency(ESA), and a broader participation of all society stakeholders (civil society representatives, and the broader public). Defining which experiments will be relevant two decades ahead adds rigidity and quenches creativity to the development of cutting edge science and technology. This is likely to discourage both senior and earlier career professionals into supporting such long-term (and often precarious) plans. A more sensible strategy would be increasing the rate of smaller well understood experiments, engage more society sectors in the development of a truly space-bound infrastructure, and formulate a strategy more in tune with the challenges faced by our society and planet. We argue that such strategy would lead to equally large -- even larger -- scale experiments in the same time-scale, while providing economic returns and a common sense of purpose. A basic but aggressive road map is outlined.
+subjects: organisation, social, projectss, political, science
+
 link: https://arxiv.org/abs/2108.01730
 title: Avoiding the "Great Filter": A Projected Timeframe for Human Expansion Off-World
 authors: Jonathan H. Jiang, Philip E. Rosen, Kristen A. Fahy
