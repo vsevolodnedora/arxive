@@ -5,17 +5,35 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2108.13071
+title: Relativistic hybrid stars in the light of NICER PSR J0740+6620 radius measurement
+authors: Jia Jie Li, Armen Sedrakian, Mark Alford
+topic: We explored the implications of the recent radius determination of PSR J0740+6620 by the NICER experiment combined with the neutron skin measurement by PREX-II experiment for the structure of hybrid stars with a strong first-order phase transition from nucleonic to quark matter. We combine a covariant density-functional nucleonic equation of state (EoS) with a constant speed of sound EoS for quark matter. We show that the radius and tidal deformability ranges obtained from GW170817 can be reconciled with the PREX-II results if there is a phase transition to quark matter in the low-mass compact star. In the high-mass segment, the EoS needs to be stiff to comply with the large-radius inference for PSR J0740+6620 and J0030+0451 with a masses M≃2Msun and M=1.4Msun. We show that twin stars are not excluded, but the mass and radius ranges (with M\geq Msun) are restricted to narrow domains Delta Mtwin \leq 0.05Msun and DeltaRtwin sim 1.0 km. We also show that the existence of twin configurations is compatible with the light companion in GW190814 event being a hybrid star in the case of values of the sound-speed square s=0.6.
+subjects: NS, EOS, NICER, MM, nucleo
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2108.13733
+title: Structure of ultra-magnetised neutron stars
+authors: Debarati Chatterjee, Jerome Novak, Micaela Oertel
+topic: In this review we discuss self-consistent methods to calculate the global structure of strongly magnetised neutron stars within the general-relativistic framework. We outline why solutions in spherical symmetry cannot be applied to strongly magnetised compact stars, and elaborate on a consistent formalism to compute rotating magnetised neutron star models. We also discuss an application of the above full numerical solution for studying the influence of strong magnetic fields on the radius and crust thickness of magnetars. The above technique is also applied to construct a "universal" magnetic field profile inside the neutron star, that may be useful for studies in nuclear physics. The methodology developed here is particularly useful to interpret multi-messenger astrophysical data of strongly magnetised neutron stars.
+subjects: NS, MHD, method, discussion
+
+link: https://arxiv.org/abs/2108.13622
+title: Exponential Integrators for MHD: Matrix-free Leja interpolation and efficient adaptive time stepping
+authors: Pranab Deka, Lukas Einkemmer
+topic: We propose a novel algorithm for the temporal integration of the magnetohydrodynamics (MHD) equations. The approach is based on exponential Rosenbrock schemes in combination with Leja interpolation. It naturally preserves Gauss's law for magnetism and is unencumbered by the stability constraints observed for explicit methods. Remarkable progress has been achieved in designing exponential integrators and computing the required matrix functions efficiently. However, employing them in realistic MHD scenarios require matrix-free implementations that are competent on modern computer hardware. We show how an efficient algorithm based on Leja interpolation that only uses the right-hand side of the differential equation (i.e. matrix-free), can be constructed. We further demonstrate that it outperforms, in the context of magnetic reconnection and the Kelvin--Helmholtz instability, earlier work on Krylov-based exponential integrators as well as explicit methods. Furthermore, an adaptive step size strategy is employed that gives an excellent and predictable performance, particularly in the lenient to intermediate tolerance regime that is often of importance in practical applications.
+subjects: MHD, code, method, new, physics, numerics
+
+link: https://arxiv.org/abs/2108.13864
+title: Magnetorotational core collapse of possible GRB progenitors. IV. A wider range of progenitors
+authors: M. Obergaulinger, M.Á. Aloy (U València)
+topic: The final collapse of the cores of massive stars can lead to a wide variety of outcomes in terms of electromagnetic and kinetic energies, nucleosynthesis, and remnants. While exists the connection of this wide spectrum of explosion and remnant types to the properties H of the progenitors remains an open issue, rotation and magnetic fields in Wolf-Rayet stars of subsolar metallicity have been suggested as explanations for extreme events such as superluminous supernovae and gamma-ray bursts powered by proto-magnetars or collapsars. Continuing numerical studies of magnetorotational core collapse including detailed neutrino physics, we focus on progenitors with zero-age main-sequence masses in the range between 5 and 39 solar masses. All of the pre-collapse stars were calculated in spherical symmetry employing prescriptions for the effects of rotation and magnetic fields, with eight of the ten stars we consider being the results of chemically homogeneous evolution due to enhanced rotational mixing (Aguilera-Dena et al. 2018). All but one of them produce explosions driven by neutrino heating (more likely for low mass progenitors up to 8 solar masses) and non-spherical flows or by magnetorotational stresses (more frequent above 26 solar masses). In most of them and for the one non-exploding model, ongoing accretion leads to black-hole formation. Rapid rotation makes a subsequent collapsar activity plausible. If no black hole is formed, proto-magnetar driven jets can be expected and are, in fact, found in the simulations. Conditions for the formation of nickel are more favourable in magnetorotationally driven models, though our rough estimates fall short of the requirements for extremely bright events.
+subjects: steallr physics, GRB, projenitors, statistics
+
+link: https://arxiv.org/abs/2108.13453
+title: Discrete implicit Monte-Carlo (DIMC) scheme for simulating radiative transfer problems
+authors: Elad Steinberg, Shay I. Heizler
+topic: We present a new algorithm for radiative transfer, based on a statistical Monte-Carlo approach, that does not suffer from teleportation effects on the one hand, and yields smooth results on the other hand. Implicit-Monte-Carlo (IMC) techniques for modeling radiative transfer exist from the 70's. However, in optically thick problems, the basic algorithm suffers from "teleportation" errors, where the photons propagate faster than the exact physical behavior, due to the absorption-black body emission processes. One possible solution is to use semi-analog Monte-Carlo, in its new implicit form (ISMC), that uses two kinds of particles, photons and discrete material particles. This algorithm yields excellent teleportation-free results, however, it also results with nosier solutions (relative to classic IMC) due to its discrete nature. Here, we derive a new Monte-Carlo algorithm, Discrete implicit Monte-Carlo (DIMC) that uses the idea of the two-kind discrete particles and thus, does not suffer from teleportation errors. DIMC implements the IMC discretization and creates new radiation photons each time step, unlike ISMC. This yields smooth results as classic IMC, due to the continuous absorption technique. One of the main parts of the algorithm is the avoidance of population explosion of particles, using particle merging. We test the new algorithm in both one and two-dimensional cylindrical problems, and show that it yields smooth, teleportation-free results. We finish in demonstrating the power of the new algorithm in a classic radiative hydrodynamic problem, an opaque radiative shock wave. This demonstrates the power of the new algorithm in astrophysical scenarios.
+subjects: radiation transport, MCMC, physics, method
 
 link: https://arxiv.org/abs/2108.12368
 title: Uncertainty limits on neutron star radius measurements with gravitational waves
