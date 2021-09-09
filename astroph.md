@@ -5,6 +5,85 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2109.01381
+title: Segmentation of turbulent computational fluid dynamics simulations with unsupervised ensemble learning
+authors: Maarja Bussov, Joonas Nättilä
+topic: Computer vision and machine learning tools offer an exciting new way for automatically analyzing and categorizing information from complex computer simulations. Here we design an ensemble machine learning framework that can independently and robustly categorize and dissect simulation data output contents of turbulent flow patterns into distinct structure catalogues. The segmentation is performed using an unsupervised clustering algorithm, which segments physical structures by grouping together similar pixels in simulation images. The accuracy and robustness of the resulting segment region boundaries are enhanced by combining information from multiple simultaneously-evaluated clustering operations. The stacking of object segmentation evaluations is performed using image mask combination operations. This statistically-combined ensemble (SCE) of different cluster masks allows us to construct cluster reliability metrics for each pixel and for the associated segments without any prior user input. By comparing the similarity of different cluster occurrences in the ensemble, we can also assess the optimal number of clusters needed to describe the data. Furthermore, by relying on ensemble-averaged spatial segment region boundaries, the SCE method enables reconstruction of more accurate and robust region of interest (ROI) boundaries for the different image data clusters. We apply the SCE algorithm to 2-dimensional simulation data snapshots of magnetically-dominated fully-kinetic turbulent plasma flows where accurate ROI boundaries are needed for geometrical measurements of intermittent flow structures known as current sheets.
+subjects: hydro, postprocessing, machine learning, ML, tool
+
+link: https://arxiv.org/abs/2109.01307
+title: Mini-disk accretion onto spinning black hole binaries: quasi-periodicities and outflows
+authors: Luciano Combi, Federico G Lopez Armengol, Manuela Campanelli, Scott C. Noble, Mark Avara, Julian H. Krolik, Dennis Bowen
+topic: We perform a full 3D general relativistic magnetohydrodynamical (GRMHD) simulation of an equal-mass, spinning, binary black hole approaching merger, surrounded by a circumbinary disk and with a mini-disk around each black hole. For this purpose, we evolve the ideal GRMHD equations on top of an approximated spacetime for the binary that is valid in every position of space, including the black hole horizons, during the inspiral regime. We use relaxed initial data for the circumbinary disk from a previous long-term simulation, where the accretion is dominated by a m=1 overdensity called the lump. We compare our new spinning simulation with a previous non-spinning run, studying how spin influences the mini-disk properties. We analyze the accretion from the inner edge of the lump to the black hole, focusing on the angular momentum budget of the fluid around the mini-disks. We find that mini-disks in the spinning case have more mass over a cycle than the non-spinning case. However, in both cases, we find most of the mass received by the black holes is delivered by the direct plunging of material from the lump. We also analyze the morphology and variability of the electromagnetic fluxes and we find they share the same periodicities of the accretion rate. In the spinning case, we find that the outflows are 8 times stronger than the non-spinning case. Our results will be useful to understand and produce realistic synthetic light curves and spectra, which can be used in future observations.
+subjects: BBH, disk, outflow, GRMHD
+
+link: https://arxiv.org/abs/2109.01263
+title: Radiative MHD Simulations of Photon Bubbles in Radiation-Supported Magnetized Atmospheres of Neutron Stars with Isotropic Thomson Scattering
+authors: Lizhong Zhang, Omer Blaes, Yan-Fei Jiang
+topic: A major uncertainty in the structure and dynamics of magnetized, radiation pressure dominated neutron star accretion columns in X-ray pulsars and pulsating ultraluminous X-ray sources is that they are thought to be subject to the photon bubble instability. We present the results of two dimensional radiation relativistic magnetohydrodynamic simulations of a non-accreting, static atmosphere to study the development of this instability assuming isotropic Thomson scattering in the slow diffusion regime that is relevant to neutron star accretion columns. Photon bubbles generally grow faster toward shorter wavelengths, until a maximum growth rate is achieved at the radiation viscosity length scale, which is generally quite small and requires high numerical resolution to simulate. We confirm the consistency between our simulation results and linear theory in detail, and show that the nonlinear evolution inevitably leads to collapse of the atmosphere with the higher resolution simulation collapsing faster due to the presence of shorter length scale nonlinear structures. At least in static atmospheres with horizontally periodic boundary conditions, this resolution dependence may make simulations of the nonlinear dynamics of photon bubble instability in neutron star accretion columns challenging. It remains to be seen whether these difficulties will persist upon inclusion of an accretion flow through the top and magnetically-confined horizontal boundaries through which photons can escape. Our results here provide a foundation for such future work.
+subjects: radiation, simulation, atmosphere, NS, x-ray
+
+link: https://arxiv.org/abs/2109.01159
+title: High-Order Multipole and Binary Love Number Universal Relations
+authors: Daniel A. Godzieba, David Radice
+topic: Using a data set of approximately 2 million phenomenological equations of state consistent with observational constraints, we construct new equation-of-state-insensitive universal relations that exist between the multipolar tidal deformability parameters of neutron stars, for several high-order multipoles (l=5,6,7,8). We confirm the existence of a universal relation between the radius of the 1.4M NS, R1.4 and the reduced tidal parameter of the binary, and the chirp mass. We extend this relation to a large number of chirp masses and to the radii of isolated NSs of different mass M, RM. We find that there is an optimal value of M for every such that the uncertainty in the estimate of RM is minimized when using the relation. We discuss the utility and implications of these relations for the upcoming LIGO O4 run and third-generation detectors.
+subjects: universal relation, GW, NS, BNS
+
+link: https://arxiv.org/abs/2109.00424
+title: Inclination estimates from off-axis GRB afterglow modelling
+authors: Gavin P Lamb, Joseph J Fernández, Fergus Hayes, Albert K H Kong, En-Tzu Lin, Nial R Tanvir, Martin Hendry, Ik Siong Heng, Surojit Saha, John Veitch
+topic: For gravitational wave (GW) detected neutron star mergers, one of the leading candidates for electromagnetic (EM) counterparts is the afterglow from an ultra-relativistic jet. Where this afterglow is observed, it will likely be viewed off-axis, such as the afterglow following GW170817/GRB 170817A. The temporal behaviour of an off-axis observed GRB afterglow can be used to reveal the lateral jet structure, and statistical model fits can put constraints on the various model free-parameters. Amongst these parameters is the inclination of the system to the line of sight. Along with the GW detection, the afterglow modelling provides the best constraint on the inclination to the line-of-sight and can improve the estimates of cosmological parameters e.g. the Hubble constant, from GW-EM events. However, modelling of the afterglow depends on the assumed jet structure and, often overlooked, the effects of lateral spreading. Here we show how the inclusion of lateral spreading in the afterglow models can affect the estimated inclination of GW-EM events.
+subjects: sGRB, afterglow, model, parameter inference, structured
+
+link: https://arxiv.org/abs/2109.00251
+title: EoS for hot neutron stars
+authors: Adriana R. Raduta, Flavia Nacu, Micaela Oertel
+topic: We review the equation of state (EoS) models covering a large range of temperatures, baryon number densities and electron fractions presently available on the \textsc{CompOSE} database. These models are intended to be directly usable within numerical simulations of core-collapse supernovae, binary neutron star mergers and proto-neutron star evolution. We discuss their compliance with existing constraints from astrophysical observations and nuclear data. For a selection of purely nucleonic models in reasonable agreement with the above constraints, after discussing the properties of cold matter, we review thermal properties for thermodynamic conditions relevant for core-collapse supernovae and binary neutron star mergers. We find that the latter are strongly influenced by the density dependence of the nucleon effective mass. The selected bunch of models is used to investigate the EoS dependence of hot star properties, where entropy per baryon and electron fraction profiles are inspired from proto-neutron star evolution. The Gamma-law analytical thermal EoS used in many simulations is found not to describe well these thermal properties of the EoS. However, it may offer a fair description of the structure of hot stars whenever thermal effects on the baryonic part are small, as shown here for proto-neutron stars starting from several seconds after bounce.
+subjects: EOS, review, overview, cold, hot
+
+link: https://arxiv.org/abs/2109.00814
+title: Are Interactions with Neutron Star Merger Winds Shaping the Jets?
+authors: Lorenzo Nativi (1), Gavin P. Lamb (2), Stephan Rosswog (1), Christoffer Lundman (1), Grzegorz Kowal 
+topic: Jets can become collimated as they propagate through dense environments and understanding such interactions is crucial for linking physical models of the environments to observations. In this work, we use 3D special-relativistic simulations to study how jets propagate through the environment created around a neutron star merger remnant by neutrino-driven winds. We simulate four jets with two different initial structures, top-hat and Gaussian, and two luminosities. After jet breakout, we study the angular jet structures and the resulting afterglow light curves. We find that the initial angular structures are efficiently washed out during the propagation, despite the small wind mass of only 10-3Msun. The final structures depend, however, on the jet luminosity, as less energetic jets are more strongly collimated. Although entrainment of baryons leads to only moderate outflow Lorentz factors (40), all simulated jets can well reproduce the afterglow observed in the aftermath of GW170817. The inferred physical parameters (e.g. inclination angle, ambient particle number density), however, vary substantially between the fits and appear to be sensitive to smaller details of the angular jet shape, indicating that observationally inferred parameters may depend sensitively on the employed jet models.
+subjects: jet, hydro, simulation, break-out, afterglow
+
+link: https://arxiv.org/abs/2109.00565
+title: Estimating outflow masses and velocities in merger simulations: impact of r-process heating and neutrino cooling
+authors: Francois Foucart, Philipp Moesta, Teresita Ramirez, Alex James Wright, Siva Darbha, Daniel Kasen
+topic: The determination of the mass, composition, and geometry of matter outflows in black hole-neutron star and neutron star-neutron star binaries is crucial to current efforts to model kilonovae, and to understand the role of neutron star merger in r-process nucleosynthesis. In this manuscript, we review the simple criteria currently used in merger simulations to determine whether matter is unbound and what the asymptotic velocity of ejected material will be. We then show that properly accounting for both heating and cooling during r-process nucleosynthesis is important to accurately predict the mass and kinetic energy of the outflows. We also derive a model accounting for both of these effects that can be easily implemented in merger simulations. We show, however, that the detailed velocity distribution and geometry of the outflows can currently only be captured by full 3D fluid simulations of the outflows, as non-local effect ignored by the simple criteria used in merger simulations cannot be safely neglected when modeling these effects. Finally, we propose the introduction of simple source terms in the fluid equations to approximately account for heating/cooling from r-process nucleosynthesis in future seconds-long 3D simulations of merger remnants, without the explicit inclusion of out-of-nuclear statistical equilibrium reactions in the simulations.
+subjects: BNS, NSBH, simulations, ejecta, heating, r-process, outflow
+revelation: priority 
+
 link: https://arxiv.org/abs/2108.13071
 title: Relativistic hybrid stars in the light of NICER PSR J0740+6620 radius measurement
 authors: Jia Jie Li, Armen Sedrakian, Mark Alford
