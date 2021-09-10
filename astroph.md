@@ -23,17 +23,48 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2109.02666
+title: Pitch Angle Anisotropy Controls Particle Acceleration and Cooling in Radiative Relativistic Plasma Turbulence
+authors: Luca Comisso, Lorenzo Sironi
+topic: Nature's most powerful high-energy sources are capable of accelerating particles to high energy and radiate it away on extremely short timescales, even shorter than the light crossing time of the system. It is yet unclear what physical processes can produce such an efficient acceleration, despite the copious radiative losses. By means of radiative particle-in-cell simulations, we show that magnetically dominated turbulence in pair plasmas subject to strong synchrotron cooling generates a nonthermal particle spectrum with a hard power-law range (slope p=1) within a few eddy turnover times. Low pitch-angle particles can significantly exceed the nominal radiation-reaction limit, before abruptly cooling down. The particle spectrum becomes even harder [p<1] over time owing to particle cooling with an energy-dependent pitch-angle anisotropy. The resulting synchrotron spectrum is hard. Our findings have important implications for understanding the nonthermal emission from high-energy astrophysical sources, most notably the prompt phase of gamma-ray bursts and gamma-ray flares from the Crab nebula.
+subjects: GRB, PIC, electron spectrum
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2109.02796
+title: Dissipative Magnetohydrodynamics for Non-Resistive Relativistic Plasmas
+authors: Elias R. Most, Jorge Noronha
+topic: Based on a 14-moment closure for non-resistive (general-) relativistic viscous plasmas, we describe a new numerical scheme that is able to handle all first-order dissipative effects (heat conduction, bulk and shear viscosities), as well the anisotropies induced by the presence of magnetic fields. The latter is parameterized in terms of a thermal gyrofrequency or, equivalently, a thermal Larmor radius and allows to correctly capture the thermal Hall effect. By solving an extended Israel-Stewart-like system for the dissipative quantities that enforces algebraic constraints via stiff-relaxation, we are able to cast all first-order dissipative terms in flux-divergence form. This allows us to apply traditional high-resolution shock capturing methods to the equations, making the system suitable for the numerical study of highly turbulent flows. We present several numerical tests to assess the robustness of our numerical scheme in flat spacetime. The 14-moment closure can seamlessly interpolate between the highly collisional limit found in neutron star mergers, and the highly anisotropic limit of relativistic Braginskii magnetohydrodynamics appropriate for weakly collisional plasmas in black-hole accretion problems. We believe that this new formulation and numerical scheme will be useful for a broad class of relativistic magnetized flows.
+subjects: method, scheme, physics, MHD, MF
+
+link: https://arxiv.org/abs/2109.02679
+title: Machine Learning for Conservative-to-Primitive in Relativistic Hydrodynamics
+authors: Tobias Dieselhorst, William Cook, Sebastiano Bernuzzi, David Radice
+topic: The numerical solution of relativistic hydrodynamics equations in conservative form requires root-finding algorithms that invert the conservative-to-primitive variables map. These algorithms employ the equation of state of the fluid and can be computationally demanding for applications involving sophisticated microphysics models. This work explores the use of machine learning methods to speed up the recovery of primitives in relativistic hydrodynamics. Artificial neural networks are trained to replace either the interpolations of a tabulated equation of state or directly the conservative-to-primitive map. The application of these neural networks to simple benchmark problems show that both approaches improve over traditional root finders with tabular equation-of-state and multi-dimensional interpolations. In particular, the neural networks for the conservative-to-primitive map accelerate the variable recovery by more than an order of magnitude over standard methods while maintaining accuracy. Neural networks are thus an interesting option to improve the speed and robustness of relativistic hydrodynamics algorithms.
+subjects: hydro, HD, method, ML, tools
+
+link: https://arxiv.org/pdf/2109.02648.pdf
+title: What powers the radio emission in TDE AT2019dsg: a long-lived jet or
+the disruption itself?
+authors: Tatsuya Matsumoto, Tsvi Piran, Julian H. Krolik
+topic: The tidal disruption event, AT2019dsg, was observed across a broad range of electromagnetic-wavelengths from radio to X-rays, and it was possibly accompanied by a high-energy neutrino. We study the nature of the radio-emitting outflow by analyzing the synchrotron self-absorbed spectra in terms of the equipartition model. We find that the time evolution of the outflow radius can be interpreted as either free expansion or deceleration. If the former, the outflow was launched 40 days before the optical peak; if the latter, the launch was 10 days after the optical peak. In addition, the energy in the radio-emitting region increases over time. This second conclusion is most naturally interpreted by a scenario resembling the earliest stage of a supernova remnant: as more and more material is swept up, it is heated by the forward shock at the expense of the outflow's kinetic energy. Energy injection from an accreting BH cannot be completely excluded, but the injection rate is very different from the fallback luminosity, requiring further physical explanation. If the neutrino association is real, the scale of energy injection needed is much greater than for the radio emission, suggesting that the detected neutrino did not arise from the radio emitting region.
+subjects: TDE, radio, observations, mechanism
+
+link: https://arxiv.org/abs/2109.01919
+title: Equation of state and composition of proto-neutron stars and merger remnants with hyperons
+authors: Armen Sedrakian, Arus Harutyunyan
+topic: Finite-temperature equation of state (EoS) and composition of dense nuclear and hypernuclear matter under conditions characteristic for neutron star binary merger remnants and supernovas are discussed. We consider both the neutrino free-streaming and the trapped regimes which are separated by a temperature of a few MeV. The formalism is based on covariant density functional (CDF) theory for the full baryon octet with density-dependent couplings, suitably adjusted in the hypernuclear sector. The softening of the EoS with the introduction of the hyperons is quantified under various conditions of lepton fractions and temperatures. We find that hyperons appear in the given order with the sharp density increase at zero temperature at the threshold being replaced by an extended increment over a wide density range at high temperatures. The Lambda hyperon survives in the deep subnuclear regime. The triplet of Sigmas is suppressed in cold hypernuclear matter up to around seven times the nuclear saturation density, but appears in significant fractions at higher temperatures [T>20] MeV in both supernova and merger remnant matter. We point out that there exists a special isospin degeneracy point where the baryon abundances within each of the three isospin-multiplets are equal to each other as a result of (approximate) isospin symmetry. At that point the charge chemical potential of the system vanishes. We find that under the merger remnant conditions the fractions of electron and μ-on neutrinos are close and are about 1\%, whereas in the supernova case, we find only a significant fraction (10\%) of electron neutrinos, given that in this case, the μ-on lepton number is zero.
+subjects: EOS, hyperons, quantum
+
+link: https://arxiv.org/abs/2109.02509
+title: Dynamical ejecta of neutron star mergers with nucleonic weak processes I: Nucleosynthesis
+authors: I. Kullmann, S. Goriely, O. Just, R. Ardevol-Pulpillo, A. Bauswein, H.-T. Janka
+topic: We present a coherent study of the impact of neutrino interactions on the r-process element nucleosynthesis and the heating rate produced by the radioactive elements synthesised in the dynamical ejecta of neutron star-neutron star (NS-NS) mergers. We have studied the material ejected from four NS-NS merger systems based on the hydrodynamical simulations of Ardevol-Pulpillo et al. (2019) which handle neutrino effects in an elaborate way by including neutrino equilibration with matter in optically thick regions and re-absorption in optically thin regions. We find that the neutron richness of the dynamical ejecta is significantly affected by the neutrinos emitted by the post-merger remnant, in particular when compared to a case neglecting all neutrino interactions. Our nucleosynthesis results show that a solar-like distribution of r-process elements with mass numbers [A>90] is produced, including a significant enrichment in Sr and a reduced production of actinides compared to simulations without inclusion of the nucleonic weak processes. The composition of the ejected matter as well as the corresponding rate of radioactive decay heating are found to be rather independent of the system mass asymmetry and the adopted equation of state. This approximate degeneracy in abundance pattern and heating rates can be favourable for extracting the ejecta properties from kilonova observations. Part II of this work will study the light curve produced by the dynamical ejecta of our four NS merger models.
+subjects: BNS, ejecta, nucleo, r-process, simulations
+
+link: https://arxiv.org/abs/2109.01752
+title: A transient radio source consistent with a merger-triggered core collapse supernova
+authors: Dillon Z. Dong, Gregg Hallinan, Ehud Nakar, Anna Y. Q. Ho, Andrew K. Hughes, Kenta Hotokezaka, Steve T. Myers, Kishalay De, Kunal Mooley, Vikram Ravi, Assaf Horesh, Mansi M. Kasliwal, Shri R. Kulkarni
+topic: A core-collapse supernova occurs when exothermic fusion ceases in the core of a massive star, typically due to exhaustion of nuclear fuel. Theory predicts that fusion could be interrupted earlier, by merging of the star with a compact binary companion. We report a luminous radio transient, VT J121001+495647, found in the Very Large Array Sky Survey. The radio emission is consistent with supernova ejecta colliding with a dense shell of material, potentially ejected by binary interaction in the centuries prior to explosion. We associate the supernova with an archival X-ray transient, which implies a relativistic jet was launched during the explosion. The combination of an early relativistic jet and late-time dense interaction is consistent with expectations for a merger-driven explosion.
+subjects: NS, SN, radio emission, observations
 
 link: https://arxiv.org/abs/2109.01381
 title: Segmentation of turbulent computational fluid dynamics simulations with unsupervised ensemble learning
