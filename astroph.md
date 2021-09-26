@@ -11,11 +11,48 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2109.10639
+title: Nonlinear particle reacceleration by multiple shocks
+authors: Thibault Vieu, Stefano Gabici, Vincent Tatischeff
+topic: When the pressure of particles accelerated at shock waves is no longer negligible compared to the kinetic pressure of the gas, the linear theory of diffusive shock acceleration breaks down. This is expected in particular when the shock sweeps up preexisting cosmic rays, or when multiple shocks reaccelerate successively the same particles. To describe these systems, one has to account for the nonlinear backreaction of the particles on the magnetohydrodynamic flow. Using an up-to-date semi-analytical model of particle reacceleration at nonlinear shocks, we show that the presence of prexisting energetic particles strongly affects the shock profile, in such a way that the reacceleration of non thermal particles or the acceleration of particles from the thermal bath becomes less efficient. We further describe the evolution of the distribution of particles after several shocks and study the properties of the asymptotic solution. We detail the case of identical shocks as well as more realistic scenarios, including the heating of the medium or superbubble environments. When the particles are efficiently confined in the acceleration region, it is generally found that the spectrum converges toward a concave solution after a few tens of shocks, with a spectral index around 3.5 at the highest energy. The postshock cosmic ray pressure reaches an asymptotic value of about 4-5\% of the ram pressure of one shock. Most of the shock pressure is transferred to escaping particles.
+subjects: physics, shocks, acceleration
+
+link: https://arxiv.org/abs/2109.11489
+title: Dynamic model of a non-equilibrium chemical composition formation in the shell of single neutron stars
+authors: A. Yu. Ignatovskiy, G. S. Bisnovatyi-Kogan
+topic: The process of a non-equilibrium chemical composition formation in the crust of a new born neutron star is considered, during cooling due to neutrino energy losses. A model is constructed for explaining accumulation of a large quantity of nuclear energy, which can maintain the X-ray luminosity of such compact objects for a long period of time. We studied numerically the dependence of the final chemical composition on various parameters of the model.
+subjects: nucleo, crust, NS, model
+
+link: https://arxiv.org/abs/2109.11114
+title: X-ray Flares Raising upon Magnetar Plateau as an Implication of a Surrounding Disk of Newborn Magnetized Neutron Star
+authors: Tian-Ci Zheng, Long Li, Le Zou, Xiang-Gao Wang
+topic: The X-ray flares have usually been ascribed to long-lasting activities of the central engine of gamma-ray bursts (GRBs), e.g., fallback accretion. The GRB X-ray plateaus, however, favor a millisecond magnetar central engine. The fallback accretion can be significantly suppressed due to the propeller effect of a magnetar. Therefore, if the propeller regime cannot resist the mass flow onto the surface of the magnetar efficiently, the X-ray flares raise upon the magnetar plateau would be hinted. In this work, such peculiar cases are connected to the accretion process of a magnetar, and an implication for magnetar-disc structure is given. We investigate the repeating accretion process with multi-flare GRB 050730, and give a discussion for the accreting induced variation of the magnetic field in GRB 111209A. Two or more flares exhibit in the GRB 050730, GRB 060607A, and GRB 140304A; by adopting magnetar mass M=1.4 Msun and radius R=12 km, the average mass flow rates of the corresponding surrounding disk are 3.53x10-4 Msun s-1, 4.23x10-4 Msun s-1, and 4.33x10-4 Mun s-1, and the corresponding average sizes of the magnetosphere are 5.01 x106cm, 6.45 x106cm, and 1.09 x107cm, respectively. A statistic analysis that contains 8 GRBs within 12 flares shows that the total mass loading in single flare is 2x10-5 Msun. In the lost mass of a disk, there are about 0.1\% used to feed a collimated jet.
+subjects: GRB, magnetar, fall-back, x-ray flare, model
+
+link: https://arxiv.org/abs/2109.08732
+title: Long-term evolution of neutron-star merger remnants in general relativistic resistive-magnetohydrodynamics with a mean-field dynamo term
+authors: Masaru Shibata, Sho Fujibayashi, Yuichiro Sekiguchi
+topic: Long-term neutrino-radiation resistive-magnetohydrodynamics simulations in full general relativity are performed for a system composed of a massive neutron star and a torus formed as a remnant of binary neutron star mergers. The simulation is performed in axial symmetry incorporating a mean-field dynamo term for a hypothetical amplification of the magnetic-field strength. We first calibrate the mean-field dynamo parameters by comparing the results for the evolution of black hole-disk systems with viscous hydrodynamics results. We then perform simulations for the system of a remnant massive neutron star and a torus. As in the viscous hydrodynamics case, the mass ejection occurs primarily from the torus surrounding the massive neutron star. The total ejecta mass and electron fraction in the new simulation are similar to those in the viscous hydrodynamics case. However, the velocity of the ejecta can be significantly enhanced by magnetohydrodynamics effects caused by global magnetic fields.
+subjects: GRMHD, simulations, NS
+
+link: https://arxiv.org/abs/2109.09162
+title: r-process nucleosynthesis from compact binary mergers
+authors: Albino Perego, Friedrich-Karl Thielemann, Gabriele Cescutti
+topic: The merger of two neutron stars or of a neutron star and a black hole often result in the ejection of a few percents of a solar mass of matter expanding at high speed in space. Being matter coming from the violent disruption of a neutron star, these ejecta are initially very dense, hot and extremely rich in neutrons. The few available protons form heavy nuclei (seeds) that absorb the more abundant free neutrons, increasing their size. The neutron density is so high that a substantial number of neutron captures occur before the resulting unstable nuclei can decay toward more stable configurations, converting neutrons into protons. Depending mostly on the initial neutron richness, this mechanism leads to the formation of up to half of the heavy elements that we observe in nature and it is called rapid neutron capture process (r-process). The prediction of the precise composition of the ejecta requires a detailed knowledge of the properties of very exotic nuclei, that have never been produced in a laboratory. Despite having long been a speculative scenario, nowadays several observational evidences point to compact binary mergers as one of the major sites where heavy elements are formed in the Universe. The most striking one was the detection of a kilonova following the merger of a neutron star binary: the light emitted by this astronomical transient is indeed powered by the radioactive decay of freshly synthesized neutron-rich nuclei and testifies the actual nature of compact binary mergers as cosmic forges.
+subjects: review, r-process, bns
+revelation: important for general knowlage
+
+link: https://arxiv.org/abs/2109.08276
+title: Magnetically supramassive neutron stars
+authors: Arthur G Suvorov, Kostas Glampedakis
+topic: It is commonly believed that neutron stars exceeding the maximum mass limit for stability could be formed in the aftermath of binary neutron star mergers, enjoying a short life of metastability before losing centrifugal support and collapsing to a black hole. It is suggested here that a similar scenario could take place when the remnant's excess mass is supported by an ultra-strong [>10to17 G] magnetic field that could be generated during, and shortly after, coalescence. We show that such 'magnetically supramassive' neutron stars could stave off collapse and survive for a few years before their magnetic energy is sufficiently dissipated due to ambipolar diffusion. In addition, we speculate on multi-messenger signatures of such objects and discuss the robustness of our results against limitations placed by neutron superfluidity and magneto-thermal evolution
+subjects: BNS, remnant, MF, stability, MM
+
+link: https://arxiv.org/abs/2109.06211
+title: Deep Hubble Space Telescope Observations of GW170817: Complete Light Curves and the Properties of the Galaxy Merger of NGC 4993
+authors: Charles D. Kilpatrick, Wen-fai Fong, Peter K. Blanchard, Joel Leja, Anya E. Nugent, Antonella Palmese, Kerry Paterson, Tjitske Starkenburg, Kate D. Alexander, Edo Berger, Ryan Chornock, Aprajita Hajela, Raffaella Margutti
+topic: We present the complete set of {\it Hubble Space Telescope} imaging of the binary neutron star merger GW170817 and its optical counterpart AT 2017gfo. Including deep template imaging in F814W, F110W, F140W, and F160W at 3.4 years post-merger, we re-analyze the full light curve of AT 2017gfo across 12 bands from 5--1273 rest-frame days after merger. We obtain four new detections of the short gamma-ray burst (GRB) 170817A afterglow from 109--170 rest-frame days post-merger. These detections are consistent with the previously observed beta=-0.6 spectral index in the afterglow light curve with no evidence for spectral evolution. We also analyze our limits in the case of novel late-time optical and IR emission signatures, such as a kilonova afterglow or infrared dust echo, but find our limits are not constraining in these contexts. We use the new data to construct deep optical and infrared stacks, reaching limits of M=-6.3 to -4.6 mag, to analyze the local environment around AT 2017gfo and low surface brightness features in its host galaxy NGC 4993. We rule out the presence of any globular cluster at the position of AT 2017gfo, including those with the reddest V-H colors. Finally, we analyze the substructure of NGC 4993 in deep residual imaging, and find shell features which extend up to 71.8\arcsec\ (14.2 kpc) from the center of the galaxy. We find that the shells have a cumulative stellar mass of roughly 2\% the total stellar mass of NGC 4993, and mass-weighted ages of [>3 Gyr]. We conclude that it was unlikely the GW170817 progenitor system formed in the galaxy merger, which based on dynamical signatures and the stellar population in the shells mostly likely occurred 220--685 Myr ago.
+subjects: observations
 
 link: https://arxiv.org/abs/2109.03612
 title: Revisiting the evolution of nonradiative supernova remnants: A hydrodynamical-informed parameterization of the shock positions
