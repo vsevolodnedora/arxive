@@ -11,6 +11,85 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2109.14091
+title: g-modes of neutron stars with hadron-to-quark crossover transitions
+authors: Constantinos Constantinou, Sophia Han, Prashanth Jaikumar, Madappa Prakash
+topic: We perform the first study of the principal core g-mode oscillation in hybrid stars containing quark matter, utilizing a crossover model for the hadron-to-quark transition inspired by lattice QCD. The ensuing results are compared with our recent findings of g-mode frequencies in hybrid stars with a first-order phase transition using Gibbs constructions. We find that models using Gibbs construction yield g-mode amplitudes and the associated gravitational energy radiated that dominate over those of the chosen crossover model owing to the distinct behaviors of the equilibrium and adiabatic sound speeds in the various models. Based on our results, we conclude that were g-modes to be detected in upgraded LIGO and Virgo detectors it would indicate a first-order phase transition akin to a Gibbs construction.
+subjects: NS, oscillations, g-modes
+
+link: https://arxiv.org/abs/2109.14122
+title: Radio Loud vs. Radio Quiet Gamma-ray Bursts: the Role of Binary Progenitors
+authors: Nicole M. Lloyd-Ronning
+topic: We explore the possibility that radio loud gamma-ray bursts (GRBs) result from the collapse of a massive star in an interacting binary system, while radio quiet GRBs are produced by the collapse of a single massive star. A binary collapsar system can have the necessary angular momentum and energy budget to explain the longer prompt gamma-ray durations and higher isotropic energies seen in the the radio loud sub-sample of long GRBs. Additionally, tidal interactions between the stars in binary systems can lead to rich and extended circumstellar environments that allow for the presence of the long-lived radio afterglows seen in the radio loud systems. Finally, the relative fraction of stars in binary systems versus single star systems appears consistent with the fraction of radio loud versus radio quiet GRBs.
+subjects: GRB, projenitor, radio
+
+link: https://arxiv.org/abs/2109.14389
+title: Multi-wavelength emission from magnetically arrested disks around isolated black holes
+authors: Shigeo S. Kimura, Kazumi Kashiyama, Kenta Hotokezaka
+topic: We discuss the prospects for identifying nearest isolated black holes (IBHs) in our Galaxy. IBHs accreting gas from the interstellar medium (ISM) likely form magnetically arrested disks (MADs). We show that thermal electrons in the MADs emit optical signals through the cyclo-synchrotron process while non-thermal electrons accelerated via magnetic reconnections emit a flat-spectrum synchrotron radiation in the X-ray to MeV gamma-ray ranges. The Gaia catalog will include at most a thousand of IBHs within [1 kpc] that are distributed on and around the cooling sequence of white dwarfs (WDs) in the Hertzsprung-Russell diagram. These IBH candidates should also be detected by eROSITA, with which they can be distinguished from isolated WDs and neutron stars. Followup observations with hard X-ray and MeV gamma-ray satellites will be useful to unambiguously identify IBHs.
+subjects: BH, disk, synchrotron, prospectcs
+
+link: https://arxiv.org/abs/2109.14619
+title: Black hole to breakout: 3D GRMHD simulations of collapsar jets reveal a wide range of transients
+authors: Ore Gottlieb, Aretaios Lalakos, Omer Bromberg, Matthew Liska, Alexander Tchekhovskoy
+topic: We present a suite of the first 3D GRMHD collapsar simulations, which extend from the self-consistent jet launching by an accreting Kerr black hole (BH) to the breakout from the star. We identify three types of outflows, depending on the angular momentum, l, of the collapsing material and the magnetic field, B, on the BH horizon: (i) Subrelativistic outflow (low l and high B), (ii) Stationary accretion shock instability (SASI; high l and low B), (iii) Relativistic jets (high l and high B). In the absence of jets, free-fall of the stellar envelope provides a good estimate for the BH accretion rate. Jets can substantially suppress the accretion rate, and their duration can be limited by the magnetization profile in the star. We find that progenitors with large (steep) inner density power-law indices (2), face extreme challenges as gamma-ray burst (GRB) progenitors due to excessive luminosity, global time evolution in the lightcurve throughout the burst and short breakout times, inconsistent with observations. Our results suggest that the wide variety of observed explosion appearances (supernova/supernova+GRB/low-luminosity GRBs) and the characteristics of the emitting relativistic outflows (luminosity and duration) can be naturally explained by the differences in the progenitor structure. Our simulations reveal several important jet features: (i) strong magnetic dissipation inside the star, resulting in weakly magnetized jets by breakout that may have significant photospheric emission and (ii) spontaneous emergence of tilted accretion disk-jet flows, even in the absence of any tilt in the progenitor.
+subjects: GRMHD, BH accretion, simulations, EM, counterparts
+
+link: https://arxiv.org/abs/2109.14993
+title: A Bayesian Inference Framework for Gamma-Ray Burst Afterglow Properties
+authors: En-Tzu Lin, Fergus Hayes, Gavin P. Lamb, Ik Siong Heng, Albert K.H. Kong, Michael J. Williams, Surojit Saha, John Veitch
+topic: In the field of multi-messenger astronomy, Bayesian inference is commonly adopted to compare the compatibility of models given the observed data. However, to describe a physical system like neutron star mergers and their associated gamma-ray burst (GRB) events, usually more than ten physical parameters are incorporated in the model. With such a complex model, likelihood evaluation for each Monte Carlo sampling point becomes a massive task and requires a significant amount of computational power. In this work, we perform quick parameter estimation on simulated GRB X-ray light curves using an interpolated physical GRB model. This is achieved by generating a grid of GRB afterglow light curves across the parameter space and replacing the likelihood with a simple interpolation function in the high-dimensional grid that stores all light curves. This framework, compared to the original method, leads to a [∼90x] speedup per likelihood estimation. It will allow us to explore different jet models and enable fast model comparison in the future.
+subjects: GRB, interpolatied model, inference, baysean
+
+link: https://arxiv.org/abs/2109.14759
+title: GW200115: a non-spinning black hole -- neutron star merger
+authors: Ilya Mandel, Rory J. E. Smith
+topic: GW200115 was the second merger of a black hole and a neutron star confidently detected through gravitational waves. Inference on the signal allows for a large black hole spin misaligned with the orbital angular momentum, but shows little support for aligned spin values. We show that this is a natural consequence of measuring the parameters of a black hole -- neutron star binary with non-spinning components while assuming the priors used in the LIGO-Virgo-KAGRA analysis. We suggest that, a priori, a non-spinning binary is more consistent with current astrophysical understanding.
+subjects: NSBH, observations, analysis
+
+link: https://arxiv.org/abs/2109.14617
+title: Dynamical ejecta of neutron star mergers with nucleonic weak processes II: Kilonova emission
+authors: Oliver Just (1,2), Ina Kullmann (3), Stephane Goriely (3), Andreas Bauswein (1), Hans-Thomas Janka (4), Christine E. Collins
+topic: The majority of existing results for the kilonova (or macronova) emission from material ejected during a neutron-star (NS) merger is based on (quasi-)one-zone models or manually constructed toy-model ejecta configurations. In this study we present a kilonova analysis of the material ejected during the first 10ms of a NS merger, called dynamical ejecta, using directly the outflow trajectories from general relativistic smoothed-particle hydrodynamics simulations including a sophisticated neutrino treatment and the corresponding nucleosynthesis results, which have been presented in Part I of this study. We employ a multi-dimensional two-moment radiation transport scheme with approximate M1 closure to evolve the photon field and use a heuristic prescription for the opacities found by calibration with atomic-physics based reference results. We find that the photosphere is generically ellipsoidal but augmented with small-scale structure and produces emission that is about 1.5-3 times stronger towards the pole than the equator. The kilonova typically peaks after 0.7-1.5days in the near-infrared frequency regime with luminosities between [3-7x10^40erg/s] and at photospheric temperatures of [2.2-2.8x10^3K]. A softer equation of state or higher binary-mass asymmetry leads to a longer and brighter signal. Significant variations of the light curve are also obtained for models with artificially modified electron fractions, emphasizing the importance of a reliable neutrino-transport modeling. None of the models investigated here, which only consider dynamical ejecta, produces a transient as bright as AT2017gfo. The near-infrared peak of our models is incompatible with the early blue component of AT2017gfo.
+subjects: BNS, simulations, KN, radiation transport, models
+revelation: priority
+
+link: https://arxiv.org/abs/2109.13838
+title: GRB 160410A: the first Chemical Study of the Interstellar Medium of a Short GRB
+authors: J. F. Agüí Fernández, C. C. Thöne, D. A. Kann, A. de Ugarte Postigo, J. Selsing, P. Schady, R. M. Yates, J. Greiner, S. R. Oates, D. Malesani, D. Xu, A. Klotz, S. Campana, A. Rossi et al
+topic: Short Gamma-Ray Bursts (SGRBs) are produced by the coalescence of compact binary systems which are remnants of massive stars. GRB 160410A is classified as a short-duration GRB with extended emission and is currently the farthest SGRB with a redshift determined from an afterglow spectrum and also one of the brightest SGRBs to date. The fast reaction to the Neil Gehrels Swift Observatory alert allowed us to obtain a spectrum of the afterglow using the X-shooter spectrograph at the Very Large Telescope (VLT). The spectrum shows a number of absorption features at a redshift of z=1.7177, in addition, we detect two intervening systems at z=1.581 and z=1.444. The spectrum shows ly-alpha in absorption with a column density of log [N(HI)=21.3+/-0.3 cm-2] which, together with FeII, CII, SiII and OI, allow us to perform the first study of chemical abundances in a SGRB host galaxy. We determine a metallicity of [Fe/H=-2.7+/-0.3], significantly lower than observed for any long GRB host. We find no evidence for extinction in the afterglow spectral energy distribution (SED). The environment has a low degree of ionisation and the CIV and SiIV lines are completely absent. We do not detect an underlying host galaxy down to deep limits. Additionally, we present the spectrum of GRB 201221D, another high-z short GRB that shows absorption lines at z=1.045 but whose environment seems to be more similar to the one of short GRBs as derived from the SED fitting to the host photometry.
+subjects: GRB, sGRB, observations
+
+link: https://arxiv.org/abs/2109.13478
+title: Unraveling the nature of GRBs progenitors through neutrinos
+authors: G. Morales, N. Fraija
+topic: GRBs are the most energetic electromagnetic events in the Universe. Those whose typical duration is longer than a few seconds are known as long GRBs and shorter than a few seconds are short GRBs. It is widely accepted that these events are associated with the collapse of a very massive star and the neutron star (NS) binary merger, respectively. A fast-spinning, strongly magnetized NS could be expected before a black hole (BH) in both scenarios. We allude to the thermal neutrinos' particular properties propagating inside the fireball for differentiating both scenarios in this work. We first derive the neutrino effective potential associated with each medium in a strong and weak magnetic field. We calculate the three-flavor oscillation probabilities, and finally, we get the expected neutrino rate in both scenarios. Given these observables' evolution, we can determine whether the progenitor could be associated with a strongly magnetized NS or a BH.
+subjects: GRB, neutrions
+
+link: https://arxiv.org/abs/2109.13259
+title: Bolometric light curves of aspherical shock breakout
+authors: Christopher Irwin, Itai Linial, Ehud Nakar, Tsvi Piran, Re'em Sari
+topic: The shock breakout emission is the first light that emerges from a supernova. In the spherical case it is characterized by a brief UV flash. In an axisymmetric, non-spherical prolate explosion, the shock first breaches the surface along the symmetry axis, then peels around to larger angles, producing a breakout light curve which may differ substantially from the spherically symmetric case. We study the emergence of a non-relativistic, bipolar shock from a spherical star, and estimate the basic properties of the associated bolometric shock breakout signal. We identify four possible classes of breakout light curves, depending on the degree of asphericity. Compared to spherical breakouts, we find that the main distinguishing features of significantly aspherical breakouts are 1) a longer and fainter initial breakout flash and 2) an extended phase of slowly-declining, or even rising, emission which is produced as ejecta flung out by the oblique breakout expand and cool. We find that the breakout flash has a maximum duration of roughly is the stellar radius and vbo is the velocity of the fastest-moving ejecta. For a standard Wolf--Rayet progenitor, the duration of the X-ray flash seen in SN 2008D exceeds this limit, and the same holds true for the prompt X-ray emission of low-luminosity GRBs such as GRB 060218. This suggests that these events cannot be explained by an aspherical explosion within a typical Wolf--Rayet star, implying that they originate from non-standard progenitors with larger breakout radii.
+subjects: NS, EM, shock breakout, model
+
+link: https://arxiv.org/abs/2109.11571
+title: An equation-of-state-insensitive measure of neutron star stiffness
+authors: Jayana Saes, Raissa F. P. Mendes
+topic: Universal relations (i.e., insensitive to the equation of state) between macroscopic properties of neutron stars (NSs) have proven useful for a variety of applications -- from providing a direct means to extract observables from data to breaking degeneracies that hinder tests of general relativity. Similarly, equation-of-state insensitive relations directly connecting macroscopic and microscopic properties of NSs can potentially provide a clean window into the behavior of nuclear matter. In this Letter, we uncover a tight correlation between certain macroscopic properties of NSs -- its compactness, moment of inertia or tidal deformability -- and the ratio of central pressure to central energy density, which can be interpreted as a mean notion of the stiffness of nuclear matter inside a NS. We describe interesting properties of this stiffness measure, quantify its universality, and explore its consequences in the face of recent NS observations.
+subjects: EOS, peoperties, relations
+
+link: https://arxiv.org/abs/2109.11895
+title: Constraining nuclear matter parameters and neutron star observables using PREX-2 and NICER data
+authors: S. K. Biswal, H. C. Das, Ankit Kumar, S. K. Patra
+topic: We try to constraints some of the nuclear matter parameters such as symmetry energy (J) and its slope (L) from the recent inferred data of the PREX-2. Other nuclear matter parameters are adopted from [paper] papers and the linear correlation among them are checked by using the Pearson's formula. We find the correlation between ... with coefficients 0.85, 0.81 and 0.76 respectively. The neutron star properties such as mass and radius are calculated with 50 unified equation of states. The results are consistent with recently observed pulsars and NICER data except few exceptions. From the radii constraints, we find that the new NICER data allows a narrow radius range contrary to a large range of PREX-2 and the old NICER data leaving us an inconclusive determination of the neutron star radius.
+subjects: EOS, nucleo, constraints, experimental
+
 link: https://arxiv.org/abs/2109.10639
 title: Nonlinear particle reacceleration by multiple shocks
 authors: Thibault Vieu, Stefano Gabici, Vincent Tatischeff
