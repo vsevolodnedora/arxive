@@ -11,11 +11,41 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2110.05449
+title: Constraints on R-process Nucleosynthesis from 129I and 247Cm in the Early Solar System
+authors: Projjwal Banerjee, Meng-Ru Wu, Jeena S. K
+topic: GW170817 has confirmed binary neutron star mergers (BNSMs) as one of the sources of nuclei produced by the rapid neutron capture (r) process. However, the details of nucleosynthetic pattern emerging from BNSMs as well as the physical condition of r-process remain unknown. Moreover, additional sites for r-process that have been proposed cannot be ruled out and may even be needed to explain all the observations related to the evolution of r-process elements. The measurement of the abundances of particular short-lived radioactive isotopes (SLRIs) in the early solar system (ESS), that are synthesized almost exclusively by r-process, can provide independent clues regarding the nature of r-process events that occurred during the formation of the SS. In this work, we study the evolution of r-process SLRIs 129I and 247Cm as well as the corresponding reference isotopes 127I and 235U at the Solar location. We consider up to three different sources that have distinct 129I/247Cm production ratios corresponding to the varied r-process conditions in different astrophysical scenarios. In contrast to the results found by Cote et al. (2021), we find that 129I and 247Cm in the ESS do not come entirely from one single major event but get additional contributions from at least 2 more minor contributors. This has a dramatic effect on the evolution of the 129I/247Cm ratio, such that the measured ESS value in meteorites may not correspond to that of the "last" major r-process event. [abridged]
+subjects: r-process, sources, cosmic chemical, models
+
+link: https://arxiv.org/abs/2110.04687
+title: Formation and Evolution of Binary Neutron Stars: Mergers and Their Host Galaxies
+authors: Qingbo Chu, Shenghua Yu, Youjun Lu 
+topic: In this paper, we investigate the properties of binary neutron stars (BNSs) and their mergers by combining population synthesis models for binary stellar evolution (BSE) with cosmological galaxy formation and evolution models. We obtain constraints on BSE model parameters by using the observed Galactic BNSs and local BNS merger rate density (R0) inferred from Gravitational Wave (GW) observations, and consequently estimate the host galaxy distributions of BNS mergers. We find that the Galactic BNS observations imply efficient energy depletion in the common envelope (CE) phase, a bimodal kick velocity distribution, and low mass ejection during the secondary supernova explosion. However, the inferred R0 does not necessarily require an extremely high CE ejection efficiency and low kick velocities, different from the previous claims, mainly because the latest inferred R0 is narrowed to a lower value. The BNS merger rate density resulting from the preferred model can be described by [] at low redshift (z\leq 0.5), with [] and [], respectively. Our results also show that R0 and Xsi depend on settings of BSE model parameters, and thus accurate estimates of these parameters by future GW detections will put strong constraints on BSE models. We further estimate that the fractions of BNS mergers hosted in spiral and elliptical galaxies at z-0 are 81\%-84\% and 16\%-19\%, respectively. The BNS merger rate per galaxy can be well determined by the host galaxy stellar mass, star formation rate, and metallicity, which provides a guidance in search for most probable candidates of BNS host galaxies.
+subjects: Population synthesis, models, cosmology, merger rate
+
+link: https://arxiv.org/abs/2110.03458
+title: Acceleration of ultra-high energy cosmic rays in the early afterglows of gamma-ray bursts: concurrence of jet's dynamics and wave-particle interactions
+authors: Ze-Lin Zhang, Ruo-Yu Liu, Xiang-Yu Wang
+topic: The origin of ultra-high energy cosmic rays (UHECRs) remains a mystery. It has been suggested that UHECRs can be produced by the stochastic acceleration in relativistic jets of gamma-ray bursts (GRBs) at the early afterglow phase. Here, we develop a time-dependent model for proton energization by cascading compressible waves in GRB jets considering the concurrent effect of the jet's dynamics and the mutual interactions between turbulent waves and particles. Considering fast mode of magnetosonic wave as the dominant particle scatterer and assuming interstellar medium (ISM) for the circumburst environment, our numerical results suggest that protons can be accelerated up to 1019eV during the early afterglow. An estimation shows ultra-high energy nuclei can easily survive photodisintegration in the external shocks in most cases, thus allowing the acceleration of 1020eV cosmic-ray nuclei in the proposed frame. The spectral slope can be as hard as dN/dE - E0, which is consistent with the requirement for the interpretation of intermediate-mass composition of UHECR as measured by the Pierre Auger Observatory.
+subjects: GRB, prompt emission, mechanism, high energy, model
+
+link: https://arxiv.org/abs/2110.02616
+title: The equation of state of neutron stars and the role of nuclear experiments
+authors: F. Gulminelli, A. F. Fantina
+topic: Neutron stars are unique laboratories to probe matter in extreme conditions, not accessible in terrestrial laboratories. Here, we discuss the modelling of the neutron-star equation of state, particularly in connection with recent constraints coming from both nuclear physics (experiments and ab-initio calculations) and astrophysical observations.
+subjects: NS, EOS, nucleo
+
+link: https://arxiv.org/abs/2110.01792
+title: Quokka: A code for two-moment AMR radiation hydrodynamics on GPUs
+authors: Benjamin D. Wibking, Mark R. Krumholz
+topic: We present Quokka, a new subcycling-in-time, block-structured adaptive mesh refinement (AMR) radiation hydrodynamics code optimised for graphics processing units (GPUs). Quokka solves the equations of hydrodynamics with the piecewise parabolic method (PPM) in a method-of-lines formulation, and handles radiative transfer via the variable Eddington tensor (VET) radiation moment equations with a local closure. In order to maximise GPU performance, we combine explicit-in-time evolution of the radiation moment equations with the reduced speed-of-light approximation. We show results for a wide range of test problems for hydrodynamics, radiation, and coupled radiation hydrodynamics. On uniform grids in 3D, we achieve a peak of 93 million hydrodynamic updates per second per GPU, and 22 million radiation hydrodynamic updates per second per GPU. For radiation hydrodynamics problems on uniform grids in 3D, our code also scales from 4 GPUs to 256 GPUs with an efficiency of 80 percent. The code is publicly released under an open-source license on GitHub.
+subjects: numerics, methods, new code, GPU, Radiation HD
+
+link: https://arxiv.org/abs/2110.00727
+title: Evidence of X-ray plateaus driven by the magnetar spindown winds in gamma-ray burst afterglows
+authors: Shu-Jin Hou, Shuang Du, Tong Liu, Hui-Jun Mu, Ren-Xin Xu
+topic: The central engine of gamma-ray bursts (GRBs) remains an open and forefront topic in the era of multimessenger astrophysics. The X-ray plateaus appear in some GRB afterglows, which are widely considered to originate from the spindown of magnetars. According to the stable magnetar scenario of GRBs, an X-ray plateau and a decay phase as t-2 should appear in X-ray afterglows. Meanwhile, the "normal" X-ray afterglow is produced by the external shock from GRB fireball. We analyze the Neil Gehrels \emph{Swift} GRB data, then find three gold samples, which have an X-ray plateau and a decay phase as t-2 superimposed on the jet-driven normal component. Based on these features of the lightcurves, we argue that the magnetars should be the central engines of these three GRBs. Future joint multimessenger observations might further test this possibility, then which can be beneficial to constrain GRB physics.
+subjects: GRB, plateau, observations, analysis, engine
 
 link: https://arxiv.org/abs/2109.14091
 title: g-modes of neutron stars with hadron-to-quark crossover transitions
