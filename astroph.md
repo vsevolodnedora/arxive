@@ -11,6 +11,67 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2110.09084
+title: The physics of relativistic jets
+authors: Luigi Foschini
+topic: Highlights in the field of relativistic jets are reviewed and critically analyzed. Given the extent of the available literature, this essay symbolically takes the baton from the outstanding and recent review by Blandford, Meier, and Readhead (2019). Therefore, I focus mostly on the results published during the latest few years, with specific reference to jets from active galactic nuclei. I conclude with some criticism and advice, which can be extended to current science at large.
+subjects: review, jet, physics
+
+link: https://arxiv.org/abs/2110.08285
+title: Accretion onto black holes inside neutron stars with realistic nuclear equations of state: analytic and numerical treatments
+authors: Sophia C. Schnauck, Thomas W. Baumgarte, Stuart L. Shapiro
+topic: We consider spherically symmetric accretion onto a small, possibly primordial, black hole residing at the center of a neutron star governed by a realistic cold nuclear equation of state (EOS). We generalize the relativistic Bondi solution for such EOSs, approximated by piecewise polytropes, and thereby obtain analytical expressions for the steady-state matter profiles and accretion rates. We compare these rates with those found by time-dependent, general relativistic hydrodynamical simulations upon relaxation and find excellent agreement. We consider several different candidate EOSs, neutron star masses and central densities and find that the accretion rates vary only little, resulting in an accretion rate that depends primarily on the black hole mass, and only weakly on the properties of the neutron star. However, we also find that several of the resulting fluid profiles feature superluminal sound speeds outside black hole horizons, indicating that either the corresponding EOSs, or their piecewise polytrope representations, are no longer adequate for the supranuclear densities encountered in these flows.
+subjects: NS, BH, accretion
+
+link: https://arxiv.org/abs/2110.07791
+title: Overall Spectral Properties of Prompt Emissions with Diverse Segments in Swift/BAT Short Gamma-ray Bursts
+authors: X.J. Li, Z.B. Zhang, K. Zhang
+topic: Owing to lack of multiple components of prompt gamma-ray emissions in short gamma-ray bursts (sGRBs), how these distinct components are correlated still keeps unclear. In this paper, we investigate the spectral and temporal properties of precursors, main peaks and extended emissions in 26 sGRBs including GRB 170817A. It is found that peak energies (Ep) in each pulse are uncorrelated with the pulse duration (tdur). Meanwhile, we find that there is no obvious correlation between peak energy and energy fluence. Interestingly, there is no obvious spectral evolution from earlier precursors to later extended emissions in view of the correlations of tdur with either the Ep or the low energy spectrum index, alpha. A power-law correlation between the average flux (Fp) and the energy fluence (Sgamma), logFp=(0.62pm0.07)logSgamma+(0.27pm0.07), is found to exist in the individual segments instead of mean peaks previously. Furthermore, we also find that the main peaks are on average brighter than the precursors or the extend emissions about one order of magnitude. On the basis of all the above analyses, one can conclude that three emissive components would share the same radiation mechanisms but they might be dominated by diverse physical processes.
+subjects: GRB, sGRB, prompt emisison, observation analysis
+
+link: https://arxiv.org/abs/2110.08116
+title: Effects of radiative losses on the relativistic jets of high-mass microquasars
+authors: A. Charlet, R. Walder, A. Marcowith, D. Folini, J. M. Favre, M. E. Dieckmann
+topic: Context. Relativistic jets are ubiquitous in astrophysics. High Mass Microquasars (HMMQs) are useful labs to study such jets, as they are relatively close and evolve over observable time scales. The ambient medium into which the jet propagates is, however, far from homogeneous. Corresponding simulation studies to date consider various forms of a wind-shaped ambient medium but typically neglect radiative cooling and relativistic effects. Aims. We investigate the dynamical and structural effects of radiative losses and system parameters on relativistic jets in HMMQs, from the jet launch to its propagation over several tens of orbital separations. Methods. We use 3D relativistic hydrodynamical simulations including parameterized radiative cooling derived from relativistic thermal plasma distribution to carry out parameter studies around two fiducial cases inspired by Cygnus X-1 and Cygnus X-3. Results. Radiative losses are found to be more relevant in Cygnus X-3 than Cygnus X-1. Varying jet power, jet temperature, or the wind of the donor star tends to have a larger impact at early times, when the jet forms and instabilities initially develop, than at later times when the jet has reached a turbulent state. Conclusions. Radiative losses may be dynamically and structurally relevant at least in Cygnus X-3 case, and thus should be examined in more detail.
+subjects: jet, radiation loss, dynamics, RHD, simulations
+
+link: https://arxiv.org/abs/2110.06580
+title: GRB variabilities and following gravitational waves induced by gravitational instability in NDAFs
+authors: Narjes Shahamat, Shahram Abbassi, Tong Liu
+topic: The present work proposes a new formalism for the inner regions of a neutrino-dominated accretion flows (NDAFs) by considering the self-gravity, where the neutrino opacity is high enough to make neutrinos trapped becoming a dominant factor in the transportation of energy and angular momentum over the magneto rotational instability. We investigate the possibility of gravitational instability and fragmentation to model the highly variable structure of the prompt emission in gamma-ray bursts (GRBs). The results lead us to introduce the gravitational instability, in these inner regions, as a source of a new viscosity which is of the same functional form as that of the beta-prescription of viscosity. Such a consideration brings about fragmentation in the unstable inner disk. In addition, we find the consequent clumpy structure of this area capable to account for the temporal variability of GRB's light curve, especially for the lower choices of the parameter beta, 10−5. Finally, we predict the formation of gravitational waves through the migration of fragments before being tidally disrupted. These waves appear to be detectable via a range of current and future detectors from LIGO to Cosmic Explorer.
+subjects: GW, GRB, disk, accretion, nucmerics, semi-analytic, prompt-emission
+
+link: https://arxiv.org/abs/2110.06432
+title: A Nuclear Equation of State Inferred from Stellar r-Process Abundances
+authors: Erika M. Holmbeck, Richard O'Shaughnessy, Vera Delfavero, Krzysztof Belczynski
+topic: Binary neutron star mergers (NSMs) have been confirmed as one source of the heaviest observable elements made by the rapid neutron-capture (r-) process. However, modeling NSM outflows -- from the total ejecta masses to their elemental yields -- depends on the unknown nuclear equation of state (EOS) that governs neutron-star structure. In this work, we derive a phenomenological EOS by assuming that NSMs are the dominant sources of the heavy-element material in metal-poor stars with r-process abundance patterns. We start with a population synthesis model to obtain a population of merging neutron star binaries and calculate their EOS-dependent elemental yields. Under the assumption that these mergers were responsible for the majority of r-process elements in the metal-poor stars, we find parameters representing the EOS for which the theoretical NSM yields reproduce the derived abundances from observations of metal-poor stars. For our proof-of-concept assumptions, we find an EOS that is slightly softer than, but still in agreement with, current constraints, e.g., by the Neutron Star Interior Composition Explorer (NICER), with R1.4=12.25pm0.03 km and MTOV of 2.17pm0.03-Msun(statistical uncertainties, neglecting modeling systematics).
+subjects: EOS, r-process, inference, statistics, cosmic chelical evolution
+revelation: important to refertence in using EOS
+
+link: https://arxiv.org/abs/2110.06422
+title: GRB 101225A as Orphan Dipole Radiation of a Newborn Magnetar with Precession Rotation in an Off-Axis Gamma-Ray Burst
+authors: Le Zou, Tian-Ci Zheng, Xing Yang, Hai-ming Zhang, Xiao-Yan Li, Jia Ren, Da-Bin Lin, En-Wei Liang
+topic: The unusual multiwavelength lightcurves of GRB 101225A are revisited by assuming that it is from an off-axis GRB powered by a newborn magnetar. We show that its optical afterglow lightcurve is fitted with the forward shock model by parameterizing its jet structure as a Gaussian function with a half opening angle of the jet core as 1.67. The derived initial Lorentz factor (G0) is 120, and the viewing angle to the jet axis is theta=3.7. Tentative QPO signatures of P=488 seconds and P=250-300 seconds are found with a confidence level of 90\% by analysing its X-ray flares observed in the time interval of [4900, 7500] seconds. Its global gamma-ray/X-ray lightcurve and the QPO signatures are represented with the magnetar dipole radiation (DR) model by considering the magnetar precession motion, assuming that the magnetar spindown is dominated by the GW emission. The bulk Lorentz factor of the DR ejecta is limited to 8, being much lower than G0. Comparing GRB 101225A with the extremely off-axis GRB 170817A, we suspect that the nature of the two-component jet in GRB 170817A is a combination of a co-axial GRB jet and a DR ejecta. GRB 101225A would be among the brightest ones of the CDF-S XT2 like X-ray transient population driven by newborn magnetars. Discussion on detectability of its gravitational wave emission is also presented.
+subjects: GRB, off-axis, margnetar, central engine
+
+link: https://arxiv.org/abs/2110.06218
+title: Coalescence of black hole--neutron star binaries
+authors: Koutarou Kyutoku, Masaru Shibata, Keisuke Taniguchi
+topic: We review the current status of general relativistic studies for coalescences of black hole--neutron star binaries. First, high-precision computations of black hole--neutron star binaries in quasiequilibrium circular orbits are summarized, focusing on the quasiequilibrium sequences and the mass-shedding limit. Next, the current status of numerical-relativity simulations for the merger of black hole--neutron star binaries is described. We summarize our understanding for the merger process, tidal disruption and its criterion, properties of the merger remnant and ejected material, gravitational waveforms, and gravitational-wave spectra. We also discuss expected electromagnetic counterparts to black hole--neutron star coalescences.
+subjects: NSBH, review
+
+link: https://arxiv.org/abs/2110.06039
+title: Detectability of continuous gravitational waves from magnetically deformed neutron stars
+authors: J. Soldateschi, N. Bucciantini
+topic: Extremely powerful magnetic fields are contained inside neutron stars. Their effect is to deform the shape of the star, leading to the emission of continuous gravitational waves. The magnetic deformation of neutron stars depends on the details of their magnetic field, that is its geometry and strength. Moreover, it depends on their composition, described by the equation of state. Unfortunately, both the configuration of the magnetic field and the equation of state of neutron stars are unkown, and assessing the detectability of continuous gravitational waves from neutron stars suffers from these uncertainties. Using our recent results relating the magnetic deformation of a neutron star to its mass and radius, and considering the Galactic pulsar population, we assess the detectability of continuous gravitational waves from pulsars in the Galaxy - described by realistic equations of state currently allowed by observational and nuclear physics constraints - by gravitational waves detectors.
+subjects: GW, NS, MF, deformed NS
+
 link: https://arxiv.org/abs/2110.05449
 title: Constraints on R-process Nucleosynthesis from 129I and 247Cm in the Early Solar System
 authors: Projjwal Banerjee, Meng-Ru Wu, Jeena S. K
