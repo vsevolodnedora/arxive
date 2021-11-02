@@ -5,6 +5,82 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2111.00013
+title: Magnetohydrodynamic simulations of self-consistent rotating neutron stars with mixed poloidal and toroidal magnetic fields
+authors: Antonios Tsokaros, Milton Ruiz, Stuart L. Shapiro, Kōji Uryū
+topic: We perform the first magnetohydrodynamic simulations in full general relativity of self-consistent rotating neutron stars (NSs) with ultrastrong mixed poloidal and toroidal magnetic fields. The initial uniformly rotating NS models are computed assuming perfect conductivity, stationarity, and axisymmetry. Although the specific geometry of the mixed field configuration can delay or accelerate the development of various instabilities known from analytic perturbative studies, all our models finally succumb to them. Differential rotation is developed spontaneously in the cores of our magnetars which, after sufficient time, is converted back to uniform rotation. The rapidly rotating magnetars show a significant amount of ejecta, which can be responsible for transient kilonova signatures. However no highly collimated, helical magnetic fields or incipient jets, which are necessary for gamma-ray bursts, arise at the poles of these magnetars by the time our simulations are terminated.
+subjects: NS, MF, GRMHD, magnetar, simulation
+
+link: https://arxiv.org/abs/2111.01041
+title: Statistical analyses on the energies of X-ray plateaus and flares in gamma-ray bursts
+authors: Shuang-Xi Yi, Mei Du, Tong Liu
+topic: Distinct X-ray plateau and flare phases have been observed in the afterglows of gamma-ray bursts (GRBs), and most of them should be related to central engine activities. In this paper, we collect 174 GRBs with X-ray plateau phases and 106 GRBs with X-ray flares. There are 51 GRBs that overlap in the two selected samples. We analyze the distributions of the proportions of the plateau energy Eplateau and the flare energy Eflare relative to the isotropic prompt emission energy Egamma, iso. The results indicate that they well meet the Gaussian distributions and the medians of the logarithmic ratios are -0.96 and -1.39 in the two cases. Moreover, strong positive correlations between Eplateau (or Eflare) and Egamma,iso with slopes of -0.95 (or -0.80) are presented. For the overlapping sample, the slope is -0.80. We argue that most of X-ray plateaus and flares might have the same physical origin but appear with different features because of the different circumstances and radiation mechanisms. We also test the applicabilities of two models, i.e., black holes surrounded by fractured hyperaccretion disks and millisecond magnetars, on the origins of X-ray plateaus and flares.
+subjects: GRB, statistics, plateu, flares
+
+link: https://arxiv.org/abs/2111.00493
+title: Magnetized black holes: the role of rotation, boost, and accretion in twisting the field lines and accelerating particles
+authors: Ondrej Kopacek, Vladimir Karas
+topic: Combined influence of rotation of a black hole and ambient magnetic fields creates conditions for powerful astrophysical processes of accretion and outflow of matter which are observed in many systems across the range of masses; from stellar-mass black holes in binary systems to supermassive black holes in active galactic nuclei. We study a simplified model of outflow of electrically charged particles from the inner region of an accretion disk around a spinning (Kerr) black hole immersed in a large-scale magnetic field. In particular, we consider a non-axisymmetric magnetosphere where the field is misaligned with the rotation axis. In this contribution we extend our previous analysis of acceleration of jet-like trajectories of particles escaping from bound circular orbits around a black hole. While we have previously assumed the initial setup of prograde (co-rotating) orbits, here we relax this assumption and we also consider retrograde (counter-rotating) motion. We show that the effect of counter-rotation may considerably increase the probability of escape from the system, and it allows more efficient acceleration of escaping particles to slightly higher energies compared to the co-rotating disk.
+subjects: disk, BH, simulations, MHD
+
+link: https://arxiv.org/abs/2111.00359
+title: Radio data challenge the broadband modelling of GRB160131A afterglow
+authors: M. Marongiu, C. Guidorzi, G. Stratta, A. Gomboc, N. Jordana-Mitjans, S. Dichiara, S. Kobayashi, D.Kopac, C. G. Mundell
+topic: Context. Gamma-ray burst (GRB) afterglows originate from the interaction between the relativistic ejecta and the surrounding medium. Consequently, their properties depend on several aspects: radiation mechanisms, relativistic shock micro-physics, circumburst environment, and the structure and geometry of the relativistic jet. While the standard afterglow model accounts for the overall spectral and temporal evolution for a number of GRBs, its validity limits emerge when the data set is particularly rich and constraining, especially in the radio band.
+Aims. We aimed to model the afterglow of the long GRB160131A (redshift z=0.972), for which we collected a rich, broadband, and accurate data set, spanning from 6x108 to 7x1017 Hz in frequency, and from 330 s to 160 days post burst in time.
+Methods. We modelled the spectral and temporal evolution of this GRB afterglow through two approaches: the adoption of empirical functions to model optical/X-rays data set, later assessing their compatibility with the radio domain; the inclusion of the entire multi-frequency data set simultaneously through the Python package named sAGa (Software for AfterGlow Analysis), to come up with an exhaustive and self-consistent description of the micro-physics, geometry, and dynamics of the afterglow.
+Results. From deep broadband analysis (from radio to X-ray frequencies) of the afterglow light curves, GRB160131A outflow shows evidence of jetted emission. Moreover, we observe dust extinction in the optical spectra, and energy injection in the optical/X-ray data. Radio spectra are characterised by several peaks, that could be due to either interstellar scintillation (ISS) effects or a multi-component structure.
+Conclusions. The inclusion of radio data in the broadband set of GRB160131A makes a self-consistent modelling hardly attainable within the standard model of GRB afterglows.
+subjects: GRB, analysis, model, fitting, mechanisms
+
+link: https://arxiv.org/abs/2111.00132
+title: Some Thoughts on the Convective Urca Process
+authors: Josiah Schwab
+topic: I have repeatedly grappled with the question of how the convective Urca process affects stellar evolution, in particular during the high-density convective carbon burning that can occur in near-Chandrasekhar-mass white dwarfs. This manuscript collects some fragmentary thoughts from various failed and abandoned attempts. This is not a complete work, does not provide a comprehensive overview of the literature, and has no definitive conclusions. It is posted in the hope that some part of it might prove useful to someone at some point in the future. I also take this opportunity to include anotter important result of more general interest (Appendix B).
+subjects: Urca process, stellar physics
+
+link: https://arxiv.org/abs/2111.00012
+title: Thermal Electrons in Mildly-relativistic Synchrotron Blast-waves
+authors: Ben Margalit, Eliot Quataert
+topic: Numerical models of collisionless shocks robustly predict an electron distribution comprised of both thermal and non-thermal electrons. Here, we explore in detail the effect of thermal electrons on the emergent synchrotron emission from sub-relativistic shocks. We present a complete thermal + non-thermal synchrotron model and derive properties of the resulting spectrum and light-curves. Using these results we delineate the relative importance of thermal and non-thermal electrons for sub-relativistic shock-powered synchrotron transients. We find that thermal electrons are naturally expected to contribute significantly to the peak emission if the shock velocity is greater 0.2c, but would be mostly undetectable in non-relativistic shocks. This helps explain the dichotomy between typical radio supernovae and the emerging class of AT2018cow-like events. The signpost of thermal electron synchrotron emission is a steep optically-thin spectral index and a ν2 optically-thick spectrum. These spectral features are also predicted to correlate with a steep post-peak light-curve decline rate, broadly consistent with observed AT2018cow-like events. We expect that thermal electrons may be observable in other contexts where mildly-relativistic shocks are present, and briefly estimate this effect for gamma-ray burst afterglows and binary neutron star mergers. Our model can be used to fit spectra and light-curves of events and accounts for both thermal and non-thermal electron populations with no additional physical degrees of freedom.
+subjects: synchrotron, radiation, mechanism, thermal, non-thermal, model
+
+link: https://arxiv.org/abs/2110.15776
+title: Bayesian reconstruction of nuclear matter parameters from the equation of state of neutron star matter
+authors: Sk Md Adil Imam, N. K. Patra, C. Mondal, Tuhin Malik, B. K. Agrawal
+topic: The nuclear matter parameters (NMPs), those underlie in the construction of the equation of state (EoS) of neutron star matter, are not directly accessible. The Bayesian approach is applied to reconstruct the posterior distributions of NMPs from the EoS of neutron star matter. The constraints on lower-order parameters as imposed by the finite nuclei observables are incorporated through appropriately chosen prior distributions. The calculations are performed with two sets of pseudo data on the EoS whose true models are known. The median values of second or higher order NMPs show sizeable deviations from their true values and associated uncertainties are also larger. The sources of these uncertainties are intrinsic in nature, identified as (i) the correlations among various NMPs and (ii) the variations in the EoS of symmetric nuclear matter, symmetry energy, and the neutron-proton asymmetry in such a way that the neutron star matter EoS remain almost unaffected.
+subjects: EOS, iference, bayesian
+
+link: https://arxiv.org/abs/2110.14792
+title: On explaining prompt emission from GRB central engines with photospheric emission model
+authors: Mukul Bhattacharya, Pawan Kumar
+topic: Although the observed spectra for gamma-ray burst (GRB) prompt emission is well constrained, the underlying radiation mechanism is still not very well understood. We explore photospheric emission in GRB jets by modelling the Comptonization of fast cooled synchrotron photons whilst the electrons and protons are accelerated to highly relativistic energies by repeated energy dissipation events as well as Coulomb collisions. In contrast to the previous simulations, we implement realistic photon-to-particle number ratios of Ngamma/Ne-105 or higher, that are consistent with the observed radiation efficiency of relativistic jets. Using our Monte Carlo radiation transfer (MCRaT) code, we can successfully model the prompt emission spectra when the electrons are momentarily accelerated to highly relativistic energies (Lorentz factor -50-100) after getting powered by -30-50 episodic dissipation events in addition to their Coulomb coupling with the jet protons, and for baryonic outflows that originate from moderate optical depths -20−30. We also show that the resultant shape of the photon spectrum is practically independent of the initial photon energy distribution and the jet baryonic energy content, and hence independent of the emission mechanism.
+subjects: GRB, prompt, mechanism, radiation transport, MCMC, simulations
+
+link: https://arxiv.org/abs/2110.14652
+title: Evidence from Disrupted Halo Dwarfs that r-process Enrichment via Neutron Star Mergers is Delayed by 500 Myrs
+authors: Rohan P. Naidu, Alexander P. Ji, Charlie Conroy, Ana Bonaca, Yuan-Sen Ting, Dennis Zaritsky, Lieke A. C. van Son, Floor S. Broekgaarden, Sandro Tacchella, Vedant Chandra, Nelson Caldwell, Phillip Cargile, Joshua S. Speagle
+topic: The astrophysical origins of r-process elements remain elusive. Neutron star mergers (NSMs) and special classes of core-collapse supernovae (rCCSNe) are leading candidates. Due to these channels' distinct characteristic timescales (rCCSNe: prompt, NSMs: delayed), measuring r-process enrichment in galaxies of similar mass, but differing star-formation durations might prove informative. Two recently discovered disrupted dwarfs in the Milky Way's stellar halo, Kraken and \textit{Gaia}-Sausage Enceladus (GSE), afford precisely this opportunity: both have M=108Msun, but differing star-formation durations of 2 Gyrs and 3.6 Gyrs. Here we present R=50,000 Magellan/MIKE spectroscopy for 31 stars from these systems, detecting the r-process element Eu in all stars. Stars from both systems have similar [Mg/H]=-1, but Kraken has a median [Eu/Mg]=-0.1 while GSE has an elevated [Eu/Mg]=0.2. With simple models we argue NSM enrichment must be delayed by 500-1000 Myrs to produce this difference. rCCSNe must also contribute, especially at early epochs, otherwise stars formed during the delay period would be Eu-free. In this picture, rCCSNe account for =50% of the Eu in Kraken, =25% in GSE, and =15% in dwarfs with extended star-formation durations like Sagittarius. The inferred delay time for NSM enrichment is 10-100x longer than merger delay times from stellar population synthesis -- this is not necessarily surprising because the enrichment delay includes time taken for NSM ejecta to be incorporated into subsequent generations of stars. For example, this may be due to natal kicks that result in r-enriched material deposited far from star-forming gas, which then takes 108-109 years to cool in these galaxies.
+subjects: r-process, nucleo, cosmology, population, origin, observations, spectroscopy
+
+link: https://arxiv.org/abs/2110.14408
+title: A roadmap to gamma-ray bursts: new developments and applications to cosmology
+authors: Orlando Luongo, Marco Muccino
+topic: Gamma-ray bursts are the most powerful explosions in the universe and are mainly placed at very large redshifts, up to z=9. In this short review, we first discuss gamma-ray burst classification and morphological properties. We then report the likely relations between gamma-ray bursts and other astronomical objects, such as black holes, supernovae, neutron stars, etc., discussing in detail gamma-ray burst progenitors. We classify long and short gamma-ray bursts, working out their timescales, and introduce the standard fireball model. Afterwards, we focus on direct applications of gamma-ray bursts to cosmology and underline under which conditions such sources would act as perfect standard candles if correlations between photometric and spectroscopic properties were not jeopardized by the \emph{circularity problem}. In this respect, we underline how the shortage of low-z gamma-ray bursts prevents anchor gamma-ray bursts with primary distance indicators. Moreover, we analyze in detail the most adopted gamma-ray burst correlations, highlighting their main differences. We therefore show calibration techniques, comparing such treatments with non-calibration scenarios. For completeness, we discuss the physical properties of the correlation scatters and systematics occurring during experimental computations. Finally, we develop the most recent statistical methods, star formation rate and high-redshift gamma-ray burst excess and show the most recent constraints got from experimental analyses.
+subjects: GRB, review, clasification
+
 link: https://arxiv.org/abs/2110.11997
 title: Can fermion-boson stars reconcile multi-messenger observations of compact stars?
 authors: Fabrizio Di Giovanni, Nicolas Sanchis-Gual, Pablo Cerdá-Durán, José Antonio Font
