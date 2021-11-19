@@ -5,11 +5,65 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2111.09369
+title: A comparison of approximate non-linear Riemann solvers for Relativistic MHD
+authors: Gincarlo Mattia, Andrea Mignone
+topic: We compare a particular selection of approximate solutions of the Riemann problem in the context of ideal relativistic magnetohydrodynamics. In particular, we focus on Riemann solvers not requiring a full eigenvector structure. Such solvers recover the solution of the Riemann problem by solving a simplified or reduced set of jump conditions, whose level of complexity depends on the intermediate modes that are included. Five different approaches - namely the HLL, HLLC, HLLD, HLLEM and GFORCE schemes - are compared in terms of accuracy and robustness against one- and multi-dimensional standard numerical benchmarks. Our results demonstrate that - for weak or moderate magnetizations - the HLLD Riemann solver yields the most accurate results, followed by HLLC solver(s). The GFORCE approach provides a valid alternative to the HLL solver being less dissipative and equally robust for strongly magnetized environments. Finally, our tests show that the HLLEM Riemann solver is not cost-effective in improving the accuracy of the solution and reducing the numerical dissipation.
+subjects: HD, MHD, methods
+
+link: https://arxiv.org/abs/2111.09214
+title: Understanding binary neutron star collisions with hypermodels
+authors: Gregory Ashton, Tim Dietrich
+topic: Gravitational waves from the collision of binary neutron stars provide a unique opportunity to study the behaviour of supranuclear matter, the fundamental properties of gravity, and the cosmic history of our Universe. However, given the complexity of Einstein's Field Equations, theoretical models that enable source-property inference suffer from systematic uncertainties due to simplifying assumptions. We develop a hypermodel approach to compare and measure the uncertainty gravitational-wave approximants. Using state-of-the-art models, we apply this new technique to the binary neutron star observations GW170817 and GW190425 and the sub-threshold candidate [GW200311 103121]. Our analysis reveals subtle systematic differences between waveform models, and a frequency-dependence study suggests that this is due to the treatment of the tidal sector. This new technique provides a proving ground for model development, and a means to identify waveform-systematics in future observing runs where detector improvements will increase the number and clarity of binary neutron star collisions we observe.
+subjects: BNS, GW< statistics, uncertanty
+
+link: https://arxiv.org/abs/2111.09206
+title: Relativistic oblique shocks with ordered or random magnetic fields: tangential field governs
+authors: Jing-Ze Ma, Bing Zhang
+topic: Relativistic magnetohydrodynamic shocks are efficient particle accelerators, often invoked in the models of gamma-ray bursts (GRBs) and shock-powered fast radio bursts (FRBs). Most theoretical studies assume a perpendicular shock with an ordered magnetic field perpendicular to the shock normal. However, the degree of magnetization sigma and the magnetic field geometry in shock-powered GRB/FRB scenarios are still poorly constrained by observations. Analogous to the magnetization sigma associated with the total field strength, we define a tangential magnetization σ⊥ associated with the tangential field component. We explore the jump conditions of magnetized relativistic shocks, either with an ordered field of arbitrary inclination angle or with a random field of arbitrary anisotropy. In either case, we find that the jump conditions of relativistic shocks are governed by the tangential magnetization sigma_T instead of the total magnetization σ, insensitive to the inclination angles or the anisotropy of the pre-shock magnetic field. The approximated analytical solution developed in this work could serve as a quick check for numerical simulations and apply to theoretical studies of GRBs/FRBs with a more general field geometry
+subjects: shocks, phsyics, GRB, model, MF
+
+link: https://arxiv.org/abs/2111.09123
+title: GRB 191016A: A highly collimated gamma-ray burst jet with magnetised energy injection
+authors: M. Shrestha, I. A. Steele, S. Kobayashi, N. Jordana-Mitjans, R. J. Smith, H. Jermak, D. Arnold, C. G. Mundell, A. Gomboc, C. Guidorzi
+topic: Long gamma-ray burst GRB 191016A was a bright and slow rising burst that was detected by the \textit{Swift} satellite and followed up by ground based Liverpool Telescope (LT). LT follow-up started 2411-s after the \textit{Swift} Burst Alert Telescope (BAT) trigger using imager IO:O around the time of the late optical peak. From 3987-7687-s, we used the LT polarimeter RINGO3 to make polarimetric and photometric observations of the GRB simultaneously in the V,R and I bands. The combined optical light curve shows an initial late peak followed by a decline until 6147-s, 6087-s, and 5247-s for I,R and V filters respectively followed by a flattening phase. There is evidence of polarization at all phases including polarization (P=14.6+-7.2\%) which is coincident with the start of the flattening phase. The combination of the light curve morphology and polarization measurement favours an energy injection scenario where slower magnetised ejecta from the central engine catches up with the decelerating blast wave. We calculate the minimum energy injection to be [DeltaE/E \g 0.36]. At a later time combining the optical light curve from BOOTES (reported via GCN) and IO:O we see evidence of a jet break with jet opening angle 2 \degree.
+subjects: GRB, lGRB, observations
+
+link: https://arxiv.org/abs/2111.08724
+title: Hydrodynamical transport of angular momentum in accretion disks in the presence of nonlinear perturbations due to noise
+authors: Subham Ghosh, Banibrata Mukhopadhyay
+topic: The origin of hydrodynamical instability and turbulence in the Keplerian accretion disk is a long-standing puzzle. The flow therein is linearly stable. Here we explore the evolution of perturbation in this flow in the presence of an additional force. Such a force, which is expected to be stochastic in nature hence behaving as noise, could result from thermal fluctuations (however small be), grain-fluid interactions, feedback from outflows in astrophysical disks, etc. We essentially establish the evolution of nonlinear perturbation in the presence of Coriolis and external forces, which is the modified Landau equation. We obtain that even in the linear regime, under suitable forcing and Reynolds number, the otherwise least stable perturbation evolves to a very large saturated amplitude, leading to nonlinearity and plausible turbulence. Hence, forcing essentially leads a linear stable mode to unstable. We further show that nonlinear perturbation diverges at a shorter time-scale in the presence of force, leading to a fast transition to turbulence. Interestingly, the emergence of nonlinearity depends only on the force but not on the initial amplitude of perturbation, unlike the original Landau equation-based solution.
+subjects: disk, instabilities, analytic, physics, shearing box
+
+link: https://arxiv.org/abs/2111.08250
+title: Neutrino flavor evolution in dense environments and the r-process
+authors: Maria Cristina Volpe
+topic: In dense environments, standard and non-standard neutrino interactions with the background particles trigger a variety of flavor mechanisms, which can impact r-process nucleosynthetic abundances. Future observations of a(n) (extra)galactic supernova will tell us about properties of neutrinos and of the astrophysical source that produce them. The upcoming measurement of the diffuse supernova neutrino background constitute a unique source of information. We highlight some recent developments.
+subjects: neutrinos, overview, flavor oscillations
+
+link: https://arxiv.org/abs/2111.08353
+title: Analytic model of the spectral properties of gravitational waves from neutron star merger remnants
+authors: Theodoros Soultanis, Andreas Bauswein, Nikolaos Stergioulas
+topic: We present a new analytic model describing gravitational wave emission in the post-merger phase of binary neutron star mergers. The model is described by a number of physical parameters that are related to various oscillation modes, quasi-linear combination tones or non-linear features that appear in the post-merger phase. The time evolution of the main post-merger frequency peak is taken into account and it is described by a two-segment linear expression. The effectiveness of the model, in terms of the fitting factor or, equivalently, the reduction in the detection rate, is evaluated along a sequence of equal-mass simulations of varying mass. We find that all parameters of the analytic model correlate with the total binary mass of the system. For high masses, we identify new spectral features originating from the non-linear coupling between the quasi-radial oscillation and the antipodal tidal deformation, the inclusion of which significantly improves the fitting factors achieved by the model. We can thus model the post-merger gravitational-wave emission with an analytic model that achieves high fitting factors for a wide range of total binary masses. Our model can be used for the detection and parameter estimation of the post-merger phase in upcoming searches with upgraded second-generation detectors, such as aLIGO+ and aVirgo+, with future, third-generation detectors (Einstein Telescope and Cosmic Explorer) or with dedicated, high-frequency detectors.
+subjects: GW, model, analytic, frequencies, modes, fitting
+
+link: https://arxiv.org/abs/2111.08188
+title: Dynamic alignment and plasmoid formation in relativistic magnetohydrodynamic turbulence
+authors: Alexander Chernoglazov, Bart Ripperda, Alexander A. Philippov
+topic: We present high resolution 2D and 3D simulations of magnetized decaying turbulence in relativistic resistive magneto-hydrodynamics. The simulations show dynamic formation of large scale intermittent long-lived current sheets being disrupted by the tearing instability into plasmoid chains. These current sheets are locations of enhanced magnetic field dissipation and heating of the plasma. We find magnetic energy spectra k-3/2, together with strongly pronounced dynamic alignment of Elsasser fields and of velocity and magnetic fields, for strong guide-field turbulence, whereas we retrieve spectra k-5/3 for the case of a weak guide-field.
+subjects: MHD, simulations, MF, plasma, physics
+
+link: https://arxiv.org/abs/2111.06870
+title: Radiation hydrodynamics modeling of kilonovae with SNEC
+authors: Zhenyu Wu, Giacomo Ricigliano, Rahul Kashyap, Albino Perego, David Radice
+topic: We develop a method to compute synthetic kilonova light curves that combines numerical relativity simulations of neutron star mergers and the \texttt{SNEC} radiation-hydrodynamics code. We describe our implementation of initial and boundary conditions, r-process heating, and opacities for kilonova simulations. We validate our approach by carefully checking that energy conservation is satisfied and by comparing the \texttt{SNEC} results with those of two semi-analytic light curve models. We apply our code to the calculation of color light curves for three binaries having different mass ratios (equal and unequal mass) and different merger outcome (short-lived and long-lived remnants). We study the sensitivity of our results to hydrodynamic effects, nuclear physics uncertainties in the heating rates, and duration of the merger simulations. We also study the impact of shocks possibly launched into the outflows by a relativistic jet. None of our models match AT2017gfo, the kilonova in GW170817. This points to possible deficiencies in the merger simulations and to the need to go beyond the assumption of spherical symmetry adopted in this work.
+subjects: kN, radiation transport, HD, RHD, simulations, NR-informed, r-process
+
+link: https://arxiv.org/abs/2111.06445
+title: A standard siren measurement of the Hubble constant using gravitational wave events from the first three LIGO/Virgo observing runs and the DESI Legacy Survey
+authors: Antonella Palmese, Clecio R. Bom, Sunil Mucesh, William G. Hartley
+topic: We present a new constraint on the Hubble constant H0 using a sample of well-localized gravitational wave (GW) events detected during the first three LIGO/Virgo observing runs as dark standard sirens. In the case of dark standard sirens, a unique host galaxy is not identified, and the redshift information comes from the distribution of potential host galaxies. From the third LIGO/Virgo observing run detections, we add the asymmetric-mass binary black hole GW190412, the high-confidence GW candidates S191204r, S200129m, and S200311bg to the sample of dark standard sirens analyzed. Our sample contains the top 20\% (based on localization) GW events and candidates to date with significant coverage by the Dark Energy Spectroscopic Instrument (DESI) Legacy Survey. We combine the H0 posterior for eight dark siren events, finding H0=79.8+19.1-12.8 km s-1 Mpc-1 (68\% Highest Density Interval) for a prior in H0 uniform between [20,140] km s-1 Mpc-1. This result shows that a combination of 8 well-localized dark sirens combined with an appropriate galaxy catalog is able to provide an H0 constraint that is competitive (20\% versus 18\% precision) with a single bright standard siren analysis (i.e. assuming the electromagnetic counterpart) using GW170817. When combining the posterior with that from GW170817, we obtain H0=72.77+11.0-7.55 km s-1 Mpc-1. This result is broadly consistent with recent H0 estimates from both the Cosmic Microwave Background and Supernovae.
+subjects: GW, sirens, cosmology, H0, statistics, inference
 
 link: https://arxiv.org/abs/2111.05903
 title: Particle Acceleration by Pickup Process Upstream of Relativistic Shocks
