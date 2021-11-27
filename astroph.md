@@ -5,6 +5,61 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2111.11919
+title: QHC21 equation of state of neutron star matter -- in light of 2021 NICER data
+authors: Toru Kojo, Gordon Baym, Tetsuo Hatsuda
+topic: The recent NICER measurement of the radius of the neutron star PSR J0740+6620, and the inferred small variation in neutron star radii from 1.4Ms to 2.1Ms, suggest that the neutron star equation of state remains relatively stiff up to baryon densities n 2-4 times nuclear saturation density, n0 -- the region where we expect hadronic matter to be undergoing transformation into quark matter. To delineate the physics from the nuclear to the quark matter regimes we use the quark-hadron-crossover (QHC) template to construct an updated equation of state, QHC21. We include nuclear matter results primarily based on chiral effective field theory, but also note results of using nuclear matter variational calculations based on empirical nuclear forces, thus covering the range of uncertainties in the nuclear equation of state. To allow for a possible early transition to quark degrees of freedom we begin the crossover regime from nucleons to quarks at 1.5n0. The resulting equations of state are stiffer than our earlier QHC19 at 2n0, predicting larger radii in substantial agreement with the NICER data, with accompanying peaks in sound velocity at 2-4n0. We discuss possible microscopic mechanisms underlying stiffening of the equation of state.
+subjects: CFT, EOS, NS, nuclear, quark
+
+link: https://arxiv.org/abs/2111.11841
+title: Magnetospheric curvature radiation by bunches as emission mechanism for repeating fast radio bursts
+authors: Wei-Yang Wang, Yuan-Pei Yang, Chen-Hui Niu, Renxin Xu, Bing Zhang
+topic: Coherent curvature radiation as the radiation mechanism for fast radio bursts (FRBs) has been discussed since FRBs were discovered. We study the spectral and polarization properties of repeating FRBs within the framework of coherent curvature radiation by charged bunches in the magnetosphere of a highly magnetized neutron star. The spectra can be generally characterized by multisegment broken power laws, and evolve as bunches move and the line of sight sweeps. Emitted waves are highly linear polarized if the line of sight is confined to the beam within an angle of 1/Gamma, while circular polarized degree becomes strong for off-beam cases. The spectro-temporal pulse-to-pulse properties can be a natural consequence due to the magnetospheric geometry. We investigate the relationship between drift rate, central frequency and their temporal duration. The radius-to-frequency mapping is derived and simulated within the assumptions of both dipolar and quadrupolar magnetic configurations. The geometric results show that FRBs are emitted in field lines more curved than open field lines for a dipolar geometry. This suggests that there are most likely existing multipolar magnetic configurations in the emission region.
+subjects: FRB, mechanism, physics, model
+
+link: https://arxiv.org/abs/2111.11738
+title: A Shock-in-Jet Synchrotron Mirror Model for Blazars
+authors: Markus Boettcher 
+topic: Reinhard Schlickeiser has made groundbreaking contributions to various aspects of blazar physics, including diffusive shock acceleration, the theory of synchrotron radiation, the production of gamma-rays through Compton scattering in various astrophysical sources, etc. This paper, describing the development of a self-consistent shock-in-jet model for blazars with a synchrotron mirror feature, is therefore an appropriate contribution to a Special Issue in honor of Reinhard Schlickeiser's 70th birthday. The model is based on our previous development of a self-consistent shock-in-jet model with relativistic thermal and non-thermal particle distributions evaluated via Monte-Carlo simulations of diffusive shock acceleration, and time-dependent radiative transport. This model has been very successful in modeling spectral variability patterns of several blazars, but has difficulties describing orphan flares, i.e., high-energy flares without a significant counterpart in the low-frequency (synchrotron) radiation component. As a solution, this paper investigates the possibility of a synchrotron mirror component within the shock-in-jet model. It is demonstrated that orphan flares result naturally in this scenario. The model's applicability to a recently observed orphan gamma-ray flare in the blazar 3C279 is discussed and it is found that only orphan flares with mild (a factor of 2-3) enhancements of the Compton dominance can be reproduced in a synchrotron-mirror scenario, if no additional parameter changes are invoked.
+subjects: Blazar, jet, spectrum, synchrotron
+
+link: https://arxiv.org/abs/2111.11464
+title: Metallicity-Suppressed Collapsars Cannot be the Dominant r-Process Source in the Milky Way
+authors: Jack Fraser, Ralph Schönrich
+topic: We develop a high-performance analytical model of Galactic Chemical Evolution, which accounts for delay time distributions and lock-up of stellar yields in a thermal-phased ISM. The model is capable of searching, for the first time, through the high-dimensional parameter space associated with the r-process enrichment of the Milky Way by its possible sources: Neutron Star Mergers and Collapsar events. Their differing formation mechanisms give these two processes different time dependencies, a property which has frequently been used to argue in favour of collapsars as the dominant r-process source. However, we show that even with large degrees of freedom in the allowed thermal, structural, and chemical properties of the galaxy, large regions of parameter space are in strong tension with the data. In particular, whilst we are able to find models in which neutron star mergers produce the majority of r-process material, the data rule out all models with dominant collapsar yields. With no other identified source, we conclude that Neutron Star Mergers must be the dominant contributors to the modern Milky Way r-process budget.
+subjects: projenitor, r-process, model, chemical evolution
+revelation: model supprts BNS as sources or r-process
+
+link: https://arxiv.org/abs/2011.14040
+title: Model-independently calibrating the luminosity correlations of gamma-ray bursts using deep learning
+authors: Li Tang, Xin Li, Hai-Nan Lin, Liang Liu
+topic: Gamma-ray bursts (GRBs) detected at high redshift can be used to trace the Hubble diagram of the Universe. However, the distance calibration of GRBs is not as easily as that of type Ia supernovae (SNe Ia). For the calibrating method based on the empirical luminosity correlations, there is an underlying assumption that the correlations should be universal over the whole redshift range. In this paper, we investigate the possible redshift dependence of six luminosity correlations with a completely model-independent deep learning method. We construct a network combining the Recurrent Neural Networks (RNN) and the Bayesian Neural Networks (BNN), where RNN is used to reconstruct the distance-redshift relation by training the network with the Pantheon compilation, and BNN is used to calculate the uncertainty of the reconstruction. Using the reconstructed distance-redshift relation of Pantheon, we test the redshift dependence of six luminosity correlations by dividing the full GRB sample into two subsamples (low-z and high-z subsamples), and find that only the Ep-Egamma relation has no evidence for redshift dependence. We use the Ep-Egamma relation to calibrate GRBs, and the calibrated GRBs give tight constraint on the flat LambdaCDM model, with the best-fitting parameter [OmegaM=0.307+0.065-0.073].
+subjects: cosmology, grb, neural network, inference, ML, NN
+
+link: https://arxiv.org/abs/2111.10629
+title: The Theory of Efficient Particle Acceleration at Shocks
+authors: Damiano Caprioli, Colby Haggerty, Pasquale Blasi
+topic: The recent discoveries in the theory of diffusive shock acceleration (DSA) that stem from first-principle kinetic plasma simulations are discussed. When ion acceleration is efficient, the back-reaction of non-thermal particles and self-generated magnetic fields becomes prominent and leads to both enhanced shock compression and particle spectra significantly softer than those predicted by the standard test-particle DSA theory. These results are discussed in the context of the non-thermal phenomenology of astrophysical shocks, with a special focus on the remnant of SN1006.
+subjects: shocks, phsyics, non-thermal, simulation
+
+link: https://arxiv.org/abs/2111.10435
+title: Accounting for Selection Bias and Redshift Evolution in GRB Radio Afterglow Data
+authors: Maria Dainotti, Delina Levine, Nissim Fraija, Poonam Chandra
+topic: Gamma-ray Bursts (GRBs) are highly energetic events that can be observed at extremely high redshift. However, inherent bias in GRB data due to selection effects and redshift evolution can significantly skew any subsequent analysis. We correct for important variables related to the GRB emission, such as the burst duration, T90, the prompt isotropic energy, Eiso, the rest-frame end time of the plateau emission, Ta,radio, and its correspondent luminosity La,radio, for radio afterglow. In particular, we use the Efron-Petrosian method presented in 1992 for the correction of our variables of interest. Specifically, we correct Eiso and T90 for 80 GRBs, and La,radio and Ta,radio for a subsample of 18 GRBs that present a plateau-like flattening in their light curve. Upon application of this method, we find strong evolution with redshift in most variables, particularly in La,radio, with values similar to those found in past and current literature in radio, X-ray and optical wavelengths, indicating that these variables are susceptible to observational bias. This analysis emphasizes the necessity of correcting observational data for evolutionary effects to obtain the intrinsic behavior of correlations to use them as discriminators among the most plausible theoretical models and as reliable cosmological tools.
+subjects: GRB, statistics, selection, bias
+
 link: https://arxiv.org/abs/2111.09369
 title: A comparison of approximate non-linear Riemann solvers for Relativistic MHD
 authors: Gincarlo Mattia, Andrea Mignone
