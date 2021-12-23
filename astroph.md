@@ -5,17 +5,66 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2112.11851
+title: Investigating the mass-ratio dependence of the prompt-collapse threshold with numerical-relativity simulations
+authors: Maximilian Kölsch, Tim Dietrich, Maximiliano Ujevic, Bernd Bruegmann
+topic: The next observing runs of advanced gravitational-wave detectors will lead to a variety of binary neutron star detections and numerous possibilities for multi-messenger observations of binary neutron star systems. In this context a clear understanding of the merger process and the possibility of prompt black hole formation after merger is important, as the amount of ejected material strongly depends on the merger dynamics. These dynamics are primarily affected by the total mass of the binary, however, the mass ratio also influences the postmerger evolution. To determine the effect of the mass ratio, we investigate the parameter space around the prompt-collapse threshold with a new set of fully relativistic simulations. The simulations cover three equations of state and seven mass ratios in the range of 1.0 - q - 1.75, with five to seven simulations of binary systems of different total mass in each case. The threshold mass is determined through an empirical relation based on the collapse-time, which allows us to investigate effects of the mass-ratio on the threshold mass and also on the properties of the remnant system. Furthermore, we model effects of mass ratio and equation of state on tidal parameters of threshold configurations.
+subjects: BNS, simulations, PC, NR, GRHD, BAM
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2112.12108
+title: Ensembles of unified crust and core equations of state in a nuclear-multimessenger astrophysics environment
+authors: William G. Newton, Lauren Balliet, Srdan Budimir, Gabrial Crocombe, Brianna Douglas, Thomas Blake Head, Luis Rivera, Zach Langford, Josh Sanford
+topic: We present an ensemble of unified neutron star crust and core equations of state, constructed using an extended Skyrme energy density functional through the crust and outer core, and appended by two piecewise polytropes at higher densities. The equations of state are parameterized by the first three coefficients in the density expansion of the symmetry energy J,L and Ksym, the moment of inertia of a 1.338 Msun star I1.338 and the maximum neutron star mass Mmax. We construct an ensemble with uniform priors on all five parameters, and then apply data filters to the ensemble to explore the effect of combining neutron skin data from PREX with astrophysical measurements of radii and tidal deformabilities from NICER and LIGO/VIRGO. Neutron skins are calculated directly using the EDFs. We demonstrate that both the nuclear data and astrophysical data play a role in constraining crust properties such as the mass, thickness and moment of inertia of the crust and the nuclear pasta layers therein, and that astrophysical data better constrains Ksym than PREX data.
+subjects: NS, EOS, quantum, theory 
+
+link: https://arxiv.org/abs/2112.11357
+title: Modeling the Multi-band Light Curves of the Optical--NIR Afterglows of Four Gamma-Ray Bursts and Their Associated Supernovae
+authors: Ji-Shun Lian, Shan-Qin Wang, Wen-Pei Gan, Jing-Yao Li, En-Wei Liang
+topic: In this paper, we use (broken) power-law plus 56Ni models to fit the multi-band light curves of the optical and near-infrared (NIR) counterparts of four gamma-ray bursts (GRBs 011121, 100316D, 130702A, and GRB 161219B). We find that the models can account for the light curves of the optical--NIR counterparts which can be divided into the GRB afterglows and their associated supernovae (SNe 2001ke, 2010bh, 2013dx, and 2016jca, respectively). The most parameters we derive are consistent with previous studies. However, the 56Ni masses we derive are higher than that in the literatures (except for that of GRB 100316D/SN 2010bh). The difference of the 56Ni masses might be due to the fact that the 56Ni masses in the literatures are obtained by fitting the quasi-bolometric light curves which are usually (significantly) underestimated, and dimmer than the theoretical bolometric light curves reproduced by the best-fitting parameters we derive. Our results demonstrate that the spectral energy distributions (SEDs) of SNe associated with GRBs can be well described by the blackbody model, and the 56Ni model can account for their multi-band light curves. We suggest that the 56Ni masses of a fraction of GRB-SNe have been underestimated.
+subjects: GRB, SNe, modelling, inference
+revelation: they have done what you are trying to do with kN and GRB...
+
+link: https://arxiv.org/abs/2112.11159
+title: Equation of state and neutrino transfer in supernovae and neutron stars
+authors: Kohsuke Sumiyoshi
+topic: We overview the progress of the tables of the equation of state for astrophysical simulations and the numerical methods of neutrino transfer. Hot and dense matter play essential roles in core-collapse supernovae and neutron stars. Equation of state determines the structure of compact objects and their dynamics through its behavior of thermodynamic quantities. In addition, neutrinos are trapped in supernova cores and neutron star mergers and frequently interact with matter to crucially affect dynamics in determining the explosion mechanism and the final form of compact objects. Therefore, it is essential to implement detailed processes of nuclear and neutrino physics in numerical simulations by having reliable data set of the equation of state and reaction rates. We show examples of developments of the equation of state and the neutrino transfer and discuss research directions toward understanding the explosive phenomena by the first principle calculation.
+subjects: EOS, NS, neutrinos, overview
+
+link: https://arxiv.org/abs/2112.09817
+title: Handing-Off the Outcome of Binary Neutron Star Mergers for Accurate and Long-Term Post-Merger Simulations
+authors: Federico G. Lopez Armengol, Zachariah B. Etienne, Scott C. Noble, Bernard J. Kelly, Leonardo R. Werneck, Brendan Drachler, Manuela Campanelli, Federico Cipolletta, Yosef Zlochower, Ariadna Murguia-Berthier, Lorenzo Ennoggi, Mark Avara, Riccardo Ciolfi, Joshua Faber, Grace Fiacco, Bruno Giacomazzo, Tanmayee Gupte, Trung Ha, Julian H. Krolik, Vassilios Mewes, Richard O'Shaughnessy, Jesús M. Rueda-Becerril, Jeremy Schnittman
+topic: We perform binary neutron star (BNS) merger simulations in full dynamical general relativity with IllinoisGRMHD, on a Cartesian grid with adaptive-mesh refinement. After the remnant black hole (BH) has become nearly stationary, the evolution of the surrounding accretion disk on cartesian grids over long timescales (1s) is suboptimal, as the plasma flows obliquely across coordinate lines and numerical errors quickly dissipate angular momentum from the disk. To address this, we present the Handoff, a set of computational tools that enables the transfer of general relativistic magnetohydrodynamic (GRMHD) and spacetime data from IllinoisGRMHD to Harm3d, a GRMHD code that specializes in modeling BH accretion disks in static spacetimes over long timescales, making use of general coordinate systems with spherical topology. We demonstrate that the HandOff allows for a smooth and reliable transition of GRMHD fields and spacetime data, enabling us to efficiently and reliably evolve BNS dynamics well beyond merger. We also discuss future plans, which involve incorporating advanced equations of state and neutrino physics into BNS simulations using the HandOff approach.
+subjects: GRBMHD, simulations, tools, MHD, codes, tools, methods
+
+link: https://arxiv.org/abs/2112.09730
+title: Binary neutron star mergers within kaon condensation: GW170817
+authors: Z. Sharifi, M. Bigdeli, D. Alvarez-Castillo, E. Nasiri
+topic: The equation of state (EoS) of neutron star (NS) matter is investigated considering kaon condensation. Moreover, the tidal parameters related to the components of binary neutron star mergers are determined and compared to the constraints of GW170817 imposed on these quantities. In this study, we employ the lowest-order constrained variational (LOCV) approach and utilize [AV6, AV8, and AV18 potentials] accompanied by the three nucleon interaction (TNI) [in order to consider the nucleon-nucleon interaction]. It is known that the existence of kaons in the core of NSs softens the EoS [and thus] lowers the value of maximum mass which is expected to be greater than 2 Msun. Our results demonstrate that considering kaon condensation with a strangeness value, a3ms=-134 MeV satisfies the maximum mass constraint except for AV8+TNI potential. However, the calculation of dimensionless tidal deformability shows that with the decrease of strangeness value, the neutron star gets less deformed.
+subjects: NS, EOS, constraints, inference, resonances, quantum 
+
+link: https://arxiv.org/abs/2112.09701
+title: A Systematic Exploration of Kilonova Candidates from Neutron Star Mergers During the Third Gravitational Wave Observing Run
+authors: J. Rastinejad (Northwestern/CIERA), K. Paterson, W. Fong, D. J. Sand, M. J. Lundquist, G. Hosseinzadeh, E. Christensen, P. N. Daly, A. R. Gibbs, S. Hall, F. Shelly, S. Yang
+topic: We present a comprehensive analysis of 653 optical candidate counterparts reported during the third gravitational wave (GW) observing run. Our sample concentrates on candidates from the 15 events that had a 1 and more percent chance of including a neutron star in order to assess their viability as true kilonovae. In particular, we leverage tools available in real time, including pre-merger detections and cross-matching with catalogs (i.e. point source, variable star, quasar and host galaxy redshift datasets), to eliminate more [67\%] of candidates in our sample. We further employ spectroscopic classifications, late-time detections and light curve behavior analysis, and conclude that 60 candidates remain viable kilonovae. These candidates lack sufficient information to determine their classifications, and the majority would require luminosities greater than that of AT2017gfo. Pre-merger detections in public photometric survey data and comparison of catalogued host galaxy redshifts with the GW event distances are critical to incorporate into vetting procedures, as these tools eliminated [\g 20%] and [\g 33%] of candidates, respectively. We expect that such tools which leverage archival information will significantly reduce the strain on spectroscopic and photometric follow-up resources in future observing runs. Finally, we discuss the critical role prompt updates from GW astronomers to the EM community play in reducing the number of candidates requiring vetting.
+subjects: observations, cataloge, kN, GW events, search, follow-up, statistics
+
+link: https://arxiv.org/abs/2112.09673
+title: Macro-scale fast flow and magnetic field generation in 2-temperature relativistic electron-ion plasmas of astrophysical objects
+authors: K. Kotorashvili, N.L. Shatashvili
+topic: We have shown the simultaneous generation of macro-scale fast flows and strong magnetic fields in the 2-temperature relativistic electron-ion plasmas of astrophysical objects due to Unified Reverse Dynamo/Dynamo mechanism. The resulting dynamical magnetic field amplification and/or flow acceleration is directly proportional to the initial turbulent kinetic/magnetic (magnetic) energy; the process is very sensitive to relativistically hot electron-ion fraction temperature and magneto-fluid coupling. It is shown, that for realistic physical parameters of White Dwarfs accreting hot astrophysical flow / Binary systems there always exists such a real solution of dispersion relation for which the formation of dispersive strong super-Alfvenic macro-scale flow/outflow with Alfven Mach number >and/or generation of super-strong magnetic fields is guaranteed.
+subjects: MF, production, MHD, simulation, physics
+
+link: https://arxiv.org/abs/2112.09603
+title: Test particle energization of heavy ions in magnetohydrodynamic turbulence
+authors: Facundo Pugliese, Pablo Dmitruk
+topic: In the present work, we study the energization and displacement of heavy ions through the use of test particles interacting with the electromagnetic fields of magnetohydrodynamic (MHD) turbulence. These fields are obtained from pseudospectral direct numerical solutions (DNSs) of the compressible three-dimensional MHD equations with a strong background magnetic field. We find particle energization to be predominantly perpendicular as the ions become heavier (lower charge-to-mass ratio) and that high displacement is detrimental for perpendicular energization. On the other hand, perpendicular displacement is unaffected by the charge-to-mass ratio, which we explain with a simple guide center model. Using Voronoi tessellation along with this model, we analyze preferential concentration and find that particles behave as tracers in the perpendicular plane, clustering in regions with. These regions also have.., which is optimal for perpendicular energization, thus providing a mechanism to understand precedent results.
+subjects: particle acceleration, MHD, simulation
+
+link: https://arxiv.org/abs/2112.09555
+title: Relativistic Particle Transport and Acceleration in Structured Plasma Turbulence
+authors: Oreste Pezzi, Pasquale Blasi, William H. Matthaeus
+topic: We discuss the phenomenon of energization of relativistic charged particles in three-dimensional (3D) incompressible MHD turbulence and the diffusive properties of the motion of the same particles. We show that the random electric field induced by turbulent plasma motion leads test particles, moving in a simulated box to be accelerated in a stochastic way, a second order Fermi process. A small fraction of these particles happen to be trapped in large scale structures, most likely formed due to the interaction of islands in the turbulence. Such particles get accelerated exponentially, provided their pitch angle satisfies some conditions. We discuss at length the characterization of the accelerating structure and the physical processes responsible for rapid acceleration. We also comment on the applicability of the results to realistic astrophysical turbulence.
+subjects: MHD, sinumation, particle acceleration, 2nd Fermi process
 
 link: https://arxiv.org/abs/2112.08413
 title: Turbulent magnetic field amplification in binary neutron star mergers
