@@ -5,6 +5,18 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2202.11096
+title: Radio Signals from Axion Star-Neutron Star Binaries
+authors: Chris Kouvaris, Tao Liu, Kun-Feng Lyu
+topic: Axion stars could form binaries with neutron stars. Given the extremely strong external magnetic field exhibited by individual neutron stars, there can be a substantial conversion of axions to photons in these binaries. The photon emission is doubly modulated due to the neutron star spinning and the axion star orbiting, yielding a unique discovery signal. Similar features are also generated in binaries between a neutron star and an axion-clouded black hole. Encouragingly, such binaries are found to be within the reach of ongoing and upcoming experiments (e.g., the Five hundred meter Aperture Spherical Telescope and the future Square Kilometer Array) for certain parameter regions. They thus provide a promising astronomical laboratory for detecting axions and axion dark matter.
+subjects: radio, MF, axion star
+
 link: https://arxiv.org/abs/2202.09382
 title: Probing neutron stars with the full pre-merger and post-merger gravitational wave signal from binary coalescences
 authors: Marcella Wijngaarden, Katerina Chatziioannou, Andreas Bauswein, James A. Clark, Neil J. Cornish
