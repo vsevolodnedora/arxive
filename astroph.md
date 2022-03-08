@@ -41,6 +41,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2203.00473
 title: Low-luminosity supernovae: SN 2005cs and SN 2020cxd as very low-energy iron core-collapse explosions
 authors: Alexandra Kozyreva, Hans-Thomas Janka, Daniel Kresse, Stefan Taubenberger
