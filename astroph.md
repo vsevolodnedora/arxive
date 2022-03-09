@@ -5,47 +5,77 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.03643
+title: Cross-correlating dark sirens and galaxies: measurement of H0 from GWTC-3 of LIGO-Virgo-KAGRA
+authors: Suvodip Mukherjee, Alex Krolewski, Benjamin D. Wandelt, Joseph Silk
+topic: We measure the Hubble constant of the Universe using spatial cross-correlation between gravitational wave (GW) sources without electromagnetic counterparts from the third GW Transient Catalog (GWTC-3), and the photometric galaxy surveys 2MPZ and WISE-SuperCOSMOS. Using the eight well-localised GW events, we obtain Hubble constant H0=68.2+26.0-6.2 km/s/Mpc (median and 68.3\% equal-tailed interval (ETI)) after marginalizing over the matter density and the GW bias parameters. Though the constraints are weak due to a limited number of GW sources and poor sky localization, they are not subject to assumptions regarding the GW mass distribution. By combining this measurement with the Hubble constant measurement from binary neutron star GW170817, we find a value of Hubble constant H0=67.0+6.3−3.8 km/s/Mpc (median and 68.3% ETI).
+subjects: GW, H0, Hubble, cosmology, dark sirens
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.03471
+title: Gravitomagnetic interaction of a Kerr black hole with a magnetic field as the source of the jetted GeV radiation of gamma-ray bursts
+authors: J. A. Rueda, R. Ruffini, R. P. Kerr
+topic: We show that the gravitomagnetic interaction of a Kerr black hole (BH) with a surrounding magnetic field induces an electric field that accelerates charged particles to ultra-relativistic energies in the vicinity of the BH. Along the BH rotation axis, these electrons/protons can reach energies of even thousands of PeV, so stellar-mass BHs in long gamma-ray bursts (GRBs) and supermassive BHs in active galactic nuclei (AGN) can contribute to the ultrahigh-energy cosmic rays (UHECRs) thorough this mechanism. At off-axis latitudes, the particles accelerate to energies of hundreds of GeV and emit synchrotron radiation at GeV energies. This process occurs within 60deg around the BH rotation axis, and due to the equatorial-symmetry, it forms a double-cone emission. We outline the theoretical framework describing these acceleration and radiation processes, how they extract the rotational energy of the Kerr BH and the consequences for the astrophysics of GRBs.
+subjects: acceleration, CR, BH, accretion
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.03170
+title: A Comprehensive Study of Bright Fermi-GBM Short Gamma-Ray Bursts: I. Multi-Pulse Lightcurves and Multi-Component Spectra
+authors: Peng-Wei Zhao, Qing-Wen Tang
+topic: Sorted by the photon fluences of short Gamma-ray Bursts (SGRBs) detected by the Fermi- Gamma Ray Burst Monitor (GBM), nine brightest bursts are selected to perform a comprehensive analysis. All GRB lightcurves are fitted well by 1 to 3 pulses that are modelled by fast-rising exponential decay profile (FRED), within which the resultant rising time is strongly positive-correlated with the full time width at half maxima (FWHM). A photon spectral model involving a cutoff power-law function and a standard blackbody function (CPL + BB) could reproduce the spectral energy distributions of these SGRBs well in the bursting phase. The CPL's peak energy is found strongly positive-correlated with the BB's temperature, which indicates they might be from the same physical origin. Possible physical origins are discussed to account for these correlations.
+subjects: GRB, statistics, analytic, fitting
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.03156
+title: Multi-physics constraints at different densities to probe nuclear symmetry energy in hyperonic neutron stars
+authors: Suprovo Ghosh, Bikram Keshari Pradhan, Debarati Chatterjee, Jürgen Schaffner-Bielich
+topic: The appearance of strangeness in the form of hyperons within the inner core of neutron stars is expected to affect its detectable properties such as its global structure or gravitational wave emission. In this work, we explore the parameter space of hyperonic stars within the framework of the Relativistic Mean Field model allowed by present uncertainties in state-of-the-art nuclear and hypernuclear experimental data. We impose multi-physics constraints at different density regimes to restrict the parameter space: Chiral effective field theory, heavy-ion collision data as well as multi-messenger astrophysical observations of neutron stars. We investigate possible correlations between empirical nuclear and hypernuclear parameters, particularly the symmetry energy and its slope, with observable properties of neutron stars. We do not find a correlation for the hyperon parameters and the astrophysical data. However, the inclusion of hyperons generates a tension between the astrophysical and heavy ion data constraining considerable the available parameter space.
+subjects: NS, EOS, quantum, hyperons
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.03045
+title: Engine-fed Kilonovae (Mergernovae) -- I. Dynamical Evolution and Energy Injection / Heating Efficiencies
+authors: Shunke Ai, Bing Zhang, Zhaohuan Zhu
+topic: A binary neutron star merger is expected to be associated by a kilonova, transient optical emission powered by radioactive decay of the neutron-rich ejecta. If the post-merger remnant is a long-lived neutron star, additional energy injection to the ejecta is possible. Hence, a long-lived neutron star can serve as the engine of the kilonova. In this first paper of a series, we study the dynamical evolution of the engine-fed kilonova (mergernova) ejecta in detail. We perform a semi-analytical study of the problem by adopting a modified mechanical blastwave model that invokes interaction between a Poynting-flux-dominated flow and a non-magnetized massive ejecta. Shortly after the engine is turned on, a pair of shocks would be excited. The reverse shock quickly reaches the wind-acceleration region and disappears, whereas the forward shock soon breaks out from the ejecta and continues to propagate in the surrounding interstellar medium. Most of the energy injected into the blastwave from the engine is stored as magnetic energy and kinetic energy. The internal energy fraction is fint \l 0.3 for an ejecta mass equal to 10-3Msun. Overall, the energy injecting efficiency Xi is at most 0.6 and can be as small as 0.04 at later times. Contrary to the previous assumption, efficient heating only happens before the forward shock breaks out of the ejecta with a heating efficiency Xit-(0.006-0.3), which rapidly drops to ∼0 afterwards. The engine-fed kilonova lightcurves will be carefully studied in Paper II.
+subjects: kilonova, semi-analytic, model, injection
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.02765
+title: Flare echos from relaxation shocks in perturbed relativistic jets
+authors: Gaëtan Fichet de Clairfontaine, Zakaria Meliani, Andreas Zech
+topic: One of the main scenarios to account for the multi-wavelength flux variability observed in relativistic jets of AGNs is based on diffusive shock acceleration of a population of relativistic electrons on internal shocks of various origins. Any complete AGN emission scenario has to be able to explain the wide range of observed variability time scales between the radio and gamma-ray band. In addition constraints are also provided by very-long-baseline interferometry (VLBI), which shows a large variety of moving and standing emission zones with distinct behaviors. We aim to characterize the evolution of stationary and moving emission zones in the jet and to study their multi-wavelength signatures through emission maps and light curves. We focus our study on flare events that occur during strong interactions between moving ejecta and stationary recollimation shocks. We simulate relativistic jets with the magneto-hydrodynamic code MPI-AMRVAC and inject non-thermal particle distributions of electrons in shock regions. We follow the propagation of a moving shock and its interactions with a structure of standing re-collimation shocks in the jet. Synchrotron emission and radiative transfer are calculated in the post-processing code RIPTIDE for given observation angles and frequencies. We demonstrate the appearance of trailing components behind the leading moving shock. The latter destabilizes the jet, causing the emergence of oscillating standing shocks and relaxation shocks. Emissions from these regions can dominate the overall flux or lead to flare echos in the light curve. Another observational marker of relaxation shocks appears in time-distance plots of bright VLBI components of the jet. Our scenario provides a plausible explanation for radio VLBI observations of the radio-galaxy 3C 111 where trailing components have been observed during a radio outburst event in 1997.
+subjects: jet, MHD, synchrotron, AGN, simulations
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.02132
+title: Thermal Relaxation of Dark Matter Admixed Neutron Star
+authors: Ankit Kumar, H. C. Das, S. K. Patra
+topic: Motivated by the various theoretical studies regarding the efficient capturing of dark matter by neutron stars, we explore the possible indirect effects of captured dark matter on the cooling mechanism of a neutron star. The equation of states for different configurations of dark matter admixed star at finite temperature is obtained using the relativistic mean-field formalism with the IOPB-I parameter set. We show that the variation in the dark matter momentum vastly modifies the neutrino emissivity through specific neutrino generating processes of the star. The specific heat and the thermal conductivity of a dark matter admixed star have also been investigated to explore the propagation of cooling waves in the interior of the star. The dependence of theoretical surface temperature cooling curves on the equation of state and chemical composition of the stellar matter has also been discussed along with the observational data of thermal radiation from various sources. We observed that the dark matter admixed canonical stars with kDMf \g 0.04 comply with the fast cooling scenario. Further, the metric for internal thermal relaxation epoch has also been calculated with different dark matter momentum and we deduced that increment of dark matter segment amplify the cooling and internal relaxation rates of the star.
+subjects: NS, EOS, DM
+
+link: https://arxiv.org/abs/2203.01960
+title: A hot and luminous source at the site of the fast transient AT2018cow at 2-3 years after its explosion
+authors: Ning-Chen Sun, Justyn R. Maund, Paul A. Crowther, Liang-Duan Liu
+topic: We report the discovery of a luminous late-time source at the position of the fast blue optical transient (FBOT) AT2018cow on images taken by the Hubble Space Telescope (HST) at 714 d and 1136 d after its explosion. This source is detected at both UV and optical wavelengths and has prominent Halpha emission. It has a very stable brightness between the two epochs and a very blue spectral energy distribution (SED) consistent with [], i.e. the Rayleigh-Jeans tail of a hot blackbody with a very high temperature of log(T/K) > 4.6 and luminosity of log(L/Lsun) > 7.0. This late-time source is unlikely to be an unrelated object in chance alignment, or due to a light echo of AT2018cow. Other possible scenarios also have some difficulties in explaining this late-time source, including companion star(s), star cluster, the survived progenitor star, interaction with circumstellar medium (CSM), magnetar, or delayed accretion in a tidal disruption event (TDE). Long-term and multi-wavelength monitoring will help to resolve its nature and finally reveal the origin of the "Cow".
+subjects: FBOT, observation
+
+link: https://arxiv.org/abs/2203.01372
+title: A persistent ultraviolet outflow from an accreting neutron star binary transient
+authors: N. Castro Segura, C. Knigge, K.S. Long, D. Altamirano, M. Armas Padilla, C. Bailyn, D.A.H. Buckley, D.J.K. Buisson, J. Casares, P. Charles, J.A. Combi, V.A. Cúneo, N.D. Degenaar, S. del Palacio, M. Díaz Trigo, R. Fender, P. Gandhi, M. Georganti, C. Gutiérrez, J. V. Hernandez Santisteban, F. Jiménez-Ibarra, J. Matthews, M. Méndez, M. Middleton, T. Muñoz-Darias, M. Özbey Arabacı, M. Pahari, L. Rhodes, T.D. Russell, S. Scaringi, J. van den Eijnden, G. Vasilopoulos, F.M. Vincentelli, P. Wiseman
+topic: All disc-accreting astrophysical objects produce powerful outflows. In binaries containing neutron stars (NS) or black holes, accretion often takes place during violent outbursts. The main disc wind signatures during these eruptions are blue-shifted X-ray absorption lines, which are preferentially seen in disc-dominated "soft states". By contrast,optical wind-formed lines have recently been detected in "hard states", when a hot corona dominates the luminosity. The relationship between these signatures is unknown, and no erupting system has revealed wind-formed lines between the X-ray and optical bands yet, despite the many strong resonance transitions in this ultraviolet (UV) region. Here, we show that the transient NS binary Swift J1858.6-0814 exhibits wind-formed, blue-shifted absorption associated with C IV, N V and He II in time-resolved UV spectroscopy during a luminous hard state. This represents the first evidence for a warm, moderately ionized outflow component in this state. Simultaneously observed optical lines also display transient blue-shifted absorption. Decomposing the UV data into constant and variable components, the blue-shifted absorption is associated with the former. This implies that the outflow is not connect to the luminous flares in the data. The joint presence of UV and optical wind features reveals a multi-phase and/or stratified outflow from the outer disc. This type of persistent mass loss across all accretion states has been predicted by radiation-hydrodynamic simulations and helps to explain the shorter-than-expected outbursts duration.
+subjects: NS, accretion, XRB, spectrum, modelling
+
+link: https://arxiv.org/abs/2203.01330
+title: Binary evolution, gravitational-wave mergers and explosive transients in multiple-populations gas-enriched globular-clusters
+authors: Mor Rozner, Hagai B. Perets
+topic: Most globular clusters (GCs) show evidence for multiple stellar populations, suggesting the occurrence of several distinct star-formation episodes. The large fraction of second population (2P) stars observed requires a very large 2P gaseous mass to have accumulated in the cluster core to form these stars. Hence the first population of stars (1P) in the cluster core has had to become embedded in 2P gas, just prior to the formation of later populations. Here we explore the evolution of binaries in ambient 2P gaseous media of multiple-population GCs. We mostly focus on black hole binaries and follow their evolution as they evolve from wide binaries towards short periods through interaction with ambient gas, followed by gravitational-wave (GW) dominated inspiral and merger. We show this novel GW-merger channel could provide a major contribution to the production of GW-sources. We consider various assumptions and initial conditions and calculate the resulting gas-mediated change in the population of binaries and the expected merger rates due to gas-catalyzed GW-inspirals. For plausible conditions and assumptions, we find an expected GW merger rate observable by aLIGO of the order of up to a few tens of Gpc-3yr-1, and an overall range for our various models of 0.08-25.51 Gpc-3yr-1. Finally, our results suggest that the conditions and binary properties in the early stage of GCs could be critically affected by gas-interactions and may require a major revision in the current modeling of the evolution of GCs.
+subjects: population, GW, BBH, GC
+
+link: https://arxiv.org/abs/2203.00882
+title: The Hardness-intensity Correlation of Photospheric Emission from a Structured Jet for Gamma-Ray Bursts
+authors: Xinying Song, Yan-Zhi Meng
+topic: For many gamma-ray bursts (GRBs), hardness-intensity correlation (HIC) can be described by a power-law function, Ep propto Fκ, where Ep is the peak energy of nuFnu spectrum, and F is the instantaneous energy flux. In this paper, HIC of the non-dissipative photospheric emission from a structured jet is studied in different regimes. An intermediate photosphere, which contains both of unsaturated and saturated emissions is introduced, and we find positive kappa<1/4 in this case. The same conclusion could be generalized to the photospheric emission from a hybrid jet without magnetic dissipations, or that with sub-photospheric magnetic dissipations and fully thermalized. This may imply that the contribution peaking at 1/2 in the distribution of observed κ are mainly from the prompt emission of GRBs with synchrotron origin. Besides, emissions of the intermediate photosphere could give a smaller low-energy photon index alpha than that in the unsaturated regime, and naturally reproduce anti-correlation in alpha-Ep in a GRB pulse.
+subjects: GRB, prompt, photosphere
+
+link: https://arxiv.org/abs/2203.00473
+title: Low-luminosity supernovae: SN 2005cs and SN 2020cxd as very low-energy iron core-collapse explosions
+authors: Alexandra Kozyreva, Hans-Thomas Janka, Daniel Kresse, Stefan Taubenberger
+topic: SN 2020cxd is a representative of the family of low-energy, underluminous Type IIP supernovae (SNe), whose observations and analysis were recently reported by Yang et al. (2021). Here we re-evaluate the observational data for the diagnostic SN properties by employing the hydrodynamic explosion model of a 9 MSun red supergiant progenitor with an iron core and a pre-collapse mass of 8.75 Msun. The explosion of the star was obtained by the neutrino-driven mechanism in a fully self-consistent simulation in three dimensions (3D). Multi-band light curves and photospheric velocities for the plateau phase are computed with the one-dimensional radiation-hydrodynamics code STELLA, applied to the spherically averaged 3D explosion model as well as spherisized radial profiles in different directions of the 3D model. We find that the overall evolution of the bolometric light curve, duration of the plateau phase, and basic properties of the multi-band emission can be well reproduced by our SN model with its explosion energy of only 0.7x10to50 erg and an ejecta mass of 7.4 Msun. These values are considerably lower than the previously reported numbers, but they are compatible with those needed to explain the fundamental observational properties of the prototype low-luminosity SN 2005cs. Because of the good compatibility of our photospheric velocities with line velocities determined for SN 2005cs, we conclude that the line velocities of SN 2020cxd are probably overestimated by up to a factor of about 3. The evolution of the line velocities of SN 2005cs compared to photospheric velocities in different explosion directions might point to intrinsic asymmetries in the SN ejecta.
+subjects: SN, model, 3D simulation, radiation transport
 
 link: https://arxiv.org/abs/2203.00473
 title: Low-luminosity supernovae: SN 2005cs and SN 2020cxd as very low-energy iron core-collapse explosions
