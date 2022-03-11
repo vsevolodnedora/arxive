@@ -11,6 +11,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2203.03643
 title: Cross-correlating dark sirens and galaxies: measurement of H0 from GWTC-3 of LIGO-Virgo-KAGRA
 authors: Suvodip Mukherjee, Alex Krolewski, Benjamin D. Wandelt, Joseph Silk
