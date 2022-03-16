@@ -5,35 +5,59 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.07956
+title: ExHaLe-jet: An extended hadro-leptonic jet model for blazars. I. Code description and initial results
+authors: Michael Zacharias, Anita Reimer, Catherine Boisson, Andreas Zech
+topic: The processes operating in blazar jets are still an open question. Modeling the radiation emanating from an extended part of the jet allows one to capture these processes on all scales. Kinetic codes solving the Fokker-Planck equation along the jet flow are well suited to this task, as they can efficiently derive the radiation and particle spectra without the need for computationally demanding plasma-physical simulations. Here, we present a new extended hadro-leptonic jet code -- ExHaLe-jet -- which considers simultaneously the processes of relativistic protons and electrons. Within a pre-set geometry and bulk flow, the particle evolution is derived self-consistently. Highly relativistic secondary electrons (and positrons) are created through g-g pair production, Bethe-Heitler pair production, and pion/muon decay. These secondaries are entrained in the jet flow decreasing the ratio of protons to electrons with distance from the jet base. For particle-photon interactions, we consider all internal and many external photon fields, such as the accretion disk, broad-line region, and the dusty torus. The external fields turn out to be the most important source for particle-photon interactions governing the resulting photon and neutrino spectra. In this paper, we present the code and an initial parameter study, while in follow-up works we present extensions of the code and more specific applications.
+subjects: jet, radiation, blazar, numerics, simulation
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.06478
+title: Simulating neutron star mergers with the Lagrangian Numerical Relativity code SPHINCS\_BSSN
+authors: P. Diener, S. Rosswog, F. Torsello
+topic: We present the first neutron star merger simulations performed with the newly developed Numerical Relativity code SPHINCS BSSN. This code evolves the spacetime on a mesh using the BSSN formulation, but matter is evolved via Lagrangian particles according to a high-accuracy version of general-relativistic Smooth Particle Hydrodynamics (SPH). Our code contains a number of new methodological elements compared to other Numerical Relativity codes. The main focus here is on the new elements that were introduced to model neutron star mergers. These include a) a refinement (fixed in time) of the spacetime-mesh, b) corresponding changes in the particle--mesh mapping algorithm and c) a novel way to construct SPH initial data for binary systems via the recently developed "Artificial Pressure Method." This latter method makes use of the spectral initial data produced by the library LORENE, and is implemented in a new code called SPHINCS ID. While our main focus is on introducing these new methodological elements and documenting the current status of SPHINCS BSSN, we also show as a first application a set of neutron star merger simulations employing "soft" (Gamma=2.00) and "stiff" (Gamma=2.75) polytropic equations of state.
+subjects: BNS, code, simulation, SPH
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.05850
+title: Modelling the formation of the first two neutron star-black hole mergers, GW200105 and GW200115: metallicity, chirp masses and merger remnant spins
+authors: Debatri Chattopadhyay, Simon Stevenson, Floor Broekgaarden, Fabio Antonini, Krzysztof Belczynski
+topic: The two neutron star-black hole mergers (GW200105 and GW200115) observed in gravitational waves by advanced LIGO and Virgo, mark the first ever discovery of such binaries in nature. We study these two neutron star-black hole systems through isolated binary evolution, using a grid of population synthesis models. Using both mass and spin observations (chirp mass, effective spin and remnant spin) of the binaries, we probe their different possible formation channels in different metallicity environments. Our models only support LIGO data when assuming the black hole is non spinning. Our results show a strong preference that GW200105 and GW200115 formed from stars with sub-solar metallicities Z less 0.005. Only two metal-rich (Z=0.02) models are in agreement with GW200115. We also find that chirp mass and remnant spins jointly aid in constraining the models, whilst the effective spin parameter does not add any further information.
+subjects: population synthesis, NSBH, projenitors
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.05410
+title: New constraints on the neutron-star mass and radius relation from the terrestrial nuclear experiments
+authors: Hajime Sotani, Nobuya Nishimura, Tomoya Naito
+topic: The study of the equation of state (EOS) for nuclear matter has been still a challenging problem, although the EOS is essential for determining the properties of neutron stars. In order to constrain the EOS, several studies have been based on astronomical observations with the X-ray and gravitational waves, which mainly cover the higher density of neutron star matter. In this study, focusing on the relatively lower density region, we show an allowed area in the neutron-star mass and radius relation by using the constraints on the density-dependence of the nuclear symmetry energy obtained via the recent nuclear experiments with different projects (i.e., SπRIT and PREX-II) together with the experiment at RCNP. Each region predicted by these experiments is still consistent with the area in the higher density allowed by the various astronomical observations. Our results show that terrestrial nuclear experiments must provide further constraints on the EOS for neutron stars, complementing astronomical observations.
+subjects: EOS, nucleo, constraitns, NS
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.04982
+title: Mapping Progenitors of Binary Black Holes and Neutron Stars with Binary Population Synthesis
+authors: Miqaela K. Weller, Jennifer A. Johnson
+topic: The first directly observed gravitational wave event, GW150914, featuring the merger of two massive black holes, highlighted the need to determine how these systems of compact remnant binaries are formed. We use the binary population synthesis code COSMIC (Compact Object Synthesis and Monte Carlo Investigation Code) to predict the types of massive stars that will show significant radial velocity variations, indicative of a potential compact object (i.e. a black hole or neutron star) orbiting the star. We "observe" the binaries generated in the populations with a similar number of epochs and RV accuracy as planned for the Milky Way Mapper. In this analysis, we are especially interested in systems where a compact remnant is orbiting a massive O or B star as these systems survived the first supernova and neutron star kick. We test the ability of the Milky Way Mapper observing strategy to distinguish among different mass loss and kick prescriptions. We find that Wolf-Rayet stars or hot subdwarfs in binaries could be detectable (i.e. luminous, high delta RV max), viable progenitors of such objects, while the different prescriptions primarily affect the number of sources.
+subjects: BBH, population synthesis, projenitros
+
+link: https://arxiv.org/abs/2203.05396
+title: Externally-driven plasma models as candidates for pulsar radio emission
+authors: Sk. Minhajur Rahaman, Dipanjan Mitra, George I. Melikidze
+topic: Coherent radio emission from pulsars originates from excited plasma waves in an ultra-relativistic and strongly magnetized electron-positron pair plasma streaming along the open magnetic field lines of the pulsar. Traditional coherent radio emission models have relied on instabilities in this pair plasma. Recently alternative models have been suggested. These models appeal to direct coupling of the external electromagnetic field to the superluminal O-mode (lt2 mode) during the time-dependent pair cascade process at the polar gap. The objective of this work is to provide generic constraints on plasma models based on lt2 mode using realistic pulsar parameters. We find that the very short timescale associated with pair cascades does not allow lt2 mode to be excited at radio frequencies and the impulsive energy transfer can only increase the kinetic spread ("temperature") of the pair plasma particles. Moreover, under homogeneous plasma conditions, plasma waves on both branches of O-mode (i.e. superluminal lt2 and subluminal lt1) cannot escape the plasma. In the strongly magnetized pair plasma, only the extraordinary mode (t mode) can escape freely. We show that any generic fictitious mechanisms does not result in the wave electric field of t mode to have predominant orientation either or perpendicular to the magnetic field plane as observed. Such fictitious mechanisms will inevitably lead to depolarization of signals and cannot account for the highly polarized single pulses observed in pulsars. We suggest coherent curvature radiation as a promising candidate for pulsar radio emission mechanism.
+subjects: pulsar, mechanism, emission
+
+link: https://arxiv.org/abs/2203.04528
+title: Merger and post-merger of binary neutron stars with a quark-hadron crossover equation of state
+authors: Yong-Jia Huang, Luca Baiotti, Toru Kojo, Kentaro Takami, Hajime Sotani, Hajime Togashi, Tetsuo Hatsuda, Shigehiro Nagataki, Yi-Zhong Fan
+topic: Fully general-relativistic binary-neutron-star (BNS) merger simulations with quark-hadron crossover (QHC) equations of state (EOSs) are studied for the first time. In contrast to EOSs with purely hadronic matter or with a first-order quark-hadron transition, in the transition region QHC EOSs show a peak in sound speed, and thus a stiffening. We study the effects of such stiffening in the merger and post-merger gravitational (GW) signals. Through simulations in the binary-mass range 2.5 less Msun less 2.75, characteristic differences due to different EOSs appear in the frequency of the main peak of the post-merger GW spectrum (f2), extracted through Bayesian inference. In particular, we found that (i) for lower-mass binaries, since the maximum baryon number density (nmax) after the merger stays below 3-4 times the nuclear-matter density (n0), the characteristic stiffening of the QHC models in that density range results in a lower f2 than that computed for the underlying hadronic EOS and thus also than that for EOSs with a first-order phase transition, and (ii) for higher-mass binaries, where nmax may exceed 4-5n0 depending on the EOS model, whether f2 in QHC models is higher or lower than that in the underlying hadronic model depends on the height of the sound-speed peak. Comparing the values of f2 for different EOSs and BNS masses gives important clues on how to discriminate different types of quark dynamics in the high-density end of EOSs and is relevant to future kHz GW observations with third-generation GW detectors.
+subjects: GW, EOS, BNS, quarks, simulations
+
+link: https://arxiv.org/abs/2203.04344
+title: Accretion of the magnetized neutrino-cooled torus
+authors: Fatemeh Hossein Nouri, Agnieszka Janiuk
+topic: Neutrino-cooled accretion flow around a black hole, produced by a compact binary merger, is a promising scenario for jet formation and magnetic-driven winds to explain short duration gamma ray bursts (GRBs) central engine and kilonovae based on GW170817 gravitational wave observation. Magnetorotational instability (MRI) turbulence and Blandford-Znajek (BZ) mechanism are expected to play key roles in the thermal equilibrium of the disk (balancing neutrino cooling) and in driving accretion and creating jets. Using the open-source GRMHD HARM-COOL code, we study the magnetically-driven evolution of an accretion disk with realistic equation of state in the fixed curved space-time background. We identify the effects of the neutrino cooling and the magnetic field, paying particular attention to the dynamical, thermal and composition evolution of the disk and outflows.
+subjects: simulations, disk, GRB, BH, accretion, radiation transport, neutrinos
+
+link: https://arxiv.org/abs/2203.04331
+title: Luminous Fast Blue Optical Transients and Type Ibn/Icn SNe from Wolf-Rayet/Black Hole Mergers
+authors: Brian D. Metzger
+topic: Progenitor models for the "luminous" subclass of Fast Blue Optical Transients (LFBOTs; prototype: AT2018cow) are challenged to simultaneously explain all of their observed properties: fast optical rise times < days; peak luminosities >1e44 erg/s; low yields <0.1 Msun of 56Ni; aspherical ejecta with a wide velocity range (<3000 km/s to > 0.1-0.5 c with increasing polar latitude); presence of hydrogen-depleted-but-not-free dense circumstellar material (CSM) on radial scales from 1e14 cm to 3e16 cm; embedded variable source of non-thermal X-ray/gamma-rays, suggestive of a compact object. We show that all of these properties are consistent with the tidal disruption and hyper-accretion of a Wolf-Rayet (WR) star by a black hole (BH) or neutron star (NS) binary companion. In contrast with related previous models, the merger occurs with a long delay following the common envelope (CE) event responsible for birthing the binary, as a result of gradual angular momentum loss to a relic circumbinary disk. Disk-wind outflows from the merger-generated accretion flow generate the 56Ni-poor aspherical ejecta with the requisite velocity range. The optical light curve is powered primarily by reprocessing X-rays from the inner accretion flow/jet, though CSM shock interaction also contributes. Primary CSM sources include mass-loss from WR star (e.g., from the L2 point) during the earliest stages of the merger (1e14 cm) and the relic CE disk and its photoevaporation-driven wind (e16 cm). Longer delayed mergers may instead give rise to supernovae Type Ibn/Icn (depending on the WR evolutionary state), potentially connecting these transient classes with LFBOTs.
+subjects: FBOT, model, description, analytic
 
 link: https://arxiv.org/abs/2203.03643
 title: Cross-correlating dark sirens and galaxies: measurement of H0 from GWTC-3 of LIGO-Virgo-KAGRA
