@@ -17,6 +17,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2203.07956
 title: ExHaLe-jet: An extended hadro-leptonic jet model for blazars. I. Code description and initial results
 authors: Michael Zacharias, Anita Reimer, Catherine Boisson, Andreas Zech
