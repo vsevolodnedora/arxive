@@ -11,29 +11,95 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/2203.11645
+title: Confronting a set of Skyrme and chi-EFT predictions for the crust of neutron stars
+authors: Guilherme Grams, Jérôme Margueron, Rahul Somasundaram, Sanjay Reddy
+topic: With the improved accuracy of neutron star observational data, it is necessary to derive new equation of state where the crust and the core are consistently calculated within a unified approach. For this purpose we describe non-uniform matter in the crust of neutron stars employing a compressible liquid-drop model, where the bulk and the neutron fluid terms are given from the same model as the one describing uniform matter present in the core. We then generate a set of fifteen unified equations of state for cold catalyzed neutron stars built on realistic modelings of the nuclear interaction, which belongs to two main groups: the first one derives from the phenomenological Skyrme interaction and the second one from ci-EFT Hamiltonians. The confrontation of these model predictions allows us to investigate the model dependence for the crust properties, and in particular the effect of neutron matter at low density. The new set of unified equations of state is available at the CompOSE repository.
+subjects: EOS, CFT
+
+link: https://arxiv.org/abs/2203.11787
+title: In search of short gamma-ray burst optical counterpart with the Zwicky Transient Facility
+authors: Tomás Ahumada, Shreya Anand, Michael W. Coughlin, Igor Andreoni
+topic: The Fermi Gamma-ray Burst Monitor (GBM) triggers on-board in response to 40 short gamma-ray bursts (SGRBs) per year; however, their large localization regions have made the search for optical counterparts a challenging endeavour. We have developed and executed an extensive program with the wide field of view of the Zwicky Transient Facility (ZTF) camera, mounted on the Palomar 48 inch Oschin telescope (P48), to perform target-of-opportunity (ToO) observations on 10 Fermi-GBM SGRBs during 2018 and 2020-2021. Bridging the large sky areas with small field of view optical telescopes in order to track the evolution of potential candidates, we look for the elusive SGRB afterglows and kilonovae (KNe) associated with these high-energy events. No counterpart has yet been found, even though more than 10 ground based telescopes, part of the Global Relay of Observatories Watching Transients Happen (GROWTH) network, have taken part in these efforts. The candidate selection procedure and the follow-up strategy have shown that ZTF is an efficient instrument for searching for poorly localized SGRBs, retrieving a reasonable number of candidates to follow-up and showing promising capabilities as the community approaches the multi-messenger era. Based on the median limiting magnitude of ZTF, our searches would have been able to retrieve a GW170817-like event up to 200 Mpc and SGRB afterglows to z = 0.16 or 0.4, depending on the assumed underlying energy model. Future ToOs will expand the horizon to z = 0.2 and 0.7 respectively.
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/2203.11756
+title: Simultaneous Inference of Neutron Star Equation of State and Hubble Constant with a Population of Merging Neutron Stars
+authors: Tathagata Ghosh, Bhaskar Biswas, Sukanta Bose
+topic: We develop a method for implementing a proposal on utilizing knowledge of neutron star (NS) equation of state (EoS) for inferring the Hubble constant from a population of binary neutron star (BNS) mergers. This method is useful in exploiting BNSs as standard sirens when their redshifts are unavailable. Gravitational wave (GW) signals from compact object binaries provide a direct measurement of their luminosity distances, but not the redshifts. Unlike in the past, we employ a realistic EoS parameterization in a Bayesian framework to simultaneously measure the Hubble constant and refine the constraints on the EoS parameters. The uncertainty in the redshift depends on the uncertainty in EoS and mass parameters estimated from GW data. Combining the inferred BNS redshifts with the corresponding luminosity distances, one constructs a redshift-distance relationship and deduces the Hubble constant from it. Here, we show that in the Cosmic Explorer era, one can measure the Hubble constant to a precision of 3% (with a 90% credible interval) with a realistic distribution of thousand BNSs, while allowing for uncertainties in their EoS parameters. The methodology implemented in this work demonstrates a comprehensive algorithm to infer NS EoS and the Hubble constant by simultaneously combining GW observations from merging NSs, choosing a simple population model of NS masses and keeping the merger rate of NSs constant. This method can be immediately extended to incorporate merger rate, population properties, and different cosmological parameters.
+subjects: statistics, hubble, EOS, NS, MM
+
+link: https://arxiv.org/abs/2203.10109
+title: Targeted large mass ratio numerical relativity surrogate waveform model for GW190814
+authors: Jooheon Yoo, Vijay Varma, Matthew Giesler, Mark A. Scheel, Carl-Johan Haster, Harald P. Pfeiffer, Lawrence E. Kidder, Michael Boyle
+topic: Gravitational wave observations of large mass ratio compact binary mergers like GW190814 highlight the need for reliable, high-accuracy waveform templates for such systems. We present NRHybSur2dq15, a new surrogate model trained on hybridized numerical relativity (NR) waveforms with mass ratios q-15, and aligned spins. We target the parameter space of GW190814-like events as large mass ratio NR simulations are very expensive. The model includes the (2,2), (2,1), (3,3), (4,4), and (5,5) spin-weighted spherical harmonic modes, and spans the entire LIGO bandwidth (with flow=20 Hz) for total masses M=9.5Msun. NRHybSur2dq15 accurately reproduces the hybrid waveforms, with mismatches below  for total masses . This is at least an order of magnitude improvement over existing semi-analytical models for GW190814-like systems. Finally, we reanalyze GW190814 with the new model and obtain source parameter constraints consistent with previous work.
+subjects: GW, surrogate, model, waveforms
+
+link: https://arxiv.org/abs/2203.11059
+title: GRB 190919B: Rapid optical rise explained as a flaring activity
+authors: Martin Jelínek, Martin Topinka, Sergey Karpov, Alžběta Maleňáková, Y.-D. Hu, Michela Rigoselli, Jan Štrobl, Jan Ebr, Ronan Cunniffe, Christina Thoene, Martin Mašek, Petr Janeček, Emilio Fernandez-García, David Hiriart, William H. Lee, Stanislav Vítek, René Hudec, Petr Trávníček, Alberto J. Castro-Tirado, Michael Prouza
+topic: Following the detection of a long GRB 190919B by INTEGRAL (INTErnational Gamma-Ray Astrophysics Laboratory), we obtained an optical photometric sequence of its optical counterpart. The light curve of the optical emission exhibits an unusually steep rise 100 s after the initial trigger. This behaviour is not expected from a 'canonical' GRB optical afterglow. As an explanation, we propose a scenario consisting of two superimposed flares: an optical flare originating from the inner engine activity followed by the hydrodynamic peak of an external shock. The inner-engine nature of the first pulse is supported by a marginal detection of flux in hard X-rays. The second pulse eventually concludes in a slow constant decay, which, as we show, follows the closure relations for a slow cooling plasma expanding into the constant interstellar medium and can be seen as an optical afterglow sensu stricto.
+subjects: GRB, obsevation, model
+
+link: https://arxiv.org/abs/2203.10251
+title: Modelling observable signatures of jet-ISM interaction: thermal emission and gas kinematics
+authors: Moun Meenakshi, Dipanjan Mukherjee, Alexander Y. Wagner, Nicole P. H. Nesvadba, Raffaella Morganti, Reinier M. J. Janssen, Geoffrey V. Bicknell, Ralph S. Sutherland, Ankush Mandal
+topic: Relativistic jets are believed to have a substantial impact on the gas dynamics and evolution of the interstellar medium (ISM) of their host galaxies. In this paper, we aim to draw a link between the simulations and the observable signatures of jet-ISM interactions by analyzing the emission morphology and gas kinematics resulting from jet-induced shocks in simulated disc and spherical systems. We find that the jet-induced laterally expanding forward shock of the energy bubble sweeping through the ISM causes large-scale outflows, creating shocked emission and high-velocity dispersion in the entire nuclear regions (2 kpcs) of their hosts. The jetted systems exhibit larger velocity widths ( 800 km/s), broader Position-Velocity maps and distorted symmetry in the disc's projected velocities than systems without a jet. We also investigate the above quantities at different inclination angles of the observer with respect to the galaxy. Jets inclined to the gas disc of its host are found to be confined for longer times, and consequently couple more strongly with the disc gas. This results in prominent shocked emission and high-velocity widths, not only along the jet's path, but also in the regions perpendicular to them. Strong interaction of the jet with a gas disc can also distort its morphology. However, after the jets escape their initial confinement, the jet-disc coupling is weakened, thereby lowering the shocked emission and velocity widths.
+subjects: jet, ISM, AGN, HD, shocks
+
+link: https://arxiv.org/abs/2203.10074
+title: Advancing the Landscape of Multimessenger Science in the Next Decade
+authors: Kristi Engel, Tiffany Lewis, Marco Stein Muzio, et al
+topic: The last decade has brought about a profound transformation in multimessenger science. Ten years ago, facilities had been built or were under construction that would eventually discover the nature of objects in our universe could be detected through multiple messengers. Nonetheless, multimessenger science was hardly more than a dream. The rewards for our foresight were finally realized through IceCube's discovery of the diffuse astrophysical neutrino flux, the first observation of gravitational waves by LIGO, and the first joint detections in gravitational waves and photons and in neutrinos and photons. Today we live in the dawn of the multimessenger era. The successes of the multimessenger campaigns of the last decade have pushed multimessenger science to the forefront of priority science areas in both the particle physics and the astrophysics communities. Multimessenger science provides new methods of testing fundamental theories about the nature of matter and energy, particularly in conditions that are not reproducible on Earth. This white paper will present the science and facilities that will provide opportunities for the particle physics community renew its commitment and maintain its leadership in multimessenger science.
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.09793
+title: Revisiting black hole hyperaccretion in the center of gamma-ray bursts for the lower mass gap
+authors: Hui-Min Qu, Tong Liu
+topic: The ultrarelativistic jets triggered by neutrino annihilation processes or Blandford-Znajek (BZ) mechanisms in stellar-mass black hole (BH) hyperaccretion systems are generally considered to power gamma-ray bursts (GRBs). Due to the high accretion rate, the central BHs might grow rapidly on a short timescale, providing a new way to understand "the lower mass gap" problem. In this paper, we use the BH hyperaccretion model to investigate BH mass growth based on observational GRB data. The results show that (i) if the initial BH mass is set as 3 Ms, the neutrino annihilation processes are capable of fueling the BHs to escape the lower mass gap for more than half of long-duration GRBs (LGRBs), while the BZ mechanism is inefficient on triggering BH growths for LGRBs; (ii) the mean BH mass growths in the case of LGRBs without observable supernova (SN) association are much larger than these in the case of LGRBs associated with SNe for both mechanisms, which imply that more massive progenitors or lower SN explosion energies prevail throughout the former cases; (iii) for the short-duration GRBs, the mean BH mass growths are satisfied with the mass supply limitation in the scenario of compact object mergers, but the hyperaccretion processes are unable to rescue BHs from the gap in binary neutron star (NS) mergers or the initial BH mass being 3 M⊙ after NS-BH mergers.
+subjects: statistics, BH, accretion, GRB
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2203.09154
+title: Measurement of MHD turbulence properties by synchrotron radiation techniques
+authors: Jianfu Zhang (Xiangtan Univ.), Ruyue Wang (Xiangtan Univ.)
+topic: It is well-known that magnetohydrodynamic (MHD) turbulence is ubiquitous in astrophysical environments. The correct understanding of the fundamental properties of MHD turbulence is a prerequisite for revealing many key astrophysical processes. The development of observation-based measurement techniques has significantly promoted MHD turbulence theory and its implications in astrophysics. After describing the modern understanding of MHD turbulence based on theoretical analysis and direct numerical simulations, we review recent developments related to synchrotron fluctuation techniques. Specifically, we comment on the validation of synchrotron fluctuation techniques and the measurement performance of several properties of magnetic turbulence based on data cubes from MHD turbulence simulations and observations. Furthermore, we propose to strengthen the studies of the magnetization and 3D magnetic field structure's measurements of interstellar turbulence. At the same time, we also discuss the prospects of new techniques for measuring magnetic field properties and understanding astrophysical processes, using a large number of data cubes from the Low-Frequency Array (LOFAR) and the Square Kilometre Array (SKA).
+subjects: Turbilence MHD, overview, synchtoron
+
+link: https://arxiv.org/abs/2203.09145
+title: Effects of dense matter on the tidal deformations of binary neutron star inspirals and gravitational waves
+authors: Loïc Perot, Nicolas Chamel
+topic: The role of the dense matter properties on the tidal deformability and gravitational waveforms of binary neutron stars is studied using a set of unified equations of state. Based on the nuclear energy-density functional theory, these equations of state provide a thermodynamically consistent treatment of all regions of the stars and were calculated using functionals that were precision fitted to experimental and theoretical nuclear data.
+subjects: EOS, NS
+
+link: https://arxiv.org/abs/2203.08521
+title: Nearly model independent constraints on dense matter equation of state in a Bayesian approach
+authors: N. K. Patra, Sk Md Adil Imam, B. K. Agrawal, Arunava Mukherjee, Tuhin Malik
+topic: We apply Bayesian approach to construct a large number of minimally constrained equations of state (EoSs) and study their correlations with a few selected properties of neutron star (NS). Our set of minimal constraints includes a few basic properties of saturated nuclear matter and low density pure neutron matter EoS which is obtained from a precise next-to-next-to-next-to-leading order (N3LO) calculation in chiral effective field theory. The tidal deformability and radius of NS with mass 1-2Msun are found to be strongly correlated with the pressure of beta-equilibrated matter as well as with the symmetry energy at densities higher than the saturation density, in a nearly model independent manner. These correlations are employed to parametrize the pressure for beta-equilibrated matter, around 2rho0, as a function of neutron star mass and the corresponding tidal deformability. The maximum mass of neutron star is also strongly correlated with the pressure of symmetric and beta-equilibrated matter at densities .
+subjects: EOS, CFT, statistics
+
+link: https://arxiv.org/abs/2203.08738
+title: The Second Catalog of Interplanetary Network Localizations of Konus Short Duration Gamma-Ray Bursts
+authors: D. Svinkin, K. Hurley, A. Ridnaia, A. Lysenko, D. Frederiks et al
+topic: We present the catalog of Interplanetary Network (IPN) localizations for 199 short-duration gamma-ray bursts (sGRBs) detected by the Konus-Wind (KW) experiment between 2011 January 1 and 2021 August 31, which extends the initial sample of IPN localized KW sGRBs (arXiv:1301.3740) to 495 events. We present the most comprehensive IPN localization data on these events, including probability sky maps in HEALPix format.
+subjects: statistics, sGRB
+
+link: https://arxiv.org/abs/2203.08646
+title: Diagnosing Circumburst Environment with Multiband Gamma-Ray Burst Radio Afterglows
+authors: Bo Zhang, Liang-Duan Liu, Tian-Rui Sun, Fen Lyu, Xue-Feng Wu
+topic: It has been widely recognized that gamma-ray burst (GRB) afterglows arise from interactions between GRB outflow and circumburst medium, while their evolution follows the behaviors of relativistic shock waves. Assuming the distribution of circumburst medium follows a general power-law form, that is, WR, where R denotes the distance from the burst, it is obvious that the value of density-distribution index k can affect the behaviors of the afterglow. In this paper, we analyze the temporal and spectral behaviors of GRB radio afterglows with arbitrary k-values. In the radio band, a standard GRB afterglow produced by forward shock exhibits a late-time flux peak, and the relative peak fluxes as well as peak times at different frequencies show dependencies on k. Thus with multi-band radio peak observations, one can determine the density profile of circumburst medium by comparing the relations between peak flux/time and frequency at each observing band. Also, the effects of trans-relativistic shock waves, as well as jets in afterglows are discussed. By analyzing 31 long and 1 short GRBs with multi-band data of radio afterglows, we find that nearly half of them can be explained with uniform interstellar medium (k=0), 1/5 can be constrained to exhibiting stellar wind environment (k=2), while less than 1/3 samples show k in [0,2].
+subjects: GRB, lGRB, density profile, statistics
+
+link: https://arxiv.org/abs/2203.08576
+title: Broadband Emission from a Kilonova Ejecta-Pulsar Wind Nebula System: Late-Time X-ray Afterglow Rebrightening of GRB 170817A
+authors: Jia Ren, Zi-Gao Dai
+topic: We study the broadband radiation behavior of a kilonova ejecta-pulsar wind nebula (PWN) system. In this model, we jointly fit the observations of AT 2017gfo in UV-optical-IR bands and the late-time X-ray afterglow of GRB 170817A. Our work shows that a PWN powered by the remnant neutron star (NS) post GW170817 event could affect the optical transient AT 2017gfo and re-brighten the late-time X-ray afterglow of GRB 170817A. The PWN radiation will regulate the trend of future X-ray observations from a flattening to a steep decline until some other sources (e.g., a kilonova afterglow) become dominant. The restricted ranges of the central NS parameters in this work are consistent with the previous works based on the observations of AT 2017gfo only. In addition, the new fitting result indicates that the NS wind is highly magnetized. We point out that the radio and X-ray emission from a kilonova ejecta-PWN system could be an important electromagnetic feature of binary NS mergers when a long-lived remnant NS is formed. Therefore, observations of a kilonova ejecta-PWN system will provide important information to inferring the nature of a merger remnant.
+subjects: ejecta, analytic, PWN, KN, kilonova
+
+link: https://arxiv.org/abs/2203.08292
+title: Bare Collapse, Formation of Neutron Star Binaries and Fast Optical Transients
+authors: Ron Mor, Eli Livne, Tsvi Piran
+topic: {"Bare collapse", the collapse of a bare stellar core to a neutron star with a very small mass ejection links two seemingly unrelated phenomena: the formation of binary neutron star (BNS) systems and the observations of fast and luminous optical transients. We carried out calculations of the collapse due to electron-capture of both evolutionary and synthetic isentropic bare stellar cores. We find that the collapse results in {the formation of} a light - 1.3 solar mass neutron star and {an} ejection of 0.1 solar mass at 0.1c. The outer shell of the ejecta is composed of Ni56 that can power an ultra-stripped supernova. The models we explored can explain most of the observed fast optical flares but not the brightest ones. Collapse of cores surrounded by somewhat more massive envelopes can produce larger amounts of Ni56 and explain brighter flares. Alternatively, those events can arise due to interaction of the very energetic ejecta with winds that were ejected from the progenitor a few days before the collapse.
+subjects: SN, projenitor, BNS, FBOT
 
 link: https://arxiv.org/abs/2203.07956
 title: ExHaLe-jet: An extended hadro-leptonic jet model for blazars. I. Code description and initial results
