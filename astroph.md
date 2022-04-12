@@ -29,6 +29,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2204.01757
 title: A New Residual Distribution Hydrodynamics Solver for Astrophysical Simulations
 authors: Ben Morton, Sadegh Khochfar, Zhenyu Wu
