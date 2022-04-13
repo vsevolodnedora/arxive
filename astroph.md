@@ -5,34 +5,94 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/2204.05652
+title: The electron foreshock at high-Mach-number nonrelativistic oblique shocks
+authors: Artem Bohdan, Martin S. Weidl, Paul J. Morris, Martin Pohl
+topic: In the Universe matter outside of stars and compact objects is mostly composed of collisionless plasma. The interaction of a supersonic plasma flow with an obstacle results in collisionless shocks that are often associated with intense nonthermal radiation and the production of cosmic ray particles. Motivated by simulations of non-relativistic high-Mach-number shocks in supernova remnants, we investigate the instabilities excited by relativistic electron beams in the extended foreshock of oblique shocks. The phase-space distributions in the inner and outer foreshock regions are derived with a Particle-in-Cell simulation of the shock and used as initial conditions for simulations with periodic boundary conditions to study their relaxation towards equilibrium. We find that the observed electron-beam instabilities agree very well with the predictions of a linear dispersion analysis: the electrostatic electron-acoustic instability dominates in the outer region of the foreshock, while the denser electron beams in the inner foreshock drive the gyroresonant oblique-whistler instability.
+subjects: PIC
+
+link: https://arxiv.org/abs/2204.05811
+title: Jet-Cocoon Geometry in the Optically Dark, Very High Energy Gamma-ray Burst 201216C
+authors: L. Rhodes, A.J. van der Horst, R. Fender, D.R. Aguilera-Dena, J.S. Bright, S. Vergani, D.R.A. Williams
+topic: We present the results of a radio observing campaign on GRB 201216C, combined with publicly available optical and X-ray data. The detection of very high energy (VHE, >100GeV) emission by MAGIC makes this the fifth VHE GRB at time of publication. Comparison between the optical and X-ray light curves show that GRB 201216C is a dark GRB, i.e. the optical emission is significantly absorbed and is fainter than expected from the X-ray detections. Our e-MERLIN data also shows evidence of diffractive interstellar scintillation. We can study the column density along the line-of-sight to the GRB in both the host galaxy, from the damped optical light curve, and the Milky Way, via scintillation studies. We find that the afterglow is best modelled using a jet-cocoon geometry within a stellar wind environment. Fitting the data with a multi-component model we estimate that the optical, X-ray and higher-frequency radio data before 25days originates from an ultra-relativistic jet with an isotropic equivalent kinetic energy of (0.6-10)x10^52erg and an opening angle of 1-9deg. The lower-frequency radio emission detected by MeerKAT, from day 28 onwards, is produced by the cocoon with a kinetic energy that is between two and seven orders of magnitude lower (0.02-50)x10to48erg. The energies of the two components are comparable to those derived in simulations of such scenarios.
+subjects: GRB, observation, model, VHE
+
+link: https://arxiv.org/abs/2204.05648
+title: Gravitational Waves and Electromagnetic Transients
+authors: Akshat Singhal, Sourav Palit, Suman Bala, Gaurav Waratkar, Harsh Kumar, Varun Bhalerao
+topic: The advanced gravitational wave (GW) detector network has started {routine detection of } signals from merging compact binaries. Data indicate that in a fair fraction of these sources, at least one component was a neutron star, bringing with it the possibility of electromagnetic (EM) radiation. So far, a confirmed link between EM and GW radiation has been established for only one source, GW170817. Joint analysis of broadband multiwavelength data and the GW signal have yielded rich information spanning fields as varied as jet physics, cosmology, and nucleosynthesis. Here, we discuss the importance of such joint observations, as well as current and near-future efforts to discover and study more EM counterparts to GW sources.
+subjects: EM, GW, short overview
+
+link: https://arxiv.org/abs/2204.05560
+title: Structure and pulse profiles of dark matter admixed neutron stars
+authors: Zhiqiang Miao, Yaofeng Zhu, Ang Li, Feng Huang
+topic: Neutron stars (NSs) could efficiently capture dark matter (DM) due to their extreme densities and are considered sensitive probes of the presence and the properties of DM. The distribution of the DM in DM-admixed NSs (DANSs) is supposed to be either a dense dark core or an extended dark halo, which is subject to the DM fraction of DANS (fχ) and the DM properties, such as the mass (mχ) and the strength of the self-interaction (y). In this paper, we perform an in-depth analysis of the formation criterion for dark core/dark halo and point out that the relative distribution of these two components is essentially determined by the ratio of the central enthalpy of the DM component to that of the baryonic matter component inside DANSs. For the critical case where the radii of DM and baryonic matter are the same, we further derive an analytical formula to describe the dependence of fcritχ on mχ and y for given DANS mass. The relative distribution of the two components in DANSs can lead to different observational effects on NSs. We here focus on the modification of the pulsar pulse profile due to the extra light-bending effect in the case of a dark-halo existence and conduct the first investigation of the dark-halo effects on NS pulse profiles. We find that the peak flux deviation is strongly dependent on the ratio of the halo mass to the radius of the DM component. Lastly, we perform Bayesian parameter estimation on the DM particle properties based on the recent X-ray observations of PSR J0030+0451 and PSR J0740+6620 by the Neutron Star Interior Composition Explorer.
+subjects: DM, NS, EOS, formation
+
+link: https://arxiv.org/abs/2204.05336
+title: Numerical relativity simulations of the neutron star merger GW190425: microphysics and mass ratio effects
+authors: A. Camilletti, L. Chiesa, G. Ricigliano, A. Perego, L. C. Lippold, S. Padamata, S. Bernuzzi, D. Radice, D. Logoteta, F. M. Guercilena
+topic: GW190425 was the second gravitational wave (GW) signal compatible with a binary neutron star (BNS) merger detected by the Advanced LIGO and Advanced Virgo detectors. Despite intense follow-up campaigns, no electromagnetic counterpart was identified. Whether the associated kilonova was too dim or the localisation area too broad is still an open question. We simulate 28 BNS mergers with the chirp mass of GW190425 and spanning a mass ratio 1 l q l 1.67, using numerical-relativity simulations with finite temperature, composition dependent nuclear equation of state (EOS) and neutrino radiation. The energy emitted in GWs is 0.083Msun c2 with a peak luminosity of 1.1-2.4x1058 erg s s1/(1+q)2. Dynamical ejecta and disc mass are relatively small, the former ranging between 5x10-6 and 10-3 Msun and the latter between 10-5 and 0.1 Msun. Asymmetric mergers, especially in the case of stiff EOS, are able to unbind more matter and to form heavier discs compared to equal mass binaries. The angular momentum of the disc is 8-10Msun G Mdisc/c over three orders of magnitude in Mdisc. While the associated nucleosynthesis shows no peculiarity, the simulated kilonovae are relatively dim compared with the GW170817 event. In particular, for distances compatible with GW190425, we find AB magnitudes always dimmer than 20 mag for the B, r and K bands, with brighter kilonovae associated to more asymmetric binaries and stiffer EOS. We suggest that, even assuming a good coverage of GW190425' sky location, the kilonova signal could hardly have been detected by present wide-field surveys and no firm constraints on the binary parameters or neutron star (NS) EOS can be argued from the lack of the detection.
+subjects: BNS, simulations, ejecta, kilonova nucle
+
+link: https://arxiv.org/abs/2204.04530
+title: Spectra of magnetic turbulence in a relativistic plasma
+authors: Cristian Vega, Stanislav Boldyrev, Vadim Roytershteyn
+topic: We present a phenomenological and numerical study of strong Alfvénic turbulence in a magnetically dominated collisionless relativistic plasma with a strong background magnetic field. In contrast with the non-relativistic case, the energy in such turbulence is contained in magnetic and electric fluctuations. We argue that such turbulence is analogous to turbulence in a strongly magnetized non-relativistic plasma in the regime of broken quasi-neutrality. Our 2D particle-in-cell numerical simulations of turbulence in a relativistic pair plasma find that the spectrum of the total energy has the scaling k-3/2, while the difference between the magnetic and electric energies, the so-called residual energy, has the scaling k-2.4. The electric and magnetic fluctuations at scale ℓ exhibit dynamic alignment with the alignment-angle scaling close to []. At scales smaller than the (relativistic) plasma inertial scale, the energy spectrum of relativistic inertial Alfvén turbulence steepens to k-.5.
+subjects: PIC, turbulence, 2D, non-relativistic shock
+
+link: https://arxiv.org/abs/2204.04822
+title: Very High-energy Afterglow Emission of GRB 190829A: Evidence for Its Hadronic Origin?
+authors: Sarira Sahu, Isabel Abigail Valadez Polanco, Subhash Rajpoot
+topic: The detection of multi-TeV gamma-rays from the afterglow phase of GRB 190829A by High Energy Stereoscopic System (H.E.S.S.) telescope is an addition to the already existing list of two more GRBs observed in the very high energy (VHE) gamma-rays in recent years. Jets of blazars and GRBs have many similarities and the photohadronic model is very successful in explaining the VHE gamma-ray spectra from the high energy blazars. Recently, the photohadronic model has been successfully applied to study the sub-TeV gamma-rays from the afterglow phases of GRB 180720B and GRB 190114C. We employed this model again to explain the VHE spectra observed for the two consecutive nights from GRB 190829A. We show that the spectra of GRB 190829A can be due to the interactions of high energy protons with the synchrotron self-Compton photons in the forward shock region of the GRB jet, similar to the low emission state of the VHE flaring events of high energy blazars. We speculate that, if in future, it is possible to observe the VHE gamma-ray spectra from nearby GRBs in their afterglow phases, then some of them could only be explained by employing two different spectral indices. If confirmed, such VHE spectra could be interpreted as a result of the interactions of the high energy protons with the photons, both from the synchrotron background and the synchrotron self-Compton background in the forward shock region.
+subjects: VHE, GRB, afterglow, model, radiaiton SSC
+
+link: https://arxiv.org/abs/2204.04417
+title: Gamma-Ray Bursts
+authors: Yun-Wei Yu, He Gao, Fa-Yin Wang, Bin-Bin Zhang
+topic: Gamma-ray bursts (GRB) are short and intense bursts of ∼100 keV−1MeV photons, usually followed by long-lasting decaying afterglow emission in a wide range of electromagnetic wavelengths from radio to X-ray and, sometimes, even to GeV gamma-rays. These emissions are believed to originate from a relativistic jet, which is driven due to the collapse of special massive stars and the mergers of compact binaries (i.e., double neutron stars or a neutron star and a black hole). This chapter first briefly introduces the basic observational facts of the GRB phenomena, including the prompt emission, afterglow emission, and host galaxies. Secondly, a general theoretical understanding of the GRB phenomena is described based on a relativistic jet's overall dynamical evolution, including the acceleration, propagation, internal dissipation, and deceleration phases. Here a long-lasting central engine of the GRBs can substantially influence the dynamical evolution of the jet. In addition, a supernova/kilonova emission can appear in the optical afterglow of some nearby GRBs, which can provide an important probe to the nature of the GRB progenitors. Finally, as luminous cosmological phenomena, it is expected to use GRBs to probe the early universe and to constrain the cosmological parameters.
+subjects: GRB, review
+
+link: https://arxiv.org/abs/2204.04128
+title: Critical Tests of Leading Gamma Ray Burst Theories II
+authors: Shlomo Dado, Arnon Dar, A. De Rújula
+topic: It has been observationally established that supernovae (SNe) of Type Ic produce long duration gamma ray bursts (GRBs) and that neutron star mergers generate short hard GRBs. SN-Less GRBs presumably originate in a phase transition of a neutron star in a high mass X-ray binary. How these phenomena actually generate GRBs is debated. The fireball and cannonball models of GRBs and their afterglows have been widely confronted with the huge observational data, with their defenders claiming success. The claims, however, may reflect multiple choices and the use of many adjustable parameters, rather than the validity of the models. Only a confrontation of key falsifiable predictions of the models with solid observational data can test their validity. Such critical tests are reviewed in this report.
+subjects: GRB, review
+
+link: https://arxiv.org/abs/2204.03823
+title: Gravitationally Lensed Orphan Afterglows of Gamma-Ray Bursts
+authors: Hao-Xuan Gao, Jin-Jun Geng, Lei Hu, Mao-Kai Hu, Guang-Xuan Lan, Chen-Ming Chang, Song-Bo Zhang, Xiao-Li Zhang, Yong-Feng Huang, Xue-Feng Wu
+topic: The cosmological nature of gamma-ray bursts (GRBs) implies that a small portion of them could be gravitationally lensed by foreground objects during their propagation. The gravitational lensing effect on the GRB prompt emission and on-axis afterglows has been discussed, and some candidates have been found in the literature. In this work, considering the high detection rate of GRB orphan afterglows in future wide-field survey era, we investigate the gravitationally lensed orphan afterglows in view of three lens models, i.e., the point-mass model, the singular isothermal sphere model, and the Chang-Refsdal model. The structure of the GRB jet itself is also incorporated in calculating the lensed afterglow light curves. It is found that lensed optical/X-ray orphan afterglows in principle could be diagnosed through their temporal characteristics, and the optical band is the best band to observe the galaxy-lensed orphan afterglows. Moreover, the event rate for galaxy-lensed orphan afterglows is estimated to be 0.7 yr-1 for the whole sky. The optimistic detection rates of the Wide Field Survey Telescope (WFST) and Large Synoptic Survey Telescope (LSST) for galaxy-lensed orphan afterglows in the optical band are 0.02 yr-1 and 0.08 yr-1, respectively.
+subjects: GRB, afterglow, prospect, model, lensing
+
+link: https://arxiv.org/abs/2204.03210
+title: Early Evolution of a Newborn Magnetar with Strong Precession Motion in GRB 180620A
+authors: Le Zou, En-Wei Liang
+topic: The observed early X-ray plateau in the afterglow lightcurves of some gamma-ray bursts (GRBs) is attributed to the dipole radiations (DRs) of a newborn magnetar. A quasi-periodic oscillation (QPO) signal in the plateau would be strong evidence of the magnetar precession motion. By making a time-frequency domain analysis for the X-ray afterglow lightcurve of GRB 180620A, we find a QPO signal of 650 seconds in its early X-ray plateau. We fit the lightcurve with a magnetar precession model by adopting the Markov chain Monte Carlo algorithm. The observed lightcurve and the QPO signal are well represented with our model. The derived magnetic field strength of the magnetar is Bp=(1.02+0.59-0.61)x1015G. It rapidly spins down with angular velocity evolving as Ωs∝(1+t/τsd)-0.96, where τsd=9430s. Its precession velocity evolution is even faster than Omega-s, i.e. Omega-p prop (1+t/tau-p)-2.18pm0.11, where tau-p=2239pm206-s. The inferred braking index is n=2.04. We argue that the extra energy loss via the magnetospheric processes results in its rapid spin-down, a low braking index of the magnetar, and the strong precession motion.
+subjects: GRB, projenitor, magnetar, model
+
+link: https://arxiv.org/abs/2204.03005
+title: Long-term 3D-MHD Simulations of Black Hole Accretion Disks formed in Neutron Star Mergers
+authors: Steven Fahlman, Rodrigo Fernández
+topic: We examine the long-term evolution of accretion tori around black hole (BH) remnants of compact object mergers involving at least one neutron star, to better understand their contribution to kilonovae and the synthesis of r-process elements. To this end, we modify the unsplit magnetohydrodynamic (MHD) solver in FLASH4.5 to work in non-uniform three-dimensional spherical coordinates, enabling more efficient coverage of a large dynamic range in length scales while exploiting symmetries in the system. This modified code is used to perform BH accretion disk simulations that vary the initial magnetic field geometry and disk compactness, utilizing a physical equation of state, a neutrino leakage scheme for emission and absorption, and modeling the BH's gravity with a pseudo-Newtonian potential. Simulations run for long enough to achieve a radiatively-inefficient state in the disk. We find robust mass ejection with both poloidal and toroidal initial field geometries, and suppressed outflow at high disk compactness. With the included physics, we obtain bimodal velocity distributions that trace back to mass ejection by magnetic stresses at early times, and to thermal processes in the radiatively-inefficient state at late times. The electron fraction distribution of the disk outflow is broad in all models, and the ejecta geometry follows a characteristic hourglass shape. We test the effect of removing neutrino absorption or nuclear recombination with axisymmetric models, finding 50% less mass ejection and more neutron-rich composition without neutrino absorption, and a subdominant contribution from nuclear recombination. Tests of the MHD and neutrino leakage implementations are included.
+subjects: MHD, disk, accretion, simulations
+
+link: https://arxiv.org/abs/2204.02721
+title: Large Eddy Simulations of Magnetized Mergers of Neutron Stars with Neutrinos
+authors: C.Palenzuela, S.L.Liebling, B.Miñano
+topic: Neutron star mergers are very violent events involving extreme physical processes: dynamic, strong-field gravity, large magnetic field, very hot, dense matter, and the copious production of neutrinos. Accurate modeling of such a system and its associated multi-messenger signals, such as gravitational waves, short gamma ray burst, and kilonova, requires the inclusion of all these processes, and is increasingly important in light of advancements in multi-messenger astronomy generally, and in gravitational wave astronomy in particular (such as the development of third-generation detectors). Several general relativistic codes have been incorporating some of these elements with different levels of realism. Here, we extend our code MHDuet, which can perform large eddy simulations of magnetohydrodynamics to help capture the magnetic field amplification during the merger, and to allow for realistic equations of state and neutrino cooling via a leakage scheme. We perform several tests involving isolated and binary neutron stars demonstrating the accuracy of the code.
+subjects: simulations, mF, turbulence, LES
+
+link: https://arxiv.org/abs/2204.02315
+title: Reverse shock forming condition for magnetized relativistic outflows: reconciling theories and simulations
+authors: Jing-Ze Ma, Bing Zhang
+topic: Reverse shock (RS) emission can be used to probe the properties of the relativistic ejecta, especially the degree of magnetization σ, in gamma-ray burst (GRB) afterglows. However, there has been confusion in the literature regarding the physical condition for the RS formation, and the role of magnetic fields in the RS dynamics in the Poynting-flux-dominated regime is not fully understood. Exploiting the shock jump conditions, we characterize the properties of a magnetized RS. We compare the RS dynamics and forming conditions from different theories and numerical simulations, and reconcile the discrepancies among them. The strict RS forming condition is found to be [], where n4 and n1 are the rest-frame number densities of the ejecta and the ambient medium, respectively, γ4 is the bulk Lorentz factor, and σcr is the critical magnetization. Contrary to previous claims, we prove that this condition agrees with other theoretical and simulated results, which can be further applied to the setup and consistency check of future numerical simulations. Using this condition, we propose a characteristic radius for RS formation, and categorize the magnetized shell into three regimes: 'thick shell' (relativistic RS), 'thin shell' (trans-relativistic RS), and 'no RS' regimes. The critical magnetization σcr is generally below unity for thin shells, but can potentially reaches 100−1000 in the 'thick shell' regime. Our results could be applied to the dynamical evolution of Poynting-flux-dominated ejecta, with potential applications to self-consistent lightcurve modelling of magnetized relativistic outflows.
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/2204.01778
+title: Quasi-stationary sequences of hyper massive neutron stars with exotic equations of state
+authors: Sanika Khadkikar, Chatrik Singh Mangat, Sarmistha Banik
+topic: In this work, we study the effect of differential rotation, finite temperature and strangeness on the quasi stationary sequences of hyper massive neutron stars (HMNS). We generate constant rest mass sequences of differentially rotating and uniformly rotating stars. The nucleonic matter relevant to the star interior is described within the framework of the relativistic mean field model with the DD2 parameter set. We also consider the strange Λ hyperons using the BHBΛalpha equation of state (EoS). Additionally, we probe the behaviour of neutron stars (NS) with these compositions at different temperatures. We report that the addition of hyperons to the EoS produces a significant boost to the spin-up phenomenon. Moreover, increasing the temperature can make the spin-up more robust. We also study the impact of strangeness and thermal effects on the T/W instability. Finally, we analyse equilibrium sequences of a NS following a stable transition from differential rotation to uniform rotation. The decrease in frequency relative to angular momentum loss during this transition is significantly smaller for EoS containing hyperons, compared to nucleonic EoS.
 subjects: 
 
 link: https://arxiv.org/abs/2204.01757
