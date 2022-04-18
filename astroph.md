@@ -23,6 +23,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2204.05652
 title: The electron foreshock at high-Mach-number nonrelativistic oblique shocks
 authors: Artem Bohdan, Martin S. Weidl, Paul J. Morris, Martin Pohl
