@@ -5,35 +5,71 @@ authors:
 topic: 
 subjects: 
 
-link: 
+link: https://arxiv.org/abs/2204.09000
+title: Neutron star radii, deformabilities, and moments of inertia from experimental and ab initio theory constraints on the 208Pb neutron skin thickness
+authors: Yeunhwan Lim, Jeremy W. Holt
+topic: Recent experimental and ab initio theory investigations of the 208Pb neutron skin thickness are sufficiently precise to inform the neutron star equation of state. In particular, the strong correlation between the 208Pb neutron skin thickness and the pressure of neutron matter at normal nuclear densities leads to modified predictions for the radii, tidal deformabilities, and moments of inertia of typical 1.4 solar-mass neutron stars. In the present work, we study the relative impact of these recent analyses of the 208Pb neutron skin thickness on bulk properties of neutron stars within a Bayesian statistical analysis. Two models for the equation of state prior are employed in order to study the role of the highly uncertain high-density equation of state. From our combined Bayesian analysis of nuclear theory, nuclear experiment, and observational constraints on the dense matter equation of state, we find at the 90% credibility level R1.4=12.36+0.38-0.73 km for the radius of a 1.4 solar-mass neutron star, R2.0=11.96+0.94-0.71 km for the radius of a 2.0 solar-mass neutron star, Λ1.4=440+103-144 for the tidal deformability of a 1.4 solar-mass neutron star, and I1.338=1.425+0.074-0.146x1045gcm2 for the moment of inertia of PSR J0737-3039A whose mass is 1.338 solar masses.
+subjects: EOS
+
+link: https://arxiv.org/abs/2204.08555
+title: Constraining the equation of state of neutron stars using multimessenger observations
+authors: Bhaskar Biswas
+topic: Neutron stars are the densest objects known in our visible universe. Properties of matter inside a neutron star are encoded in its equation of state, which has wide-ranging uncertainty from a theoretical perspective. With the current understanding of quantum chromodynamics, it is hard to determine the interactions of neutron star matter at such high densities. Also performing many body calculations is computationally intractable. Besides the constitution of the neutron star core is highly speculative -- it is not ruled out that it contains exotic matter like strange baryons, meson condensates, quark matter, etc. Although the matter inside the neutron star is extremely dense, but the temperature of this object is very cold in most of its life span. We cannot produce such dense but rather cold material in our laboratory. Since probing the physics of neutron star matter is inaccessible by our earth based experiments, we look for astrophysical observations of neutron stars. This thesis deals with the theoretical and computational techniques required to translate neutron star observables from astrophysical observations to its equation of state.
+subjects: EOS
+
+link: https://arxiv.org/abs/2204.08427
+title: On energetics and progenitors of Odd Radio Circles
+authors: A. Omar 
+topic: Odd Radio Circles or ORCs are recently discovered low surface brightness diffuse radio sources, whose progenitors and astrophysical processes responsible for their origins are presently debated. Some ORCs appear to be hosted in distant galaxies and some are host-less. Two plausible scenarios consider ORCs as either nearby supernovae remnants of sizes a few hundred pc in the intragroup medium of the local group of galaxies or alternatively shocked halos of sizes a few hundred kpc around distant galaxies. The input energy for shocks, required to create ORCs of a few hundred kpc size is estimated to be 1056−1059 erg. It is shown here that the energy released in shocks with a rate of 1041−1044 erg s-1 due to multiple (103−106) tidal disruption events in a short span of time (a few tens of Myr) in a merger galaxy system, hosting a massive black hole can supply required energy to generate ORCs around distant galaxies. The most plausible and abundant hosts for ORCs can be post-starburst galaxies at intermediate redshifts. The presently observed dominance of tidal disruption events in post-starburst galaxies, redshift evolution and environments of post-starburst galaxies at intermediate redshifts favourably support the current observations.
+subjects: radio circles
+
+link: https://arxiv.org/abs/2204.08366
+title: On the nature of Fast Blue Optical Transients
+authors: Maxim Lyutikov 
+topic: Short rise times of Fast Blue Optical Transients (FBOTs) require very light ejected envelopes, Mej 10- 1Msun, much smaller than of a typical supernova. Short peak times also mean that FBOTs should be hydrodynamically, not radioactively powered. The detection by Chandra of X-ray emission in AT2020mrf of LX 1042 erg s-1 after 328 days implies total, overall dominant, X-ray energetics at the Gamma Ray Bursts (GRBs) level of 6x1049 erg. We further develop a model of Lyutikov & Toonen (2019), whereby FBOTs are the results of a late accretion induced collapse (AIC) of the product of super-Chandrasekhar double white dwarf (WD) merger between ONeMg WD and another WD. Small ejecta mass, and the rarity of FBOTs, result from the competition between mass loss from the merger product to the wind, and ashes added to the core, on time scale of 103−104 years. FBOTs occur only when the envelope mass before AIC is 10-1Msun. FBOTs proper come from central engine-powered radiation-dominated forward shock as it propagates through ejecta. FBOTs' duration is determined by the diffusion time of photons produced by the NS-driven forward shock within the expanding ejecta. All the photons produced by the central source deep inside the ejecta escape almost simultaneously, producing a short bright event. The high energy emission is generated at the highly relativistic and highly magnetized termination shock, qualitatively similar to Pulsar Wind Nebulae. The X-ray bump observed in AT2020mrf by SRG/eROSITA, predicted by Lyutikov & Toonen (2019), is coming from the break-out of the engine-powered shock from the ejecta into the preceding wind. The model requires total energetics of just few x1050 ergs, slightly above the observed X-rays. We predict that the system is hydrogen poor.
+subjects: FBOT, WD-WD, model
+
+link: https://arxiv.org/abs/2204.08208
+title: Time dependent numerical model for the very high energy emissions of distant gamma-ray busrt GRB 201216C
+authors: Yan Huang
+topic: Recently, the MAGIC Collaboration reported a 5sigma statistical significance of the very-high-energy (VHE) emission from a distant GRB, GRB 201216C. Such distant GRB may be effectively absorbed by the extragalactic background light (EBL). The origin of the VHE emission from such distant objects is still unknown. Here, we propose a numerical model for studying the afterglow emission of this distant GRB. The model solves the continuity equation governing the temporal evolution of electron distribution, and the broad-band observed data can be explained by the synchrotron plus synchrotron self-Compton (SSC) radiation of the forward shock. The predicted observed 0.1 TeV flux can reach 109-1010erg cm-2 s-1 at t 103-104s, even with strong EBL absorption, such strong Sub-TeV emissions still can be observed by MAGIC telescope. Using this numerical model, the shock parameters in the modeling are similar with two other Sub-TeV GRBs (i.e., GRB 190114C and GRB 180720B), implying that the Sub-TeV GRBs have some commonalities: they have energetic burst energy, low circum-burst medium density and low magnetic equipartition factor. We regard GRB 201216C as a typical GRB, and estimate the maximum redshift of GRB that can be detected by MAGIC telescope, i.e., z 1.6. We also find that the VHE photon energy of such distant GRB can only reach 0.1 TeV. Improving the low energy sensitivity of the VHE telescope is very important to detect the Sub-TeV emissions of these distant GRBs.
+subjects: GRB, modle, kinetic, SSC
+
+link: https://arxiv.org/abs/2204.08222
+title: Interaction of a Relativistic Magnetized Collisionless Shock with a Dense Clump
+authors: Sara Tomita, Yutaka Ohira, Shigeo, S. Kimura, Kengo Tomida, Kenji Toma
+topic: The interactions between a relativistic magnetized collisionless shock and dense clumps have been expected to play a crucial role on the magnetic field amplification and cosmic-ray acceleration. We investigate this process by two-dimensional Particle-In-Cell (PIC) simulations for the first time, where the clump size is much larger than the gyroradius of downstream particles. We also perform relativistic magnetohydrodynamic (MHD) simulations for the same condition to see the kinetic effects. We find that particles escape from the shocked clump along magnetic field lines in the PIC simulations, so that the vorticity is lower than that in the MHD simulations. Moreover, in both the PIC and MHD simulations, the shocked clump quickly decelerates because of the Lorentz contraction. Owing to the escape and the deceleration, the shocked clump cannot amplify the downstream magnetic field in relativistic collisionless shocks. This large-scale PIC simulation opens a new window to understand large-scale behaviors in collisionless plasma systems.
+subjects: PIC, MHD, simulations, acceleration
+
+link: https://arxiv.org/abs/2204.07587
+title: The long-active afterglow of GRB 210204A: Detection of the most delayed flares in a Gamma-Ray Burst
+authors: Harsh Kumar, Rahul Gupta, Divita Saraogi, Tomás Ahumada, Igor Andreoni, G.C. Anupama, Amar Aryan, Sudhanshu Barway, Varun Bhalerao, Poonam Chandra, Michael W. Coughlin, Dimple, Anirban Dutta, Ankur Ghosh, Anna Y. Q. Ho, E. C. Kool, Amit Kumar, Michael S. Medford, Kuntal Misra, Shashi B. Pandey, Daniel A. Perley, Reed Riddle, Amit Kumar Ror, Jason M. Setiadi, Yuhan Yao
+topic: We present results from extensive broadband follow-up of GRB 210204A over the period of thirty days. We detect optical flares in the afterglow at 7.6 x 10^5 s and 1.1 x 10^6 s after the burst: the most delayed flaring ever detected in a GRB afterglow. At the source redshift of 0.876, the rest-frame delay is 5.8 x 10^5 s (6.71 d). We investigate possible causes for this flaring and conclude that the most likely cause is a refreshed shock in the jet. The prompt emission of the GRB is within the range of typical long bursts: it shows three disjoint emission episodes, which all follow the typical GRB correlations. This suggests that GRB 210204A might not have any special properties that caused late-time flaring, and the lack of such detections for other afterglows might be resulting from the paucity of late-time observations. Systematic late-time follow-up of a larger sample of GRBs can shed more light on such afterglow behaviour. Further analysis of the GRB 210204A shows that the late time bump in the light curve is highly unlikely due to underlying SNe at redshift (z) = 0.876 and is more likely due to the late time flaring activity. The cause of this variability is not clearly quantifiable due to the lack of multi-band data at late time constraints by the bad weather conditions. The flare of GRB 210204A is the latest flare detected to date.
+subjects: grb, observations, model
+
+link: https://arxiv.org/abs/2204.07418
 title: 
 authors: 
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2204.07136
+title: Constraining nucleosynthesis in neutrino-driven winds: observations, simulations and nuclear physics
+authors: A. Psaltis, A. Arcones, F. Montes, P. Mohr, C.J. Hansen, M. Jacobi, H. Schatz
+topic: A promising astrophysical site to produce the lighter heavy elements of the first r-process peak (Z=38-47) is the moderately neutron rich [0.4\less Ye \less 0.5] neutrino-driven ejecta of explosive environments, such as core-collapse supernovae and neutron star mergers, where the weak r-process operates. This nucleosynthesis exhibits uncertainties from the absence of experimental data from reactions on neutron-rich nuclei, which are currently based on statistical model estimates. In this work, we report on a new study of the nuclear reaction impact using a Monte Carlo approach and improved [] rates based on the Atomki-V2 Optical Model Potential (OMP). We compare our results with observations from an up-to-date list of metal-poor stars with [Fe/H] \less -1.5 to find conditions of the neutrino-driven wind where the lighter heavy elements can be synthesized. We identified a list of [] reaction rates that affect key elemental ratios in different astrophysical conditions. Our study aims on motivating more nuclear physics experiments on [] reactions using current and the new generation of radioactive beam facilities and also more observational studies of metal-poor stars.
+subjects: nucleo, r-process, experiment, neutirno wind
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2204.06861
+title: Opacity of the highly ionized lanthanides and the effect on the early kilonova
+authors: Smaranika Banerjee, Masaomi Tanaka, Daiji Kato, Gediminas Gaigalas, Kyohei Kawaguchi, Nanae Domoto
+topic: We investigate the effect of the presence of lanthanides (Z = 57- 71) on the kilonova at t hours after the neutron star merger for the first time. For this purpose, we calculate the atomic structures and the opacities for selected lanthanides: Nd (Z = 60), Sm (Z = 62), and Eu (Z = 63). We consider the ionization degree up to tenth (XI), applicable for the ejecta at t  a few hours after the merger, when the temperature is T  10^5 K. We find that the opacities for the highly ionized lanthanides are exceptionally high, reaching kexp 1000 cm^2/g for Eu, thanks to the energy levels being highly dense. Using the new opacity, we perform radiative transfer simulations to show that the early light curves become fainter by a (maximum) factor of four, in comparison to lanthanide-free ejecta at t 0.1 day. However, the period at which the light curves are affected is relatively brief due to the rapid time evolution of the opacity in the outermost layer of the ejecta. We predict that for a source at a distance of 100 Mpc, UV brightness for lanthanide-rich ejecta shows a drop to 21-22 mag at t 0.1 day and the UV peaks around t0.2 day with a magnitude of 19 mag. Future detection of such a kilonova by the existing UV satellite like Swift or the upcoming UV satellite ULTRASAT will provide useful constraints on the abundance in the outer ejecta and the corresponding nucleosynthesis conditions in the neutron star mergers.
+subjects: UV, kilonova, radiation transport, opacity, atomic
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2204.06706
+title: Long-term evolution of a supernova remnant hosting a double neutron star binary
+authors: Tomoki Matsuoka, Shiu-Hang Lee, Keiichi Maeda, Tomoya Takiwaki, Takashi J. Moriya
+topic: An ultra-stripped supernova (USSN) is a type of core-collapse SN explosion proposed to be a candidate formation site of a double neutron star (DNS) binary. We investigate the dynamical evolution of an ultra-stripped supernova remnant (USSNR), which should host a DNS at its center. By accounting for the mass-loss history of the progenitor binary using a model developed by a previous study, we construct the large-scale structure of the {circumstellar medium (CSM)} up to a radius 100pc, and simulate the explosion and subsequent evolution of a USSN surrounded by such a CSM environment. We find that the CSM encompasses an extended region characterized by a hot plasma with a temperature 108K located around the termination shock of the wind from the progenitor binary (10pc), and the USSNR blastwave is drastically weakened while penetrating through this hot plasma. Radio continuum emission from a young USSNR is sufficiently bright to be detectable if it inhabits our Galaxy but faint compared to the observed Galactic SNRs, and thereafter declines in luminosity through adiabatic cooling. Within our parameter space, USSNRs typically exhibit a low radio luminosity and surface brightness compared to the known Galactic SNRs. Due to the small event rate of USSNe and their relatively short observable lifespan, we calculate that USSNRs account for only 0.1-1 % of the total SNR population. This is consistent with the fact that no SNR hosting a DNS binary has been discovered in the Milky Way so far.
+subjects: SN, progenitro, simulation, ISM
 
 link: https://arxiv.org/abs/2204.05652
 title: The electron foreshock at high-Mach-number nonrelativistic oblique shocks
