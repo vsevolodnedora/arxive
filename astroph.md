@@ -17,6 +17,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2204.09000
 title: Neutron star radii, deformabilities, and moments of inertia from experimental and ab initio theory constraints on the 208Pb neutron skin thickness
 authors: Yeunhwan Lim, Jeremy W. Holt
