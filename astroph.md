@@ -29,6 +29,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2204.11877
 title: Ab-initio QCD calculations impact the inference of the neutron-star-matter equation of state
 authors: Tyler Gorda, Oleg Komoltsev, Aleksi Kurkela
