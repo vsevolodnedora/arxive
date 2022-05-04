@@ -11,35 +11,59 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2205.01182
+title: Determining the equation of state of neutron stars with Einstein Telescope using tidal effects and r-mode excitations from a population of binary inspirals
+authors: Pawan Kumar Gupta, Anna Puecher, Peter T.H. Pang, Justin Janquart, Gideon Koekoek, Chris Van Den Broeck
+topic: Third-generation gravitational wave (GW) observatories such as Einstein Telescope (ET) and Cosmic Explorer (CE) will be ideal instruments to probe the structure of neutron stars through the GWs they emit when undergoing binary coalescence. In this work we make predictions about how well ET in particular will enable us to reconstruct the neutron star equation of state through observations of tens of binary neutron star coalescences with signal-to-noise ratios in the hundreds. We restrict ourselves to information that can be extracted from the inspiral, which includes tidal effects and possibly r-mode resonances. In treating the latter we go beyond the Newtonian approximation, introducing and utilizing new universal relations. We find that the ability to observe resonant r-modes would have a noticeable impact on neutron star equation of state measurements with ET.
+subjects: MM
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2205.01174
+title: Bayesian Inference of Phenomenologycal EoS of Neutron Stars with Recent Observations
+authors: Emanuel V. Chimanski, Ronaldo V. Lobato, Andre R. Goncalves, Carlos A. Bertulani
+topic: The description of stellar interiors remains as a big challenge for the nuclear astrophysics community. The consolidated knowledge is restricted to density regions around the saturation of hadronic matter, regimes where our nuclear models are successfully applied. As one moves towards higher densities and extreme conditions up to five to twenty times rho0, little can be said about the microphysics of such objects. Here, we employ a Markov Chain Monte Carlo (MCMC) strategy in order to access the variability of polytropic three-pircewised models for neutron star equation of states. With a fixed description of the hadronic matter, we explore a variety of models for the high density regimes leading to stellar masses up to 2.5 Msun. In addition, we also discuss the use of a Bayesian power regression model with heteroscedastic error. The set of EoS from LIGO was used as inputs and treated as data set for testing case.
+subjects: EOS, inference
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2205.00695
+title: Relativistic magnetic explosions
+authors: Maxim V. Barkov, Praveen Sharma, Konstantinos N. Gourgouliatos, Maxim Lyutikov
+topic: Many explosive astrophysical events, like magnetars' bursts and flares, are magnetically driven. We consider dynamics of such magnetic explosions - relativistic expansion of highly magnetized and highly magnetically over-pressurized clouds. The corresponding dynamics is qualitatively different from fluid explosions due to the topological constraint of the conservation of the magnetic flux. Using analytical, relativistic MHD as well as force-free calculations, we find that the creation of a relativistically expanding, causally disconnected flow obeys a threshold condition: it requires sufficiently high initial over-pressure and sufficiently quick decrease of the pressure in the external medium (the pre-explosion wind). In the subcritical case the magnetic cloud just "puffs-up" and quietly expands with the pre-flare wind. We also find a compact analytical solution to the Prendergast's problem - expansion of force-free plasma into vacuum.
+subjects: physics, MF, explostion
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2204.14016
+title: Nuclear equation of state for arbitrary proton fraction and temperature based on chiral effective field theory and a Gaussian process emulator
+authors: J. Keller, K. Hebeler, A. Schwenk
+topic: We calculate the equation of state of asymmetric nuclear matter at finite temperature based on chiral effective field theory interactions to next-to-next-to-next-to-leading order. Our results assess the theoretical uncertainties from the many-body calculation and the chiral expansion. Using a Gaussian process emulator for the free energy, we derive the thermodynamic properties of matter through consistent derivatives and use the Gaussian process to access arbitrary proton fraction and temperature. This enables a first nonparametric calculation of the equation of state in beta equilibrium, and of the speed of sound and the symmetry energy at finite temperature. Moreover, our results show that the thermal part of the pressure decreases with increasing densities.
+subjects: EOS
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2204.13269
+title: Radioactively-Powered Gamma-Ray Transient Associated with a Kilonova from Neutron Star Merger
+authors: Meng-Hua Chen, Rui-Chong Hu, En-Wei Liang
+topic: Association of GW170817/GRB170817A/AT2017gfo provides the first direct evidence for neutron star mergers as significant sources of r-process nucleosynthesis. A gamma-ray transient (GRT) would be powered by the radioactive decay of the freshly-synthesized r-process elements. By analyzing the composition and gamma-ray opacity of the kilonova ejecta in details, we calculate the lightcurve and spectrum of the GRT for a spherically symmetric merger ejecta with mass Mej=0.001-0.05M and expansion velocity vej=0.1-0.4c. It is found that the peak of the GRT lightcurve depends on Mej and vej as tpk=0.9 days (Mej/0.01M)1/2(vej/0.2c)-1 and Lpk=7.0x1040 erg s-1(Mej/0.01M)1/2(vej/0.2c). Most radiating photons are in the 100−3000 keV band and the spectrum peaks at round 800 keV for different nuclear physics inputs. The line features are blurred out by the Doppler broadening effect and the uncertainties of nuclear physics data. Adopting the ejecta parameters reported in literature, we examine the detection probability of the possible GRT associated with AT2017gfo. We show that the GRT cannot be convincingly detected with the proposed missions in the MeV band, such as ETCC and AMEGO. The low gamma-ray flux, together with the extremely low event rate at local universe, makes a great challenge for discovery of the GRTs.
+subjects: GRB, kilonova, gamma rays, model
+
+link: https://arxiv.org/abs/2204.13014
+title: A semi-analytical solution to the forward-reverse shock hydrodynamics of the gamma-ray burst afterglow
+authors: Ze-Lin Zhang, Ruo-Yu Liu, Jin-Jun Geng, Xue-Feng Wu, Xiang-Yu Wang
+topic: We extend the standard model of forward-reverse shock (FS-RS) for gamma-ray burst (GRB) afterglow to more general cases. On one hand, we derive the analytical solution to the hydrodynamics of the shocks in two limiting cases, i.e., an ultra-relativistic reverse shock case and a Newtonian reverse shock case. Based on the asymptotic solutions in these two limiting cases, we constitute a semi-analytical solution for the hydrodynamics of the shocks in the generic case, covering the mildly-relativistic reverse shock case. On the other hand, we derive the evolution of the system taking into account the condition of energy conservation which is not satisfied in the standard FS-RS model. A generic solution of semi-analytical expressions is also given. In both the extended standard FS-RS model (satisfying pressure balance condition) and the model satisfying energy conservation, we find that the results in the ultra-relativistic reverse shock case and in the early stage of the Newtonian reverse shock case are different from those in the standard FS-RS model by only a factor that close to one while the same initial conditions adopted. However, the asymptotic solutions in the limiting cases are not good approximations to those in the intermediate case. Our semi-analytical results agree well with the numerical results for a large range of model parameters, and hence can be easily employed to diagnose the physical quantities of the GRB shell and circumburst environment.
+subjects: shock, physics, semi-analytic, model, derivation
+
+link: https://arxiv.org/abs/2204.12771
+title: A peculiarly long-duration gamma-ray burst from binary neutron star merger
+authors: Jun Yang, Bin-Bin Zhang, Shunke Ai, Zi-Ke Liu, Xiangyu Ivy Wang, Ye Li, Hou-Jun Lü, Bing Zhang
+topic: Some recent findings have shown that the duration of gamma-ray burst (GRB), although crucially related to the GRB central engine time scale, is not determinative in inferring the GRB origins in terms of their progenitors. In this paper, we report a peculiarly long-duration gamma-ray burst, GRB 211211A, that is associated with a kilonova in optical and near-infrared bands and is therefore likely the result of a binary neutron star merger. The burst broadly resembles the properties of GRB 060614 but with a much higher brightness in its light curve and harder spectra in both the main and extended emission phases, making it difficult to be explained as a short GRB with soft extended emission. Such a genuinely long-duration GRB suggests that merger product is likely a magnetar, which powers up the burst through magnetic and rotation energy for at least ∼70 seconds.
+subjects: GRB, observation, analysis, model, kilonova
+
+link: https://arxiv.org/abs/2204.12504
+title: Prospects for multi-messenger detection of binary neutron star mergers in the fourth LIGO-Virgo-KAGRA observing run
+authors: Barbara Patricelli, Maria Grazia Bernardini, Michela Mapelli, Paolo D'Avanzo, Filippo Santoliquido, Giancarlo Cella, Massimiliano Razzano, Elena Cuoco
+topic: The joint detection of GW170817 and GRB 170817A opened the era of multi-messenger astronomy with gravitational waves (GWs) and provided the first direct probe that at least some binary neutron star (BNS) mergers are progenitors of short gamma-ray bursts (S-GRBs). In the next years, we expect to have more multi-messenger detections of BNS mergers, thanks to the increasing sensitivity of GW detectors. Here, we present a comprehensive study on the prospects for joint GW and electromagnetic observations of merging BNSs in the fourth LIGO--Virgo--KAGRA observing run with \emph{Fermi}, \emph{Swift}, INTEGRAL and SVOM. This work combines accurate population synthesis models with simulations of the expected GW signals and the associated S-GRBs, considering different assumptions about the GRB jet structure. We show that the expected rate of joint GW and electromagnetic detections could be up to ∼ 6 yr−1 when \emph{Fermi}/GBM is considered. Future joint observations will help us to better constrain the association between BNS mergers and S-GRBs, as well as the geometry of the GRB jets.
+subjects: MM, propspects
+
+link: https://arxiv.org/abs/2204.12501
+title: Black hole to photosphere: 3D GRMHD simulations of collapsars reveal wobbling and hybrid composition jets
+authors: Ore Gottlieb, Matthew Liska, Alexander Tchekhovskoy, Omer Bromberg, Aretaios Lalakos, Dimitrios Giannios, Philipp Mösta
+topic: Long-duration gamma-ray bursts (GRBs) accompany the collapse of massive stars and carry important information about the central engine. However, no 3D models have been able to follow these jets from their birth by a rotating black-hole (BH) to the photosphere. We present the first such 3D general-relativity magnetohydrodynamic simulations, which span over 6 orders of magnitude in space and time. The collapsing stellar envelope forms an accretion disk, which drags inward the magnetic flux that accumulates around the BH, becomes dynamically-important and launches bipolar jets. The jets reach the photosphere at 1012 cm with an opening angle, 6 and a Lorentz factor, less 30, unbind 90\% of the star and leave the BH mass essentially unchanged after the initial core-collapse. We find that: (i) The disk-jet system spontaneously develops misalignment relative to the BH rotational axis. As a result, the jet direction wobbles with an angle 12deg, which can naturally explain quiescent times in GRB lightcurves. The effective opening angle for detection θj+θt suggests that the intrinsic (beaming-corrected) GRB rate is lower by an order of magnitude than standard estimates. This implies that successful GRBs can be much rarer than currently thought, and emerge in only ∼0.1% of supernovae Ib/c. A possible explanation is that jets are either not launched or choked inside most supernova Ib/c progenitors. (ii) The magnetic energy in the jet decreases due to dissipation and mixing with the stellar material, resulting in jets with a hybrid composition of magnetic and thermal components at the photosphere, where 20\% of the gas maintains magnetization  above 0.1. This indicates that both a photospheric component and magnetic reconnection play a role in the GRB prompt emission.
+subjects: GRB, simulaition, prompt, collapsar
 
 link: https://arxiv.org/abs/2204.11877
 title: Ab-initio QCD calculations impact the inference of the neutron-star-matter equation of state
