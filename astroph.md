@@ -41,6 +41,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2205.01182
 title: Determining the equation of state of neutron stars with Einstein Telescope using tidal effects and r-mode excitations from a population of binary inspirals
 authors: Pawan Kumar Gupta, Anna Puecher, Peter T.H. Pang, Justin Janquart, Gideon Koekoek, Chris Van Den Broeck
