@@ -17,6 +17,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2205.05031
 title: GRB 211211A: prolonged central engine under strong magnetic field environment
 authors: He Gao, Wei-Hua Lei, Zi-Pei Zhu
