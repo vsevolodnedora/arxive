@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2205.12146
 title: Gamma-ray bursts afterglow physics and the VHE domain
 authors: Davide Miceli, Lara Nava
