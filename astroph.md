@@ -11,6 +11,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2205.14788
 title: GW170817 4.5 years after merger: Dynamical ejecta afterglow constraints
 authors: Arvind Balasubramanian, Alessandra Corsi, Kunal P. Mooley, Kenta Hotokezaka, David L. Kaplan, Dale. A. Frail, Gregg Hallinan, Davide Lazzati, Eric J. Murphy
