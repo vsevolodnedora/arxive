@@ -17,6 +17,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2206.03303
 title: Magnetar Engines in Fast Blue Optical Transients and Their Connections with SLSNe, SNe Ic-BL, and lGRBs
 authors: Jian-Feng Liu, Jin-Ping Zhu, Liang-Duan Liu, Yun-Wei Yu, Bing Zhang
