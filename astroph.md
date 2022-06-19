@@ -29,6 +29,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2206.04232
 title: Lanthanide Features in Near-infrared Spectra of Kilonovae
 authors: Nanae Domoto, Masaomi Tanaka, Daiji Kato, Kyohei Kawaguchi, Kenta Hotokezaka, Shinya Wanajo
