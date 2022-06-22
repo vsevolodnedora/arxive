@@ -17,23 +17,29 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2206.08380
+title: Non-resonant particle acceleration in strong turbulence: comparison to kinetic and MHD simulations
+authors: Virginia Bresci, Martin Lemoine, Laurent Gremillet, Luca Comisso, Lorenzo Sironi, Camilia Demidem
+topic: Collisionless, magnetized turbulence offers a promising framework for the generation of non-thermal high-energy particles in various astrophysical sites. Yet, the detailed mechanism that governs particle acceleration has remained subject to debate. By means of 2D and 3D PIC, as well as 3D (incompressible) magnetohydrodynamic (MHD) simulations, we test here a recent model of non-resonant particle acceleration in strongly magnetized turbulence\cite{2021PhRvD.104f3020L}, which ascribes the energization of particles to their continuous interaction with the random velocity flow of the turbulence, in the spirit of the original Fermi model. To do so, we compare, for a large number of particles that were tracked in the simulations, the predicted and the observed histories of particles momenta. The predicted history is that derived from the model, after extracting from the simulations, at each point along the particle trajectory, the three force terms that control acceleration: the acceleration of the field line velocity projected along the field line direction, its shear projected along the same direction, and its transverse compressive part. Overall, we find a clear correlation between the model predictions and the numerical experiments, indicating that this non-resonant model can successfully account for the bulk of particle energization through Fermi-type processes in strongly magnetized turbulence. We also observe that the parallel shear contribution tends to dominate the physics of energization in the PIC simulations, while in the MHD incompressible simulation, both the parallel shear and the transverse compressive term provide about equal contributions.
+subjects: PIC
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2206.08377
+title: Supernova Precursor Emission and the Origin of Pre-Explosion Stellar Mass-Loss
+authors: Tatsuya Matsumoto, Brian D. Metzger
+topic: A growing number of core collapse supernovae (SNe) which show evidence for interaction with dense circumstellar material (CSM) are accompanied by precursor optical emission rising weeks to months prior to the explosion. The precursor luminosities greatly exceed the Eddington limit of the progenitor star, implying they are accompanied by substantial mass-loss. Here, we present a semi-analytic model for SN precursor light curves which we apply to constrain the properties and mechanisms of the pre-explosion mass-loss. We explore two limiting mass-loss scenarios: (1) an eruption arising from shock break-out following impulsive energy deposition below the stellar surface; (2) a steady wind due to sustained heating of the progenitor envelope . The eruption model, which resembles a scaled-down version of Type IIP SNe, can explain the luminosities and timescales of well-sampled precursors, for ejecta masses 0.1-1Msun and velocities 100-1000kms-1. By contrast, the steady-wind scenario cannot explain the highest precursor luminosities 1041ergs-1, under the constraint that the total ejecta mass not exceed the entire progenitor mass (though the less-luminous SN 2020tlf precursor can be explained by a mass-loss rate 1Msunyr-1). However, shock interaction between the wind and pre-existing (earlier ejected) CSM may boost its radiative efficiency and mitigate this constraint. In both eruption and wind scenarios the precursor ejecta forms compact (1015 cm) optically-thick CSM at the time of core collapse; though only directly observable via rapid post-explosion spectroscopy (few days before being overtaken by the SN ejecta), this material can boost the SN luminosity via shock interaction.
+subjects: SN, precursor, analytic
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2206.07899
+title: Probing the progenitor of high-z short-duration GRB 201221D and its possible bulk acceleration in prompt emission
+authors: Hao-Yu Yuan, Hou-Jun Lü, Ye Li, Bin-Bin Zhang, Hui Sun, Jared Rice, Jun Yang, En-Wei Liang
+topic: The growing observed evidence shows that the long- and short-duration gamma-ray bursts (GRBs) originate from massive star core-collapse and the merger of compact stars, respectively. GRB 201221D is a short-duration GRB lasting 0.1 s without extended emission (EE) at high redshift z=1.046. By analyzing data observed with the Swift/BAT and Fermi/GBM, we find that a cutoff power-law model can adequately fit the spectrum with a soft Ep=113+9-7 keV, and isotropic energy Egamma,iso=1.36+0.17-0.14x1051 erg. In order to reveal the possible physical origin of GRB 201221D, we adopted multi-wavelength criteria (e.g., Amati relation, epsilon-parameter, amplitude parameter, local event rate density, luminosity function, and properties of the host galaxy), and find that most of the observations of GRB 201221D favor a compact star merger origin. Moreover, we find that alpha is larger than 2+beta in the prompt emission phase which suggests that the emission region is possibly undergoing acceleration during the prompt emission phase with a Poynting-flux-dominated jet.
+subjects: GRB, observations
+
+link: https://arxiv.org/abs/2206.07865
+title: A global test of jet structure and delay time distributions of short-duration gamma-ray bursts
+authors: Jia-wei Luo, Ye Li, Shunke Ai, He Gao, Bing Zhang
+topic: The multi-messenger joint observations of GW170817 and GRB170817A shed new light on the study of short-duration gamma-ray bursts (SGRBs). Not only did it substantiate the assumption that SGRBs originate from binary neutron star (BNS) mergers, but it also confirms that the jet generated by this type of merger must be structured, hence the observed energy of an SGRB depends on the viewing angle from the observer. However, the precise structure of said jet is still subject to debate. Moreover, whether a single unified jet model can be applied to all SGRBs is hitherto unknown. Another uncertainty is the delay timescale of BNS mergers with respect to star formation history of the universe. In this paper, we conduct a global test of both delay and jet models of BNS mergers across a wide parameter space with simulated SGRBs. We compare the simulated peak flux, redshift and luminosity distributions with the observed ones and test the goodness-of-fit for a set of models and parameter combinations. Our simulations suggest that GW170817/GRB 170817A and all SGRBs can be understood within the framework of a universal structured jet viewed at different viewing angles. Furthermore, models invoking a jet plus cocoon structure with a lognormal delay timescale is most favored. Some other combinations (e.g. a Gaussian delay with a power-law jet model) are also acceptable. However, the Gaussian delay with Gaussian jet model and the entire set of power-law delay models can be ruled out.
+subjects: GRB, statistics
 
 link: https://arxiv.org/abs/2206.04232
 title: Lanthanide Features in Near-infrared Spectra of Kilonovae
