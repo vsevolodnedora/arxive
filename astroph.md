@@ -47,6 +47,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2206.08380
 title: Non-resonant particle acceleration in strong turbulence: comparison to kinetic and MHD simulations
 authors: Virginia Bresci, Martin Lemoine, Laurent Gremillet, Luca Comisso, Lorenzo Sironi, Camilia Demidem
