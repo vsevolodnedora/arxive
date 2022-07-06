@@ -29,35 +29,114 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2207.01636
+title: A new formulation of strong-field magnetohydrodynamics for neutron stars
+authors: Shreya Vardhan, Sašo Grozdanov, Samuel Leutheusser, Hong Liu
+topic: We present a formulation of magnetohydrodynamics which can be used to describe the evolution of strong magnetic fields in neutron star interiors. Our approach is based on viewing magnetohydrodynamics as a theory with a one-form global symmetry and developing an effective field theory for the hydrodynamic modes associated with this symmetry. In the regime where the local velocity and temperature variations can be neglected, we derive the most general constitutive relation consistent with symmetry constraints for the electric field in the presence of a strong magnetic field. This constitutive relation not only reproduces the phenomena of Ohmic decay, ambipolar diffusion, and Hall drift derived in a phenomenological model by Goldreich and Reisenegger, but also reveals new terms in the evolution of the magnetic field which cannot easily be seen from such microscopic models. This formulation gives predictions for novel diffusion behaviors of small perturbations around a constant background magnetic field, and for the two-point correlation functions among various components of the electric and magnetic fields.
+subjects: MHD, physics, model, method
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2207.00033
+title: Equation of state in neutron stars and supernovae
+authors: Kohsuke Sumiyoshi, Toru Kojo, Shun Furusawa
+topic: Neutron stars and supernovae provide cosmic laboratories of highly compressed matter at supra nuclear saturation density which is beyond the reach of terrestrial experiments. The properties of dense matter is extracted by combining the knowledge of nuclear experiments and astrophysical observations via theoretical frameworks. A matter in neutron stars is neutron rich, and may further accommodate non-nucleonic degrees of freedom such as hyperons and quarks. The structure and composition of neutron stars are determined by equations of state of matter, which are the primary subject in this chapter. In case of supernovae, the time evolution includes several dynamical stages whose descriptions require equations of state at finite temperature and various lepton fractions. Equations of state also play essential roles in neutron star mergers which allow us to explore new conditions of matter not achievable in static neutron stars and supernovae. Several types of hadron-to-quark transitions, from first order transitions to crossover, are reviewed, and their characteristics are summarized.
+subjects: EOS, phase transition
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2207.00442
+title: Emergence of microphysical viscosity in binary neutron star post-merger dynamics
+authors: Elias R. Most, Alexander Haber, Steven P. Harris, Ziyuan Zhang, Mark G. Alford, Jorge Noronha
+topic: In nuclear matter in neutron stars the flavor content (e.g., proton fraction) is subject to weak interactions, establishing flavor (beta-)equilibrium. During the merger of two neutron stars there can be deviations from this equilibrium. By incorporating Urca processes into general-relativistic hydrodynamics simulations, we study the resulting out-of-equilibrium dynamics during the collision. We provide the first direct evidence that microphysical transport effects at late times reach a hydrodynamic regime with a nonzero bulk viscosity, making neutron star collisions intrinsically viscous. Finally, we identify signatures of this process in the post-merger gravitational wave emission.
+subjects: viscosity, neutrinos, BNS, simulations
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2206.15022
+title: Radiative neutron capture reaction rates for r-process nucleosynthesis
+authors: Vinay Singh, Joydev Lahiri, Malay Kanti Dey, D. N. Basu
+topic: About half of the elements beyond iron are synthesized in stars by rapid-neutron capture process (r-process). The stellar environment provides very high neutron flux in a short time ( seconds) which is conducive for the creation of progressively neutron-rich nuclei till the waiting point is reached after which no further neutron capture reactions proceed. At this point such extremely neutron-rich nuclei become stable via beta- decay. A detailed understanding of the r-process remains illusive. In the present work, we explore the radiative neutron-capture (n,gamma) cross sections and reaction rates around the r-process peak near mass number eighty. The inherent uncertainties remain large in some cases, particularly in case of neutron-rich nuclei. When the low-energy enhancement exists, it results in significant increase in the reaction rate for neutron-capture.
+subjects: r-process, rates, nucleo
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2206.15022
+title: Radiative neutron capture reaction rates for r-process nucleosynthesis
+authors: Vinay Singh, Joydev Lahiri, Malay Kanti Dey, D. N. Basu
+topic: About half of the elements beyond iron are synthesized in stars by rapid-neutron capture process (r-process). The stellar environment provides very high neutron flux in a short time ( seconds) which is conducive for the creation of progressively neutron-rich nuclei till the waiting point is reached after which no further neutron capture reactions proceed. At this point such extremely neutron-rich nuclei become stable via beta- decay. A detailed understanding of the r-process remains illusive. In the present work, we explore the radiative neutron-capture (n,gamma) cross sections and reaction rates around the r-process peak near mass number eighty. The inherent uncertainties remain large in some cases, particularly in case of neutron-rich nuclei. When the low-energy enhancement exists, it results in significant increase in the reaction rate for neutron-capture.
+subjects: r-process, nucleo, method
+
+link: https://arxiv.org/abs/2206.14838
+title: Finite-temperature effects in dynamical-spacetime binary neutron star merger simulations: Validation of the parametric approach
+authors: Carolyn Raithel, Pedro Espino, Vasileios Paschalidis
+topic: Parametric equations of state (EoSs) provide an important tool for systematically studying EoS effects in neutron star merger simulations. In this work, we perform a numerical validation of the M-framework for parametrically calculating finite-temperature EoS tables. The framework, introduced in Raithel et al. (2019), provides a model for generically extending any cold, beta-equilibrium EoS to finite-temperatures and arbitrary electron fractions. In this work, we perform numerical evolutions of a binary neutron star merger with the SFHo finite-temperature EoS, as well as with the M-approximation of this same EoS, where the approximation uses the zero-temperature, beta-equilibrium slice of SFHo and replaces the finite-temperature and composition-dependent parts with the M-model. We find that the approximate version of the EoS is able to accurately recreate the temperature and thermal pressure profiles of the binary neutron star remnant, when compared to the results found using the full version of SFHo. We additionally find that the merger dynamics and gravitational wave signals agree well between both cases, with differences of 1-2% introduced into the post-merger gravitational wave peak frequencies by the approximations of the EoS. We conclude the M-framework can be reliably used to probe neutron star merger properties in numerical simulations.
+subjects: NS, EOS, temperature, effects, method, simulations
+
+link: https://arxiv.org/abs/2206.14823
+title: Quasi-perpendicular shock acceleration and TDE radio flares
+authors: Siyao Xu
+topic: Delayed radio flares of optical tidal disruption events (TDEs) indicate the existence of non-relativistic outflows accompanying TDEs. The interaction of TDE outflows with the surrounding circumnuclear medium creates quasi-perpendicular shocks in the presence of toroidal magnetic fields. Because of the large shock obliquity and large outflow velocity, we find that the shock acceleration induced by TDE outflows generally leads to a steep particle energy spectrum, with the power-law index significantly larger than the "universal" index for a parallel shock. The measured synchrotron spectral indices of recently detected TDE radio flares are consistent with our theoretical expectation. It suggests that the particle acceleration at quasi-perpendicular shocks can be the general acceleration mechanism accounting for the delayed radio emission of TDEs.
+subjects: TDE, emission, shock
+
+link: https://arxiv.org/abs/2206.14297
+title: A Mildly Relativistic Outflow Launched Two Years after Disruption in the Tidal Disruption Event AT2018hyz
+authors: Yvette Cendes, Edo Berger, Kate Alexander, Sebastian Gomez, Aprajita Hajela, Ryan Chornock, Tanmoy Laskar, Raffaella Margutti, Brian Metzger, Michael Bietenholz, Daniel Brethauer, Mark Wieringa
+topic: We present late-time radio/millimeter (as well as optical/UV and X-ray) detections of the tidal disruption event (TDE) AT2018hyz, spanning 970-1300 d after optical discovery. In conjunction with earlier deeper limits, including at 700 d, our observations reveal rapidly rising emission at 0.8-240 GHz, steeper than Fnu-t5 relative to the time of optical discovery. Such a steep rise cannot be explained in any reasonable scenario of an outflow launched at the time of disruption (e.g., off-axis jet, sudden increase in the ambient density), and instead points to a delayed launch. Our multi-frequency data allow us to directly determine the radius and energy of the radio-emitting outflow, showing that it was launched 750 d after optical discovery. The outflow velocity is mildly relativistic, with beta=0.25 and 0.6 for a spherical and a 10edg jet geometry, respectively, and the minimum kinetic energy is EK=5.8x1049 and 6.3x1049 erg, respectively. This is the first definitive evidence for the production of a delayed mildly-relativistic outflow in a TDE; a comparison to the recently-published radio light curve of ASASSN-15oi suggests that the final re-brightening observed in that event (at a single frequency and time) may be due to a similar outflow with a comparable velocity and energy. Finally, we note that the energy and velocity of the delayed outflow in AT2018hyz are intermediate between those of past non-relativistic TDEs (e.g., ASASSN-14li, AT2019dsg) and the relativistic TDE Sw\,J1644+57. We suggest that such delayed outflows may be common in TDEs.
+subjects: TDE, observation, ejecta
+
+link: https://arxiv.org/abs/2206.14014
+title: Search for multi-messenger events during LIGO/Virgo era
+authors: Tosta e Melo, I., LVK collaboration
+topic: Multi-messenger astronomy is a vast and expanding field as electromagnetic observations (EM) are no longer the only way of exploring the Universe. Due to the new messengers, astrophysical events with both gravitational waves (GWs) and EM emission are no longer a dream of the astronomical community. A breakthrough for GW multi-messenger astronomy came when the LIGO-Virgo network detected a GW signal of two low-mass compact objects consistent with a binary neutron star (BNS, GW170817) an event that generated a short gamma-ray burst (GRBs) and a kilonova. While GW170817 represents the testimony to BNS mergers being the progenitor of at least some GRBs, a wide range of highly energetic astrophysical phenomena is expected to be accompanied by the emission of GWs and photons. Here we present an unmodelled method to search for GWs having gamma and radio counterparts, using the LIGO-Virgo data and observations of partner telescopes. We also discuss the most recent results of the unmodelled coherent searches targeting astrophysical events during the first part of the LIGO-Virgo third observing run (O3a): 105 GRBs detected by the Fermi and Swift satellites.
+subjects: method, search, prospect, strategy
+
+link: https://arxiv.org/abs/2206.13098
+title: Particle Acceleration in Relativistic Shearing Flows: Energy Spectrum
+authors: Frank M. Rieger, Peter Duffy
+topic: We consider the acceleration of charged particles in relativistic shearing flows, with Lorentz factor up to Γ0-20. We present numerical solutions to the particle transport equation and compare these with results from analytical calculations. We show that in the highly relativistic limit the particle energy spectrum that results from acceleration approaches a power law, N(E)-E-q , with a universal value q =(1+a) for the slope of this power law, where a parameterizes the power-law momentum dependence of the particle mean free path. At mildly relativistic flow speeds, the energy spectrum becomes softer and sensitive to the underlying flow profile. We explore different flow examples, including Gaussian and power-law-type velocity profiles, showing that the latter yield comparatively harder spectra, producing q =2 for Γ0=3 and Kolmogorov turbulence. We provide a comparison with a simplified leaky-box approach and derive an approximate relation for estimating the spectral index as a function of the maximum shear flow speed. These results are of relevance for jetted, high-energy astrophysical sources such as active galactic nuclei, since shear acceleration is a promising mechanism for the acceleration of charged particles to relativistic energies and is likely to contribute to the high-energy radiation observed.
+subjects: PIC, acceleration, particles, injection, model, simulation
+
+link: https://arxiv.org/abs/2206.12515
+title: Universal Relations for the Increase in the Mass and Radius of a Rotating Neutron Star
+authors: Andreas Konstantinou, Sharon M. Morsink
+topic: Rotation causes an increase in a neutron star's mass and equatorial radius. The mass and radius depend sensitively on the unknown equation of state (EOS) of cold, dense matter. However, the increases in mass and radius due to rotation are almost independent of the EOS. The EOS independence leads to the idea of neutron star universality. In this paper, we compute sequences of rotating neutron stars with constant central density. We use a collection of randomly generated EOS to construct simple correction factors to the mass and radius computed from the equations of hydrostatic equilibrium for non-rotating neutron stars. The correction factors depend only on the non-rotating star's mass and radius and are almost independent of the EOS. This makes it computationally inexpensive to include observations of rotating neutron stars in EOS inference codes. We also construct a mapping from the measured mass and radius of a rotating neutron star to a corresponding non-rotating star. The mapping makes it possible to construct a zero-spin mass-radius curve if the masses and radii of many neutron stars with different spins are measured.
+We show that the changes in polar and equatorial radii are symmetric, in that the polar radius shrinks at the same rate that the equatorial radius grows. This symmetry is related to the observation that the equatorial compactness (the ratio of mass to radius) is almost constant on one of the constant-density sequences.
+subjects: RNS, NS, EOS, TOV
+
+link: https://arxiv.org/abs/2206.12246
+title: Cosmic nucleosynthesis: a multi-messenger challenge
+authors: Roland Diehl, Andreas Korn, Bruno Leibundgut, Maria Lugaro, Anton Wallner
+topic: The origins of the elements and isotopes of cosmic material is a critical aspect of understanding the evolution of the universe. Nucleosynthesis typically requires physical conditions of high temperatures and densities. These are found in the Big Bang, in the interiors of stars, and in explosions with their compressional shocks and high neutrino and neutron fluxes. Many different tools are available to disentangle the composition of cosmic matter, in material of extraterrestrial origins such as cosmic rays, meteorites, stardust grains, lunar and terrestrial sediments, and through astronomical observations across the electromagnetic spectrum. Understanding cosmic abundances and their evolution requires combining such measurements with approaches of astrophysical, nuclear theories and laboratory experiments, and exploiting additional cosmic messengers, such as neutrinos and gravitational waves. Recent years have seen significant progress in almost all these fields; they are presented in this review. Models are required to explore nuclear fusion of heavier elements. These have been confirmed by observations of nucleosynthesis products in the ejecta of stars and supernovae, as captured by stardust grains and by characteristic lines in spectra seen from these objects, and also by ejecta material captured by Earth over millions of years in sediments. All these help to piece together how cosmic materials are transported in interstellar space and re-cycled into and between generations of stars. Our description of cosmic compositional evolution needs observational support, as it rests on several assumptions that appear challenged. This overview presents the flow of cosmic matter and the various sites of nucleosynthesis, as understood from combining many techniques and observations, towards the current knowledge of how the universe is enriched with elements.
+subjects: nucleo, mm, BB, abundances, cosmology
+
+link: https://arxiv.org/abs/2206.11914
+title: Magnetorotational supernovae: A nucleosynthetic analysis of sophisticated 3D models
+authors: Moritz Reichert, Martin Obergaulinger, Miguel-Angel Aloy, Michael Gabler, Almudena Arcones, Friedrich-Karl Thielemann
+topic: Magnetorotational supernovae are a rare type of core-collapse supernovae where the magnetic field and rotation play a central role in the dynamics of the explosion. We present the post-processed nucleosynthesis of state-of-the-art neutrino-MHD supernova models that follow the post explosion evolution for few seconds. We find three different dynamical mechanisms to produce heavy r-process elements: i) a prompt ejection of matter right after core bounce, ii) neutron-rich matter that is ejected at late times due to a reconfiguration of the protoneutronstar shape, iii) small amount of mass ejected with high entropies in the center of the jet. We investigate total ejecta yields, including the ones of unstable nuclei such as 26Al, 44Ti, 56Ni, and 60Fe. The obtained 56Ni masses vary between 0.01-1Msun. The latter maximum is compatible with hypernova observations. Furthermore, all of our models synthesize Zn masses in agreement with observations of old metal-poor stars. We calculate simplified light curves to investigate whether our models can be candidates for superluminous supernovae. The peak luminosities obtained from taking into account only nuclear heating reach up to a few 1043ergs-1. Under certain conditions, we find a significant impact of the 66Ni decay chain that can raise the peak luminosity up to 38\% compared to models including only the 56Ni decay chain. This work reinforces the theoretical evidence on the critical role of magnetorotational supernovae to understand the occurrence of hypernovae, superluminous supernovae, and the synthesis of heavy elements.
+subjects: SN, nucleo, r-porcess, model, simulations, postprocessig
+
+link: https://arxiv.org/abs/2206.10887
+title: Numerical Simulations of Dark Matter Admixed Neutron Star Binaries
+authors: Mattia Emma, Federico Schianchi, Francesco Pannarale, Violetta Sagun, Tim Dietrich
+topic: Multi-messenger observations of compact binary mergers provide a new way to constrain the nature of dark matter that may accumulate in and around neutron stars. In this article, we extend the infrastructure of our numerical-relativity code BAM to enable the simulation of neutron stars that contain an additional mirror dark matter component. We perform single star tests to verify our code and the first binary neutron star simulations of this kind. We find that the presence of dark matter reduces the lifetime of the merger remnant and favors a prompt collapse to a black hole. Furthermore, we find differences in the merger time for systems with the same total mass and mass ratio, but different amounts of dark matter. Finally, we find that electromagnetic signals produced by the merger of binary neutron stars admixed with dark matter are very unlikely to be as bright as their dark matter free counterparts. Given the increasing sensitivity of multi-messenger facilities, our analysis gives a new perspective on how to probe the presence of dark matter.
+subjects: BNS, DM, simulations
+
+link: https://arxiv.org/abs/2206.11148
+title: Probing the multiwavelength emission scenario of GRB 190114C
+authors: Marc Klinger (1), Donggeun Tak (1), Andrew Taylor (1), Sylvia J. Zhu
+topic: Multiwavelength observation of the gamma-ray burst, GRB 190114C, opens a new window for studying the emission mechanism of GRB afterglows. Its Very-High-Energy (VHE; above 100 GeV) detection has motivated an inverse Compton interpretation for the emission, but this has not been tested. Here, we revisit the early afterglow emission from 68 to 180 seconds and perform the modeling likelihood analysis with the keV to TeV datasets. We compute for the first time the statistical preference in the combined synchrotron (syn) and synchrotron self-Compton (SSC) model over the syn-only model. In agreement with earlier analyses, between 68 and 110 seconds an unstable preference for the SSC model can be found, which can also be explained by systematic cross calibration effect between the included instruments. We conclude that there is no stable statistical preference for one of the two models.
+subjects: VHE, GRB, IC, observations
+
+link: https://arxiv.org/abs/2206.11088
+title: The Structure of Gamma Ray Burst Jets
+authors: Om Sharan Salafia, Giancarlo Ghirlanda
+topic: Due to relativistic bulk motion, the structure and orientation of gamma-ray burst jets have a fundamental role in determining how they appear. The recent discovery of the GW170817 binary neutron star merger and the associated GRB boosted the interest in the modelling and search of signatures of the presence of a (possibly quasi-universal) jet structure in long and short GRBs. In this review, following a pedagogical approach, we summarize the history of GRB jet structure research over the last two decades, from the inception of the idea of a universal jet structure to the current understanding of the complex processes that shape the structure, that involve the central engine that powers the jet and the interaction of the latter with the progenitor vestige. We put some emphasis on the observable imprints of jet structure on prompt and afterglow emission and on the luminosity function, favoring intuitive reasoning over technical explanations.
+subjects: review, overview, GRB jet structure
+
+link: https://arxiv.org/abs/2206.10710
+title: Strong NIR emission following the long duration GRB 211211A: Dust heating as an alternative to a kilonova
+authors: Eli Waxman, Eran O. Ofek, Doron Kushnir
+topic: The prolonged near infrared (NIR) emission observed following the long duration GRB 211211A is inconsistent with afterglow emission from the shock driven into the circum-stellar medium (CSM), and with emission from a possible underlying supernova. It has therefore been suggested that the observed NIR flux is the signature of a kilonova -- a radioactive ejecta that is similar to the outcome of the binary neutron star merger GW170817. We propose here an alternative plausible explanation. We show that the NIR flux is consistent with thermal emission from dust, heated by UV radiation produced by the interaction of the GRB jet plasma with the CSM. This NIR emission was predicted by Waxman & Draine for GRBs residing near or withing massive molecular clouds. The dust NIR emission scenario is consistent with a GRB at z≲1. Inspection of the environment of GRB 211211A suggests that there are at least two host-galaxy candidates, one at z=0.076 and the other at z=0.459. The z=0.459 possibility is also consistent with the non-detection of a supernova signature in the light curve of the GRB afterglow, and with a typical GRB gamma-ray energy for the fluence of GRB 211211A.
+subjects: GRB, thermal, dust
+
+link: https://arxiv.org/abs/2206.10645
+title: Angular Momentum Transport in Proto-Neutron Stars and the Fate of Neutron Star Merger Remnants
+authors: Ben Margalit, Adam S. Jermyn, Brian D. Metzger, Luke F. Roberts, Eliot Quataert
+topic: Both the core collapse of rotating massive stars, and the coalescence of neutron star (NS) binaries, result in the formation of a hot, differentially rotating NS remnant. The timescales over which differential rotation is removed by internal angular-momentum transport processes ("viscosity") has key implications for the remnant's long-term stability and the NS equation-of-state (EOS). Guided by a non-rotating model of a cooling proto-NS, we estimate the dominant sources of viscosity using an externally imposed angular velocity profile Omega(r). Although the magnetorotational instability provides the dominant source of effective viscosity at large radii, convection and/or the Spruit-Tayler dynamo dominate in the core of merger remnants where dOmega/dr exceeds 0. Furthermore, the viscous timescale in the remnant core is sufficiently short that solid body rotation will be enforced faster than matter is accreted from rotationally-supported outer layers. Guided by these results, we develop a toy model for how the merger remnant core grows in mass and angular momentum due to accretion. We find that merger remnants with sufficiently massive and slowly rotating initial cores may collapse to black holes via envelope accretion, even when the total remnant mass is less than the usually considered threshold ≈1.2MTOV for forming a stable solid-body rotating NS remnant (where MTOV is the maximum non-rotating NS mass supported by the EOS). This qualitatively new picture of the post-merger remnant evolution and stability criterion has important implications for the expected electromagnetic counterparts from binary NS mergers and for multi-messenger constraints on the NS EOS.
+subjects: NS, PNS, remnant, analytic, model, spin-down
 
 link: https://arxiv.org/abs/2206.08380
 title: Non-resonant particle acceleration in strong turbulence: comparison to kinetic and MHD simulations
