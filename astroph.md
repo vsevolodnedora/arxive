@@ -35,6 +35,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2207.01636
 title: A new formulation of strong-field magnetohydrodynamics for neutron stars
 authors: Shreya Vardhan, Sašo Grozdanov, Samuel Leutheusser, Hong Liu
