@@ -17,35 +17,65 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2207.05746
+title: Non-thermal emission from mildly relativistic dynamical ejecta of neutron star mergers
+authors: Gilad Sadeh, Or Guttman, Eli Waxman
+topic: Binary neutron star mergers are expected to produce fast dynamical ejecta, with mildly relativistic velocities extending to b=v/c  l 0.6. We consider the radio to X-ray synchrotron emission produced by collisionless shocks driven by such fast ejecta into the interstellar medium. Analytic expressions are given for spherical ejecta with broken power-law mass (or energy) distributions, M(>g b )prop(g b)-s with s=sKN at g b l g0b0 and s=sft at g b β l g0b0 (where γ is the Lorentz factor). For parameter values characteristic of merger calculation results -- a "shallow" mass distribution, 1 l sKN l 3, for the bulk of the ejecta (at g b =0.2), and a steep, sft g 5, "fast tail" mass distribution -- our model provides an accurate (to 10's of percent) description of the evolution of the flux, including at the phase of deceleration to sub-relativistic expansion. This is a significant improvement over earlier results, based on extrapolations of results valid for gb gg 1 or ll 1 to gb=1, which overestimate the flux by an order of magnitude for typical parameter values. It will enable a more reliable inference of ejecta parameters from future measurements of the non-thermal emission. For the merger event GW170817, the existence of a "fast tail" is expected to produce detectable radio and X-ray fluxes over a time scale of 104days.
+subjects: kilonova afterglow, analytic, model
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2207.05619
+title: GRB 190829A -- A Showcase of Binary Late Evolution
+authors: Yu Wang, J. A. Rueda, R. Ruffini, R. Moradi, Liang Li, Y. Aimuratov, F. Rastegarnia, S. Eslamzadeh, N. Sahakyan, Yunlong Zheng
+topic: GRB 190829A is the fourth closest gamma-ray burst (GRB) to date (z=0.0785). Owing to its wide range of radio, optical, X-ray, and the very-high-energy (VHE) observations by H.E.S.S., it has become an essential new source examined by various models with complementary approaches. We here show in GRB 190829A the double-prompt pulses and the three-multiwavelength afterglows are consistent with the type II binary-driven hypernova (BdHN II) model. The progenitor is a binary composed of a carbon-oxygen (CO) star and a neutron star (NS) companion. The gravitational collapse of the iron core of the CO star produces a supernova (SN) explosion and leaves behind a new neutron star (nNS) at its center. The accretion of the SN ejecta onto the NS companion and onto the nNS via matter fallback spins up the NSs and produces the double-peak prompt emission. The synchrotron emission from the expanding SN ejecta with the energy injection from the rapidly spinning nNS and its subsequently spin-down leads to the afterglow in the radio, optical, and X-ray. We model the sequence of physical and related radiation processes in BdHNe and focus on individuating the binary properties that play the relevant roles.
+subjects: GRB, observations, model, projenitor
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2207.05145
+title: Polarized Radiation Signals from Highly Magnetized Neutron Star Surfaces
+authors: Kun Hu, Matthew G. Baring, Joseph A. Barchas, George Younes
+topic: The surfaces of neutron stars are likely sources of strongly polarized soft X rays due to the presence of strong magnetic fields. Scattering transport in the surface layers is critical to the determination of the emergent anisotropy of light intensity, and is strongly influenced by the complicated interplay between linear and circular polarization information. We have developed a magnetic Thomson scattering simulation to model the outer layers of fully-ionized atmospheres in such compact objects. Here we summarize emergent intensities and polarizations from extended atmospheric simulations, spanning considerable ranges of magnetic colatitudes. General relativistic propagation of light from the surface to infinity is fully included. The net polarization degrees are moderate and not very small when summing over a variety of field directions. These results provide an important foundation for observations of magnetars to be acquired by NASA's new IXPE X-ray polarimeter and future X-ray polarimetry missions.
+subjects: NS, crust, EM, non-thermal
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2207.05084
+title: The emergence of diffused Gamma-Ray Burst afterglows from the disks of Active Galactic Nuclei
+authors: Yihan Wang, Davide Lazzati, Rosalba Perna
+topic: The disks of Active Galactic Nuclei (AGNs) have emerged as rich environments for the production and capture of stars and the compact objects that they leave behind. These stars produce long Gamma-Ray Bursts (LGRBs) at their deaths, while frequent interactions among compact objects form binary neutron stars and neutron star-black hole binaries, leading to short GRBs (SGRBs) upon their merger. Predicting the properties of these transients as they emerge from the dense environments of AGN disks is key to their proper identification and to better constrain the star and compact object population in AGN disks. Some of these transients would appear unusual because they take place in much higher densities than the interstellar medium. Others, which are the subject of this paper, would additionally be modified by radiation diffusion since they are generated within optically thick regions of the accretion disks. Here we compute the GRB afterglow light curves for diffused GRB sources for a representative variety of central black-hole masses and disk locations. We find that the radiation from radio to UV and soft X-rays can be strongly suppressed by synchrotron self-absorption in the dense medium of the AGN disk. In addition, photon diffusion can significantly delay the emergence of the emission peak, turning a beamed, fast transient into a slow, isotropic, and dimmer one. These would appear as broadband-correlated AGN variability with dominance at the higher frequencies. Their properties can constrain both the stellar populations within AGN disks as well as the disk structure.
+subjects: GRB, AGN, model, non-thermal
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2207.04417
+title: A general, scale-independent description of the sound speed in neutron stars
+authors: Christian Ecker, Luciano Rezzolla
+topic: Using more than a million randomly generated equations of state that satisfy theoretical and observational constraints we construct a novel, scale-independent description of the sound speed in neutron stars where the latter is expressed in a unit-cube spanning the normalised radius, r/R, and the mass normalized to the maximum one, M/MTOV. From this generic representation, a number of interesting and surprising results can be deduced. In particular, we find that light (heavy) stars have stiff (soft) cores and soft (stiff) outer layers, respectively, or that the maximum of the sound speed is located at the center of light stars but moves to the outer layers for stars with M/MTOV larger 0.7, reaching a constant value of c2s=1/2 as M close MTOV. We also show that the sound speed decreases below the conformal limit c2s=1/3 at the center of stars with M=MTOV. Finally, we construct an analytic expression that accurately describes the radial dependence of the sound speed as a function of the neutron-star mass, thus providing an estimate of the maximum sound speed expected in a neutron star.
+subjects: NS, EOS
+
+link: https://arxiv.org/abs/2207.03347
+title: Thermodynamics of Hot Neutron Stars and Universal Relations
+authors: P. Laskos-Patkos, P.S. Koliogiannis, A. Kanakis-Pegios, Ch.C. Moustakidis
+topic: Over the last few years, the detection of gravitational waves from binary neutron star systems has rekindled our hopes for a deeper understanding of the unknown nature of ultra dense matter. In particular, gravitational wave constraints on the tidal deformability of a neutron star can be translated into constraints on several neutron star properties using a set of universal relations. Apart from binary neutron star mergers, supernova explosions are also important candidates for the detection of multimessenger signals. Such observations may allow us to impose significant constraints on the binding energy of neutron stars. The purpose of the present study is twofold. Firstly, we investigate the agreement of finite temperature equations of state with established universal relations. Secondly, we examine the possible existence of a universal relation between the binding energy and the dimensionless tidal deformability, which are the bulk properties connected to the most promising sources for multimessenger signals. We find that hot equations of state are not always compatible with accepted universal relations. Therefore, the use of such expressions for probing general relativity or imposing constraints on the structure of neutron stars would be inconclusive (when thermal effects are present). Additionally, we show that the binding energy and the dimensionless tidal deformability exhibit a universal trend at least for moderate neutron star masses. The latter allows us to set bounds on the binding energy of a 1.4 Msun neutron star using data from the GW170817 event. Finally, we provide a relation between the compactness, the binding energy and the dimensionless tidal deformability of a neutron star, that is not only independent on the employed equation of state but also holds when thermal effects are present.
+subjects: NS, EOS, tidal, GR
+
+link: https://arxiv.org/abs/2207.02866
+title: Shock Breakout from Stellar Envelopes: The relativistic limit
+authors: Tamar Faran, Re'em Sari
+topic: We calculate the observed luminosity and spectrum following the emergence of a relativistic shock wave from a stellar edges. Shock waves propagating at 0.6 less Gamma sh beta sh, where Gamma sh is the shock Lorentz factor and beta sh is its associated reduced velocity, heat the stellar envelope to temperatures exceeding 50 keV, allowing for a vigorous production of electron and positron pairs. Pairs significantly increase the electron scattering optical depth and regulate the temperature through photon generation, producing distinct observational signatures in the escaping emission. Assuming Wien equilibrium, we find analytic expressions for the temperature and pair density profiles in the envelope immediately after shock passage, and compute the emission during the expansion phase. Our analysis shows that in pair loaded regions, photons are produced at a roughly uniform rest frame energy of 200 keV, and reinforces previous estimates that the shock breakout signal will be detected as a short burst of energetic gamma-ray photons, followed by a longer phase of X-ray emission. We test our model on a sample of low-luminosity gamma ray bursts using a closure relation between the gamma-ray burst duration, the radiation temperature and the gamma-ray isotropic equivalent energy, and find that some of the events are consistent with the relativistic shock breakout model. Finally, we apply our results to explosions in white dwarfs and neutron stars, and find that typical type Ia supernovae emit 1041 erg in the form of 1 MeV photons.
+subjects: grb, shock, star, hydrodynamic, simulation
+
+link: https://arxiv.org/abs/2207.02214
+title: Neutrino Fast Flavor Instability in three dimensions for a Neutron Star Merger
+authors: Evan Grohs, Sherwood Richers, Sean M. Couch, Francois Foucart, James P. Kneller, G. C. McLaughlin
+topic: The flavor evolution of neutrinos in core collapse supernovae and neutron star mergers is a critically important unsolved problem in astrophysics. Following the electron flavor evolution of the neutrino system is essential for calculating the thermodynamics of compact objects as well as the chemical elements they produce. Accurately accounting for flavor transformation in these environments is challenging for a number of reasons, including the large number of neutrinos involved, the small spatial scale of the oscillation, and the nonlinearity of the system. We take a step in addressing these issues by presenting a method which describes the neutrino fields in terms of angular moments. Our moment method successfully describes the fast flavor neutrino transformation phenomenon which is expected to occur in regions close to the central object. We apply our moment method to neutron star merger conditions and show that we are able to capture the three phases of growth, saturation, and decoherence by comparing with particle-in-cell calculations. We also determine the size of the growing fluctuations in the neutrino field.
+subjects: BNS, NS, SN, neutrinos, simulation
+
+link: https://arxiv.org/abs/2207.02433
+title: Tidal Deformability of Dark Matter Admixed Neutron Stars
+authors: Kwing-Lam Leung, Ming-Chung Chu, Lap-Ming Lin
+topic: The tidal properties of a neutron star are measurable in the gravitational waves emitted from inspiraling binary neutron stars, and they have been used to constrain the neutron star equation of state. In the same spirit, we study the dimensionless tidal deformability of dark matter admixed neutron stars. The tidal Love number is computed in a two-fluid framework. The dimensionless tidal Love number and dimensionless tidal deformability are computed for dark matter admixed stars with the dark matter modelled as ideal Fermi gas or self-interactive bosons. The dimensionless tidal deformability shows a sharp change from being similar to that of a pure normal matter star to that of a pure dark matter star, within a narrow range of intermediate dark matter mass fraction. Based on this result, we illustrate an approach to study the dark matter parameters through the tidal properties of massive compact stars, making use of the self-similarity of the dimensionless tidal deformability-mass relations when the dark matter mass fraction is high.
+subjects: NR, BNS, NS, DM, simulations
+
+link: https://arxiv.org/abs/2207.02311
+title: Relativistic Atomic Structure of Au IV and the Os Isoelectronic Sequence: opacity data for kilonova ejecta
+authors: Z. S. Taghadomi, Y. Wan, A. Flowers, P. C. Stancil, B. M. McLaughlin, S. Bromley, J. P. Marler, C. E. Sosolik, S. Loch
+topic: Direct detection of gravitational waves (GW) on Aug. 17, 2017, propagating from a binary neutron star merger, opened the era of multimessenger astronomy. The ejected material from neutron star mergers, or kilonova, is a good candidate for optical and near infrared follow-up observations after the detection of GWs. The kilonova from the ejecta of GW1780817 provided the first evidence for the astrophysical site of the synthesis of heavy nuclei through the rapid neutron capture process or rprocess. Since properties of the emission are largely affected by opacities of the ejected material, enhancements in the available, but limited rprocess atomic data have been motivated recently. However, given the complexity of the electronic structure of these heavy elements, considerable efforts are still needed to converge to a reliable set of atomic structure data. The aim of this work is to alleviate this situation for low charge state elements in the Os-like isoelectronic sequence. In this regard, the general purpose relativistic atomic structure packages (GRASP0 and GRASP2K) were used to obtain energy levels and transition probabilities (E1 and M1). We provide line lists and expansion opacities for a range of r-process elements. We focus here on the Os isoelectronic sequence (Os I, Ir II, Pt III, Au IV, Hg V). The results are benchmarked against existing experimental data and prior calculations, and predictions of emission spectra relevant to kilonovae are provided. Finestructure (M1) lines in the infrared potentially observable by the James Webb Space Telescope are highlighted.
+subjects: kilonova, atomic, numeric, calculation
 
 link: https://arxiv.org/abs/2207.01636
 title: A new formulation of strong-field magnetohydrodynamics for neutron stars
