@@ -23,6 +23,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2207.05746
 title: Non-thermal emission from mildly relativistic dynamical ejecta of neutron star mergers
 authors: Gilad Sadeh, Or Guttman, Eli Waxman
