@@ -23,6 +23,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2207.07925
 title: Three-dimensional numerical simulations of structured GRB jets
 authors: Gerardo Urrutia, Fabio De Colle, Diego López-Cámara
