@@ -29,6 +29,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2207.12324
 title: Tidal-induced magnetar super flare at the eve of coalescence with its compact companion
 authors: Zhen Zhang, Shu-Xu Yi, Shuang-Nan Zhang, Shao-Lin Xiong, Shuo Xiao
