@@ -5,35 +5,74 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2208.04681
+title: Time-resolved polarizations of gamma-ray burst prompt emission with observed energy spectra
+authors: Rui-Rui Wu, Qing-Wen Tang, Mi-Xiang Lan
+topic: Time-resolved polarizations carry more physical information about the source of gamma-ray bursts (GRBs) than the time-integrated ones. Therefore, they give more strict constrains on the models of GRB prompt phase. Both time-resolved and time-integrated polarizations are considered here. The model we use is the synchrotron emission in a large-scale ordered aligned magnetic field. Time-resolved polarizations of GRB prompt phase are derived with the corresponding time-resolved energy spectra. We found the time-integrated PDs calculated with two methods are similar. So it is convenient to estimate the time-integrated PD by the time-integrated energy spectrum. Most of the time-resolved PDs calculated in this paper will increase with time. The trend could match the observed time-resolved PD curve of GRB 170114A, but contrary to the predictions of a decaying PD of both the magnetized internal shock and magnetic reconnection models. PAs calculated in this paper, in general, are roughly constants with time. The predicted PAs here can not match with the violent PA changes observed in GRB 100826A and GRB 170114A. Therefore, more accurate time-resolved polarization observations are needed to test models and to diagnose the true physical process of GRB prompt phase.
+subjects: GRB, prompt, polarization, model
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2208.04293
+title: Late-time accretion in neutron star mergers: implications for short gamma-ray bursts and kilonovae
+authors: Wenbin Lu (UC Berkeley, Princeton), Eliot Quataert (Princeton)
+topic: We study the long-term (t above 10 s) evolution of the accretion disk after a neutron star(NS)-NS or NS-black hole merger, taking into account the radioactive heating by r-process nuclei formed in the first few seconds. We find that the cumulative heating eventually exceeds the disk's binding energy at t 10to2 s [] after the merger, where alpha is the Shakura-Sunyaev viscosity parameter and M is the mass of the remnant object. This causes the disk to evaporate rapidly and the jet power to shut off. We propose that this is the cause of the steep flux decline at the end of the extended emission (EE) or X-ray plateau seen in many short gamma-ray bursts (GRBs). The shallow flux evolution before the steep decline is consistent with a plausible scenario where the jet power scales linearly with the disk mass. We suggest that the jets from NS mergers have two components -- a short-duration narrow one corresponding to the prompt gamma-ray emission and a long-lasting wide component producing the EE. This leads to a prediction that "orphan EE" (without the prompt gamma-rays) may be a promising electromagnetic counterpart for NS mergers observable by future wide-field X-ray surveys. The long-lived disk produces a slow ejecta component that can efficiently thermalize the energy carried by beta-decay electrons up to t 100 d and contributes 10% of the kilonova's bolometric luminosity at these late epochs. We predict that future ground-based and JWST near-IR spectroscopy of nearby ( 100 Mpc) NS mergers will detect narrow (0.01c) line features a few weeks after the merger, which provides a powerful probe of the atomic species formed in these events.
+subjects: simulation, HD, post-merger, disk, accretion
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2208.04267
+title: General relativistic moving-mesh hydrodynamics simulations with AREPO and applications to neutron star mergers
+authors: Georgios Lioutas, Andreas Bauswein, Theodoros Soultanis, Rüdiger Pakmor, Volker Springel, Friedrich K. Röpke
+topic: We implement general relativistic hydrodynamics in the moving-mesh code AREPO. We also couple a solver for the Einstein field equations employing the conformal flatness approximation. The implementation is validated by evolving isolated static neutron stars using a fixed metric or a dynamical spacetime. In both tests the frequencies of the radial oscillation mode match those of independent calculations. We run the first moving-mesh simulation of a neutron star merger. The simulation includes a scheme to adaptively refine or derefine cells and thereby adjusting the local resolution dynamically. The general dynamics are in agreement with independent smoothed particle hydrodynamics and static-mesh simulations of neutron star mergers. Coarsely comparing, we find that dynamical features like the post-merger double-core structure or the quasi-radial oscillation mode persist on longer time scales, likely reflecting a lower numerical diffusivity of our method. Similarly, the post-merger gravitational wave emission shows the same features as observed in simulations with other codes. In particular, the main frequency of the post-merger phase is found to be in good agreement with independent results for the same binary system, while, in comparison, the amplitude of the post-merger gravitational wave signal falls off slower, i.e. the post-merger oscillations are less damped. The successful implementation of general relativistic hydrodynamics in the moving-mesh AREPO code, including a dynamical spacetime evolution, provides a fundamentally new tool to simulate general relativistic problems in astrophysics.
+subjects: code, method, new, GRHD, moving mesh
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2208.04185
+title: Core-collapse supernovae in dense environments -- particle acceleration and non-thermal emission
+authors: Robert Brose, Iurii Sushch, Jonathan Mackey
+topic: Supernova remnants are known to accelerate cosmic-rays from the detection of non-thermal emission in radio waves, X-rays, and gamma-rays. However, the ability to accelerate cosmic-rays up to PeV energies has yet to be demonstrated. The presence of cut-offs in the gamma-ray spectra of several young SNRs led to the idea that PeV energies might only be achieved during the first years of a remnant's evolution. We use our time-dependent acceleration-code RATPaC to study the acceleration of cosmic-rays in supernovae expanding into dense environments around massive stars. We performed spherically symmetric 1-D simulations in which we simultaneously solve the transport equations for cosmic-rays, magnetic turbulence, and the hydrodynamical flow of the thermal plasma in the test-particle limit. We investigated typical CSM parameters expected around RSG and LBV stars for freely expanding winds and accounted for the strong gamma-gamma-absorption in the first days after explosion. The maximum achievable particle energy is limited to below 600TeV even for largest considered values of the magnetic field and mass-loss rates. The maximum energy is not expected to surpass 200TeV and 70TeV for LBVs and RSGs that experience moderate mass-loss prior to the explosion. We find gamma-ray peak-luminosities consistent with current upper limits and evaluated that current-generation instruments are able to detect the gamma-rays from Type-IIP explosions at distances up to 60kpc and Type-IIn explosions up to 1.0Mpc. We also find a good agreement between the thermal X-ray and radio synchrotron emission predicted by our models with a range of observations.
+subjects: SNR, particle acceleration, CR, model, simulations
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2208.03668
+title: Interpreting time-integrated polarization data of gamma-ray burst prompt emission
+authors: R.Y. Guan, M.X. Lan
+topic: Aims. With the accumulation of polarization data in the gamma-ray burst (GRB) prompt phase, polarization models can be tested. Methods. We predicted the time-integrated polarizations of 30 GRBs with polarization observation. We used their observed spectral parameters to do this. In the model, the emission mechanism is synchrotron radiation, and the magnetic field configuration in the emission region was assumed to be large-scale ordered. Therefore, the predicted polarization degrees (PDs) are upper limits. Results. For most GRBs detected by the Gamma-ray Burst Polarimeter (GAP) and POLAR, the predicted PD can match the corresponding observed PD. Hence the synchrotron-emission model in a large-scale ordered magnetic field interprets the moderately low PDs detected by POLAR well. Therefore, the magnetic fields in these GRB prompt phases or at least during the peak times are dominated by the ordered component. While for AstroSat it has observed generally high PDs, and except for the observed PD upper limits, the predicted PDs in an ordered magnetic field (30%) are all lower than the observed values. Because the synchrotron emission in an ordered magnetic field predicts the upper limit of the PD for the synchrotron-emission models, the typical PD value detected by AstroSat challenges the synchrotron-emission models for polarization. Then we predict the PDs of the High-energy Polarimetry Detector (HPD) and Low-energy Polarimetry Detector (LPD) on board the upcoming POLAR-2. In the synchrotron-emission models, the concentrated PD values of the GRBs detected by HPD will be higher than the LPD, which might be different from the predictions of the dissipative photosphere model. Therefore, more accurate multiband polarization observations are highly desired to test models of the GRB prompt phase.
+subjects: GRB, polarization, model, analysis, prediction
+
+link: https://arxiv.org/abs/2208.03583
+title: Relativistic Effects and GRB Polarization in Power-Law Evolution
+authors: Liang Li, She-Sheng Xue, Zi-Gao Dai
+topic: Despite decades of polarization observations and high-significance polarized gamma-ray, X-ray, optical, and radio emissions in gamma-ray bursts (GRBs) have been accumulating in dozens of cases, people have yet to find a consistent scenario for understanding the globally observed timing properties of GRB polarization to date. Here, we report that the observed properties of GRB polarization exhibit a four-segment timing evolution at the cosmological distance: (I) an initial hump early on (within the first few seconds); (II) a later on power-law decay (from 101 to 104 s), which takes the form of []; (III) afterwards a late-time rebrightening hump (from 104 to 105 s); and (IV) finally a flatting power-law decay (from 105 to 107 s), with the the form of []. These findings may present a challenge to the mainstream of polarization models that assume the polarization time evolution change in different emission regions. We show that these results can be explained by relativistic and geometric effects of a highly relativistic and magnetized jet generated by the central engine, and "magnetic patches" distributed as a globally random but locally coherent form. Our analysis suggests that there is a single dominant mechanism that might account for the global observational properties of GRB polarization, and other emission mechanisms and effects might play a role in spatially local and temporally short effects on GRB polarization.
+subjects: GRB, polarization, model, analysis, mechanism
+
+link: https://arxiv.org/abs/2208.03332
+title: Gravitational lensing in the presence of plasma scintillation with application to Fast Radio Bursts
+authors: Pawan Kumar, Paz Beniamini
+topic: We describe how gravitational lensing of fast radio bursts (FRBs) is affected by a plasma screen in the vicinity of the lens or somewhere between the source and the observer. Wave passage through a turbulent medium affects gravitational image magnification, lensing probability (particularly for strong magnification events), and the time delay between images. The magnification is suppressed because of the broadening of the angular size of the source due to scattering by the plasma. The time delay between images is modified as the result of different dispersion measure (DM) along photon trajectories for different images. Each of the image lightcurve is also broadened due to wave scattering so that the images could have distinct temporal profiles. The first two effects are most severe for stellar and sub-stellar mass lens, and the last one (scatter broadening) for lenses and plasma screens at cosmological distances from the source/observer. This could limit the use of FRBs to measure their cosmic abundance. On the other hand, when the time delay between images is large, such that the lightcurve of a transient source has two or more well separated peaks, the different DMs along the wave paths of different images can probe density fluctuations in the IGM on scales 10−6 rad and explore the patchy reionization history of the universe using lensed FRBs at high redshifts. Different rotation measure (RM) along two image paths can convert linearly polarized radiation from a source to partial circular polarization.
+subjects: FRB, cosmology, model, lensing
+revelation: can kN afterglow be lensed? 
+
+link: https://arxiv.org/abs/2208.03069
+title: The first minutes of a binary-driven hypernova
+authors: L. M. Becerra, R. Moradi, J. A. Rueda, R. Ruffini, Y. Wang
+topic: We simulate the first minutes of the evolution of a binary-driven hypernova (BdHN) event, with a special focus on the associated accretion processes of supernova (SN) ejecta onto the newborn neutron star (NS) and the NS companion. We calculate the rotational evolution of the NS and the NS under the torques exerted by the accreted matter and the magnetic field. We take into account general relativistic effects and use realistic hypercritical accretion rates obtained from three-dimensional smoothed-particle-hydrodynamics (SPH) numerical simulations of the BdHN for a variety of orbital periods. We show that the rotation power of the NS has a unique double-peak structure while that of the NS has a single peak. These peaks are of comparable intensity and can occur very close in time or even simultaneously depending on the orbital period and the initial angular momentum of the stars. We outline the consequences of the above features in the early emission and their consequent observation in long gamma-ray bursts (GRBs).
+subjects: simulations, NS, accretion, engine, remnant
+
+link: https://arxiv.org/abs/2208.02367
+title: Late-time post-merger modeling of a compact binary: effects of relativity, r-process heating, and treatment of transport effects
+authors: Milad Haddadi, Matthew D. Duez, Francois Foucart, Teresita Ramirez, Rodrigo Fernandez, Alexander L. Knight, Jerred Jesse, Francois Hebert, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel
+topic: Detectable electromagnetic counterparts to gravitational waves from compact binary mergers can be produced by outflows from the black hole-accretion disk remnant during the first ten seconds after the merger. Two-dimensional axisymmetric simulations with effective viscosity remain an efficient and informative way to model this late-time post-merger evolution. In addition to the inherent approximations of axisymmetry and modeling turbulent angular momentum transport by a viscosity, previous simulations often make other simplifications related to the treatment of the equation of state and turbulent transport effects.
+In this paper, we test the effect of these modeling choices. By evolving with the same viscosity the exact post-merger initial configuration previously evolved in Newtonian viscous hydrodynamics, we find that the Newtonian treatment provides a good estimate of the disk ejecta mass but underestimates the outflow velocity. We find that the inclusion of heavy nuclei causes a notable increase in ejecta mass. An approximate inclusion of r-process effects has a comparatively smaller effect, except for its designed effect on the composition. Diffusion of composition and entropy, modeling turbulent transport effects, has the overall effect of reducing ejecta mass and giving it a speed with lower average and more tightly-peaked distribution. Also, we find significant acceleration of outflow even at distances beyond 10,000\,km, so that thermal wind velocities only asymptote beyond this radius and at somewhat higher values than previously reported.
+subjects: BNS, post-merger, GRHD, simulations, disk, accretion, winds
+
+link: https://arxiv.org/abs/2208.02725
+title: GRB 171205A: Hypernova and Newborn Neutron Star
+authors: Yu Wang, L. M. Becerra, C. L. Fryer, J. A. Rueda, R. Ruffini
+topic: GRB 171205A is a low-luminosity, long-duration gamma-ray burst (GRB) associated with SN 2017iuk, a broad-line type Ic supernova (SN). It is consistent with being formed in the core-collapse of a single CO star, or in a widely separated binary, which we have called the Binary driven Hypernova (BdHN) of type III. The core-collapse of the CO star forms a newborn NS (NS) and the SN explosion. Fallback accretion transfers mass and angular momentum to the νNS. The accretion energy injected into the expanding stellar layers powers the prompt emission. The multiwavelength power-law afterglow is explained by the synchrotron radiation of electrons in the SN ejecta, powered by energy injected by the spinning NS. We calculate the amount of mass and angular momentum gained by the NS, as well as the NS rotational evolution. The NS spins up to a period of 58 ms, then releases its rotational energy powering the synchrotron emission of the afterglow. The paucity of the NS spin explains the low-luminosity characteristic and that the optical emission of the SN from the nickel radioactive decay outshines the optical emission from the synchrotron radiation. From the NS evolution, we infer that the SN explosion had to occur at most 7.36 h before the GRB trigger. Therefore, for the first time, the analysis of the GRB data leads to the time of occurrence of the associated SN explosion, setting a stringent delay time between the neutrino emission associated with the SN and the electromagnetic emission of the GRB event.
+subjects: GRB, lGRB, model, SN, injection
+
+link: https://arxiv.org/abs/2208.01075
+title: Constraints on the very high energy gamma-ray emission from short GRBs with HAWC
+authors: A. Albert, R. Alfaro, C. Alvarez, J.C. Arteaga-Velázquez, K.P. Arunbabu et al
+topic: Many gamma-ray bursts (GRBs) have been observed from radio wavelengths, and a few at very-high energies (VHEs, 100GeV). The HAWC gamma-ray observatory is well suited to study transient phenomena at VHEs due to its large field of view and duty cycle. These features allow for searches of VHE emission and can probe different model assumptions of duration and spectra. In this paper, we use data collected by HAWC between December 2014 and May 2020 to search for emission in the energy range from 80 to 800 GeV coming from a sample 47 short GRBs that triggered the Fermi, Swift and Konus satellites during this period. This analysis is optimized to search for delayed and extended VHE emission within the first 20 s of each burst. We find no evidence of VHE emission, either simultaneous or delayed, with respect to the prompt emission. Upper limits (90\% confidence level) derived on the GRB fluence are used to constrain the synchrotron self-Compton forward-shock model. Constraints for the interstellar density as low as 10-2 cm-3 are obtained when assuming z=0.3 for bursts with the highest keV-fluences such as GRB 170206A and GRB 181222841. Such a low density makes observing VHE emission mainly from the fast cooling regime challenging.
+subjects: GRB
+revelation: sGRB occure in low density ISM because of the absence of extended emission (new data)
 
 link: https://arxiv.org/abs/2207.12324
 title: Tidal-induced magnetar super flare at the eve of coalescence with its compact companion
