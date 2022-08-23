@@ -5,71 +5,73 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/2208.10182
+title: On the Potential of Faraday Tomography to Identify Shock Structures in Supernova Remnants
+authors: Shinsuke Ideguchi, Tsuyoshi Inoue, Takuya Akahori, Keitaro Takahashi
+topic: Knowledge about the magnetic fields in supernova remnants (SNRs) is of paramount importance for constraining Galactic cosmic ray acceleration models. It could also indirectly provide information on the interstellar magnetic fields. In this paper, we predict the Faraday dispersion functions (FDFs) of SNRs for the first time. For this study, we use the results of three dimensional (3D) ideal magnetohydrodynamic (MHD) simulations of SNRs expanding into a weak, regular magnetic field. We present the intrinsic FDFs of the shocked region of SNRs for different viewing angles. We find that the FDFs are generally Faraday complex, which implies that conventional rotation measure study is not sufficient to obtain the information on the magnetic fields in the shocked region and Faraday tomography is necessary. We also show that the FDF allows to derive the physical-depth distribution of polarization intensity when the line of sight is parallel to the initial magnetic field orientation. Furthermore, we demonstrate that the location of contact discontinuity can be identified from the radial profile of the width of the FDF with the accuracy of 0.1-0.2 pc.
+subjects: SNR, radiation, hydro, EM, synchrotron
+
+link: https://arxiv.org/abs/2208.09952
+title: Black hole hyperaccretion in collapsars. III. GRB timescale
+authors: Yun-Feng Wei, Tong Liu
+topic: Gamma-ray bursts (GRBs) are classified into long and short populations (i.e., LGRBs and SGRBs) based on the observed bimodal distribution of duration T90. Multimessenger observations indicated that most SGRBs and LGRBs should be powered by ultrarelativistic jets launched from black hole (BH) hyperaccretion in compact object mergers and massive collapsars, respectively. However, the duration criterion sometimes cannot correctly reflect the physical origin of a particular GRB. In the collapsar scenario, a GRB can be observed when the jet breaks out from the envelope and circumstellar medium successfully. The observed GRB duration reflects only the time that the engine operates after the jet breaks out. This work studies the propagation of jets driven by the neutrino annihilation or Blandford-Znajek mechanism in massive collapsars. The signatures of the progenitors for producing LGRBs, SGRBs, and failed GRBs in the collapsar scenario are exhibited. The competition between the mass supply onto the BH hyperaccretion and jet propagation into the envelope are definitely dependent on the density profiles of the collapsars. We show that duration and isotropic energy Egamma,iso of GRBs can help constrain the density profiles of collapsars. Finally, we propose that a collapsar-origin SGRB, GRB 200826A, might originate from a neutrino-annihilation-dominated jet launched by a 10 Ms collapsar whose progenitor's envelope has been stripped.
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
+link: https://arxiv.org/abs/2208.09242
+title: Synchrotron Polarization of Gamma-Ray Burst Afterglow Shocks with Hydrodynamic-scale Turbulent Magnetic Field
+authors: Asuka Kuwata, Kenji Toma, Shigeo S. Kimura, Sara Tomita, Jiro Shimoda
+topic: Afterglows of gamma-ray bursts (GRBs) are emitted from expanding forward shocks, which are expected to have magnetic field much stronger than the interstellar field, although the origin of the field is a long-standing problem. Two field amplification mechanisms, plasma kinetic instabilities and magnetohydrodynamic instabilities, have been discussed so far. The coherence length scales of the fields amplified by these two processes are different by 7-10 orders of magnitudes, and the polarimetric observations may distinguish them. We construct a semi-analytic model of the forward shock afterglow polarization under the assumption of hydrodynamic-scale turbulent magnetic field. We perform numerical calculations of synchrotron polarization for the isotropic turbulence and the zero viewing angle. We find that the polarization degrees are 1-3% when the field coherence length scale in the fluid comoving frame is comparable to the thickness of the shocked regions. This range of polarization degree is comparable to that of the observed late-phase optical afterglows. Our model also shows that the radio polarization degrees are comparable to the optical ones on average but can be higher than the optical ones at some time intervals. The polarization angles are shown to vary randomly and continuously. These polarimetric properties are clearly different from the case of plasma kinetic instability. Simultaneous polarimetric observations of GRB afterglows at the radio and optical bands have recently started, which will help us constrain the magnetic field amplification mechanism.
+subjects: GRB, polarization, model
+
+link: https://arxiv.org/abs/2208.09121
+title: The late afterglow of GW170817/GRB170817A: a large viewing angle and the shift of the Hubble constant to a value more consistent with the local measurements
+authors: Yi-Ying Wang, Shao-Peng Tang, Zhi-Ping Jin, Yi-Zhong Fan
+topic: The multi-messenger data of neutron star merger events are promising for constraining the Hubble constant. So far, GW170817 is still the unique gravitational wave event with multi-wavelength electromagnetic counterparts. In particular, its radio and X-ray emission have been measured in the past 3-5 years. In this work, we fit the X-ray, optical, and radio afterglow emission of GW170817/GRB 170817A and find out that a relatively large viewing angle 0.5rad is needed; otherwise, the late time afterglow data can not be well reproduced. Such a viewing angle has been taken as a prior in the gravitational wave data analysis, and the degeneracy between the viewing angle and the luminosity distance is broken. Finally, we have a Hubble constant H0=72.00+4.05-4.13kms-1Mpc-1, which is more consistent with that obtained by other local measurements. If rather similar values are inferred from multi-messenger data of future neutron star merger events, it will provide critical support to the existence of the Hubble tension.
+subjects: GRB, model, fitting
+
+link: https://arxiv.org/abs/2208.09042
+title: The Early Evolution of Magnetar Rotation I: Slowly Rotating "Normal" Magnetars
+authors: Tejas Prasanna, Matthew S. B. Coleman, Matthias J. Raives, Todd A. Thompson
+topic: In the seconds following their formation in core-collapse supernovae, "proto"-magnetars drive neutrino-heated magneto-centrifugal winds. Using a suite of two-dimensional axisymmetric MHD simulations, we show that relatively slowly rotating magnetars with initial spin periods of [] ms spin down rapidly during the neutrino Kelvin-Helmholtz cooling epoch. These initial spin periods are representative of those inferred for normal Galactic pulsars, and much slower than those invoked for gamma-ray bursts and super-luminous supernovae. Since the flow is non-relativistic at early times, and because the Alfvén radius is much larger than the proto-magnetar radius, spindown is millions of times more efficient than the typically-used dipole formula. Quasi-periodic plasmoid ejections from the closed zone enhance spindown. For polar magnetic field strengths B0≳5×1014 G, the spindown timescale can be shorter than than the Kelvin-Helmholtz timescale. For B0 larger 1015 G, it is of order seconds in early phases. We compute the spin evolution for cooling proto-magnetars as a function of B0, P0, and mass (M). Proto-magnetars born with B0 greater than [] spin down to periods 1 s in just the first few seconds of evolution, well before the end of the cooling epoch and the onset of classic dipole spindown. Spindown is more efficient for lower M and for larger P0. We discuss the implications for observed magnetars, including the discrepancy between their characteristic ages and supernova remnant ages. Finally, we speculate on the origin of 1E 161348-5055 in the remnant RCW 103, and the potential for other ultra-slowly rotating magnetars.
+subjects: magnetar, model, 2D simulations
+
+link: https://arxiv.org/abs/2208.09010
+title: AT2019wxt: An ultra-stripped supernova candidate discovered in electromagnetic follow-up of a gravitational wave trigger
+authors: Hinna Shivkumar, Amruta D. Jaodand, Arvind Balasubramanian, Christoffer Fremling, Alessandra Corsi, Anastasios Tzanidakis, Samaya Nissanke, Mansi Kasliwal, Murray Brightman, Geert Raaijmakers, Kristin Kruse Madsen, Fiona Harrison, Dario Carbone, Nayana A.J., Jean-Michel Désert, Igor Andreoni
+topic: We present optical, radio and X-ray observations of a rapidly-evolving transient AT2019wxt (PS19hgw), discovered during the search for an electromagnetic (EM) counterpart to the gravitational-wave (GW) trigger S191213g (LIGO Scientific Collaboration & Virgo Collaboration 2019a). Although S191213g was not confirmed as a significant GW event in the off-line analysis of LIGO-Virgo data, AT2019wxt remained an interesting transient due its peculiar nature. The optical/NIR light curve of AT2019wxt displayed a double-peaked structure evolving rapidly in a manner analogous to currently know ultra-stripped supernovae (USSNe) candidates. This double-peaked structure suggests presence of an extended envelope around the progenitor, best modelled with two-components: i) early-time shock-cooling emission and ii) late-time radioactive 56Ni decay. We constrain the ejecta mass of AT2019wxt at Mej=0.20Ms which indicates a significantly stripped progenitor that was possibly in a binary system. We also followed-up AT2019wxt with long-term Chandra and Jansky Very Large Array observations spanning 260 days. We detected no definitive counterparts at the location of AT2019wxt in these long-term X-ray and radio observational campaigns. We establish the X-ray upper limit at 9.93x10-17 erg cm-2 s-1 and detect an excess radio emission from the region of AT2019wxt. However, there is little evidence for SN1993J- or GW170817-like variability of the radio flux over the course of our observations. A substantial host galaxy contribution to the measured radio flux is likely. The discovery and early-time peak capture of AT2019wxt in optical/NIR observation during EMGW follow-up observations highlights the need of dedicated early, multi-band photometric observations to identify USSNe.
+subjects: SN, obsercations, GW
+
+link: https://arxiv.org/abs/2208.09000
+title: Panning for gold, but finding helium: discovery of the ultra-stripped supernova SN2019wxt from gravitational-wave follow-up observations
+authors: I. Agudo, L. Amati, T. An, F. E. Bauer, S. Benetti, et al
+topic: We present the results from multi-wavelength observations of a transient discovered during the follow-up of S191213g, a gravitational wave (GW) event reported by the LIGO-Virgo Collaboration as a possible binary neutron star merger in a low latency search. This search yielded SN2019wxt, a young transient in a galaxy whose sky position (in the 80\% GW contour) and distance (150\,Mpc) were plausibly compatible with the localisation uncertainty of the GW event. Initially, the transient's tightly constrained age, its relatively faint peak magnitude (Mi-16.7\,mag) and the r-band decline rate of 1\,mag per 5\,days appeared suggestive of a compact binary merger. However, SN2019wxt spectroscopically resembled a type Ib supernova, and analysis of the optical-near-infrared evolution rapidly led to the conclusion that while it could not be associated with S191213g, it nevertheless represented an extreme outcome of stellar evolution. By modelling the light curve, we estimated an ejecta mass of 0.1Msun, with 56Ni comprising 20\% of this. We were broadly able to reproduce its spectral evolution with a composition dominated by helium and oxygen, with trace amounts of calcium. We considered various progenitors that could give rise to the observed properties of SN2019wxt, and concluded that an ultra-stripped origin in a binary system is the most likely explanation. Disentangling electromagnetic counterparts to GW events from transients such as SN2019wxt is challenging: in a bid to characterise the level of contamination, we estimated the rate of events with properties comparable to those of SN2019wxt and found that 1 such event per week can occur within the typical GW localisation area of O4 alerts out to a luminosity distance of 500\,Mpc, beyond which it would become fainter than the typical depth of current electromagnetic follow-up campaigns.
+subjects: SN, GW, 
+
+link: https://arxiv.org/abs/2208.06373
+title: The Influence of Beta Decay Rates on r-Process Observables
+authors: Kelsey A. Lund, J. Engel, G.C. McLaughlin, M.R. Mumpower, E.M. Ney, R. Surman
+topic: The rapid neutron capture process (r-process) is one of the main mechanisms whereby elements heavier than iron are synthesized, and is entirely responsible for the natural production of the actinides. Kilonova emissions are modeled as being largely powered by the radioactive decay of species synthesized via the r -process. Given that the r -process occurs far from nuclear stability, unmeasured beta decay rates play an essential role in setting the time scale for the r -process. In an effort to better understand the sensitivity of kilonova modeling to different theoretical global beta-decay descriptions, we incorporate these into nucleosynthesis calculations. We compare the results of these calculations and highlight differences in kilonova nuclear energy generation and light curve predictions, as well as final abundances and their implications for nuclear cosmochronometry. We investigate scenarios where differences in beta decay rates are responsible for increased nuclear heating on time scales of days that propagates into a significantly increased average bolometric luminosity between 1-10 days post-merger. We identify key nuclei, both measured and unmeasured, whose decay rates are directly impact nuclear heating generation on timescales responsible for light curve evolution. We also find that uncertainties in beta decay rates significantly impact ages estimates from cosmochronometry.
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2208.06274
+title: Probing particle acceleration at trans-relativistic shocks with off-axis gamma-ray burst afterglows
+authors: Kazuya Takahashi, Kunihito Ioka, Yutaka Ohira, Hendrik J. van Eerten
+topic: Particle acceleration is expected to be different between relativistic and non-relativistic collisionless shocks. We show that electromagnetic counterparts to gravitational waves (GWs), gamma-ray burst (GRB) afterglows, are ideal targets for observing trans-relativistic evolution of accelerated electron distribution because the GWs spot nearby GRBs with off-axis jets, otherwise missed in gamma-ray observations. We find that the relativistic spectral slope begins to change steeply near the peak time of the light curve and approaches the non-relativistic limit in about 10 times the peak time. The trans-relativistic evolution of the afterglow synchrotron spectrum is consistent with GRB 170817A observations within errors, and will be measurable in similar but more distant events at a GW horizon 200 Mpc in a denser environment. We roughly estimate that such events represent a fraction of 10-50 per cent of the GRB 170817A-like off-axis short GRBs. We also find that the spectral evolution does not depend on the jet structure if their light curves are similar to each other.
+subjects: GRB, synchrotron, code
+revelation: could be used for GRB-kN afterglow -- model for 'p' evolution
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2208.05549
+title: Synchro-curvature emitting regions in high-energy pulsar models
+authors: Daniel Íñiguez-Pascual, Daniele Viganò, Diego F. Torres
+topic: The detected high-energy pulsars' population is growing in number, and thus, having agile and physically relevant codes to analyze it consistently is important. Here, we update our existing synchro-curvature radiation model by including a better treatment of the particle injection, particularly where the large pitch angle particles dominate the spectra, and by implementing a fast and accurate minimization technique. The latter allows a large improvement in computational cost, needed to test model enhancements and to apply the model to a larger pulsar population. We successfully fit the sample of pulsars with X-ray and γ-ray data. Our results indicate that, for every emitting particle, the spatial extent of their trajectory where the pitch angle is large and most of the detected X-ray radiation is produced is a small fraction of the light cylinder. We also confirm with this new approach that synchrotron radiation is not negligible for most of the gamma-ray pulsars detected. In addition, with the results obtained, we argue that J0357+3205 and J2055+2539 are MeV-pulsar candidates and are suggested for exhaustive observations in this energy band.
+subjects: pulsar, wind, synchrotron, code, radiation 
 
-link: 
-title: 
+link: https://arxiv.org/abs/2208.05330
+title: Magnetic field effects on nucleosynthesis and kilonovae from neutron star merger remnants
 authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
-
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+topic: We investigate the influence of parametric magnetic field configurations of a hypermassive neutron star (HMNS) on electromagnetic (EM) observables, specifically the kilonova lightcurves and nucleosynthesis yields. We perform three-dimensional (3D) dynamical-spacetime general-relativistic magnetohydrodynamic (GRMHD) simulations, including a neutrino leakage scheme, microphysical finite-temperature equation of state (EOS), and an initial poloidal magnetic field. We find that varying the magnetic field strength and falloff impacts the formation of magnetized winds or mildy-relativistic jets, which in turn has profound effects on the outflow properties. All of the evolved configurations collapse to a black hole (BH) 21-23 ms after the onset of the simulations, however, the ones forming jets may be considerably more effective at transporting angular momentum out of the system, resulting in earlier collapse times. Larger mass ejecta rates and radial velocities of unbound material characterise the systems that form jets. The bolometric light curves of the kilonovae and r-process yields change considerably with different magnetic field parameters. We conclude that the magnetic field strength and falloff have robust effects on the outflow properties and electromagnetic observables. This can be particularly important as the total ejecta mass from our simulations (10-3Msun) makes the ejecta from HMNS a compelling source to power kilonova through radioactive decay of r-process elements.
+subjects: GRMHD, simulations, NR, ejecta, nucle, kilonova
+revelation: jet formation may shortn postmerger time, remocing ang.mom
 
 link: https://arxiv.org/abs/2208.04681
 title: Time-resolved polarizations of gamma-ray burst prompt emission with observed energy spectra
