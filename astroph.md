@@ -17,6 +17,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2208.10182
 title: On the Potential of Faraday Tomography to Identify Shock Structures in Supernova Remnants
 authors: Shinsuke Ideguchi, Tsuyoshi Inoue, Takuya Akahori, Keitaro Takahashi
