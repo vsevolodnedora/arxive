@@ -53,6 +53,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2208.14436
 title: Hyperon bulk viscosity and r-modes of neutron stars
 authors: O. P. Jyothilakshmi, P. E. Sravan Krishnan, Prashant Thakur, V. Sreekanth, T. K. Jha
