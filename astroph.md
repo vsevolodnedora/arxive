@@ -17,53 +17,65 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.04717
+title: Bulk Viscosity of Relativistic npe mu Matter in Neutron-Star Mergers
+authors: Mark Alford, Arus Harutyunyan, Armen Sedrakian
+topic: We discuss the bulk viscosity of hot and dense npe-mu matter arising from weak-interaction direct Urca processes. We consider two regimes of interest: (a) the neutrino-transparent regime with T less Ttr (Ttr=5pm10 MeV is the neutrino-trapping temperature); and (b) the neutrino-trapped regime with T≥Ttr. Nuclear matter is modeled in relativistic density functional approach with density-dependent parametrization DDME2. The maximum of the bulk viscosity is achieved at temperatures T=5pm6 MeV in the neutrino-transparent regime, then it drops rapidly at higher temperatures where neutrino-trapping occurs. As an astrophysical application, we estimate the damping timescales of density oscillations by the bulk viscosity in neutron star mergers and find that, e.g., at the oscillation frequency f=10 kHz, the damping will be very efficient at temperatures 4lessTless7 MeV where the bulk viscosity might affect the evolution of the post-merger object.
+subjects: GW, viscosity
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.04458
+title: Muons in the aftermath of Neutron Star Mergers and their impact on Trapped Neutrinos
+authors: Eleonora Loffredo, Albino Perego, Domenico Logoteta, Marica Branchesi
+topic: In the upcoming years, present and next-generation gravitational wave observatories will detect a larger number of Binary Neutron Star (BNS) mergers with increasing accuracy. In this context, improving BNS merger numerical simulations is crucial to correctly interpret the data and constrain the Equation of State (EOS) of Neutron Stars (NSs). State-of-the-art simulations of BNS mergers do not include muons. However, muons are known to be relevant in the microphysics of cold NSs and are expected to have a significant role in mergers, where the typical thermodynamics conditions favor their production. Our work aims at investigating the impact of muons on the merger remnant. We post-process the outcome of four numerical relativity simulations, performed with three different baryonic EOSs and two mass ratios, considering the first 15 milliseconds after the merger. We compute the abundance of muons in the remnant and analyse how muons affect the trapped neutrino component and the fluid pressure. We find that the net fraction of muons is between 30\% and 70\% the one of electrons, depending on the baryonic EOS. Muons change the flavour hierarchy of trapped (anti)neutrinos, so that muon anti-neutrinos are the most abundant, followed by electron anti-neutrinos. Finally, muons modify the neutron to proton ratio inducing variations of the remnant pressure up to 7\%. This work demonstrates that muons have a non-negligible effect on the outcome of BNS merger simulations, and they should be included to improve simulations accuracy.
+subjects: muons, BNS, postprocessing, EOS, postmerger
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.03521
+title: Nonthermal Electron Acceleration at Collisionless Quasi-perpendicular Shocks
+authors: T. Amano, Y. Matsumoto, A. Bohdan, O. Kobzar, S. Matsukiyo, M. Oka, J. Niemiec, M. Pohl, M. Hoshino
+topic: Shock waves propagating in collisionless heliospheric and astrophysical plasmas have been studied extensively over the decades. One prime motivation is to understand the nonthermal particle acceleration at shocks. Although the theory of diffusive shock acceleration (DSA) has long been the standard for cosmic-ray acceleration at shocks, plasma physical understanding of particle acceleration remains elusive. In this review, we discuss nonthermal electron acceleration mechanisms at quasi-perpendicular shocks, for which substantial progress has been made in recent years. The discussion presented in this review is restricted to the following three specific topics. The first is stochastic shock drift acceleration (SSDA), which is a relatively new mechanism for electron injection into DSA. The basic mechanism, related in-situ observations and kinetic simulations results, and how it is connected with DSA will be discussed. Second, we discuss shock surfing acceleration (SSA) at very high Mach number shocks relevant to young supernova remnants (SNRs). While the original proposal under the one-dimensional assumption is unrealistic, SSA has now been proven efficient by a fully three-dimensional kinetic simulation. Finally, we discuss the current understanding of the magnetized Weibel-dominated shock. Spontaneous magnetic reconnection of self-generated current sheets within the shock structure is an interesting consequence of Weibel-generated strong magnetic turbulence. We argue that high Mach number shocks with both Alfven and sound Mach numbers exceeding 20-40 will likely behave as a Weibel-dominated shock. Despite a number of interesting recent findings, the relative roles of SSDA, SSA, and magnetic reconnection for electron acceleration at collisionless shocks and how the dominant particle acceleration mechanisms change depending on shock parameters remain to be answered.
+subjects: review, PIC, electron acceleration
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.03363
+title: A long gamma-ray burst from a merger of compact objects
+authors: E. Troja, C. L. Fryer, B. O'Connor, G. Ryan, S. Dichiara, A. Kumar, N. Ito, R. Gupta, R. Wollaeger, J. P. Norris, N. Kawai, N. Butler, A. Aryan, K. Misra, R. Hosokawa, K. L. Murata, M. Niwano, S. B. Pandey, A. Kutyrev, H. J. van Eerten, E. A. Chase, Y.-D. Hu, M. D. Caballero-Garcia, A. J. Castro-Tirado
+topic: Gamma-ray bursts (GRBs) are flashes of high-energy radiation arising from energetic cosmic explosions. Bursts of long (2 s) duration are produced by the core-collapse of massive stars, those of short (2 s) duration by the merger of two neutron stars (NSs). A third class of events with hybrid high-energy properties was identified, but never conclusively linked to a stellar progenitor. The lack of bright supernovae rules out typical core-collapse explosions, but their distance scales prevent sensitive searches for direct signatures of a progenitor system. Only tentative evidence for a kilonova has been presented. Here we report observations of the exceptionally bright GRB211211A that classify it as a hybrid event and constrain its distance scale to only 346 Mpc. Our measurements indicate that its lower-energy (from ultraviolet to near-infrared) counterpart is powered by a luminous (1E42 erg/s) kilonova possibly formed in the ejecta of a compact binary merger.
+subjects: GRB, specific GRB, lGRB, observations
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.02538
+title: Neutrino transport in general relativistic neutron star merger simulations
+authors: Francois Foucart
+topic: Numerical simulations of neutron star-neutron star and neutron star-black hole binaries play an important role in our ability to model gravitational wave and electromagnetic signals powered by these systems. These simulations have to take into account a wide range of physical processes including general relativity, magnetohydrodynamics, and neutrino radiation transport. The latter is particularly important in order to understand the properties of the matter ejected by many mergers, the optical/infrared signals powered by nuclear reactions in the ejecta, and the contribution of that ejecta to astrophysical nucleosynthesis. However, accurate evolutions of the neutrino transport equations that include all relevant physical processes remain beyond our current reach. In this review, I will discuss the current state of neutrino modeling in general relativistic simulations of neutron star mergers and of their post-merger remnants, focusing in particular on the three main types of algorithms used in simulations so far: leakage, moments, and Monte-Carlo scheme. I will discuss the advantages and limitations of each scheme, as well as the various neutrino-matter interactions that should be included in simulations. We will see that the quality of the treatment of neutrinos in merger simulations has greatly increased over the last decade, but also that many potentially important interactions remain difficult to take into account in simulations (pair annihilation, oscillations, inelastic scattering).
+subjects: review, overview, neutrinos, BNS, numerical
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.02474
+title: Effects of nuclear matter and composition in core-collapse supernovae and long-term proto-neutron star cooling
+authors: Kohsuke Sumiyoshi, Shun Furusawa, Hiroki Nagakura, Akira Harada, Hajime Togashi, Ken'ichiro Nakazato, Hideyuki Suzuki
+topic: We study the influence of hot and dense matter in core-collapse supernovae by adopting up-to-date nuclear equation of state (EOS) based on the microscopic nuclear many-body frameworks. We explore effects of EOS based on the Dirac Brueckner Hartree-Fock theory through comparisons with those based on the variational method. We also examine effects of the differences in the composition of nuclei and nucleons by using the same EOS by the variational method but employing two different treatments in computations of nuclear abundances. We perform numerical simulations of core-collapse supernovae adopting the three EOSs. We also perform numerical simulations of the long-term evolution over 70 s of the proto-neutron star cooling. We show that impacts by different modeling of composition are remarkable as in those by different treatments of uniform matter in the gravitational collapse, bounce, and shock propagation. The cooling of proto-neutron star and the resulting neutrino emission are also affected by the compositional difference even if the same treatment in computing uniform matter of EOS.
+subjects: CCSN, simulations, NR, EOS, new EOS
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.01940 
+title: On the hadronic origin of the TeV radiation from GRB 190114C
+authors: S. Gagliardini, S. Celli, D. Guetta, A. Zegarelli, A. Capone, S. Campion, I. Di Palma
+topic: The recently discovered TeV emission from Gamma-Ray Bursts (GRBs) hints towards a possible hadronic origin of this radiation component. We developed a Monte Carlo (MC) simulation reproducing the kinematics of photo-hadronic interactions at internal shocks, including the pair production process that the secondary gamma rays undergo in the GRB jet. We find that sub-TeV observations of GRB 190114C can be reproduced by a baryonic energy content comparable to that in sub-GeV photons and a bulk Lorentz factor Gamma=100, with a ms variability timescale. Neutrino flux predictions by the model are found to be consistent with experimental upper limits set by ANTARES and IceCube.
+subjects: GRB. prompt, internal shock, radiation, MCMC
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.00716
+title: Search for pre-burst emission from binary neutron star mergers with Spectrum-Roentgen-Gamma
+authors: I.A. Mereminskiy (1), A.A. Lutovinov (1), K.A. Postnov (2,3), V.A. Arefiev (1), I.Yu. Lapshov (1) et al 
+topic: Close binary systems consisting of two neutron stars (BNS) emit gravitational waves, that allow them to merge on timescales shorter than Hubble time. It is widely believed, that NS-NS mergers in such systems power short gamma-ray bursts (GRB). Several mechanisms which could lead to electromagnetic energy release prior to a merger have been proposed. We estimate the ability to observe the possible pre-burst emission with telescopes of Spectrum-Roentgen-Gamma. We also investigate first such event, GRB210919A, which fell into the field of view of the SRG telescopes less than two days before the burst.
+subjects: GRB, observations, search
+
+link: https://arxiv.org/abs/2208.14487
+title: Addition of tabulated equation of state and neutrino leakage support to IllinoisGRMHD
+authors: Leonardo R. Werneck, Zachariah B. Etienne, Ariadna Murguia-Berthier, Roland Haas, Federico Cipolletta, Scott C. Noble, Lorenzo Ennoggi, Federico G. Lopez Armengol, Bruno Giacomazzo, Thiago Assumpção, Joshua Faber, Tanmayee Gupte, Bernard J. Kelly, Julian H. Krolik
+topic: We have added support for realistic, microphysical, finite-temperature equations of state (EOS) and neutrino physics via a leakage scheme to IllinoisGRMHD, an open-source GRMHD code for dynamical spacetimes in the Einstein Toolkit. These new features are provided by two new, NRPy+-based codes: NRPyEOS, which performs highly efficient EOS table lookups and interpolations, and NRPyLeakage, which implements a new, AMR-capable neutrino leakage scheme in the Einstein Toolkit. We have performed a series of strenuous validation tests that demonstrate the robustness of these new codes, particularly on the Cartesian AMR grids provided by Carpet. Furthermore, we show results from fully dynamical GRMHD simulations of single unmagnetized neutron stars, and magnetized binary neutron star mergers. This new version of IllinoisGRMHD, as well as NRPyEOS and NRPyLeakage, is pedagogically documented in Jupyter notebooks and fully open source. The codes will be proposed for inclusion in an upcoming version of the Einstein Toolkit.
+subjects: code, NR, GRHD
+
+link: https://arxiv.org/abs/2208.14459 
+title: The velocity distribution of outflows driven by choked jets in stellar envelopes
+authors: Matteo Pais, Tsvi Piran, Ehud Nakar
+topic: Many stripped envelope supernovae (SNe) present a signature of high-velocity material responsible for broad absorption lines in the observed spectrum. These include SNe that are associated with long gamma-ray bursts (LGRBs) and low-luminosity GRBs (llGRBs), and SNe that are not associated with GRBs. Recently it was suggested that this high velocity material originates from a cocoon that is driven by a relativistic jet. In LGRBs this jet breaks out successfully from the stellar envelope, while in llGRBs and SNe that are not associated with GRBs the jet is choked. Here we use numerical simulations to explore the velocity distribution of an outflow that is driven by a choked jet and its dependence on the jet and progenitor properties. We find that in all cases where the jet is not choked too deep within the star, the outflow carries a roughly constant amount of energy per logarithmic scale of proper velocity over a wide range of velocities, which depends mostly on the cocoon volume at the time of its breakout. This is a universal property of jets driven outflows, which does not exist in outflows of spherically symmetric explosions or when the jets are choked very deep within the star. We therefore conclude that jets that are choked (not too deep) provide a natural explanation to the fast material seen in the early spectra of stripped envelope SNe that are not associated with LGRBs and that properties of this material could reveal information on the otherwise hidden jets.
+subjects: simulations, jet, GRB, envelope
 
 link: https://arxiv.org/abs/2208.14436
 title: Hyperon bulk viscosity and r-modes of neutron stars
