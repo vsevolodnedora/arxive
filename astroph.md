@@ -17,6 +17,12 @@ authors:
 topic: 
 subjects: 
 
+link: https://arxiv.org/abs/2209.05246
+title: 3D radiative transfer kilonova modelling for binary neutron star merger simulations
+authors: Christine E. Collins, Andreas Bauswein, Stuart A. Sim, Vimal Vijayan, Gabriel Martínez-Pinedo, Oliver Just, Luke J. Shingles, Markus Kromer
+topic: The detection of GW170817 and the accompanying electromagnetic counterpart, AT2017gfo, have provided an important set of observational constraints for theoretical models of neutron star mergers, nucleosynthesis, and radiative transfer for kilonovae. We apply the 3D Monte Carlo radiative transfer code ARTIS to produce synthetic light curves of the dynamical ejecta from a neutron star merger, which has been modelled with 3D smooth-particle hydrodynamics (SPH) and included neutrino interactions. Nucleosynthesis calculations provide the energy released from radioactive decays of r-process nuclei, and radiation transport is performed using grey opacities given as functions of the electron fraction. We present line-of-sight dependent bolometric light curves, and find the emission along polar lines of sight to be up to a factor of 2 brighter than along equatorial lines of sight. Instead of a distinct emission peak, our bolometric light curve exhibits a monotonic decline, characterised by a shoulder at the time when the bulk ejecta becomes optically thin. We show approximate band light curves based on radiation temperatures and compare these to the observations of AT2017gfo. We find that the rapidly declining temperatures lead to a blue to red colour evolution similar to that shown by AT2017gfo. We also investigate the impact of an additional, spherically symmetric secular ejecta component, and we find that the early light curve remains nearly unaffected, while after about 1 day the emission is strongly enhanced and dominated by the secular ejecta, leading to the shift of the shoulder from 1-2 to 6-10 days.
+subjects: radiation transport, kilonova, kode, model, nucleo 
+
 link: https://arxiv.org/abs/2209.04717
 title: Bulk Viscosity of Relativistic npe mu Matter in Neutron-Star Mergers
 authors: Mark Alford, Arus Harutyunyan, Armen Sedrakian
