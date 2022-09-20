@@ -29,6 +29,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2209.05246
 title: 3D radiative transfer kilonova modelling for binary neutron star merger simulations
 authors: Christine E. Collins, Andreas Bauswein, Stuart A. Sim, Vimal Vijayan, Gabriel Martínez-Pinedo, Oliver Just, Luke J. Shingles, Markus Kromer
