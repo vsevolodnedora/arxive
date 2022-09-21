@@ -17,23 +17,60 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.09085
+title: Extracting nuclear matter properties from neutron star matter EoS using deep neural networks
+authors: Márcio Ferreira, Valéria Carvalho, Constança Providência
+topic: The extraction of the nuclear matter properties from neutron star observations is nowadays an important issue, in particular, the properties that characterize the symmetry energy which are essential to describe correctly asymmetric nuclear matter. We use deep neural networks (DNN) to map the relation between cold β-equilibrium neutron star matter and the nuclear matter properties. Assuming a quadratic dependence on the isospin asymmetry for the energy per particle of homogeneous nuclear matter and using a Taylor expansion up to fourth order in the iso-scalar and iso-vector contributions, we generate a dataset of different realizations of β-equilibrium NS matter and the corresponding nuclear matter properties. The DNN model was successfully trained, attaining great accuracy in the test set. Finally, a real case scenario was used to test the DNN model, where a set of 33 nuclear models, obtained within a relativistic mean field approach or a Skyrme force description, were fed into the DNN model and the corresponding nuclear matter parameters recovered with considerable accuracy, in particular, the standard deviations sigma(Lsym)=12.85 MeV and σ(Ksat)=41.02 MeV were obtained, respectively, for the slope of the symmetry energy and the nuclear matter incompressibility at saturation.
+subjects: MM, statistics, NS, inference, quantum, EOS
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.08883
+title: Reconstructing the neutron star equation of state from observational data via automatic differentiation
+authors: Shriya Soma, Lingxiao Wang, Shuzhe Shi, Horst Stöcker, Kai Zhou
+topic: The equation of state (EoS) that describes extremely dense matter under strong interactions is not completely understood. One reason is that the first-principle calculations of the EoS at finite chemical potential are challenging in nuclear physics. However, neutron star observables like masses, radii, moment of inertia and tidal deformability are direct probes to the EoS and hence make the EoS reconstruction task feasible. In this work, we present results from a novel deep learning technique that optimizes a parameterized equation of state in the automatic differentiation framework. We predict stellar structures from a pre-trained Tolman-Oppenheimer-Volkoff (TOV) solver network, given an EoS represented by neural networks. The latest observational data of neutron stars, specifically their masses and radii, are used to implement the chi-square fitting. We optimize the parameters of the neural network EoS by minimizing the error between observations and predictions. The well-trained neural network EoS gives an estimate of the relationship between the pressure and the mass density. The results presented are consistent with those from conventional approaches and the experimental bound on the tidal deformability inferred from the gravitational wave event, GW170817.
+subjects: MM, statistics, NS, inference
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2209.08101
+title: Impact of large-mass constraints on the properties of neutron stars
+authors: Christian Ecker, Luciano Rezzolla
+topic: The maximum mass of a nonrotating neutron star, MTOV, plays a very important role in deciphering the structure and composition of neutron stars and in revealing the equation of state (EOS) of nuclear matter. Although with a large-error bar, the recent mass estimate for the black-widow binary pulsar PSR J0952-0607, i.e. M=2.35pm0.17 Msun, provides the strongest lower bound on MTOV and suggests that neutron stars with very large masses can in principle be observed. Adopting an agnostic modelling of the EOS, we study the impact that large masses have on the neutron-star properties. In particular, we show that assuming MTOV larger 2.35Msun constrains tightly the behaviour of the pressure as a function of the energy density and moves the lower bounds for the stellar radii to values that are significantly larger than those constrained by the NICER measurements, rendering the latter ineffective in constraining the EOS. We also provide updated analytic expressions for the lower bound on the binary tidal deformability in terms of the chirp mass and show how larger bounds on MTOV lead to tighter constraints for this quantity. In addition, we point out a novel quasi-universal relation for the pressure profile inside neutron stars that is only weakly dependent from the EOS and the maximum-mass constraint. Finally, we study how the sound speed and the conformal anomaly are distributed inside neutron stars and show how these quantities depend on the imposed maximum-mass constraints.
+subjects: BNS, NS, TOV
+
+link: https://arxiv.org/abs/2209.07544
+title: Resonant Production of Light Sterile Neutrinos in Compact Binary Merger Remnants
+authors: Garðar Sigurðarson, Irene Tamborra, Meng-Ru Wu
+topic: The existence of eV-mass sterile neutrinos is not ruled out because of persistent experimental anomalies. Upcoming multi-messenger detections of neutron-star merger remnants could provide indirect constraints on the existence of these particles. We explore the active-sterile flavor conversion phenomenology in a two-flavor scenario (1 active + 1 sterile species) as a function of the sterile neutrino mixing parameters, neutrino emission angle from the accretion torus, and temporal evolution of the merger remnant. The torus geometry and the neutron richness of the remnant are responsible for the occurrence of multiple resonant active-sterile conversions. The number of resonances strongly depends on the neutrino emission direction above or inside the remnant torus and leads to large production of sterile neutrinos (and no antineutrinos) in the proximity of the polar axis as well as more sterile antineutrinos than neutrinos in the equatorial region. As the black hole torus evolves in time, the shallower baryon density is responsible for more adiabatic flavor conversion, leading to larger regions of the mass-mixing parameter space being affected by flavor mixing. Our findings imply that the production of sterile states can have indirect implications on the disk cooling rate, its outflows, and related electromagnetic observables which remain to be assessed.
+subjects: neutrinos, merger, BNS
+
+link: https://arxiv.org/abs/2209.07535
+title: RAPOC : the Rosseland and Planck opacity converter. A user-friendly and fast opacity program for Python
+authors: Lorenzo V. Mugnai, Darius Modirrousta-Galian
+topic: RAPOC (Rosseland and Planck Opacity Converter) is a Python 3 code that calculates Rosseland and Planck mean opacities (RPMs) from wavelength-dependent opacities for a given temperature, pressure, and wavelength range. In addition to being user-friendly and rapid, RAPOC can interpolate between discrete data points, making it flexible and widely applicable to the astrophysical and Earth-sciences fields, as well as in engineering. For the input data, RAPOC can use ExoMol and DACE data, or any user-defined data, provided that it is in a readable format. In this paper, we present the RAPOC code and compare its calculated Rosseland and Planck mean opacities with other values found in the literature. The RAPOC code is open-source and available on Pypi and GitHub.
+subjects: codes, numeric
+
+link: https://arxiv.org/abs/2209.06854
+title: Snowmass Theory Frontier: Astrophysics and Cosmology
+authors: Daniel Green, Joshua T. Ruderman, Benjamin R. Safdi et al
+topic: We summarize progress made in theoretical astrophysics and cosmology over the past decade and areas of interest for the coming decade. This Report is prepared as the TF09 "Astrophysics and Cosmology" topical group summary for the Theory Frontier as part of the Snowmass 2021 process.
+subjects: review, big overview
+
+link: https://arxiv.org/abs/2209.07514
+title: Propagation of a realistic magnetar jet through binary neutron star merger environment and implications for short gamma-ray bursts
+authors: Gustavo Soares, Pablo Bosch, Davide Lazzati, Philipp Mösta
+topic: The origin of short gamma-ray bursts (sGRBs) is associated with outflows powered by the remnant of a binary neutron star merger. This remnant can be either a black hole or a highly magnetized, fastly spinning neutron star, also known as a magnetar. Here, we present the results of two relativistic magnetohydrodynamical (RMHD) simulations aimed at investigating the large-scale dynamics and propagation of magnetar collimated outflows through the environment surrounding the remnant. The first simulation evolves a realistic jet by injecting external simulation data, while the second evolves an analytical model jet with similar properties for comparison. We find that both outflows remain collimated and successfully emerge through the environment. However, they fail to attain relativistic velocities and only reach a mean maximum speed of 0.7c for the realistic jet, and 0.6c for the analytical jet. We also find that the realistic jet has a much more complex structure. The lack of highly relativistic speeds, that makes these jets unsuitable as short GRB sources, appears to be due to the specific injected properties and not general to all possible magnetar outflows.
+subjects: GRB, jet, numerical, MHD, simulations
+
+link: https://arxiv.org/abs/2209.07412
+title: Snowmass 2021 Cosmic Frontier White Paper: The Dense Matter Equation of State and QCD Phase Transitions
+authors: Slavko Bogdanov, Emmanuel Fonseca, Rahul Kashyap, Aleksi Kurkela, James M. Lattimer, Jocelyn S. Read, Bangalore S. Sathyaprakash, H. Thankful Cromartie, Tim Dietrich, Arnab Dhani, Timothy Dolch, Tyler Gorda, Sebastien Guillot, Wynn C. G. Ho, Rachael Huxford, Frederick K. Lamb, Philippe Landry, Bradley W. Meyers, M. Coleman Miller, Joonas Nättilä, Risto Paatelainen, Chanda Prescod-Weinstein, Saga Säppi, Ingrid H. Stairs, Nikolaos Stergioulas, Ingo Tews, Aleksi Vuorinen, Zorawar Wadiasingh, Anna L. Watts
+topic: Our limited understanding of the physical properties of matter at ultra-high density, high proton/neutron number asymmetry, and low temperature is presently one of the major outstanding problems in physics. As matter in this extreme state is known to only exist stably in the cores of neutron stars (NSs), complementary measurements from electromagnetic and gravitational wave astrophysical observations of NSs, combined with terrestrial laboratory constraints and further theoretical investigations, hold the promise to provide important insight into the properties of matter in a region of the quantum chromodynamics phase space that is otherwise inaccessible. This multidisciplinary endeavor imposes the following requirements for facilities and resources in the upcoming decade and beyond: - A next generation of gravitational wave detectors to uncover more double NS and neutron star-black hole mergers; - Sensitive radio telescopes to find the most massive and fastest spinning NSs; - Large-area, high-time-resolution and/or high angular resolution X-ray telescopes to constrain the NS mass-radius relation; - Suitable laboratory facilities for nuclear physics experiments to constrain the dense matter equation of state; - Funding resources for theoretical studies of matter in this regime; - The availability of modern large-scale high performance computing infrastructure.
+The same facilities and resources would also enable significant advances in other high-profile fields of inquiry in modern physics such as the nature of dark matter, alternative theories of gravity, nucleon superfluidity and superconductivity, as well as an array of astrophysics, including but not limited to stellar evolution, nucleosynthesis, and primordial black holes.
+subjects: review, overview, EOS
+
+link: https://arxiv.org/abs/2209.06951
+title: Spectroscopic r-Process Abundance Retrieval for Kilonovae I: The Inferred Abundance Pattern of Early Emission from GW170817
+authors: Nicholas Vieira, John J. Ruan, Daryl Haggard, Nicole Ford, Maria R. Drout, Rodrigo Fernández, N. R. Badnell
+topic: Freshly-synthesized r-process elements in kilonovae ejecta imprint absorption features on optical spectra, as observed in the GW170817 binary neutron star merger. These spectral features encode insights into the physical conditions of the r-process and the origins of the ejected material, but associating features with particular elements and inferring the resultant abundance pattern is computationally challenging. We introduce Spectroscopic r-Process Abundance Retrieval for Kilonovae (SPARK), a modular framework to perform Bayesian inference on kilonova spectra with the goals of inferring elemental abundance patterns and identifying absorption features at early times. SPARK inputs an atomic line list and abundance patterns from reaction network calculations into the TARDIS radiative transfer code. It then performs fast Bayesian inference on observed kilonova spectra by training a Gaussian process surrogate for the approximate posteriors of kilonova ejecta parameters, via active learning. We use the spectrum of GW170817 at 1.4 days to perform the first inference on a kilonova spectrum, and recover a complete abundance pattern. Our inference shows that this ejecta was generated by an r-process with either (1) high electron fraction Ye - 0.35 and high entropy s/kB - 25, or, (2) a more moderate Y_e - 0.30 and s/k_B - 14. These parameters are consistent with a shocked, polar dynamical component, and a viscously-driven outflow from a remnant accretion disk, respectively. We also recover previous identifications of strontium absorption at 8000 AA, and tentatively identify yttrium and/or zirconium at less 4500 AA. Our approach will enable computationally-tractable inference on the spectra of future kilonovae discovered through multi-messenger observations.
+subjects: kilonova, inference, code
 
 link: https://arxiv.org/abs/2209.05246
 title: 3D radiative transfer kilonova modelling for binary neutron star merger simulations
