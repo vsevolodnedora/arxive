@@ -17,6 +17,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2209.09085
 title: Extracting nuclear matter properties from neutron star matter EoS using deep neural networks
 authors: Márcio Ferreira, Valéria Carvalho, Constança Providência
