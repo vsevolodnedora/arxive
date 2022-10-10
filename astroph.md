@@ -47,6 +47,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2209.13061
 title: Abundances and Transients from Neutron Star-White Dwarf Mergers
 authors: Mark Alexander Kaltenborn, Chris L. Fryer, Ryan T. Wollaeger, Krzysztof Belczynski, Wesley Even, Chryssa Kouveliotou
