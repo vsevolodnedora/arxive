@@ -11,47 +11,95 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2210.05670
+title: General relativistic simulations of collapsing binary neutron star mergers with Monte-Carlo neutrino transport
+authors: Francois Foucart, Matthew D. Duez, Roland Haas, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel, Elizabeth Spira-Savett
+topic: Recent gravitational wave observations of neutron star-neutron star and neutron star-black hole binaries appear to indicate that massive neutron stars may not be too uncommon in merging systems. These discoveries have led to an increased interest in the simulation of merging compact binaries involving massive stars. In this manuscript, we present a first set of evolution of massive neutron star binaries using Monte-Carlo radiation transport for the evolution of neutrinos. We study a range of systems, from nearly symmetric binaries that collapse to a black hole before forming a disk or ejecting material, to more asymmetric binaries in which tidal disruption of the lower mass star leads to the production of more interesting post-merger remnants. For the latter type of systems, we additionally study the impact of viscosity on the properties of the outflows, and compare our results to two recent simulations of identical binaries performed with the WhiskyTHC code. We find excellent agreement on the black hole properties, disk mass, and mass and velocity of the outflows, and some minor but noticeable differences in the evolution of the electron fraction when using a subgrid viscosity model. The method used to account for r-process heating in the determination of the outflow properties appears to have a larger impact on our result than those differences between numerical codes. We also take advantage of the use of a Monte-Carlo code to study in more detail the neutrino energy spectrum, and use the simulation with the most ejected material to verify that our newly implemented Lagrangian tracers provide a reasonable sampling of the matter outflows as they leave the computational grid.
+subjects: BNS, NS, neutrinos
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2210.05659
+title: Axion-like particles explain the very-high energy emission from GRB221009A
+authors: Giorgio Galanti, Marco Roncadelli, Fabrizio Tavecchio
+topic: We show that the very recent detection of the gamma ray burst GRB221009A by the LHAASO experiment -- with its very-high-energy tail extending up to 18 TeV -- provides a hint at the existence of axion-like-particles with mass (10-10)eV and two-photon coupling (10-11)GeV-1
+subjects: GRB
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2210.05012
+title: Three-dimensional core-collapse supernovae with complex magnetic structures: II. Rotational instabilities and multimessenger signatures
+authors: Matteo Bugli, Jérôme Guilet, Thierry Foglizzo, Martin Obergaulinger
+topic: The gravitational collapse of rapidly rotating massive stars can lead to the onset of the low T/W instability within the central proto-neutron star (PNS), which leaves strong signatures in both the gravitational wave (GW) and neutrino emission. Strong large-scale magnetic fields are usually invoked to explain outstanding stellar explosions of rapidly rotating progenitors, but their impact on the growth of such instability has not yet been cleared. We analyze a series of three-dimensional magnetohydrodynamic models to characterize the effects of different magnetic configurations on the development of the low T/W and the related multi-messenger features. In the absence of magnetic fields, we observe the growth on dynamical time scales of the low T/W, associated with a strong burst of GW and a correlated modulation of the neutrino emission. However, models with a strong magnetic field show a quenching of the low T/W, due to a flattening of the rotation profile in the first 100 ms after shock formation caused by the magnetic transport of angular momentum. The associated GW emission is weakened by an order of magnitude, exhibits a broader spectral shape, and has no dominant feature associated with the PNS large-scale oscillation modes. Neutrino luminosities are damped along the equatorial plane due to a more oblate PNS, and the only clear modulation in the signal is due to SASI activity. Finally, magnetized models produce lower luminosities for nu-e than for nu-minus-e, which is connected to a higher concentration of neutron-rich material in the PNS surroundings.
+subjects: SN, simulation, GW, neutrions
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2210.04190
+title: A possible 250-second X-ray quasi-periodicity in the fast blue optical transient AT2018cow
+authors: Wenjie Zhang, Xinwen Shu, Jin-Hong Chen, Luming Sun, Rong-Feng Shen, Lian Tao, Chun Chen, Ning Jiang, LiMing Dou, Ying Qin, Xue-Guang Zhang, Liang Zhang, Jinlu Qu, Tinggui Wang
+topic: The fast blue optical transients (FBOTs) are a new population of extragalactic transients of unclear physical origin. A variety of mechanisms have been proposed including failed supernova explosion, shock interaction with a dense medium, young magnetar, accretion onto a compact object, and stellar tidal disruption event, but none is conclusive. Here we report the discovery of a possible X-ray quasi-periodicity signal with a period of 250 second (at a significance level of 99.76\%) in the brightest FBOT AT2018cow through the analysis of XMM-Newton/PN data. The signal is independently detected at the same frequency in the average power density spectrum from data taken from the Swift telescope, with observations covering from 6 to 37 days after the optical discovery, though the significance level is lower (94.26\%). This suggests that the QPO frequency may be stable over at least 1.1x104 cycles. Assuming the 250 second QPO to be a scaled-down analogue of that typically seen in stellar mass black holes, a black hole mass of 103−105 solar masses could be inferred. The overall X-ray luminosity evolution could be modeled with the stellar tidal disruption by a black hole of 104 solar masses, providing a viable mechanism to produce AT2018cow. Our findings suggest that other bright FBOTs may also harbor intermediate-mass black holes.
+subjects: FBOT, observations, QPO, projenitor, model
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2210.03897
+title: Exploring Anisotropic Lorentz Invariance Violation from the Spectral-Lag Transitions of Gamma-Ray Bursts
+authors: Jin-Nan Wei, Zi-Ke Liu, Jun-Jie Wei, Bin-Bin Zhang, Xue-Feng Wu
+topic: The observed spectral lags of gamma-ray bursts (GRBs) have been widely used to explore possible violations of Lorentz invariance. However, these studies were generally performed by concentrating on the rough time lag of a single highest-energy photon and ignoring the intrinsic time lag at the source. A new way to test nonbirefringent Lorentz-violating effects has been proposed by analyzing the multi-photon spectral-lag behavior of a GRB that displays a positive-to-negative transition. This method gives both a plausible description of the intrinsic energy-dependent time lag and comparatively robust constraints on Lorentz-violating effects. In this work, we conduct a systematic search for Lorentz-violating photon dispersion from the spectral-lag transition features of 32 GRBs. By fitting the spectral-lag data of these 32 GRBs, we place constraints on a variety of isotropic and anisotropic Lorentz-violating coefficients with mass dimension d=6 and 8. While our dispersion constraints are not competitive with existing bounds, they have the promise to complement the full coefficient space.
+subjects: GRB, prompt, statistics, model
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2210.03870
+title: The closure relations in optical afterglow of Gamma-Ray Bursts
+authors: M.G.Dainotti, D.Levine, D.Warren, N.Fraija, S.Sourav
+topic: Gamma-ray bursts (GRBs) are extremely high-energy events that can be observed at very high redshift. In addition to gamma rays, they can emit in X-ray, optical, and sometimes radio wavelengths. Here, following the approach in Srinivasaragavan et al. (2020); Dainotti et al. (2021b,c), and Dainotti et al (2022, submitted), we consider 82 GRBs from Dainotti et al. (2022a) that have been observed in optical wavelengths and fitted with a broken power law (BPL). We consider the relations between the spectral and temporal indices (closure relations; CRs) according to the synchrotron forward-shock model evolving in the constant-density interstellar medium (ISM; k = 0) and the stellar Wind environment (k = 2) in both slow- and fast-cooling regimes, where the density profile is defined as n is proportional to r to the power minus k. We find the nu exceeds max nuc, nu m regime is most favored, where nu c and nu m are the cooling and characteristic frequencies, respectively. Finally, we test the 2D Dainotti correlation between the rest-frame end time of the plateau and the luminosity at that time on GRBs that fulfill the most-favored CRs. When we compare the intrinsic scatter sigma int of those 2D correlations to the scatter presented in Dainotti et al. (2020b, 2022a), we see the scatters of our correlations generally agree with the previous values within 1sigma, both before and after correction for selection bias. This new information has helped us to pinpoint subsamples of GRBs with features that could drive the GRB emission mechanism, and eventually allow for GRBs to be used as standard candles
+subjects: GRB, observation, model, statistics
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2210.03757
+title: State-of-the-Art Collapsar Jet Simulations Imply Undetectable Subphotospheric Neutrinos
+authors: Ersilia Guarini, Irene Tamborra, Ore Gottlieb
+topic: Mounting evidence suggests that the launching of collapsar jets is magnetically driven. Recent general relativistic magneto-hydrodynamic simulations of collapsars reveal that the jet is continuously loaded with baryons, owing to strong mixing with the cocoon. This results in a high photosphere at 1012 cm. Consequently, collisionless internal shocks below the photosphere are disfavored, and the neutrino production in the deepest jet regions is prevented, in contrast to what has been naively assumed in the literature. We find that subphotospheric neutrino production could only take place in the presence of collisionless sub-shocks or magnetic reconnection. Efficient particle acceleration is not possible in the cocoon, at the cocoon-counter cocoon shock interface, or at the shock driven by the cocoon in the event of a jet halted in an extended envelope. These subphotospheric neutrinos have energy Enu less 105 GeV for initial jet magnetizations Sigma-0=15-2000. More than one neutrino and antineutrino event is expected to be observed in Hyper-Kamiokande and IceCube DeepCore for sources located at z less (0.1) only; considering the collapsar rate, this implies that the detection chances are poor. Because of their energy, these neutrinos do not contribute to the diffuse flux detected by the IceCube Neutrino Observatory. Our findings have implications on neutrino searches ranging from gamma-ray bursts to luminous fast blue optical transients.
+subjects: Jet, model, radaition, neutrino
+
+link: https://arxiv.org/abs/2210.03033
+title: JetCurry I. Reconstructing Three-Dimensional Jet Geometry from Two-Dimensional Images
+authors: Sailee M. Sawant, Katie Kosak, Kunyang Li, Sayali S. Avachat, Eric S. Perlman, Debasis Mitra
+topic: We present a three-dimensional (3-D) visualization of jet geometry using numerical methods based on a Markov Chain Monte Carlo (MCMC) and limited memory Broyden-Fletcher-Goldfarb-Shanno (BFGS) optimized algorithm. Our aim is to visualize the 3-D geometry of an active galactic nucleus (AGN) jet using observations, which are inherently two-dimensional (2-D) images. Many AGN jets display complex structures that include hotspots and bends. The structure of these bends in the jet's frame may appear quite different than what we see in the sky frame, where it is transformed by our particular viewing geometry. The knowledge of the intrinsic structure will be helpful in understanding the appearance of the magnetic field and hence emission and particle acceleration processes over the length of the jet. We present the JetCurry algorithm to visualize the jet's 3-D geometry from its 2-D image. We discuss the underlying geometrical framework and outline the method used to decompose the 2-D image. We report the results of our 3-D visualization of the jet of M87, using the test case of the knot D region. Our 3-D visualization is broadly consistent with the expected double helical magnetic field structure of the knot D region of the jet. We also discuss the next steps in the development of the JetCurry algorithm.
+subjects: method, model, jet, image
+
+link: https://arxiv.org/abs/2210.02740
+title: Jet Gravitational Waves
+authors: Tsvi Piran
+topic: The acceleration of a jet to relativistic velocities produces a unique memory type gravitational waves (GW) signal: {\it Jet-GW}. I discuss here resent result concerning properties of these GWs and consider their detectability in current and proposed detectors. Classical sources are long and short Gamma-ray bursts as well as hidden jets in core-collapse supernovae. Detection of jet-GWs from these sources will require detectors, such as the proposed BBO, DECIGO and lunar based detectors, that will operate in the deciHz band. The current LVK detectors could detect jet-GWs from a Galactic SGR flare if it is sufficiently asymmetric. Once detected these signals could reveal information concerning jet acceleration and collimation that cannot be explored otherwise.
+subjects: jet, GW, theory, review
+
+link: https://arxiv.org/abs/2210.02363
+title: Proton Synchrotron Origin of the Very High Energy Emission of GRB 190114C
+authors: Hebzibha Isravel, Asaf Pe'er, Damien Begue
+topic: We consider here a proton-synchrotron model to explain the MAGIC observation of GRB 190114C afterglow in the energy band 0.2-1 TeV, while the X-ray spectra are explained by electron-synchrotron emission. Given the uncertainty of the particle acceleration process, we consider several variations of the model, and show that they all match the data very well. We find that the values of the uncertain model parameters are reasonable: explosion energy 1054.5 erg, ambient density 10-100cm-3, and fraction of electrons/ protons accelerated to a high energy power law of a few per-cents. All these values are directly derived from the observed TeV and X-ray fluxes. They are consistent with both late time data at all bands, from radio to X-rays, and with numerical models of particle acceleration. Our results thus demonstrate the relevance of proton-synchrotron emission to the high energy observations of GRBs during their afterglow phase.
+subjects: GRB, model, high-energy, VHE
+
+link: https://arxiv.org/abs/2210.02255
+title: Cocoon emission in neutron star mergers
+authors: Hamid Hamidani, Kunihito Ioka
+topic: In the gravitational wave event GW170817, there was a 10 hours gap before electromagnetic (EM) observations, without detection of the cocoon. The cocoon is heated by a \textit{short} gamma-ray burst (\textit{s}GRB) jet propagating through the ejecta of a Neutron Star (NS) merger, and a part of the cocoon escapes the ejecta with an opening angle of 20--30deg. Here we model the cocoon and calculate its EM emission. Our 2D hydrodynamic simulations suggest that the density and energy distributions, after entering homologous expansion, are well-fitted with power-law functions, in each of the relativistic and non-relativistic parts of the escaped cocoon. Modeling these features, we calculate the cooling emission analytically. We find that the cocoon outshines the r-process kilonova/macronova at early times (10--103 s), peaking at UV bands. The relativistic velocity of the cocoon's photosphere is measurable with instruments such as Swift and ULTRASAT. We also imply that energetic cocoons, including failed jets, might be detected as X-ray flashes. Our model clarifies the physics and parameter dependence, covering a wide variety of central engines and ejecta of NS mergers and \textit{s}GRBs in the multi-messenger era.
+subjects: GRB, cocoon, model, analytic
+
+link: https://arxiv.org/abs/2210.02106
+title: Explosive nucleosynthesis with fast neutrino-flavor conversion in core-collapse supernovae
+authors: Shin-ichiro Fujimoto, Hiroki Nagakura
+topic: Fast neutrino-flavor conversion (FFC) is a possible game-changing ingredient in core-collapse supernova (CCSN) theory. In this Letter, we examine the impact of FFC on explosive nucleosynthesis by including the effects of FFC in conjunction with asymmetric neutrino emission into nucleosynthetic computations in a parametric way. We find that the ejecta compositions are not appreciably affected by FFC for elements lighter than Co, while the compositions are influenced by FFC for the heavier elements. We also find that the role of FFC varies depending on the asymmetric degree of neutrino emission (masy) and the degree of neutrino-flavor mixing. The impact of FFC is not monotonic to masy; The change in the ejecta composition increases for higher masy up to 10\% compared with that without FFC, whereas FFC has little effect on the nucleosynthesis in very large asymmetric neutrino emission (above 30\%). Our results suggest that FFC facilitates the production of neutron-rich ejecta in most cases, although it makes the ejecta more proton-rich if anti-neutrino conversion is more vigorous than that of neutrino. The key ingredient accounting for this trend is neutrino absorption, whose effects on nucleosynthesis can be quantified by simple diagnostics.
+subjects: NS, SN,  neutrino, nucleo, r-process
+
+link: https://arxiv.org/abs/2210.01038
+title: First-principles Fermi acceleration in magnetized turbulence
+authors: Martin Lemoine 
+topic: This work provides a concrete implementation of E. Fermi's model of particle acceleration in magnetohydrodynamic (MHD) turbulence, connecting the rate of energization to the gradients of the velocity of magnetic field lines, which it characterizes within a multifractal picture of turbulence intermittency. It then derives a transport equation in momentum space for the distribution function. This description is shown to be substantiated by a large-scale numerical simulation of strong MHD turbulence. The present, general framework can be used to model particle acceleration in a variety of environments.
+subjects: model, fermi acceleration, method
+
+link: https://arxiv.org/abs/2210.00814
+title: Cocoon breakout and escape from the ejecta of neutron star mergers
+authors: Hamid Hamidani, Kunihito Ioka
+topic: The cocoon is an inevitable product of a jet propagating through ambient matter, and takes a fair fraction of the jet energy. In short gamma-ray bursts, the ambient matter is the ejecta, from the merger of neutron stars, expanding with a high velocity 0.2c, in contrast to the static stellar envelope in collapsars. Using 2D relativistic hydrodynamic simulations with the ejecta density profile as rgo-r-2, we find that the expansion makes a big difference; only 0.5--5\% of the cocoon mass escapes from (faster than) the ejecta, with an opening angle 20--30 deg, while it is 100\% and spherical in collapsars. We also analytically obtain the shares of mass and energies for the escaped and trapped cocoons. Because the mass of the escaped cocoon is small and the trapped cocoon being concealed by the ejecta and the escaped cocoon, we conclude that it is unlikely that the cocoon emission was observed as a counterpart to the gravitational wave event GW170817.
+subjects: cocoon, ejecta, nanalyutic, photospheric
+
+link: https://arxiv.org/abs/2209.14308
+title: Prompt Emission of Gamma-Ray Bursts in the High-density Environment of Active Galactic Nuclei Accretion Disks
+authors: Davide Lazzati, Gustavo Soares, Rosalba Perna
+topic: Long and short gamma-ray bursts are traditionally associated with galactic environments, where circumburst densities are small or moderate (few to hundreds of protons per cubic cm). However, both are also expected to occur in the disks of Active Galactic Nuclei, where the ambient medium density can be much larger. In this work we study, via semi-analytical methods, the propagation of the GRB outflow, its interaction with the external material, and the ensuing prompt radiation. In particular, we focus on the case in which the external shock develops early in the evolution, at a radius that is smaller than the internal shock one. We find that bursts in such high density environments are likely characterized by a single, long emission episode that is due to the superposition of individual pulses, with a characteristic hard to soft evolution irrespective of the light curve luminosity. While multi-pulse light curves are not impossible, they would require the central engine to go dormant for a long time before re-igniting. In addition, short GRB engines would produce bursts with prompt duration that would exceed the canonical 2 s separation threshold and would likely be incorrectly classified as long events, even though they would not be accompanied by a simultaneous supernova. Finally, these events have a large dynamical efficiency which would produce a bright prompt emission followed by a somewhat dim afterglow.
+subjects: GRB, model, AGN, theory
 
 link: https://arxiv.org/abs/2209.13061
 title: Abundances and Transients from Neutron Star-White Dwarf Mergers
