@@ -23,6 +23,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2210.05670
 title: General relativistic simulations of collapsing binary neutron star mergers with Monte-Carlo neutrino transport
 authors: Francois Foucart, Matthew D. Duez, Roland Haas, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel, Elizabeth Spira-Savett
