@@ -23,6 +23,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2210.13481
 title: Similar general relativistic magnetohydrodynamic codes produce different results for binary neutron star mergers
 authors: Pedro Luis Espino, Gabriele Bozzola, Vasileios Paschalidis
