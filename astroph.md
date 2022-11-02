@@ -23,23 +23,65 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.00634
+title: GRB221009A Gamma Rays from Radiative Decay of Heavy Neutrinos?
+authors: Alexei Y. Smirnov, Andreas Trautner
+topic: We consider a mechanism which allows to decrease the attenuation of the high energy gamma ray flux from gamma ray burst GRB 221009A. The mechanism is based on the existence of a heavy mN-0.1MeV mostly sterile neutrino N which mixes with active (muon) neutrinos. N's are produced in GRB in pion and Kaon decays via mixing with neutirnos-mu. They undergo the radiative decay N→νγ on the way to the Earth. The usual exponential attenuation of gamma rays is lifted to an attenuation inverse in the optical depth. Various restrictions on this scenario are discussed. We find that the high energy γ events at 18TeV and potentially 251TeV can be explained if (i) the GRB active neutrino fluence is close to the observed limit, (ii) the branching ratio of N to neutrino-gamma is at least of the order 10\%.
+subjects: GRB, neutrinos, particle
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.00027
+title: Global high-order numerical schemes for the time evolution of the general relativistic radiation magneto-hydrodynamics equations
+authors: Manuel R. Izquierdo, Lorenzo Pareschi, Borja Miñano, Joan Massó, Carlos Palenzuela
+topic: Modeling correctly the transport of neutrinos is crucial in some astrophysical scenarios such as core-collapse supernovae and binary neutron star mergers. In this paper, we focus on the truncated-moment formalism, considering only the first two moments (M1 scheme) within the grey approximation, which reduces Boltzmann seven-dimensional equation to a system of 3+1 equations closely resembling the hydrodynamic ones. Solving the M1 scheme is still mathematically challenging, since it is necessary to model the radiation-matter interaction in regimes where the evolution equations become stiff and behave as an advection-diffusion problem. Here, we present different global, high-order time integration schemes based on Implicit-Explicit Runge-Kutta (IMEX) methods designed to overcome the time-step restriction caused by such behavior while allowing us to use the explicit RK commonly employed for the MHD and Einstein equations. Finally, we analyze their performance in several numerical tests.
+subjects: neutrinos, code, radiation transport
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.00018
+title: Bayesian analysis of neutron-star properties with parameterized equations of state: the role of the likelihood functions
+authors: Jin-Liang Jiang, Christian Ecker, Luciano Rezzolla
+topic: We have investigated the systematic differences introduced when performing a Bayesian-inference analysis of the equation of state of neutron stars employing either variable- or constant-likelihood functions. The former have the advantage that it retains the full information on the distributions of the measurements, making an exhaustive usage of the data. The latter, on the other hand, have the advantage of a much simpler implementation and reduced computational costs. In both approaches, the EOSs have identical priors and have been built using the sound-speed parameterization method so as to satisfy the constraints from X-ray and gravitational-waves observations, as well as those from Chiral Effective Theory and perturbative QCD. In all cases, the two approaches lead to very similar results and the 90\%-confidence levels are essentially overlapping. Some differences do appear, but in regions where the probability density is extremely small and are mostly due to the sharp cutoff set on the binary tidal deformability Lambda less 720 employed in the constant-likelihood analysis. Our analysis has also produced two additional results. First, a clear inverse correlation between the normalized central number density of a maximally massive star, nc,TOV/ns, and the radius of a maximally massive star, RTOV. Second, and most importantly, it has confirmed the relation between the chirp mass chirp and the binary tidal deformability LambdaTilde. The importance of this result is that it relates a quantity that is measured very accurately, less chirp, with a quantity that contains important information on the micro-physics, LambdaTilde. Hence, once less chirp is measured in future detections, our relation has the potential of setting tight constraints on LambdaTilde.
+subjects: statistics, model, bayesians
+
+link: https://arxiv.org/abs/2211.00059
+title: Extremely Relativistic Tidal Disruption Events
+authors: Taeho Ryu, Julian Krolik, Tsvi Piran
+topic: Extreme tidal disruption events (eTDEs), which occur when a star passes very close to a supermassive black hole, may provide a way to observe a long-sought general relativistic effect: orbits that wind several times around a black hole and then leave. Through general relativistic hydrodynamics simulations, we show that such eTDEs are easily distinguished from most tidal disruptions, in which stars come close, but not so close, to the black hole. Following the stellar orbit, the debris in eTDEs is initially distributed in a crescent that quickly turns into tight spirals, from which some mass later falls back toward the black hole, while the remainder is ejected. Internal shocks within the infalling debris power the observed emission. The resulting light-curve rises rapidly to roughly the Eddington luminosity, maintains this level for between a few weeks and a year (depending on both the stellar mass and the black hole mass), and then drops. Most of its power is in thermal X-rays at a temperature 106 K (100 eV). The debris evolution and observational features of eTDEs are qualitatively different from ordinary TDEs, making eTDEs a new type of TDE. Although eTDEs are relatively rare for lower-mass black holes, most tidal disruptions around higher-mass black holes are extreme. Their detection offers a view of an exotic relativistic phenomenon previously inaccessible.
+subjects: TDE, SMBH, accretion, thermal radion
+
+link: https://arxiv.org/abs/2210.17509
+title: GRaM-X: A new GPU-accelerated dynamical spacetime GRMHD code for Exascale computing with the Einstein Toolkit
+authors: Swapnil Shankar, Philipp Mösta, Steven R. Brandt, Roland Haas, Erik Schnetter, Yannick de Graaf
+topic: We present GRaM-X (General Relativistic accelerated Magnetohydrodynamics on AMReX), a new GPU-accelerated dynamical-spacetime general relativistic magnetohydrodynamics (GRMHD) code which extends the GRMHD capability of Einstein Toolkit to GPU-based exascale systems. GRaM-X supports 3D adaptive mesh refinement (AMR) on GPUs via a new AMR driver for the Einstein Toolkit called CarpetX which in turn leverages AMReX, an AMR library developed for use by the United States DOE's Exascale Computing Project (ECP). We use the Z4c formalism to evolve the equations of GR and the Valencia formulation to evolve the equations of GRMHD. GRaM-X supports both analytic as well as tabulated equations of state. We implement TVD and WENO reconstruction methods as well as the HLLE Riemann solver. We test the accuracy of the code using a range of tests on static spacetime, e.g. 1D MHD shocktubes, the 2D magnetic rotor and a cylindrical explosion, as well as on dynamical spacetimes, i.e. the oscillations of a 3D TOV star. We find excellent agreement with analytic results and results of other codes reported in literature. We also perform scaling tests and find that GRaM-X shows a weak scaling efficiency of 40-50\% on 2304 nodes (13824 NVIDIA V100 GPUs) with respect to single-node performance on OLCF's supercomputer Summit.
+subjects: NR, methods, code, cactus
+
+link: https://arxiv.org/abs/2210.17205
+title: Pulsar revival in neutron star mergers: multi-messenger prospects for the discovery of pre-merger coherent radio emission
+authors: A. J. Cooper, O. Gupta, Z. Wadiasingh, R. A. M. J. Wijers, O. M. Boersma, I. Andreoni, A. Rowlinson, K. Gourdji
+topic: We investigate pre-merger coherent radio emission from neutron star mergers arising due to the magnetospheric interaction between compact objects. We consider two plausible radiation mechanisms, and show that if one neutron star has a surface magnetic field Bs larger 1012G, coherent millisecond radio bursts with characteristic temporal morphology and inclination angle dependence are observable to Gpc distances with next-generation radio facilities. We explore multi-messenger and multi-wavelength methods of identification of a NS merger origin of radio bursts, such as in fast radio burst surveys, triggered observations of gamma-ray bursts and gravitational wave events, and optical/radio follow-up of fast radio bursts in search of kilonova and radio afterglow emission. We present our findings for current and future observing facilities, and make recommendations for verifying or constraining the model.
+subjects: BNS, prompt, mechanism, model
+
+link: https://arxiv.org/abs/2210.15857
+title: GRB 221009A: A light dark matter burst or an extremely bright Inverse Compton component?
+authors: M. M. González, D. Avila Rojas, A. Pratts, S Hernández, N. Fraija, R. Alfaro, Y. Pérez Araujo, J. A. Montes
+topic: Gamma-ray bursts (GRBs) have been considered as potential very high-energy photon emitters due to the large amount of energy released as well as the strong magnetic fields involved. However, the detection of TeV photons is not expected from bursts beyond a redshift of z less 0.1 due to the attenuation caused by the interaction with photons from the extragalactic background light (EBL). The observation of an 18-TeV photon from GRB 221009A (z=0.15) last October 9th, 2022 has challenged what we know about the TeV-emission mechanisms and the extragalactic background. Recent explanations exploiting candidates of dark matter have started to appear. In this paper, we discuss the required conditions and limitations within the most plausible scenario, synchrotron-self Compton (SSC) radiation in the GRB afterglow, to interpret the one 18-TeV photon observation besides the EBL. To avoid the Klein-Nishina effect, we find an improbable value of the microphysical magnetic parameter below 10-6 for a circumburst medium less cm-3 (expected in the collapsar scenario). Therefore, we explore possible scenarios in terms of ALPs and dark photon mechanisms to interpret this highly-energetic photon and discuss the implications in the GRB energetics. We find the ALPs and dark photon scenarios explain the 18 TeV photon but not the 251 TeV photon.
+subjects: GRB, VHE, DM
+
+link: https://arxiv.org/abs/2210.15698 
+title: Dynamics of a relativistic jet through magnetized media
+authors: Leonardo Garcia-Garcia, Diego Lopez-Camara, Davide Lazzati
+topic: The merger of two neutron stars (NSs) produces the emission of gravitational waves, the formation of a compact object surrounded by a dense and magnetized environment, and the launching of a collimated and relativistic jet, which will eventually produce a short gamma-ray burst (SGRB). The interaction of the jet with the environment has been shown to play a major role in shaping the structure of the outflow that eventually powers the gamma-ray emission. In this paper, we present a set of 2.5 dimensional RMHD simulations that follow the evolution of a relativistic non-magnetized jet through a medium with different magnetization levels, as produced after the merger of two NSs. We find that the predominant consequence of a magnetized ambient medium is that of suppressing instabilities within the jet, and preventing the formation of a series of collimation shocks. One implication of this is that internal shocks lose efficiency, causing bursts with low-luminosity prompt emission. On the other hand, the jet-head velocity and the induced magnetization within the jet are fairly independent from the magnetization of the ambient medium. Future numerical studies with a larger domain are necessary to obtain light curves and spectra in order to better understand the role of magnetized media.
+subjects: RMHD, simulation, jet, magnetic
+
+link: https://arxiv.org/abs/2210.14938
+title: Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory
+authors: Nikhil Sarin, Paul D. Lasky, Rowina S. Nathan
+topic: Gamma-ray burst GRB 211211A may have been the result of a neutron star merger at 350 Mpc. However, none of the LIGO-Virgo detectors were operating at the time. We show that the gravitational-wave signal from a \grb-like binary neutron star inspiral in the next LIGO-Virgo-KAGRA observing run (O4) would be below the conventional detection threshold, however a coincident gamma-ray burst observation would provide necessary information to claim a statistically-significant multimessenger observation. We calculate that with O4 sensitivity, approximately 11\% of gamma-ray bursts within 600 Mpc will produce a confident association between the gravitational-wave binary neutron star inspiral signature and the prompt gamma-ray signature. This corresponds to a coincident detection rate of [], where the uncertainties are the 90\% confidence intervals arising from uncertainties in the absolute merger rate, beaming and jet-launching fractions. These increase to approximately 34\% and [] with proposed O5 sensitivity. We show that the above numbers do not depend significantly on the number of gravitational-wave observatories operating with the specific sensitivity. That is, the number of confident joint gamma-ray burst and gravitational-wave detections is only marginally improved with two or three detectors operating compared to a single detector. It is therefore worth considering whether one detector with sufficient sensitivity (post O4) should remain in sky-watch mode at all times to elucidate the true nature of GRB 211211A-like events, a proposal we discuss in detail.
+subjects: GRB, GW, prospects, planning
+
+link: https://arxiv.org/abs/2210.14243
+title: Secondary GeV-TeV emission from ultra-high-energy cosmic rays accelerated by GRB 221009A
+authors: Nestor Mirabal
+topic: The origin of ultra-high-energy cosmic rays (UHECRs) remains elusive. Gamma-ray bursts (GRBs) are among the best candidates able to meet the stringent energy requirements needed for particle acceleration to such high energies. If UHECRs were accelerated by the central engine of GRB 221009A, it might be possible to detect secondary photons and neutrinos as the UHECRs travel from the source to the Earth. Here we attempt to interpret some of the early publicly available data connected to this burst. If the reported early GeV-TeV detection was produced by secondary emission from UHECRs it probably indicates that UHECRs reached energies 1021 eV and that GRB 221009A exploded inside a magnetic void with intergalactic magnetic field (IGMF) strength B3x10-16 G. In order to understand the entire energy deposition mechanism, we propose to search existing and future Fermi-LAT data for secondary emission arriving over larger spatial scales and longer time-scales. This strategy might help clarify the origin of UHECRs, constrain the intergalactic magnetic field (IGMF) strength along this line of sight and start to quantify the fraction of magnetic voids around GRBs.
+subjects: GRB, VHE, search, CR
 
 link: https://arxiv.org/abs/2210.13481
 title: Similar general relativistic magnetohydrodynamic codes produce different results for binary neutron star mergers
