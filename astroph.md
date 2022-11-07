@@ -29,6 +29,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2211.00634
 title: GRB221009A Gamma Rays from Radiative Decay of Heavy Neutrinos?
 authors: Alexei Y. Smirnov, Andreas Trautner
