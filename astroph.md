@@ -17,23 +17,71 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.07637
+title: Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation
+authors: Kenta Kiuchi, Sho Fujibayashi, Kota Hayashi, Koutarou Kyutoku, Yuichiro Sekiguchi, Masaru Shibata
+topic: We perform a general-relativistic neutrino-radiation magnetohydrodynamic simulation of a one second-long binary neutron star merger on Japanese supercomputer Fugaku using about 72 million CPU hours with 20,736 CPUs. We consider an asymmetric binary neutron star merger with masses of 1.2 and 1.5Msun and a soft equation of state SFHo. It results in a short-lived remnant with the lifetime of 0.017\,s, and subsequent massive torus formation with the mass of 0.05Msun after the remnant collapses to a black hole. For the first time, we confirm that after the dynamical mass ejection, which drives the fast tail and mildly relativistic components, the post-merger mass ejection from the massive torus takes place due to the magnetorotational instability-driven turbulent viscosity and the two ejecta components are seen in the distributions of the electron fraction and velocity with distinct features.
+subjects: NR, GRMHD, simulations, ejecta 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.07417
+title: Nonthermal processes and particle acceleration in supernova remnants
+authors: Jacco Vink (1), Aya Bamba (2) ((1)
+topic: Shocks of supernova remnants (SNRs) accelerate charged particles up to 100 TeV range via diffusive shock acceleration (DSA) mechanism. It is believed that shocks of SNRs are the main contributors to the pool of Galactic cosmic rays, although it is still under debate whether they can accelerate particles up to the "knee" energy (10to15.5 eV) or not. In this chapter, we start with introducing SNRs as likely sources of cosmic rays and the radiation mechanisms associated with cosmic rays (section 3). In the section 4, we summarize the mechanism for particle acceleration, including basic diffusive shock acceleration and nonlinear effects, as well as discussing the injection problem. Section 5 is devoted to the X-ray and gamma-ray observations of nonthermal emission from SNRs, and what these reveal about the cosmic-ray acceleration properties of SNRs.
+subjects: review, SNR, particles, synchrotron
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.07405
+title: Relating quasi-stationary one zone emission models to expanding relativistic shocks
+authors: Evgeny Derishev
+topic: For an expanding spherical relativistic shock, we derive relations between the parameters of downstream emitting zone and the quantities measured by a distant observer. These relations are formulated in terms of dimensionless effective coefficients combined with self-evident dimensional estimates. Our calculations take into account evolution of the shock's Lorentz factor, geometrical delay due to the shock's front curvature, and angular dependence of Lorentz boost for frequency and brightness. The relations are designed primarily for application in Gamma-Ray Burst afterglow studies, although they may have a broader use.
+subjects: physics, model, afterglow, dynamics
+
+link: https://arxiv.org/abs/2211.07158
+title: General-relativistic neutrino-radiation magnetohydrodynamics simulation of seconds-long black hole-neutron star mergers: Dependence on initial magnetic field strength, configuration, and neutron-star equation of state
+authors: Kota Hayashi, Kenta Kiuchi, Koutarou Kyutoku, Yuichiro Sekiguchi, Masaru Shibata
+topic: Numerical-relativity simulations for seconds-long black hole-neutron star mergers are performed to obtain a self-consistent picture starting from the inspiral and the merger throughout the post-merger stages for a variety of setups. Irrespective of the initial and computational setups, we find qualitatively universal evolution processes: The dynamical mass ejection takes place together with a massive accretion disk formation after the neutron star is tidally disrupted; Subsequently, the magnetic field in the accretion disk is amplified by the magnetic winding, Kelvin-Helmholtz instability, and magnetorotational instability, which establish a turbulent state inducing the dynamo and angular momentum transport; The post-merger mass ejection by the effective viscous effects stemming from the magnetohydrodynamics turbulence sets in at 300-500 ms after the merger and continues for several hundred ms; A magnetosphere near the black-hole spin axis is developed and the collimated strong Poynting flux is generated with its lifetime of 0.5-2 s. The model of no equatorial-plane symmetry shows the reverse of the magnetic-field polarity in the magnetosphere, which is caused by the dynamo associated with the magnetorotational instability in the accretion disk. The model with initially toroidal fields shows the tilt of the disk and magnetosphere in the late post-merger stage because of the anisotropic post-merger mass ejection. These effects could terminate the strong Poynting-luminosity stage within the timescale of 0.5-2 s.
+subjects: BNS, simualtions, GRMHD, postmerger, remnant
+
+link: https://arxiv.org/abs/2211.06935
+title: Assessment of ALP scenarios for GRB 221009A
+authors: Giorgio Galanti, Marco Roncadelli, Fabrizio Tavecchio
+topic: About one month after the revolutionary discovery of the Gamma Ray Burst (GRB) GRB 221009A and intense theoretical efforts to explain its detection, time seems to us ripe to make an assessment of the axion-like particle (ALP) based scenarios, since it is a common belief that conventional physics would have prevented such a detection. We overcome the almost complete lack of information -- so far only astronomical telegrams have been released -- by relying as much as possible upon the analogy with the emission from the GRB 190114C detected by the MAGIC collaboration in 2019, since it was the highest energy GRB detected before and for a time lapse similar to that over which GRB 221009A has been observed.
+subjects: GRB, VHE, mechanism, ALP
+
+link: https://arxiv.org/abs/2211.06825
+title: Magnetar wind-driven shock breakout emission after double neutron star mergers: The effect of the anisotropy of the merger ejecta
+authors: Guang-Lei Wu, Yun-Wei Yu, Shao-Ze Li
+topic: A rapidly rotating and highly magnetized remnant neutron star (NS; magnetar) could survive from a merger of double NSs and drive a powerful relativistic wind. The early interaction of this wind with the previous merger ejecta can lead to shock breakout (SBO) emission mainly in ultraviolet and soft X-ray bands, which provides an observational signature for the existence of the remnant magnetar. Here we investigate the effect of an anisotropic structure of the merger ejecta on the SBO emission. It is found that bolometric light curve of the SBO emission can be broadened, since the SBO can occur at different times for different directions. In more detail, the profile of the SBO light curve can be highly dependent on the ejecta structure and, thus, we can in principle use the SBO light curves to probe the structure of the merger ejecta in future.
+subjects: BNS, model, merger, remnant, magnetar, injection, afterglow, GRB
+
+link: https://arxiv.org/abs/2211.06049
+title: Shock-accelerated electrons during the fast expansion of a coronal mass ejection
+authors: D. E. Morosan, J. Pomoell, A. Kumari, R. Vainio, E. K. J. Kilpua
+topic: Context. Some of of the most prominent sources for energetic particles in our Solar System are huge eruptions of magnetised plasma from the Sun called coronal mass ejections (CMEs), which usually drive shocks that accelerate charged particles up to relativistic energies. In particular, energetic electron beams can generate radio bursts through the plasma emission mechanism. The main types of bursts associated with CME shocks are type II and herringbone bursts. However, it is currently unknown where early accelerated electrons that produce metric type II bursts and herringbones propagate and when they escape the solar atmosphere. Aims. Here, we investigate the acceleration location, escape, and propagation directions of electron beams during the early evolution of a strongly expanding CME-driven shock wave associated with herrinbgone bursts. Methods. We used ground-based radio observations from the Nançay Radioheliograph combined with space-based extreme-ultraviolet and white-light observations from the Solar Dynamics Observatory and and the Solar Terrestrial Relations Observatory. We produced a three-dimensional (3D) representation of the electron acceleration locations which, combined with results from magneto-hydrodynamic (MHD) models of the solar corona, was used to investigate the origin of the herringbone bursts observed. Results. Multiple herringbone bursts are found close to the CME flank in plane-of-sky images. Some of these herringbone bursts have unusual inverted J shapes and opposite drifting herringbones also show opposite senses of circular polarisation. By using a 3D approach combined with the radio properties of the observed bursts, we find evidence that the first radio emission in the CME eruption most likely originates from electrons that initially propagate in regions of low Alfvén speeds and along closed magnetic field lines forming a coronal streamer.
+subjects: plasma, solar, acceleration, CME
+
+link: https://arxiv.org/abs/2211.05810
+title: A short gamma-ray burst from a proto-magnetar remnant
+authors: N. Jordana-Mitjans, C. G. Mundell, C. Guidorzi, R. J. Smith, E. Ramirez-Ruiz, B. D. Metzger, S. Kobayashi, A. Gomboc, I. A. Steele, M. Shrestha, M. Marongiu, A. Rossi, B. Rothberg
+topic: The contemporaneous detection of gravitational waves and gamma rays from the GW170817/GRB 170817A, followed by kilonova emission a day after, confirmed compact binary neutron-star mergers as progenitors of short-duration gamma-ray bursts (GRBs), and cosmic sources of heavy r-process nuclei. However, the nature (and lifespan) of the merger remnant and the energy reservoir powering these bright gamma-ray flashes remains debated, while the first minutes after the merger are unexplored at optical wavelengths. Here, we report the earliest discovery of bright thermal optical emission associated with the short GRB 180618A with extended gamma-ray emission, with ultraviolet and optical multicolour observations starting as soon as 1.4 minutes post-burst. The spectrum is consistent with a fast-fading afterglow and emerging thermal optical emission at 15 minutes post-burst, which fades abruptly and chromatically (flux density Fnu-t-alpha, alpha=4.6+-0.3) just 35 minutes after the GRB. Our observations from gamma rays to optical wavelengths are consistent with a hot nebula expanding at relativistic speeds, powered by the plasma winds from a newborn, rapidly-spinning and highly magnetized neutron star (i.e. a millisecond magnetar), whose rotational energy is released at a rate Lth-t-(2.22+-0.14) to reheat the unbound merger-remnant material. These results suggest such neutron stars can survive the collapse to a black hole on timescales much larger than a few hundred milliseconds after the merger, and power the GRB itself through accretion. Bright thermal optical counterparts to binary merger gravitational wave sources may be common in future wide-field fast-cadence sky surveys.
+subjects: BNS, GRB, remnant, observation, thermal
+
+link: https://arxiv.org/abs/2211.05398
+title: Intense whistler-mode waves at foreshock transients: characteristics and regimes of wave-particle resonant interaction
+authors: Xiaofei Shi, Terry Liu, Anton Artemyev, Vassilis Angelopoulos, Xiao-Jia Zhang, Drew L. Turner
+topic: Thermalization and heating of plasma flows at shocks result in unstable charged-particle distributions which generate a wide range of electromagnetic waves. These waves, in turn, can further accelerate and scatter energetic particles. Thus, the properties of the waves and their implication for wave-particle interactions are critically important for modeling energetic particle dynamics in shock environments. Whistler-mode waves, excited by the electron heat flux or a temperature anisotropy, arise naturally near shocks and foreshock transients. As a result, they can often interact with supra-thermal electrons. The low background magnetic field typical at the core of such transients and the large wave amplitudes may cause such interactions to enter the nonlinear regime. In this study, we present a statistical characterization of whistler-mode waves at foreshock transients around Earth bow shock, as they are observed under a wide range of upstream conditions. We find that a significant portion of them are sufficiently intense and coherent to warrant nonlinear treatment. Copious observations of background magnetic field gradients and intense whistler wave amplitudes suggest that phase trapping, a very effective mechanism for electron acceleration in inhomogeneous plasmas, may be the cause. We discuss the implications of our findings for electron acceleration in planetary and astrophysical shock environments.
+subjects: PIC, MHD, plasma, statistics
+
+link: https://arxiv.org/abs/2211.05754
+title: External Inverse-Compton and Proton Synchrotron Emission from the Reverse Shock as the Origin of VHE Gamma-Rays from the Hyper-Bright GRB 221009A
+authors: B. Theodore Zhang, Kohta Murase, Kunihito Ioka, Deheng Song, Chengchao Yuan, Péter Mészáros
+topic: The detection of the hyper-bright gamma-ray burst (GRB) 221009A enables us to explore the nature of GRB emission and the origin of very-high-energy (VHE) gamma-rays. We analyze the Fermi-LAT data and investigate GeV-TeV emission in the framework of the external reverse shock model. We show that early 1-10 GeV emission can be explained by the external inverse-Compton mechanism via upscattering MeV gamma-rays by electrons accelerated at the reverse shock, in addition to the synchrotron self-Compton component. The predicted early optical flux could have been brighter than the naked-eye GRB 080319B. We also show that proton synchrotron emission from accelerated ultra-high-energy cosmic rays (UHECRs) is detectable, and could potentially explain TeV photons detected by LHAASO or UHECR acceleration can be constrained. Our model suggests that the detection of (10 TeV) photons with energy up to 18 TeV is possible for reasonable models of the extragalactic background light without invoking new physics, and predicts anti-correlations between MeV photons and TeV photons, which can be tested with the LHAASO data.
+subjects: GRB, reverse shock, model, VHE, CR
+
+link: https://arxiv.org/abs/2211.05250
+title: Needle in a Bayes Stack: a Hierarchical Bayesian Method for Constraining the Neutron Star Equation of State with an Ensemble of Binary Neutron Star Post-merger Remnants
+authors: Alexander w. Criswell, Jesse Miller, Noah Woldemariam, Theodoros Soultanis, Andreas Bauswein, Katerina Chatziioannou, Michael W. Coughlin, Galin Jones, Vuk Mandic
+topic: Binary neutron star (BNS) post-merger gravitational-wave emission can occur in the aftermath of a BNS merger -- provided the system avoids prompt collapse to a black hole -- as a quasistable hypermassive remnant experiences quadrupolar oscillations and non-axisymmetric deformations. The post-merger gravitational-wave spectrum possesses a characteristic peak frequency that has been shown to be dependent on the binary chirp mass and the neutron star equation of state (EoS), rendering post-merger gravitational waves a powerful tool for constraining neutron star composition. Unfortunately, the BNS post-merger signal is emitted at high (1.5 kHz) frequencies, where ground-based gravitational wave detectors suffer from reduced sensitivity. It is therefore unlikely that post-merger signals will be detected with sufficient signal-to-noise ratio (SNR) until the advent of next-generation detectors. However, by employing empirical relations derived from numerical relativity simulations, we can combine information across an ensemble of BNS mergers, allowing us to obtain EoS constraints with many low-SNR signals. We present a hierarchical Bayesian method for deriving constraints on R1.6, the radius of a 1.6Msun neutron star, through an ensemble analysis of binary neutron star mergers. We apply this method to simulations of the next two LIGO-Virgo-KAGRA observing runs, O4 and O5, as well as an extended 4-year run at A+ sensitivity, demonstrating the potential of our approach to yield EoS information from the post-merger signal with current-generation detectors. The A+ 4-year scenario is predicted to improve the constraint on R1.6 from the currently available multimessenger-based 95\% C.I. uncertainty of R1.6=12.07+0.98-0.77 km to R1.6=11.91+0.80-0.56 km, a 22% reduction of the 95% C.I. width.
+subjects: GW, MM, NS, EOS, bayesen
 
 link: https://arxiv.org/abs/2211.04662
 title: Back and Forth: Reverse Phase Transitions in Numerical Relativity Simulations
