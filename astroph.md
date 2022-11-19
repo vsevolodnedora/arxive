@@ -29,6 +29,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2211.07637
 title: Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation
 authors: Kenta Kiuchi, Sho Fujibayashi, Kota Hayashi, Koutarou Kyutoku, Yuichiro Sekiguchi, Masaru Shibata
