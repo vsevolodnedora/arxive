@@ -11,29 +11,59 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.11212
+title: Rapid radio brightening of GRB 210702A
+authors: G. E. Anderson, T. D. Russell, H. M. Fausey, A. J. van der Horst, P. J. Hancock, A. Bahramian, M. E. Bell, J. C. A. Miller-Jones, G. Rowell, M. W. Sammons, R. A. M. J. Wijers, T. J. Galvin, A. J. Goodwin, R. Konno, A. Rowlinson, S. D. Ryder, F. Schussler, S. J. Wagner, S. J. Zhu
+topic: We observed the rapid radio brightening of GRB 210702A with the Australian Telescope Compact Array (ATCA) just 11hr post-burst, tracking early-time radio variability over a 5hr period on 15min timescales at 9.0, 16.7, and 21.2GHz. A broken power-law fit to the 9.0GHz light curve showed that the 5hr flare peaked at a flux density of 0.4+/-0.1mJy at 13hr post-burst with a steep rise and decline. The observed temporal and spectral evolution are not expected in the standard internal-external shock model, where forward and reverse shock radio emission evolves on much longer timescales. The early-time (less 1day) optical and X-ray light curves from the Neil Gehrels Swift Observatory demonstrated typical afterglow forward shock behaviour, allowing us to use blast wave physics to determine a likely homogeneous circumburst medium and an emitting electron population power-law index of p=2.9+/-0.1. We suggest the early-time radio flare is likely due to weak interstellar scintillation (ISS), which boosted the radio afterglow emission above the ATCA sensitivity limit on minute timescales. Using weak ISS relations, we were able to place an upper limit on the size of the blast wave of ≤6×1016cm in the plane of the sky, which is consistent with the theoretical forward shock size prediction of 8x1016cm for GRB 210702A at 13h post-burst. This represents the earliest ISS size constraint on a GRB blast wave to date, demonstrating the importance of rapid (less 1day) radio follow-up of GRBs using several-hour integrations to capture the early afterglow evolution, and to track scintillation over a broad frequency range.
+subjects: GRB, afterglow, model
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.10510
+title: How does dark matter affect compact star properties and high density constraints of strongly interacting matter
+authors: Violetta Sagun, Edoardo Giangrandi, Oleksii Ivanytskyi, Costança Providência, Tim Dietrich
+topic: We study the impact of asymmetric bosonic dark matter on neutron star properties, including possible changes of tidal deformability, maximum mass, radius, and matter distribution inside the star. The conditions at which dark matter particles tend to condensate in the star's core or create an extended halo are presented. We show that dark matter condensed in a core leads to a decrease of the total gravitational mass and tidal deformability compared to a pure baryonic star, which we will perceive as an effective softening of the equation of state. On the other hand, the presence of a dark matter halo increases those observable quantities. Thus, observational data on compact stars could be affected by accumulated dark matter and, consequently, constraints we put on strongly interacting matter at high densities. To confirm the presence of dark matter in the compact star's interior, and to break the degeneracy between the effect of accumulated dark matter and strongly interacting matter properties at high densities, several astrophysical and GW tests are proposed.
+subjects: BNS, DM, EOS
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.10135
+title: Jet-environment interplay in magnetized binary neutron star mergers
+authors: Andrea Pavan, Riccardo Ciolfi, Jay Vijay Kalinani, Andrea Mignone
+topic: GRB 170817A, the first short gamma-ray burst (sGRB) to be detected in coincidence with a gravitational wave signal, demonstrated that merging binary neutron star (BNS) systems can power collimated ultra-relativistic jets and, in turn, produce sGRBs. Moreover, it revealed that sGRB jets possess an intrinsic angular structure that is imprinted in the observable prompt and afterglow emission. Advanced numerical simulations represent the leading approach to investigate the physical processes underlying the evolution of sGRB jets breaking out of post-merger environments, and thus connect the final angular structure and energetics with specific jet launching conditions. In a previous paper, we carried out the first three-dimensional (3D) special-relativistic hydrodynamic simulations of incipient (top-hat) sGRB jets propagating across the realistic environment resulting from a general-relativistic (GR) hydrodynamic BNS merger simulation. While the above work marked an important step toward a consistent end-to-end description of sGRB jets from BNS mergers, those simulations did not account for the presence of magnetic fields, which are expected to play a key role. Here, we overcome this limitation, reporting the first 3D special-relativistic magnetohydrodynamic (MHD) simulation of a magnetized (structured and rotating) sGRB jet piercing through a realistic magnetized post-merger environment, wherein the initial conditions of the latter are directly imported from the outcome of a previous GR-MHD BNS merger simulation.
+subjects: simulations, GRMHD, HD, jet
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2211.10036
+title: Prompt emission and early optical afterglow of VHE detected GRB 201015A and GRB 201216C: onset of the external forward shock
+authors: Amit Kumar Ror, Rahul Gupta, Martin Jelínek, Shashi Bhushan Pandey, A. J. Castro-Tirado, Y.-D. Hu, Alžběta Maleňáková, Jan Štrobl, Christina C. Thöne, René Hudec, Sergey Karpov, Amit Kumar, A. Aryan, S. R. Oates, E. Fernández-García, C. Pérez del Pulgar, M. D. Caballero-García, A. Castellón, I. M. Carrasco-García, I. Pérez-García, A. J. Reina Terol, F. Rendon
+topic: We present a detailed prompt emission and early optical afterglow analysis of the two very high energy (VHE) detected bursts GRB 201015A and GRB 201216C, and their comparison with a subset of similar bursts. Time-resolved spectral analysis of multi-structured GRB 201216C using the Bayesian binning algorithm revealed that during the entire duration of the burst, the low energy spectral index (alpha-pt) remained below the limit of the synchrotron line of death. However, statistically some of the bins supported the additional thermal component. Additionally, the evolution of spectral parameters showed that both peak energy (Ep) and alpha-pt tracked the flux. These results were further strengthened using the values of the physical parameters obtained by synchrotron modeling of the data. Our earliest optical observations of both bursts using FRAM-ORM and BOOTES robotic telescopes displayed a smooth bump in their early optical light curves, consistent with the onset of the afterglow due to synchrotron emission from an external forward shock. Using the observed optical peak, we constrained the initial bulk Lorentz factors of GRB 201015A and GRB 201216C to Gamma-0 = 204 and Gamma-0 = 310, respectively. The present early optical observations are the earliest known observations constraining outflow parameters and our analysis indicate that VHE-detected bursts could have a diverse range of observed luminosity within the detectable redshift range of present VHE facilities.
+subjects: GRB, observations, prompt, model, VHE 
+
+link: https://arxiv.org/abs/2211.09635
+title: The role of the magnetic fields in GRB outflows
+authors: N. Jordana-Mitjans, C. G. Mundell, S. Kobayashi, R. J. Smith, C. Guidorzi, I. A. Steele, M. Shrestha, A. Gomboc, M. Marongiu, R. Martone, V. Lipunov, E. S. Gorbovskoy, D. A. H. Buckley, R. Rebolo, N. M. Budnev
+topic: Gamma-ray bursts (GRBs) are bright extragalactic flashes of gamma-ray radiation and briefly the most energetic explosions in the Universe. Their catastrophic origin (the merger of compact objects or the collapse of massive stars) drives the formation of a newborn compact remnant (black hole or magnetar) that powers two highly relativistic jets. To distinguish between magnetized and baryonic jet models and ultimately determine the power source for these energetic explosions, our team studies the polarization of the light during the first minutes after the explosion (using novel instruments on fully autonomous telescopes around the globe) to directly probe the magnetic field properties in these extragalactic jets. This technology allowed the detection of highly polarized optical light in GRB 120308A and confirmed the presence of mildly magnetized jets with large-scale primordial magnetic fields in a reduced sample of GRBs (e.g. GRB 090102, GRB 110205A, GRB 101112A, GRB 160625B). Here we discuss the observations of the most energetic and first GRB detected at very high TeV energies, GRB 190114C, which opens a new frontier in GRB magnetic field studies suggesting that some jets can be launched highly magnetized and that the collapse and destruction of these magnetic fields at very early times may have powered the explosion itself. Additionally, our most recent polarimetric observations of the jet of GRB 141220A indicate that, when the jetted ejected material is decelerated by the surrounding environment, the magnetic field amplification mechanisms at the front shock (needed to generate the observed synchrotron emission) produce small magnetic domains. These measurements validate theoretical expectations and contrast with previous observations that suggest large magnetic domains in collisionless shocks (i.e. GRB 091208B).
+subjects: GRB, MF, review, summary
+
+link: https://arxiv.org/abs/2211.09449
+title: Multi-Messenger Observability of Neutron Star Binary System
+authors: Jeshwanth Mohan
+topic: As technology has improved, binary neutron star systems have been observed more frequently, in fact, the first gravitational wave to have an electromagnetic counterpart originated from the merger of two neutron stars (GW170817). Detecting these systems prior to merger may help recover essential data for developing an Equation of State for neutron stars. This paper examines the observability of detached eclipsing binary neutron stars prior to merger by simulating the potential observability of neutron star systems in the optical. It is found that it is not likely considering current instruments due to low visibility and inadequate time resolution, however, improvements in the future or a wide field X-ray instrument may offer a viable option for detecting these systems.
+subjects: prospects, BNS, inspiral
+
+link: https://arxiv.org/abs/2211.09135
+title: The collimation of relativistic jets in post-neutron star binary merger simulations
+authors: Matteo Pais, Tsvi Piran, Yuri Lyubarsky, Kenta Kiuchi, Masaru Shibata
+topic: The gravitational waves from the binary neutron star merger GW170817 were accompanied by a multi-wavelength electromagnetic counterpart, which confirms the association of the merger with a short gamma-ray burst (sGRB). The afterglow observations implied that the event was accompanied by a narrow, 5 deg, and powerful, 1050 erg, jet. We study the propagation of a Poynting flux-dominated jet within the merger ejecta (kinematic, neutrino-driven and MRI turbulence-driven) of a neutrino-radiation-GR-MHD simulation of two coalescing neutron stars. We find that the presence of a post-merger low-density/low-pressure polar cavity, that arose due to angular momentum conservation, is crucial to let the jet break out. At the same time the ejecta collimates the jet to a narrow opening angle. The collimated jet has a narrow opening angle of 4-7 deg and an energy of 1049-1050 erg, in line with the observations of GW170817 and other sGRBs.
+subjects: simulations, GRHD, analytic, postprocessing
+
+link: https://arxiv.org/abs/2211.07669
+title: Hybrid Pulsar-Magnetar Model for FRB 20191221A
+authors: Paz Beniamini, Pawan Kumar
+topic: We show that the 216.8-0.1 ms periodicity reported for the fast radio burst (FRB) 20191221A is very constraining for burst models. The high accuracy of burst periodicity (better than one part in 103), and the 2\% duty cycle (ratio of burst-duration and inter-burst interval), suggest a pulsar-like rotating beam model for the observed activity; the radio waves are produced along open field lines within 107 cm of the neutron star surface, and the beam periodically sweeps across the observer as the star spins. According to this picture, FRB 20191221A is a factor 1012 scaled up version of galactic pulsars with one major difference: whereas pulsars convert rotational kinetic energy to EM waves, the outbursts of 20191221A require conversion of magnetic energy to radiation.
+subjects: FRB, EM, model, observation
+
+link: https://arxiv.org/abs/2211.07656
+title: Magnetically driven coupling in relativistic radiation-mediated shocks
+authors: J. F. Mahlmann (1), A. Vanthieghem (1, 2), A. A. Philippov (3), A. Levinson (4), E. Nakar (4), F. Fiuza 
+topic: The radiation drag in photon-rich environments of cosmic explosions can seed kinetic instabilities by inducing velocity spreads between relativistically streaming plasma components. Such microturbulence is likely imprinted on the breakout signals of radiation-mediated shocks. However, large-scale, transverse magnetic fields in the deceleration region of the shock transition can suppress the dominant kinetic instabilities by preventing the development of velocity separations between electron-positron pairs and a heavy ion species. We use a one-dimensional (1D) five-fluid radiative transfer code to generate self-consistent profiles of the radiation drag force and plasma composition in the deceleration region. For increasing magnetization, our models predict rapidly growing pair multiplicities and a substantial radiative drag developing self-similarly throughout the deceleration region. We extract the critical magnetization parameter sigma-c, determining the limiting magnetic field strength at which a three-species plasma can develop kinetic instabilities before reaching the isotropized downstream. For a relativistic, single ion plasma drifting with gamma-u=10 in the upstream of a relativistic radiation-mediated shock, we find the threshold sigma c=10-7 for the onset of microturbulence. Suppression of plasma instabilities in the case of multi-ion composition would likely require much higher values of sigma-c. Identifying high-energy signatures of microturbulence in shock-breakout signals and combining them with the magnetization limits provided in this work will allow a deeper understanding of the magnetic environment of cosmic explosions like supernovae, gamma-ray bursts, and neutron star binary mergers.
+subjects: PIC, 1D, shock, MF
 
 link: https://arxiv.org/abs/2211.07637
 title: Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation
