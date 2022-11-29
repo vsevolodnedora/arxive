@@ -23,6 +23,66 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2211.14433
+title: Electromagnetic draping of merging neutron stars
+authors: Maxim Lyutikov (Purdue University)
+topic: We first derive a set of equations describing general stationary configurations of relativistic force-free plasma, without assuming any geometric symmetries. We then demonstrate that electromagnetic interaction of merging neutron stars is necessarily dissipative due to the effect of electromagnetic draping - creation of dissipative regions near the star (in the single-magnetized case) or at the magnetospheric boundary (in the double-magnetized case). Our results indicate that even in the single magnetized case we expect that relativistic jets (or tongues) are produced, with correspondingly beamed emission pattern.
+subjects: NS, Magnetar, model
+
+link: https://arxiv.org/abs/2211.14348
+title: The critical role of nuclear heating rates, thermalization efficiencies and opacities for kilonova modelling and parameter inference
+authors: Mattia Bulla
+topic: We present an improved version of the 3D Monte Carlo radiative transfer code POSSIS to model kilonovae from neutron star mergers, wherein nuclear heating rates, thermalization efficiencies and wavelength-dependent opacities depend on local properties of the ejecta and time. Using an axially-symmetric two-component ejecta model, we explore how simplistic assumptions on heating rates, thermalization efficiencies and opacities often found in the literature affect kilonova spectra and light curves. Specifically, we compute five models: one (𝙵𝙸𝙳𝚄𝙲𝙸𝙰𝙻) with an appropriate treatment of these three quantities, one (𝚂𝙸𝙼𝙿𝙻𝙴-𝙷𝙴𝙰𝚃) with uniform heating rates throughout the ejecta, one (𝚂𝙸𝙼𝙿𝙻𝙴-𝚃𝙷𝙴𝚁𝙼) with a constant and uniform thermalization efficiency, one (𝚂𝙸𝙼𝙿𝙻𝙴-𝙾𝙿𝙰𝙲) with grey opacities and one (𝚂𝙸𝙼𝙿𝙻𝙴-𝙰𝙻𝙻) with all these three simplistic assumptions combined. We find that deviations from the 𝙵𝙸𝙳𝚄𝙲𝙸𝙰𝚕 model are of several (1-10) magnitudes and are generally larger for the 𝚂𝙸𝙼𝙿𝙻𝙴-𝙾𝙿𝙰𝙲 and 𝚂𝙸𝙼𝙿𝙻𝙴-𝙰𝙻𝙻 compared to the 𝚂𝙸𝙼𝙿𝙻𝙴-𝚃𝙷𝙴𝚁𝙼 and 𝚂𝙸𝙼𝙿𝙻𝙴-𝙷𝙴𝙰𝚃 models. The discrepancies generally increase from a face-on to an edge-on view of the system, from early to late epochs and from infrared to ultraviolet/optical wavelengths. Our work indicates that kilonova studies using either of these simplistic assumptions ought to be treated with caution and that appropriate systematic uncertainties ought to be added to kilonova light curves when performing inference on ejecta parameters.
+subjects: Kilonova, model, case study
+
+link: https://arxiv.org/abs/2211.14200
+title: Constraints on the Model of Gamma-ray Bursts and Implications from GRB 221009A: GeV gamma rays v.s. High-energy Neutrinos
+authors: Ruo-Yu Liu, Hai-Ming Zhang, Xiang-Yu Wang
+topic: Gamma-ray bursts (GRB) are generally believed to be efficient particle accelerators. In the presence of energetic protons in a GRB jet, interactions between these protons and intense radiation field of the GRB are supposed to induce electromagnetic cascade. Electrons/positrons generated in the cascade will produce an additional spectrum of robust feature, which is in the form of a power-law distribution up to GeV regime with an index of 2. We suggest that measurements of Fermi-LAT at GeV band can provide independent constraints on the key GRB model parameters such as the dissipation radius, the jet's bulk Lorentz factor, and the baryon loading factor. Taking GRB 221009A, the brightest GRB ever detected, as an example, we show that the constraints from GeV gamma-ray emission may be more stringent than that from the neutrino observation, providing us a deep insight into the origin of GRBs.
+subjects: GRB, VHE, model, prompt
+
+link: https://arxiv.org/abs/2211.13992
+title: Electron acceleration at supernova remnants
+authors: Artem Bohdan
+topic: Supernova remnants (SNRs) are believed to produce the majority of galactic cosmic rays (CRs). SNRs harbor non-relativistic collisionless shocks responsible for acceleration of CRs via diffusive shock acceleration (DSA), in which particles gain their energies via repeated interactions with the shock front. As the DSA theory involves pre-existing mildly energetic particles, a means of pre-acceleration is required, especially for electrons. Electron injection remains one of the most troublesome and still unresolved issues and our physical understanding of it is essential to fully comprehend the physics of SNRs. To study any electron-scale phenomena responsible for pre-acceleration, we require a method capable of resolving these small kinetic scales and Particle-in-cell (PIC) simulations fulfill this criterion. Here I report on the latest achievements made by utilising kinetic simulations of non-relativistic high Mach number shocks. I discuss how the physics of SNR shocks depend on the shock parameters (e.g., the shock obliquity, Mach numbers, the ion-to-electron mass ratio) as well as processes responsible for the electron heating and acceleration.
+subjects: review, SNR, shock, acceleration, synchrotron
+
+link: https://arxiv.org/abs/2211.13661
+title: Crustal magnetic fields do not lead to magnetar-strength amplifications in binary neutron-star mergers
+authors: Michail Chabanov, Samuel D. Tootle, Luciano Rezzolla
+topic: The amplification of magnetic fields plays an important role in explaining numerous astrophysical phenomena associated with binary neutron-star mergers, such as mass ejection and the powering of short gamma-ray bursts. Magnetic fields in isolated neutron stars are often assumed to be confined to a small region near the stellar surface, while they are normally taken to fill the whole stars in the numerical modelling. By performing high-resolution, global, and high-order general-relativistic magnetohydrodynamic simulations we investigate the impact of a purely crustal magnetic field and contrast it with the standard configuration consisting of a dipolar magnetic field with the same magnetic energy but filling the whole star. While the crust-configurations are very effective in generating strong magnetic fields during the Kelvin-Helmholtz-instability stage, they fail to achieve the same level of magnetic-field amplification of the full-star configurations. This is due to the lack of magnetized material in the neutron-star interiors to be used for further turbulent amplification and to the surface losses of highly magnetized matter in the crust-configurations. Hence, the final magnetic energies in the two configurations differ by more than one order of magnitude. We briefly discuss the impact of these results on astrophysical observables and how they can be employed to deduce the magnetic topology in merging binaries.
+subjects: GRMHD, simulation, NS, model
+
+link: https://arxiv.org/abs/2211.12876
+title: Density jump for oblique collisionless shocks in pair plasmas: allowed solutions
+authors: Antoine Bret, Ramesh Narayan
+topic: Shockwaves in plasma are usually dealt with using Magnetohydrodynamics (MHD). Yet, MHD entails the assumption of a short mean free path, which is not fulfilled in a collisionless plasma. Recently, for pair plasmas, we devised a model allowing to account for kinetic effects within an MHD-like formalism. Its relies on an estimate of the anisotropy generated when crossing the front, with a subsequent assessment of the stability of this anisotropy in the downstream. We solved our model for parallel, perpendicular and switch-on shocks. Here we bridge between all these cases by treating the problem of an arbitrarily, but coplanar, oriented magnetic field. Even though the formalism presented is valid for anisotropic upstream temperatures, only the case of a cold upstream is solved. We find extra solutions which are not part of the MHD catalog, and a density jump that is notably less in the quasi parallel, highly magnetized, regime. Given the complexity of the calculations, this work is mainly devoted to the presentation of the mathematical aspect of our model. A forthcoming article will be devoted to the physics of the shocks here defined.
+subjects: PIC, simulations, MHD, shock
+
+link: https://arxiv.org/abs/2211.12945
+title: On the hysteresis effect in transitions between accretion and propeller regimes
+authors: Sercan Çıkıntoğlu, K. Yavuz Ekşi
+topic: Some observations and numerical simulations of disc-magnetosphere interaction show that accretion can proceed in the propeller regime. When the Alfvén radius is beyond the corotation radius, matter climbs up to the high latitudes where the Alfvén surface is inside the equilibrium surface and can accrete. We calculate the fraction of the mass flux in the disc that can accrete onto the neutron star depending on the fastness parameter and the inclination angle between rotation and magnetic axis. We find that, for a narrow range of the fastness parameter, the Alfvén and the equilibrium surfaces intersect at two different critical latitudes. While the system is transiting from the propeller to the accretion regime (the initial rise of an outburst), accretion proceeds from the region above the higher critical latitude. In transitions from the accretion to the propeller regime (decay of the outburst), accretion of matter can proceed from the disc midplane. As a result, the transition from the propeller to the accretion regime occurs at a luminosity higher than the transition from the accretion to the propeller regime. We discuss the implications of our results for spectral transitions exhibited by low-mass X-ray binaries.
+subjects: 
+
+link: https://arxiv.org/abs/2211.12726
+title: The Effects of Gas Angular Momentum on Forming Magnetically Arrested Disks and Launching Powerful Jets
+authors: Tom M. Kwan, Lixin Dai, Alexander Tchekhovskoy
+topic: In this Letter, we investigate jet-launching abilities of Bondi-like accretion flows with zero or low specific angular momentum by performing 3D general relativistic magnetohydrodynamic simulations. In order to check if relativistic jets can be launched magnetically, we thread the accretion flow with large-scale poloidal magnetic field, and choose a rapidly spinning black hole. We demonstrate that the magnitude of the initial gas specific angular momentum primarily controls whether the disk can reach and sustain the magnetically arrested disk (MAD) state that launches very powerful jets, at 100\% energy efficiency. We find that MAD forms in the presence of even a very small amount of specific angular momentum, and episodic jets with an average energy efficiency of 10\% can still form even when the gas has zero initial angular momentum. Our results give plausible explanations to why jets can be produced from various astrophysical systems that lack large gas specific angular momenta, such as Sgr A, wind-fed X-ray binaries, tidal disruption events, and long-duration gamma-ray bursts.
+subjects: GRB, jet, laynching, simulation, GRMHD
+
+link: https://arxiv.org/abs/2211.12477
+title: Polarization From A Radially Stratified Off-Axis GRB Outflow
+authors: A. C. Caligula do E. S. Pedreira, N. Fraija, A. Galvan-Gamez, B. Betancourt Kamenetskaia, S. Dichiara, M. G. Dainotti, R. L. Becerra, P. Veres
+topic: While the dominant radiation mechanism gamma-ray bursts (GRBs) remains a question of debate, synchrotron emission is one of the foremost candidates to describe the multi-wavelength afterglow observations. As such, it is expected that GRBs should present some degree of polarization across their evolution - presenting a feasible means of probing these bursts' energetic and angular properties. Although obtaining polarization data is difficult due to the inherent complexities regarding GRB observations, advances are being made, and theoretical modeling of synchrotron polarization is now more relevant than ever. In this manuscript, we present the polarization for a fiduciary model where the synchrotron forward-shock emission evolving in the radiative-adiabatic regime is described by a radially stratified off-axis outflow. This is parameterized with a power-law velocity distribution and decelerated in a constant-density and wind-like external environment. We apply this theoretical polarization model for selected bursts presenting evidence of off-axis afterglow emission, including the nearest orphan GRB candidates observed by the Neil Gehrels Swift Observatory and a few Gravitational Wave (GWs) events that could generate electromagnetic emission. In the case of GRB 170817A, we require the available polarimetric upper limits in radio wavelengths to constrain its magnetic field geometry.
+subjects: GRB, polarization, model
+
 link: https://arxiv.org/abs/2211.11212
 title: Rapid radio brightening of GRB 210702A
 authors: G. E. Anderson, T. D. Russell, H. M. Fausey, A. J. van der Horst, P. J. Hancock, A. Bahramian, M. E. Bell, J. C. A. Miller-Jones, G. Rowell, M. W. Sammons, R. A. M. J. Wijers, T. J. Galvin, A. J. Goodwin, R. Konno, A. Rowlinson, S. D. Ryder, F. Schussler, S. J. Wagner, S. J. Zhu
