@@ -29,6 +29,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2211.14433
 title: Electromagnetic draping of merging neutron stars
 authors: Maxim Lyutikov (Purdue University)
