@@ -23,6 +23,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2212.01409
 title: A Finite Element Method for Angular Discretization of the Radiation Transport Equation on Spherical Geodesic Grids
 authors: Maitraya K Bhattacharyya, David Radice
