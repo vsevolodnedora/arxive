@@ -5,29 +5,59 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2212.06058
+title: Striped Jets in Post Neutron Star Merger Systems
+authors: Emma Kaufman, I.M. Christie, A. Lalakos, A. Tchekhovskoy, D. Giannios
+topic: Models invoking magnetic reconnection as the particle acceleration mechanism within relativistic jets often adopt a gradual energy dissipation profile within the jet. However, such a profile has yet to be reproduced in first-principles simulations. Here, we perform a suite of 3D general relativistic magnetohydrodynamic simulations of post-neutron star merger disks with an initially purely toroidal magnetic field. We explore the variations in both the microphysics (e.g., nuclear recombination, neutrino emission) and system parameters (e.g., disk mass). In all our simulations, we find the formation of magnetically striped jets. The stripes result from the reversals in the poloidal magnetic flux polarity generated in the accretion disk. The simulations display large variations in the distributions of stripe duration, tau, and power, ⟨Pphi⟩. We find that more massive disks produce more powerful stripes, the most powerful of which reaches []. The power and variability that result from the magnetic reconnection of the stripes agree with those inferred in short duration gamma-ray bursts. We find that the dissipation profile of the cumulative energy is roughly a power-law in both radial distance, z, and τ, with the slope in the range, 1.7-3; more massive disks display larger slopes.
+subjects: GRB, jet, MHD, simulation
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2212.06053
+title: Relativistic Collisionless Shocks in Inhomogeneous Magnetized Plasmas
+authors: Camilia Demidem, Joonas Nättilä, Alexandra Veledina
+topic: Relativistic collisionless shocks are associated with efficient particle acceleration when propagating into weakly magnetized homogeneous media; as the magnetization increases, particle acceleration becomes suppressed. We demonstrate that this changes when the upstream carries kinetic-scale inhomogeneities, as is often the case in astrophysical environments. We use fully-kinetic simulations to study relativistic perpendicular shocks in magnetized pair plasmas interacting with upstream density perturbations. The upstream fluctuations are found to corrugate the shock front and generate large-scale turbulent shear motions in the downstream, which in turn are capable of accelerating particles. This can revive relativistic magnetized shocks as viable energization sites in astrophysical systems, such as jets and accretion disks. The generation of large-scale magnetic structures also has important implications for polarization signals from blazars.
+subjects: PIC, simulation, shock, MHD
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2212.05628
+title: Studying Postmerger Outflows from Magnetized Neutrino-cooled Accretion Disks
+authors: Fatemeh Hossein Nouri, Agnieszka Janiuk, Małgorzata Przerwa
+topic: Neutrino-cooled accretion flow around a spinning black hole, produced by a compact binary merger is a promising scenario for jet formation and launching magnetically-driven outflows. Based on GW170817 gravitational wave detection by LIGO and Virgo observatories followed by electromagnetic counterparts, this model can explain the central engine of the short duration gamma ray bursts (GRB) and kilonova radiations. Using the open-source GRMHD HARM-COOL code, we evolved several 2D magnetized accretion disk-black hole models with realistic equation of state in the fixed curved space-time background. We applied particle tracer technique to measure the properties of the outflows. The disk and black hole's initial parameters are chosen in a way to represent different possible post-merger scenarios of the merging compact objects. Our simulations show a strong correlation between black hole's spin and ejected mass. Generally, mergers producing massive disks and rapidly spinning black holes launch stronger outflows. We observed our models generate winds with moderate velocity (v/c-0.1−0.2), and broad range of electron fraction. We use these results to estimate the luminosity and light curves of possible radioactively powered transients emitted by such systems. We found the luminosity peaks within the range of 1040-1042 erg/s which agrees with previous studies for disk wind outflows.
+subjects: MHD, simulation, BH, disk, accretion
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2212.05085
+title: Simultaneous Radio and Optical Polarimetry of GRB 191221B Afterglow
+authors: Yuji Urata, Kenji Toma, Stefano Covino, Klaas Wiersema, Kuiyun Huang, Jiro Shimoda, Asuka Kuwata, Sota Nagao, Keiichi Asada, Hiroshi Nagai, Satoko Takahashi, Chao-En Chung, Glen Petitpas, Kazutaka Yamaoka, Luca Izzo, Johan Fynbo, Antonio de Ugarte Postigo, Maryam Arabsalmani, Makoto Tashiro
+topic: Gamma-ray bursts (GRBs) are the most luminous transients in the universe and are utilized as probes of early stars, gravitational wave counterparts, and collisionless shock physics. In spite of studies on polarimetry of GRBs in individual wavelengths that characterized intriguing properties of prompt emission and afterglow, no coordinated multi-wavelength measurements have yet been performed. Here, we report the first coordinated simultaneous polarimetry in the optical and radio bands for the afterglow associated with the typical long GRB 191221B. Our observations successfully caught the radio emission, which is not affected by synchrotron self-absorption, and show that the emission is depolarized in the radio band compared to the optical one. Our simultaneous polarization angle measurement and temporal polarization monitoring indicate the existence of cool electrons that increase the estimate of jet kinetic energy by a factor of > 4 for this GRB afterglow. Further coordinated multi-wavelength polarimetric campaigns would improve our understanding of the total jet energies and magnetic field configurations in the emission regions of various types of GRBs, which are required to comprehend the mass scales of their progenitor systems and the physics of collisionless shocks.
+subjects: GRB, polarization, observation
+
+link: https://arxiv.org/abs/2212.04507
+title: Actinide-boosting r Process in Black Hole-Neutron Star Merger Ejecta
+authors: Shinya Wanajo, Sho Fujibayashi, Kota Hayashi, Kenta Kiuchi, Yuichiro Sekiguchi, Masaru Shibata
+topic: We examine nucleosynthesis in the ejecta of black hole-neutron star mergers based on the results of self-consistent, long-term neutrino-radiation-magnetohydrodynamics simulations for the first time. We find that the combination of dynamical and post-merger ejecta reproduces a solar-like r-process pattern. Moreover, the enhancement level of actinides is highly sensitive to the distribution of both electron fraction and the velocity of the dynamical ejecta. Our result implies that the mean electron fraction of dynamical ejecta should be  0.05-0.08 in order to reconcile the nucleosynthetic abundances with those in r-process-enhanced, actinide-boosted stars. This result provides an important constraint for nuclear equations of state.
+subjects: GRMHD, r-process, nucleo, model
+
+link: https://arxiv.org/abs/2212.04428
+title: An analysis of the effect of data processing methods on magnetic propeller models in short GRBs
+authors: Tomos R. L. Meredith, Graham A. Wynn, Philip A. Evans
+topic: We present analysis of observational data from the Swift Burst Analyser for a sample of 15 short gamma-ray bursts with extended emission (SGRBEEs) which have been processed such that error propagation from Swift's count-rate-to-flux conversion factor is applied to the flux measurements. We apply this propagation to data presented by the Burst Analyser at 0.3-10 keV and also at 15-50 keV, and identify clear differences in the morphologies of the light-curves in the different bands. In performing this analysis with data presented at both 0.3-10 keV, at 15-50 keV, and also at a combination of both bands, we highlight the impact of extrapolating data from their native bandpasses on the light-curve. We then test these data by fitting to them a magnetar-powered model for SGRBEEs, and show that while the model is consistent with the data in both bands, the model's derived physical parameters are generally very loosely constrained when this error propagation is included and are inconsistent across the two bands. In this way, we highlight the importance of the Swift data processing methodology to the details of physical model fits to SGRBEEs.
+subjects: GRB, observations, magnetar
+
+link: https://arxiv.org/abs/2212.03972
+title: The Physics of Fast Radio Bursts
+authors: Bing Zhang 
+topic: Fast radio bursts (FRBs), millisecond-duration bursts prevailing in the radio sky, are the latest big puzzle in the universe and have been a subject of intense observational and theoretical investigations in recent years. The rapid accumulation of the observational data has painted the following sketch about the physical origin of FRBs: They predominantly originate from cosmological distances so that their sources produce the most extreme coherent radio emission in the universe; at least some, probably most, FRBs are repeating sources that do not invoke cataclysmic events; and at least some FRBs are produced by magnetars, neutron stars with the strongest magnetic fields in the universe. Many open questions regarding the physical origin(s) and mechanism(s) of FRBs remain. This article reviews the phenomenology and possible underlying physics of FRBs. Topics include: a summary of the observational data, basic plasma physics, general constraints on FRB models from the data, radiation mechanisms, source and environment models, propagation effects, as well as FRBs as cosmological probes. Current pressing problems and future prospects are also discussed.
+subjects: review, FRB
+
+link: https://arxiv.org/abs/2212.03295
+title: Central engine of GRB170817A: Neutron star versus Kerr black hole based on multimessenger calorimetry and event timing
+authors: Maurice H.P.M. van Putten, Massimo Della Valle
+topic: The central engine of GRB170817A post-merger to GW170817 is probed by GW-calorimetry and event timing, applied to a post-merger descending chirp which can potentially break the degeneracy in spin-down of a neutron star or black hole remnant by the relatively large energy reservoir in the angular momentum, EJ, of the latter according to the Kerr metric. This analysis derives from model-agnostic spectrograms with equal sensitivity to ascending and descending chirps generated by time-symmetric butterfly matched filtering. The sensitivity was calibrated by response curves generated by software injection experiments. The statistical significance for candidate emission from the central engine of GRB170817A is expressed by probabilities of false alarm (PFA; type I errors) derived from an event-timing analysis. PDFs were derived for start-time ts, identified via high-resolution image analyses of the available spectrograms. For merged (H1,L1)-spectrograms of the LIGO detectors, a PFA p1 derives from causality in ts given GW170817-GRB17081A. A statistically independent confirmation is presented in individual H1 and L1 analyses, in a second PFA p2 of consistency in their respective observations of ts. A combined PFA derives from their product since mean and (respectively) difference in timing are statistically independent. Applied to GW170817-GRB170817A, PFAs of event timing in ts produce p1=8.3x10−4 and p2=4.9x10−5 of a post-merger output EGW=3.5 Msun c2 (p1p2=4.1x10−8, equivalent Z-score 5.48). EGW exceeds EJ of the hyper-massive neutron star in the immediate aftermath of GW170817, yet it is consistent with EJ rejuvenated in delayed gravitational collapse to a Kerr black hole. Similar emission may be expected from energetic core-collapse supernovae producing black holes. (Abbr.)
+subjects: GW, statistics, data analysis
+
+link: https://arxiv.org/abs/2212.03226
+title: Particle acceleration in shearing flows: the self-generation of turbulent spine-sheath structures in relativistic MHD jet simulations
+authors: Jie-Shuang Wang, Brian Reville, Yosuke Mizuno, Frank M. Rieger, Felix A. Aharonian
+topic: X-ray observations of several kiloparsec-scale extragalactic jets favour a synchrotron origin. The short cooling times of the emitting electrons requires distributed acceleration of electrons up to sub-PeV energies. In a previous paper, we found that this can be self-consistently explained by a shear acceleration model, where particles are accelerated to produce power-law spectra with a spectral index being determined mainly by the velocity profile and turbulence spectrum. In this paper, we perform 3D relativistic magneto-hydrodynamic simulations to investigate the formation of a spine-sheath structure and the development of turbulence for a relativistic jet propagating into a static cocoon. We explore different spine velocities and magnetic field profiles with values being chosen to match typical Fanaroff-Riley type I/II jets. We find that in all cases a sheath is generated on the interface of the spine and the cocoon mainly due to the Kelvin-Helmholtz instability. The large scale velocity profile in the sheath is close to linear. Turbulence develops in both the spine and the sheath, with a turbulent velocity spectrum consistent with Kolmogorov-scaling. The implications for shear particle acceleration are explored, with a focus on the particle spectral index.
+subjects: jet, MHD, simulation
 
 link: https://arxiv.org/abs/2212.01409
 title: A Finite Element Method for Angular Discretization of the Radiation Transport Equation on Spherical Geodesic Grids
