@@ -5,6 +5,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2212.06058
 title: Striped Jets in Post Neutron Star Merger Systems
 authors: Emma Kaufman, I.M. Christie, A. Lalakos, A. Tchekhovskoy, D. Giannios
