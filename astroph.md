@@ -11,6 +11,12 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
 link: https://arxiv.org/abs/2301.04307
 title: Accretion of supersonic magnetized winds onto black holes
 authors: Miguel Gracia-Linares, Francisco S. Guzmán
