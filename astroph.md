@@ -11,6 +11,72 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2301.10019
+title: Inference of proto-neutron star properties in core-collapse supernovae from a gravitational-wave detector network
+authors: T. Bruel, M-A. Bizouard, M. Obergaulinger, P. Maturana-Russel, A. Torres-Forné, P. Cerdá-Durán, N. Christensen, J. A. Font, R. Meyer
+topic: The next Galactic core-collapse supernova (CCSN) will be a unique opportunity to study within a fully multi-messenger approach the explosion mechanism responsible for the formation of neutron stars and stellar-mass black holes. State-of-the-art numerical simulations of those events reveal the complexity of the gravitational-wave emission which is highly stochastic. This challenges the possibility to infer the properties of the compact remnant and of its progenitor using the information encoded in the waveforms. In this paper we take further steps in a program we recently initiated to overcome those difficulties. In particular we show how oscillation modes of the proto-neutron star, highly visible in the gravitational-wave signal, can be used to reconstruct the time evolution of their physical properties. Extending our previous work where only the information from a single detector was used we here describe a new data-analysis pipeline that coherently combines gravitational-wave detectors' data and infers the time evolution of a combination of the mass and radius of the compact remnant. The performance of the method is estimated employing waveforms from 2D and 3D CCSN simulations covering a progenitor mass range between 11Msun\, and 40Msun\, and different equations of state for both a network of up to five second-generation detectors and the proposed third-generation detectors Einstein Telescope and Cosmic Explorer. Our study shows that it will be possible to infer PNS properties for CCSN events occurring in the vicinity of the Milky Way, up to the Large Magellanic Cloud, with the current generation of gravitational-wave detectors.
+subjects: GW, SNe
+
+link: https://arxiv.org/abs/2301.09672
+title: Pre/post-merger consistency test for gravitational signals from binary neutron star mergers
+authors: Matteo Breschi, Gregorio Carullo, Sebastiano Bernuzzi
+topic: Gravitational waves from binary neutron star (BNS) mergers can constrain nuclear matter models predicting the neutron star's equation of state (EOS). Matter effects on the inspiral-merger signal are encoded in the multipolar tidal polarizability parameters, whose leading order combination is sufficient to capture to high accuracy the key features of the merger waveform (e.g.~the merger frequency). Similar EOS-insensitive relations exist for the post-merger signal and can be used to model the emission from the remnant. Several works suggested that the appearance of new degrees of freedom or phase transitions in high-density post-merger matter can be inferred by observing a violation of these EOS-insensitive relations. Here, we demonstrate a Bayesian method to test such an EOS-insensitive relation between the tidal polarizability parameters (or any other equivalent parameter) and the dominant post-merger frequency, using information either up to merger or from the post-merger signal. Technically, the method is similar to tests of General Relativity with binary black holes that verify the inspiral-merger-ringdown consistency. However, differently from the latter, BNS pre/post-merger consistency tests are conceptually less informative and they only address the consistency (or the breaking) of the assumed EOS-insensitive relation. Specifically, we discuss how such tests cannot conclusively discriminate between an EOS not respecting such relation and the appearance of new degrees of freedom (or phase transitions) in high-density matter.
+subjects: GWs
+
+link: https://arxiv.org/abs/2301.08763
+title: Neutron star-black hole mergers in next generation gravitational-wave observatories
+authors: Ish Gupta, Ssohrab Borhanian, Arnab Dhani, Debatri Chattopadhyay, Rahul Kashyap, V. Ashley Villar, B.S. Sathyaprakash
+topic: Observations by the current generation of gravitational-wave detectors have been pivotal in expanding our understanding of the universe. Although tens of exciting compact binary mergers have been observed, neutron star-black hole (NSBH) mergers remained elusive until they were first confidently detected in 2020. The number of NSBH detections is expected to increase with sensitivity improvements of the current detectors and the proposed construction of new observatories over the next decade. In this work, we explore the NSBH detection and measurement capabilities of these upgraded detectors and new observatories using the following metrics: network detection efficiency and detection rate as a function of redshift, distributions of the signal-to-noise ratios, the measurement accuracy of intrinsic and extrinsic parameters, the accuracy of sky position measurement, and the number of early-warning alerts that can be sent to facilitate the electromagnetic follow-up. Additionally, we evaluate the prospects of performing multi-messenger observations of NSBH systems by reporting the number of expected kilonova detections with the Vera C. Rubin Observatory and the Nancy Grace Roman Space Telescope. We find that as many as (10) kilonovae can be detected by these two telescopes every year, depending on the population of the NSBH systems and the equation of state of neutron stars.
+subjects: NSHM, prospects, observations
+
+link: https://arxiv.org/abs/2301.09635
+title: General Relativistic Simulations of High-Mass Binary Neutron Star Mergers: rapid formation of low-mass stellar black holes
+authors: Kutay A. Çokluk, Kadri Yakut, Bruno Giacomazzo
+topic: Almost 100 compact binary mergers have been detected via gravitational waves by the LIGO-Virgo-KAGRA collaboration in the past few years providing us with a significant amount of new information on black holes and neutron stars. In addition to observations, numerical simulations using newly developed modern codes in the field of gravitational wave physics will guide us to understand the nature of single and binary degenerate systems and highly energetic astrophysical processes. We here present a set of new fully general relativistic hydrodynamic simulations of high-mass binary neutron star systems performed with the publicly available Einstein Toolkit and LORENE codes. We considered systems with a total baryonic mass between 2.8 Msun and 4.0 Msun and we adopted the SLy equation of state. For all models we analyzed the gravitational wave signal and we report potential indicators of the systems undergoing rapid collapse into a black hole that may be observed by future-planned detectors such as the Einstein Telescope and the Cosmic Explorer. We also extracted the properties of the post-merger black hole, the disk and ejecta masses and their dependence on the binary parameters. We also compare our numerical results with recent analytical fits presented in the literature and we also provide parameter-dependent semi-analytical relations between the total mass and mass ratio of the systems and the resulting black hole masses and spins, coalescence time scale, mass loss, and gravitational wave energy.
+subjects: BNS, NSBH, GRHD, simulations, fitting formula
+
+link: https://arxiv.org/abs/2301.08512
+title: A Unified Model for Bipolar Outflows from Young Stars: Apparent Magnetic Jet Acceleration
+authors: Hsien Shang, Ruben Krasnopolsky, Chun-Fan Liu
+topic: We explore a new, efficient mechanism that can power toroidally magnetized jets up to two to three times their original terminal velocity after they enter a self-similar phase of magnetic acceleration. Underneath the elongated outflow lobe formed by a magnetized bubble, a wide-angle free wind, through the interplay with its ambient toroid, is compressed and accelerated around its axial jet. The extremely magnetic bubble can inflate over its original size, depending on the initial Alfvén Mach number MA of the launched flow. The shape-independent slope d vr/d r=2/3t is a salient feature of the self-similarity in the acceleration phase. Peculiar kinematic signatures are observable in the position--velocity (PV) diagrams and can combine with other morphological signatures as probes for the density-collimated jets arising in toroidally dominated magnetized winds. The apparent second acceleration is powered by the decrease of the toroidal magnetic field but operates far beyond the scales of the primary magnetocentrifugal launch region and the free asymptotic terminal state. Rich implications may connect the jets arising from the youngest protostellar outflows such as HH 211 and HH 212 and similar systems with parsec-scale jets across the mass and evolutionary spectra.
+subjects: jet, model, MHD
+
+link: https://arxiv.org/abs/2301.08432
+title: Search of the pair echo signatures in the high-energy light curve of GRB190114C
+authors: Ievgen Vovk
+topic: A model of the time delayed electromagnetic cascade "echo" is applied to the bright gamma-ray burst GRB190114C - the first gamma-ray burst to be contemporaneously detected in high and very high energy gamma-ray bands. It is shown that the internal spread of the cascade in the absence of the intervening magnetic fields dilutes the "echo" emission over 103−105 seconds depending on the energy. Accounting for the measured source flux in the 0.3-1 TeV gamma-ray band, the prediction of the "echo" model is shown to match the detected lower-energy gamma-ray emission 104 seconds after the burst. However, the "echo" emission remains indistinguishable from the intrinsic GRB190114C flux within the measurement uncertainties. Implications of this in the context of the intergalactic magnetic field measurement are discussed.
+subjects: GRB, VHE, modela
+
+link: https://arxiv.org/abs/2301.08578
+title: The formation of hard VHE spectra from GRB afterglow via Two-Zone Synchrotron Self-Compton Emission
+authors: Dmitry Khangulyan, Andrew M. Taylor, Felix Aharonian
+topic: Electron Compton scattering of target photons into the gamma-ray energy band (inverse Compton scattering --IC--) is commonly expected to dominate the very high energy spectra in gamma-ray bursts especially during the afterglow phase. For sufficiently large center-of-mass energies in these collisions, the effect of the electron recoil starts reducing the scattering cross section (the Klein-Nishina regime). The IC spectra generated in the Klein-Nishina regime is softer and has a smaller flux level compared to the synchrotron spectra produced by the same electrons. The detection of afterglow emission from nearby GRB 190819A in the very high energy (VHE) domain with H.E.S.S. has revealed an unexpected feature: the slope of the VHE spectrum matches well the slope of the X-ray spectra, despite expectations that for the IC production process, the impact of the Klein-Nishina effect should be strong. The multi-wavelength spectral energy distribution appears to be inconsistent with predictions of one-zone synchrotron-self-Compton models. We study the possible impact of two-zone configuration on the properties of IC emission when the magnetic field strength differs considerably between the two zones. Synchrotron photons from the strong magnetic field zone provide the dominant target for cooling of the electrons in the weak magnetic field zone, which results in a formation of hard electron distribution and consequently of a hard IC emission. We show that the two-zone model can provide a good description of the X-ray XRT and VHE H.E.S.S. data.
+subjects: GRB, VHE, numerical, radiation
+
 link: https://arxiv.org/abs/2301.07323
 title: Light curves and polarizations of gravitationally lensed kilonovae
 authors: Yan-Qing Qi, Tong Liu
