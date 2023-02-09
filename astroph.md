@@ -5,35 +5,73 @@ authors:
 topic: 
 subjects: 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2302.03829
+title: Lack of Bright Supernova Emission in the Brightest Gamma-ray Burst, GRB~221009A
+authors: Manisha Shrestha, David J. Sand, Kate D. Alexander, K. Azalee Bostroem, Griffin Hosseinzadeh, Jeniveve Pearson, Mojgan Aghakhanloo, József Vinkó, Jennifer E. Andrews, Jacob E. Jencson, M. J. Lundquist, Samuel Wyatt, D. Andrew Howell, Curtis McCully, Estefania Padilla Gonzalez, Craig Pellegrino, Giacomo Terreran, Daichi Hiramatsu, Megan Newsome, Joseph Farah, Saurabh W. Jha, Nathan Smith, J. Craig Wheeler, Clara Martínez-Vázquez, Julio A. Carballo-Bello, Alex Drlica-Wagner, David J. James, Burçin Mutlu-Pakdil, Guy S. Stringfellow, Joanna D. Sakowska, Noelia E. D. Noël, Clécio R. Bom, Kyler Kuehn
+topic: We present photometric and spectroscopic observations of the extraordinary gamma-ray burst (GRB) 221009A in search of an associated supernova. Some past GRBs have shown bumps in the optical light curve that coincide with the emergence of supernova spectral features, but we do not detect any significant light curve features in GRB221009A, nor do we detect any clear sign of supernova spectral features. Using two well-studied GRB-associated supernovae (SN2013dx, Mr,max=-19.54; SN2016jca, Mr,max=-19.04) at a similar redshift as GRB221009A (z=0.151), we modeled how the emergence of a supernova would affect the light curve. If we assume the GRB afterglow to decay at the same rate as the X-ray data, the combination of afterglow and a supernova component is fainter than the observed GRB brightness. For the case where we assume the best-fit power law to the optical data as the GRB afterglow component, a supernova contribution should have created a clear bump in the light curve, assuming only extinction from the Milky Way. If we assume a higher extinction of E(B-V)=1.74 mag (as has been suggested elsewhere), the supernova contribution would have been hard to detect, with a limit on the associated supernova of Mr,max-19.54. We do not observe any clear supernova features in our spectra, which were taken around the time of expected maximum light. The lack of a bright supernova associated with GRB221009A may indicate that the energy from the explosion is mostly concentrated in the jet, leaving a lower energy budget available for the supernova.
+subjects: GRB, observation
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2302.04130
+title: High-energy neutrino emission associated with gravitational-wave signals: effects of cocoon photons and constraints on late-time emission
+authors: Riki Matsui, Shigeo S. Kimura, Kenji Toma, Kohta Murase
+topic: We investigate prospects for the detection of high-energy neutrinos produced in the prolonged jets of short gamma-ray bursts (sGRBs). The X-ray lightcurves of sGRBs show extended emission components lasting for 100-1000 seconds, which are considered to be produced by prolonged engine activity. Jets by prolonged engine activity should interact with photons in the cocoon formed by the jet propagation inside the ejecta of neutron star mergers. We calculate neutrino emission from jets by prolonged engine activity, taking account of the interaction between photons provided from the cocoon and cosmic rays accelerated in the jets. We find that IceCube-Gen2, a future neutrino telescope, with the second-generation gravitational wave detectors will probably be able to observe neutrino signals associated with gravitational waves with around 10 years of operation, regardless of the assumed value of the Lorentz factor of the jets. Neutrino observations may enable us to constrain the dissipation region of the jets. We apply this model to GRB 211211A, a peculiar long GRB whose origin may be a binary neutron-star merger. Our model predicts that IceCube is unlikely to detect any associated neutrino, but a few similar events will be able to put a meaningful constraint on the physical quantities of the prolonged engine activities.
+subjects: GRB, model, 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2302.03215
+title: GRB 220408B: A Three-Episode Burst from a Precessing Jet
+authors: Zijian Zhang, Yihan Yin, Chenyu Wang, Xiangyu Ivy Wang, Jun Yang, Yan-Zhi Meng, Zi-Ke Liu, Guo-Yin Chen, Xiaoping Fu, Huaizhong Gao, Sihao Li, Yihui Liu, Xiangyun Long, Yong-Chang Ma, Xiaofan Pan, Yuanze Sun, Wei Wu, Zirui Yang, Zhizhen Ye, Xiaoyu Yu, Shuheng Zhao, Xutao Zheng, Tao Zhou, Qing-Wen Tang, Qiurong Yan, Rong Zhou, Zhonghai Wang, Hua Feng, Ming Zeng, Bin-Bin Zhang
+topic: Jet precession has previously been proposed to explain the apparently repeating features in the light curves of a few gamma-ray bursts (GRBs). In this {\it Letter}, we further apply the precession model to a bright GRB 220408B by examining both its temporal and spectral consistency with the predictions of the model. As one of the recently confirmed GRBs observed by our GRID CubeSat mission, GRB 220408B is noteworthy as it exhibits three apparently similar emission episodes. Furthermore, the similarities are reinforced by their strong temporal correlations and similar features in terms of spectral evolution and spectral lags. Our analysis demonstrates that these features can be well explained by the modulated emission of a Fast-Rise-Exponential-Decay (FRED) shape light curve intrinsically produced by a precessing jet with a precession period of 18.4pm0.2 seconds, a nutation period of 11.1pm0.2 seconds and viewed off-axis. This study provides a straightforward explanation for the complex yet similar multi-episode GRB light curves.
+subjects: GRB, model, analytic
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2302.03642
+title: GRB 221009A: Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst
+authors: Maia A. Williams, Jamie A. Kennea, S. Dichiara, Kohei Kobayashi, Wataru B. Iwakiri, Andrew P. Beardmore, P.A. Evans, Sebastian Heinz, Amy Lien, S. R. Oates, Hitoshi Negoro, S. Bradley Cenko, Douglas J. K. Buisson, Dieter H. Hartmann, Gaurava K. Jaisawal, N.P.M. Kuin, Stephen Lesage, Kim L. Page, Tyler Parsotan, Dheeraj R. Pasham, B. Sbarufatti, Michael H. Siegel, Satoshi Sugita, George Younes, Elena Ambrosi, Zaven Arzoumanian, M. G. Bernardini, S. Campana, Milvia Capalbi, Regina Caputo, Antonino D'Ai, P. D'Avanzo, V. D'Elia, Massimiliano De Pasquale, R. A. J. Eyles-Ferris, Elizabeth Ferrara, Keith C. Gendreau, Jeffrey D. Gropp, Nobuyuki Kawai, Noel Klingler, Sibasish Laha, A. Melandri, Tatehiro Mihara, Michael Moss, Paul O'Brien, Julian P. Osborne, David M. Palmer, Matteo Perri, Motoko Serino, E. Sonbas, Michael Stamatikos, Rhaana Starling, G. Tagliaferri, Aaron Tohuvavohu, Silvia Zane, Houri Ziaeepour
+topic: We report the discovery of the unusually bright long-duration gamma-ray burst (GRB), GRB 221009A, as observed by the Neil Gehrels Swift Observatory (Swift), Monitor of All-sky X-ray Image (MAXI), and Neutron Star Interior Composition Explorer Mission (NICER). This energetic GRB was located relatively nearby (z = 0.151), allowing for sustained observations of the afterglow. The large X-ray luminosity and low Galactic latitude (b = 4.3 degrees) make GRB 221009A a powerful probe of dust in the Milky Way. Using echo tomography we map the line-of-sight dust distribution and find evidence for significant column densities at large distances (10kpc). We present analysis of the light curves and spectra at X-ray and UV/optical wavelengths, and find that the X-ray afterglow of GRB 221009A is more than an order of magnitude brighter at T0 + 4.5 ks than any previous GRB observed by Swift. In its rest frame GRB 221009A is at the high end of the afterglow luminosity distribution, but not uniquely so. In a simulation of randomly generated bursts, only 1 in 10^4 long GRBs were as energetic as GRB 221009A; such a large E_gamma,iso implies a narrow jet structure, but the afterglow light curve is inconsistent with simple top-hat jet models. Using the sample of Swift GRBs with redshifts, we estimate that GRBs as energetic and nearby as GRB 221009A occur at a rate of 1 per 1000 yr - making this a truly remarkable opportunity unlikely to be repeated in our lifetime.
+subjects: GRB, model, dust, 
 
-link: 
-title: 
-authors: 
-topic: 
-subjects: 
+link: https://arxiv.org/abs/2302.01780
+title: Opacities of Singly and Doubly Ionised Neodymium and Uranium for Kilonova Emission Modeling
+authors: A. Flörs (1), R. F. Silva (2,3), J. Deprince (4,5), H. Carvajal Gallego (5), G. Leck (1,6), G. Martínez-Pinedo (1,6,7), J. M. Sampaio (2,3), P. Amaro (8), J. P. Marques (2,3), S. Goriely (4), P. Quinet (5,9), P. Palmeri (5), M. Godefroid
+topic: In 2017, the electromagnetic counterpart AT2017gfo to the binary neutron star merger GW170817 was observed by all major telescopes on Earth. While it was immediately clear that the transient following the merger event, is powered by the radioactive decay of r-process nuclei, only a few tentative identifications of light r-process elements have been made so far. One of the major limitations for the identification of heavy nuclei based on light curves or spectral features is incomplete or missing atomic data. While some progress has been made on lanthanide atomic data over the last few years, for actinides very little atomic data is available. We perform atomic structure calculations of neodymium (Z=60) as well as the corresponding actinide uranium (Z=92). Using two different codes (FAC and HFR) for the calculation of the atomic data, we investigate the accuracy of the calculated data (energy levels and electric dipole transitions) and their effect on kilonova opacities. For the FAC calculations, we optimise the local central potential and the number of included configurations and use a dedicated calibration technique to improve the agreement between theoretical and available experimental atomic energy levels (AELs). For ions with vast amounts of experimental data available, the presented opacities agree quite well with previous estimations. On the other hand, the optimisation and calibration method cannot be used for ions with only a few available AELs. For these cases, where no experimental nor benchmarked calculations are available, a large spread in the opacities estimated from the atomic data obtained with the various atomic structure codes is observed, most likely due to the uncertainty in the density of low-lying levels predicted by theory. We find that the opacity of uranium is almost double the neodymium opacity.
+subjects: kN, oapcity, ionization, model
+
+link: https://arxiv.org/abs/2302.01249
+title: Proto-Neutron Star Convection and the Neutrino-Driven Wind: Implications for the r-Process
+authors: Brian Nevins, Luke F. Roberts
+topic: The neutrino-driven wind from proto-neutron stars is a proposed site for r-process nucleosynthesis, although most previous work has found that a wind heated only by neutrinos cannot produce the third r-process peak. However, several groups have noted that introducing a secondary heating source within the wind can change the hydrodynamic conditions sufficiently for a strong r-process to proceed. One possible secondary heating source is gravito-acoustic waves, generated by convection inside the proto-neutron star. As these waves propagate into the wind, they can both accelerate the wind and shock and deposit energy into the wind. Additionally, the acceleration of the wind by these waves can reduce the total number of neutrino captures and thereby reduce the final electron fraction of the wind. In neutron rich conditions, all of these effects can make conditions more favorable for r-process nucleosynthesis. Here, we present a systematic investigation of the impact of these convection-generated gravito-acoustic waves within the wind on potential nucleosynthesis. We find that wave effects in the wind can generate conditions favorable for a strong r-process, even when the energy flux in the waves is a factor of 10-4 smaller than the total neutrino energy flux and the wind is marginally neutron-rich. Nevertheless, this depends strongly on the radius at which the wave become non-linear and form shocks. We also find that both entropy production after shock formation and the acceleration of the wind due to stresses produced by the waves prior to shock formation impact the structure and nucleosynthesis of these waves.
+subjects: NS, NR, wind
+
+link: https://arxiv.org/abs/2301.11939
+title: Synchrotron Afterglow Model for AT 2022cmc: Jetted Tidal Disruption Event or Engine-Powered Supernova?
+authors: Tatsuya Matsumoto, Brian D. Metzger
+topic: []
+subjects: TDE, model, Jet
+
+link: https://arxiv.org/abs/2301.12590
+title: Low-frequency gravitational wave memory from gamma-ray burst afterglows with energy injection
+authors: Bao-Quan Huang, Tong Liu, Li Xue, Yan-Qing Qi
+topic: Ultrarelativistic gamma-ray burst (GRB) jets are strong gravitational wave (GW) sources with memory-type signals. The plateau (or shallow decay) phases driven by the energy injection might appear in the early X-ray afterglows of GRBs. In this paper, we investigate the GW signal as well as X-ray afterglow emission in the framework of GRB jets with energy injection, and both short- and long-duration GRBs are considered. We find that, regardless of the case, because of the antibeaming and time delay effects, a rising slope emerging in the waveform of GW signal due to the energy injection lags far behind the energy ejection, and the typical frequency of the characteristic amplitudes falls within a low-frequency region of 10-4-10-6Hz; and we consider that the GW memory triggered by GRB jets with energy injection are previously unaware and the nearby GRBs with strong energy injection might disturb the measurement of the stochastic GW background. Such GW memory detection would provide a direct test for models of energy injection in the scenario of GRB jets.
+subjects: GRB, GW
+revelation: ZHang18 GRB dynamics eqs with energy injection
+
+link: https://arxiv.org/abs/2301.11170
+title: The optical light curve of GRB 221009A: the afterglow and detection of the emerging supernova SN 2022xiw
+authors: M. D. Fulton, S. J. Smartt, L. Rhodes, M. E. Huber, A. V. Villar, T. Moore, S. Srivastav, A. S. B. Schultz, K. C. Chambers, L. Izzo, J. Hjorth, T.-W. Chen, M. Nicholl, R. J. Foley, A. Rest, K. W. Smith, D. R. Young, S. A. Sim, J. Bright, Y. Zenati, T. de Boer, J. Bulger, J. Fairlamb, H. Gao, C.-C. Lin, T. Lowe, E. A. Magnier, I. A. Smith, R. Wainscoat, D. A. Coulter, D. O. Jones, C. D. Kilpatrick, P. McGill, E. Ramirez-Ruiz, K.-S. Lee, G. Narayan, V. Ramakrishnan, R. Ridden-Harper, A. Singh, Q. Wang, A. K. H. Kong, C.-C. Ngeow, Y.-C. Pan, S. Yang, K. W. Davis, A. L. Piro, C. Rojas-Bravo, J. Sommer, S. K. Yadavalli
+topic: We present extensive optical photometry of the afterglow of GRB 221009A. Our data cover 0.9-59.9 days from the time of Swift and Fermi GRB detections. Photometry in rizy-band filters was collected primarily with Pan-STARRS and supplemented by multiple 1- to 4-meter imaging facilities. We analyzed the Swift X-ray data of the afterglow and found a single decline rate power-law f(t)propto t-1.556pm0.002 best describes the light curve. In addition to the high foreground Milky Way dust extinction along this line of sight, we find a further 0.8 magnitudes of extinction in the optical is required to consistently model the optical to X-ray flux with optically thin synchrotron emission. We fit the X-ray-derived power-law to the optical light curve and find good agreement with the measured data up to 5-6 days. Thereafter we find a flux excess in the riy bands which peaks in the observer frame at 20 days. This excess shares similar light curve profiles to the type Ic broad-lined supernovae SN 2016jca and SN 2017iuk once corrected for the GRB redshift of z=0.151 and arbitrarily scaled. We propose this is representative of a supernova emerging from the declining afterglow (named SN 2022xiw). We measure rest-frame absolute peak AB magnitudes o
+subjects: GRB, SN, observeration
+
+link: https://arxiv.org/abs/2301.10256
+title: Probing gamma-ray bursts observed at very high energies through their afterglow
+authors: Ersilia Guarini, Irene Tamborra, Damien Bégué, Annika Rudolph
+topic: A growing number of gamma-ray burst (GRB) afterglows is observed at very-high energies (VHE, 100 GeV). Yet, our understanding of the mechanism powering the VHE emission remains baffling. We make use of multi-wavelength observations of the afterglow of GRB 180720B, GRB 190114C, and GRB 221009A to investigate whether the bursts exhibiting VHE emission share common features, assuming the standard afterglow model. By requiring that the blastwave should be transparent to gamma-gamma pair production at the time of observation of the VHE photons and relying on typical prompt emission efficiencies and data in the radio, optical and X-ray bands, we infer for those bursts that the initial energy of the blastwave is Ek larger 1e54 erg and the circumburst density is n0 less 1e0 cm-3 for a constant circumburst profile. Our findings thus suggest that these VHE bursts might be hosted in low-density environments. While these trends are based on a small number of bursts, the Cherenkov Telescope Array has the potential to provide crucial insight in this context by detecting a larger sample of VHE GRBs. In addition, due to the very poor statistics, the non-observation of high-energy neutrinos cannot constrain the properties of these bursts efficiently, unless additional VHE GRBs should be detected at distances closer than 15 Mpc when IceCube-Gen2 radio will be operational.
+subjects: VHE, GRB
+revelation: for VHE ,the n0 is expected to be small and E0 is high...
+
+link: https://arxiv.org/abs/2301.10667
+title: Radiative Acceleration of Dense Circumstellar Material in Interacting Supernovae
+authors: Daichi Tsuna, Kohta Murase, Takashi J. Moriya
+topic: Early-time light curves/spectra of some hydrogen-rich supernovae (SNe) give firm evidence on the existence of confined, dense circumstellar matter (CSM) surrounding dying massive stars. We numerically and analytically study radiative acceleration of CSM in such systems, where the radiation is mainly powered by the interaction between the SN ejecta and the CSM. We find that the acceleration of the ambient CSM is larger for massive and compact CSM, with velocities reaching up to 103 km s-1 for a CSM of order 0.1 Msun confined within 1015 cm. We show that the dependence of the acceleration on the CSM density helps us explain the diversity of the CSM velocity inferred from the early spectra of some Type II SNe. For explosions in even denser CSM, radiative acceleration can affect the dissipation of strong collisionless shocks formed after the shock breakout, which would affect early non-thermal emission expected from particle acceleration.
+subjects: SNe, model, remnant
 
 link: https://arxiv.org/abs/2301.10019
 title: Inference of proto-neutron star properties in core-collapse supernovae from a gravitational-wave detector network
