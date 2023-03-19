@@ -5,6 +5,84 @@ authors:
 topic: 
 subjects: 
 
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: 
+title: 
+authors: 
+topic: 
+subjects: 
+
+link: https://arxiv.org/abs/2302.06116 
+title: GRB 190114C: Fireball Energy Budget and Radiative Efficiency Revisited
+authors: Liang Li, Yu Wang
+topic: The jet composition of gamma-ray bursts (GRBs), as well as how efficiently the jet converts its energy to radiation, are long-standing problems in GRB physics. Here, we reported a comprehensive temporal and spectral analysis of the TeV-emitting bright GRB 190114C. Its high fluence (4.436x10−4 erg cm−2) allows us to conduct the time-resolved spectral analysis in great detail and study their variations down to a very short time-scale (0.1 s) while preserving a high significance. Its prompt emission consists of three well-separated pulses. The first two main pulses (P1 and P2) exhibit independently strong thermal components, and starting from the third pulse (P3) and extending to the entire afterglow, the spectra are all non-thermal, the synchrotron plus Compton up-scattering model well interpret the observation. By combining the thermal (P1 and P2) and the non-thermal (P3) observations based on two different scenarios (global and pulse properties) and following the method described in \cite{Zhang2021}, we measure the fireball parameters and GRB radiative efficiency with little uncertainties for this GRB. A relevantly high GRB radiative efficiency is obtained based on both the global and pulse properties, suggesting that if GRBs are powered by fireballs, the efficiency can be high sometimes. More interestingly, though the observed parameters are individually different (e.g., the amount of mass loading M), the radiative efficiency obtained from P1 (ηγ=36.0±6.5%) and P2 (ηγ=41.1±1.9%) is roughly the same, which implies that the central engine of the same GRB has some common properties.
+subjects: 
+
+link: https://arxiv.org/abs/2302.06225
+title: GRANDMA and HXMT Observations of GRB 221009A -- the Standard-Luminosity Afterglow of a Hyper-Luminous Gamma-Ray Burst
+authors: D. A. Kann, S. Agayeva, V. Aivazyan, S. Alishov, C. M. Andrade, S. Antier, A. Baransky, P. Bendjoya, Z. Benkhaldoun, S. Beradze, D. Berezin, M. Boër, E. Broens, S. Brunier, M. Bulla, O. Burkhonov, E. Burns, Y. Chen, Y. P. Chen, M. Conti, M. W. Coughlin, W. W. Cui, F. Daigne, B. Delaveau, H. A. R. Devillepoix, T. Dietrich et al
+topic: GRB 221009A is the brightest Gamma-Ray Burst detected in more than 50 years of study. Here, we present observations in the X-ray and optical domains ranging from the prompt emission (optical coverage by all-sky cameras) up to 20 days after the GRB obtained by the GRANDMA Collaboration (which includes observations from more than 30 professional and amateur telescopes) and the \textit{Insight}-HXMT Collaboration operating the X-ray telescope HXMT-LE. We study the optical afterglow both with empirical fitting procedures and numerical modeling. We find that the GRB afterglow, extinguished by a large dust column, is most likely behind a combination of a large Milky-Way dust column combined with moderate low-metallicity dust in the host galaxy. We find that numerical models describing the synchrotron radiation at the forward shock of a relativistic top-hat jet propagating through a constant density medium require extreme parameters to fit the observational data. Based on these observations, we constrain the isotropic afterglow energy E0-3.7x1054 erg, the density of the ambient medium nism larger 1 cm-3 and the opening angle of the jet core to be 10.7deg. We do not find evidence (for or against) of jet structure, a potential jet break and the presence or absence of a SN. Placed in the global context of GRB optical afterglows, we find the afterglow of GRB 221009A is luminous but not extraordinarily so, highlighting that some aspects of this GRB do not deviate from the known sample despite its extreme energetics and the peculiar afterglow evolution.
+subjects: GRB, observations, GRB221009A
+
+link: https://arxiv.org/abs/2302.04388
+title: The Radio to GeV Afterglow of GRB 221009A
+authors: Tanmoy Laskar, Kate D. Alexander, Raffaella Margutti, Tarraneh Eftekhari, Ryan Chornock, Edo Berger, Yvette Cendes, Anne Duerr, Daniel A. Perley, Maria Edvige Ravasio, Ryo Yamazaki, Eliot H. Ayache, Thomas Barclay, Rodolfo Barniol Duran, Shivani Bhandari, Daniel Brethauer, Collin T. Christy, Deanne L. Coppejans, Paul Duffell, Wen-fai Fong, Andreja Gomboc, Cristiano Guidorzi, Jamie A. Kennea, Shiho Kobayashi, Andrew Levan, Andrei P. Lobanov, Brian D. Metzger, Eduardo Ros, Genevieve Schroeder, P. K. G. Williams
+topic: GRB 221009A (z=0.151) is one of the closest known long γ-ray bursts (GRBs). Its extreme brightness across all electromagnetic wavelengths provides an unprecedented opportunity to study a member of this still-mysterious class of transients in exquisite detail. We present multi-wavelength observations of this extraordinary event, spanning 15 orders of magnitude in photon energy from radio to gamma-rays. We find that the data can be partially explained by a forward shock (FS) from a highly-collimated relativistic jet interacting with a low-density wind-like medium. Under this model, the jet's beaming-corrected kinetic energy (EK-4x1050 erg) is typical for the GRB population. The radio and mm data provide strong limiting constraints on the FS model, but require the presence of an additional emission component. From equipartition arguments, we find that the radio emission is likely produced by a small amount of mass (6x10-7Msum) moving relativistically (Gamma9) with a large kinetic energy (1049 erg). However, the temporal evolution of this component does not follow prescriptions for synchrotron radiation from a single power-law distribution of electrons (e.g. in a reverse shock or two-component jet), or a thermal electron population, perhaps suggesting that one of the standard assumptions of afterglow theory is violated. GRB 221009A will likely remain detectable with radio telescopes for years to come, providing a valuable opportunity to track the full lifecycle of a powerful relativistic jet.
+subjects: GRB, radio, GRB221009A, observations
+
 link: https://arxiv.org/abs/2302.03829
 title: Lack of Bright Supernova Emission in the Brightest Gamma-ray Burst, GRB~221009A
 authors: Manisha Shrestha, David J. Sand, Kate D. Alexander, K. Azalee Bostroem, Griffin Hosseinzadeh, Jeniveve Pearson, Mojgan Aghakhanloo, József Vinkó, Jennifer E. Andrews, Jacob E. Jencson, M. J. Lundquist, Samuel Wyatt, D. Andrew Howell, Curtis McCully, Estefania Padilla Gonzalez, Craig Pellegrino, Giacomo Terreran, Daichi Hiramatsu, Megan Newsome, Joseph Farah, Saurabh W. Jha, Nathan Smith, J. Craig Wheeler, Clara Martínez-Vázquez, Julio A. Carballo-Bello, Alex Drlica-Wagner, David J. James, Burçin Mutlu-Pakdil, Guy S. Stringfellow, Joanna D. Sakowska, Noelia E. D. Noël, Clécio R. Bom, Kyler Kuehn
